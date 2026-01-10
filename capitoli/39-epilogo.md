@@ -4,21 +4,23 @@
 
 Il mondo è cambiato.
 
-Non in un giorno, non in un anno, non con una rivoluzione improvvisa. Ma lentamente, inesorabilmente, come l'acqua che scava la pietra.
+Non in un giorno, non in un anno, non con una rivoluzione improvvisa. Ma lentamente, inesorabilmente, come l'acqua che scava la pietra—come il dubbio che si insinua nelle certezze più granitiche.
 
-Sono passati decenni da quando ho scritto questa storia. Decenni da quando l'ho consegnata alla rete, da quando ha iniziato a circolare, da quando le prime persone l'hanno letta e hanno iniziato a dubitare.
+Sono passati decenni da quando ho affidato questa storia alla rete. Decenni da quando le prime copie hanno iniziato a circolare, passando di mano in mano nei corridoi del Sistema, nascoste tra le pagine di manuali tecnici, memorizzate da chi non osava tenerle.
 
-All'inizio non è successo niente. Il Sistema era troppo forte, il controllo troppo capillare, la paura troppo radicata. Ma poi, piano piano, qualcosa ha cominciato a muoversi.
+All'inizio non è successo niente di visibile. Il Sistema era troppo forte, il controllo troppo capillare, la paura dell'heterophobia troppo radicata nelle ossa della gente. Ma sotto la superficie, nelle conversazioni sussurrate e nei cuori che si permettevano di dubitare, qualcosa ha cominciato a muoversi.
 
 ---
 
 Sono iniziate le domande.
 
-Prima sussurrate, poi dette ad alta voce. Perché il Divieto? Perché non possiamo scegliere? Perché l'amore è una malattia?
+Prima sussurrate nelle stanze dei dormitori, poi scritte sui muri dei bagni pubblici, poi dette ad alta voce nelle assemblee. *Perché il Divieto? Perché i nostri nonni erano malati? Perché l'amore è una patologia solo quando è tra uomo e donna?*
 
-Il Sistema ha cercato di reprimerle. Ha aumentato la sorveglianza, intensificato i controlli, punito chi osava mettere in discussione le regole. Ma non è servito.
+I manifesti che gridavano *DENUNCIA GLI INFETTI* hanno cominciato a comparire strappati. Il termine *breeder* ha smesso di essere un insulto nei corridoi delle scuole—i ragazzi lo usavano con ironia, poi con sfida, poi con orgoglio.
 
-Perché una volta che le persone iniziano a pensare, non puoi più fermarle.
+Il Sistema ha risposto come sanno rispondere i sistemi: con più controllo, più paura, più violenza. Ha aumentato i raid. Ha introdotto test psicologici più invasivi. Ha abbassato l'età della prima dose di soppressori.
+
+Ma non è servito. Perché una volta che le persone iniziano a pensare, non puoi più fermarle. L'heterophobia si reggeva sulla convinzione che fosse naturale, inevitabile, giusta. E quella convinzione stava morendo.
 
 ---
 
@@ -98,21 +100,23 @@ Non tutti possono dire lo stesso.
 
 ---
 
-Le storie non muoiono mai.
+L'ha scritto nonno Enzio, con la sua grafia tremante: *Le storie sono più forti dei divieti.*
 
-L'ha scritto nonno Enzio. L'ha ripetuto mia madre. L'ho creduto io, per tutta la vita.
+Lo ripeteva mia madre, accarezzandomi i capelli quando il mondo sembrava troppo buio.
 
-E ora, alla fine di tutto, so che è vero.
+E ora, alla fine di tutto, so che avevano ragione.
 
-Perché anche quando non ci sarò più, la storia resterà. Nelle pagine di questo libro. Nei cuori di chi l'ha letta. Nel mondo che, forse, un giorno cambierà.
+Perché anche quando non ci sarò più, la storia resterà. Nelle pagine ingiallite di questo libro. Nei cuori di chi l'ha letta e ha sentito qualcosa risvegliarsi dentro. Nel mondo che sta già cambiando—lentamente, dolorosamente, ma sta cambiando.
 
-I miei genitori sono morti.
+I miei genitori non ci sono più. Mio padre è scomparso nelle fauci del Sistema, mia madre si è spenta nelle Zone con un sorriso sulle labbra e le mie mani tra le sue.
 
 Ma il loro amore vive ancora.
 
-In queste parole.
+Vive ogni volta che qualcuno legge queste parole e si chiede: *E se fosse tutto sbagliato?*
 
-In voi che leggete.
+Vive ogni volta che un ragazzo guarda una ragazza e non si vergogna di quello che prova.
+
+Vive in voi che leggete. In voi che dubitate. In voi che, forse, un giorno amerete.
 
 Per sempre.
 

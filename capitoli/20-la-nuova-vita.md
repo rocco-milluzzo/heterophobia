@@ -1,14 +1,20 @@
 # Capitolo 20: La Nuova Vita
 
-I mesi passarono come non erano mai passati prima.
+I droni passarono quella notte senza trovarli.
 
-Nel Complesso, il tempo era scandito da orari, da routine, da cicli di luce artificiale che non cambiavano mai. Ma qui, nelle Zone Abbandonate, il tempo era diverso. Seguiva il sole—che sorgeva e tramontava con colori che Kate non aveva mai immaginato. Seguiva le stagioni—il caldo che diventava fresco che diventava freddo. Seguiva la vita—quella che cresceva dentro di lei, settimana dopo settimana.
+Marcus aveva fatto spostare tutti in un bunker sotterraneo—un vecchio rifugio antiaereo dell'era pre-Fusione, nascosto sotto le fondamenta della fabbrica. Erano rimasti lì per tre giorni, al buio, in silenzio, respirando aria stantia e pregando divinità dimenticate.
+
+Poi i droni erano spariti. Il Sistema aveva rinunciato—almeno per quella volta.
+
+I mesi che seguirono passarono come non erano mai passati prima.
+
+Nel Complesso, il tempo era scandito da orari, da routine, da cicli di luce artificiale che non cambiavano mai. Ma qui, nelle Zone Abbandonate, il tempo aveva un altro ritmo. Seguiva il sole—che sorgeva e tramontava con colori che Kate non aveva mai immaginato. Seguiva le stagioni—il caldo che diventava fresco che diventava freddo. Seguiva la vita—quella che cresceva dentro di lei, settimana dopo settimana, sempre più grande, sempre più reale.
 
 Kate si adattò più velocemente di quanto avesse previsto.
 
-Imparò a coltivare—a piantare semi, a curare le piante, a raccogliere frutti che non aveva mai assaggiato. Imparò a cucinare con quello che c'era, a conservare il cibo per i mesi difficili, a fare scorte quando la natura era generosa. Imparò a vivere senza le comodità del Sistema—senza le luci sempre accese, senza l'acqua sempre calda, senza la sicurezza di sapere che tutto era sotto controllo.
+Imparò a coltivare—a piantare semi, a curare le piante, a raccogliere frutti che avevano sapori veri, non sintetici. Imparò a cucinare con quello che c'era, a conservare il cibo per i mesi difficili, a fare scorte quando la natura era generosa. Imparò a vivere senza le comodità del Sistema—senza le luci sempre accese, senza l'acqua sempre calda, senza la certezza sterile del domani.
 
-Era duro. Era faticoso. Era meraviglioso.
+Era duro. Era faticoso. Era la cosa più vera che avesse mai vissuto.
 
 ---
 
@@ -146,3 +152,17 @@ Qualunque cosa fosse successa dopo, aveva scelto.
 E quella scelta aveva creato Alice.
 
 E Alice valeva tutto.
+
+---
+
+Ma mentre James vegliava sulla sua famiglia nel silenzio della notte, non poteva sapere ciò che stava accadendo nel mondo che aveva lasciato.
+
+Non poteva sapere che, centinaia di chilometri a est, una giovane archivista di nome Alice stava trovando un libro di poesie in un deposito dimenticato.
+
+Non poteva sapere che quella ragazza avrebbe letto le sue parole, ascoltato le sue registrazioni, seguito le sue tracce.
+
+Non poteva sapere che, vent'anni dopo la sua fuga, qualcuno stava per cercare di trovarlo.
+
+Qualcuno che portava il suo stesso nome.
+
+Qualcuno che non sapeva ancora di essere sua figlia.

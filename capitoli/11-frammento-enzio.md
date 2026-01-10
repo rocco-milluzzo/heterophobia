@@ -60,17 +60,37 @@ Eravamo così felici di non morire mai. Non abbiamo pensato a cosa avremmo perso
 
 *[Lunga pausa]*
 
-Il Divieto arrivò nel 2078. Otto anni dopo le Cure.
+Il Divieto arrivò nel 2078. Otto anni dopo le Cure. Ma l'odio—l'odio era iniziato prima. Molto prima.
+
+Ricordo il primo insulto. Era il 2071, un anno dopo l'immortalità. Ero in metropolitana—sì, esistevano ancora—con Elena. Portavamo la fede al dito, come si usava allora. Una donna ci guardò e sputò. Letteralmente. Poi disse: "Breeder."
+
+Non capii subito. Breeder. Riproduttore. Come se fossimo animali da allevamento.
+
+Elena mi strinse la mano e mi sussurrò di non reagire. Ma io vidi il suo sguardo. Vidi la vergogna. La prima crepa.
+
+Nel giro di mesi, quella parola era ovunque. Sui muri, nelle reti sociali, nei titoli dei giornali. "I breeder stanno distruggendo il pianeta." "Gli egoisti genetici rubano risorse ai nostri figli." Ma quali figli? Nessuno ne avrebbe avuti più. Questo era il punto.
+
+Poi venne "infetti". Come se l'attrazione verso il sesso opposto fosse un virus, una malattia contagiosa. I talk show invitavano "esperti" che spiegavano come l'eterosessualità fosse "curabile". Come la società dovesse "proteggersi" dalla contaminazione.
+
+La prima violenza la vidi nel 2072. Una coppia—lui e lei, mano nella mano—attraversava la piazza sotto casa mia. Un gruppo li circondò. Li insultarono prima. "Malati d'amore!" gridavano. "Dinosauri!" Poi passarono ai pugni. La donna cadde. Lui cercò di proteggerla. Chiamai la polizia. Non vennero mai.
+
+Dopo quella notte, Elena smise di tenermi la mano in pubblico. Poi smise di uscire con me. Poi smise di guardarmi negli occhi.
+
+L'odio funziona così. Non arriva tutto insieme. Ti consuma un pezzo alla volta, così lentamente che quando te ne accorgi non resta più niente.
+
+*[Rumore di respiro tremante]*
 
 A quel punto la popolazione mondiale era quasi raddoppiata. Gli immortali non morivano, ma i bambini continuavano a nascere. Le risorse iniziarono a scarseggiare. Le guerre—quelle piccole, locali, che non chiamavamo guerre—si moltiplicarono. Il pianeta stava cedendo sotto il peso di un'umanità che non sapeva più quando smettere.
 
-Ricordo i dibattiti. Le discussioni nelle piazze virtuali, nei parlamenti che ancora esistevano, nelle case di tutti. Cosa fare? Come fermare l'esplosione demografica senza rinunciare all'immortalità?
+E così trovarono un capro espiatorio. Noi. Gli eterosessuali. I "riproduttori ossessivi". Gli "egoisti genetici" che volevano "imporre il proprio DNA al mondo".
+
+Ricordo i dibattiti. Le discussioni nelle piazze virtuali, nei parlamenti che ancora esistevano, nelle case di tutti. Ma non erano veri dibattiti. Erano tribunali. E noi eravamo già stati condannati.
 
 La risposta venne dagli scienziati. O meglio, da quelli che controllavano gli scienziati.
 
 "L'eterosessualità è un residuo evolutivo," dissero. "Un istinto che serviva alla riproduzione. Ma ora che la riproduzione non è più necessaria, né desiderabile, possiamo eliminarlo."
 
-Non dissero "eliminare". Dissero "curare". Come se amare qualcuno del sesso opposto fosse una malattia, un difetto da correggere.
+Non dissero "eliminare". Dissero "curare". Come se amare chi avevi sempre amato fosse una malattia, un difetto da correggere. "Disturbo dell'orientamento riproduttivo"—questo fu il termine ufficiale. Suonava così clinico, così neutro. Così definitivo.
 
 Elena fu tra i primi a crederci. Non perché fosse cattiva—non lo era. Era gentile, intelligente, una delle persone migliori che avessi mai conosciuto. Ma era anche stanca. Stanca di vivere in un mondo che sembrava sempre sull'orlo del collasso. Stanca di avere paura.
 
@@ -146,17 +166,19 @@ Qualcuno come me.
 
 ---
 
-Stanotte, prima di addormentarmi, ho fatto qualcosa di strano.
+Stanotte, prima di addormentarmi, ho fatto una cosa pericolosa.
 
 Ho aperto il libro a una pagina a caso e ho letto ad alta voce.
 
 *"Tu mi fai tremare l'anima,*
 *come una foglia."*
 
-Le parole sono uscite dalla mia bocca e hanno riempito la stanza. Per un momento, solo un momento, ho sentito qualcosa di antico e familiare.
+Le parole sono uscite dalla mia bocca e hanno riempito la stanza. Per un momento, solo un momento, ho sentito il sangue accelerare. Ho sentito il calore salire alle guance. Ho sentito un'eco nel petto—un battito che non era solo il mio cuore.
 
-Poi il silenzio è tornato, e io sono rimasta sola con un libro che non dovrei avere e domande a cui non so rispondere.
+Era desiderio. Quello vero. Quello che ci hanno insegnato a temere.
+
+Poi il silenzio è tornato, e io sono rimasta sola con un libro che non dovrei avere, parole che non dovrei pronunciare, e una fame che non dovrei provare.
 
 Chi sono io in questa storia?
 
-E perché sento di conoscere già la risposta?
+E perché, quando chiudo gli occhi, vedo il viso di qualcuno che non ho ancora incontrato?

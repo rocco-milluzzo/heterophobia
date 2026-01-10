@@ -10,9 +10,11 @@ Era la nonna di Kate. Margarethe Lindqvist.
 
 ---
 
-*[Inizio registrazione — Data stimata: 2095 — Qualità audio: degradata]*
+*[Inizio registrazione — Data stimata: 2095 — Qualita audio: degradata]*
 
-Mi chiedo spesso perché mi abbiano chiesto di parlare. Cosa posso dire io che altri non abbiano già detto? Sono solo una vecchia che si è ostinata a campare. Una reliquia di un mondo che non esiste più.
+Mi chiedo spesso perche mi abbiano chiesto di parlare. Che cosa posso dire io che altri non abbiano gia detto? Sono solo una vecchia che si e ostinata a campare. Una reliquia di un mondo che non esiste piu.
+
+Una *dinosaura*, come ci chiamano adesso. Una di quelle che rimpiangono l'era della morte e della nascita.
 
 Ma va bene. Parlerò. Forse un giorno qualcuno ascolterà.
 
@@ -66,9 +68,13 @@ Perché quando vedi i tuoi amici ringiovanire mentre tu invecchi, quando senti l
 
 *[Si sente un respiro profondo]*
 
-L'immortalità ha un prezzo. Non parlo del Divieto—quello è venuto dopo, ed era prevedibile. Parlo di qualcos'altro.
+L'immortalita ha un prezzo. Non parlo del Divieto—quello e venuto dopo, ed era prevedibile. Parlo di cio che e venuto prima. Di come ci hanno preparato.
 
-Parlo della noia.
+Prima ci hanno chiamato "egoisti riproduttivi". Poi "infetti". Poi hanno cominciato le violenze—le finestre rotte, le scritte sui muri, i pestaggi che la polizia fingeva di non vedere. *Breeder* urlavano per strada. *Fate schifo.* I media dicevano che era comprensibile. Che noi eravamo il problema.
+
+I campi di rieducazione sono arrivati dopo, quando la rabbia era gia stata normalizzata. Quando odiare gli eterosessuali era diventato senso civico.
+
+Ma non e di questo che volevo parlare. Parlo della noia.
 
 Quando sai che vivrai per sempre, tutto perde urgenza. Perché affannarsi oggi, quando c'è sempre un domani? Perché amare qualcuno intensamente, quando avrai secoli per amarlo con calma?
 
@@ -106,12 +112,24 @@ Dice: "Ho una nipote. Si chiama Kate. Ha quindici anni."
 
 Una pausa.
 
-"A volte mi guarda con occhi che mi ricordano i miei, a quell'età. Quegli occhi affamati di qualcosa che non sa nominare."
+"A volte mi guarda con occhi che mi ricordano i miei, a quell'eta. Quegli occhi affamati di un desiderio che non sa nominare."
 
-Un'altra pausa, più lunga.
+Un'altra pausa, piu lunga.
 
-"Spero che trovi quello che cerca. E spero che, quando lo troverà, abbia il coraggio di tenerlo stretto. Anche se fa paura. Anche se è proibito. Anche se il mondo intero le dice che è sbagliato."
+"Spero che trovi quello che cerca. E spero che, quando lo trovera, abbia il coraggio di tenerlo stretto. Anche se fa paura. Anche se e proibito. Anche se il mondo intero le dice che e sbagliato."
 
-La registrazione si interrompe lì.
+Un respiro tremante.
+
+"Perche io non ho avuto quel coraggio. Quando sono venuti a prendere mia figlia—la madre di Kate—non ho fatto niente. L'ho guardata salire su quel furgone, e non ho detto una parola. Per salvarmi. Per sopravvivere."
+
+Un singhiozzo soffocato.
+
+"Non l'ho piu rivista. Nessuno l'ha piu rivista."
+
+La registrazione si interrompe li.
 
 Silenzio.
+
+E io resto qui, con le mani che tremano, a chiedermi che cosa abbiano fatto a quella donna. Che cosa facciano a tutti quelli che spariscono.
+
+E che cosa faranno a James e Kate, se li scoprono.

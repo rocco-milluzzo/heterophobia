@@ -12,17 +12,15 @@ Ma la storia c'è ancora. E finché c'è la storia, una parte di me sopravvive.
 
 ---
 
-Non so chi siete. Non so in che mondo vivete. Non so se il Divieto esiste ancora, o se è diventato un ricordo del passato, una nota a piè di pagina nei libri di storia.
+Non so chi siete. Non so in che mondo vivete. Non so se il Divieto esiste ancora, se l'heterophobia è ancora legge o se è diventata un ricordo vergognoso—come la schiavitù, come le persecuzioni, come tutti gli orrori che l'umanità ha commesso e poi ha finto di non riconoscere.
 
 Ma so perché state leggendo.
 
-State leggendo perché qualcuno vi ha passato questo libro. Qualcuno che ha creduto che la storia di James e Kate meritasse di essere raccontata. Qualcuno che ha capito che l'amore—quello vero, quello che ti fa battere il cuore e tremare le mani—vale più di qualsiasi regola.
+State leggendo perché qualcuno vi ha passato questo libro. Qualcuno che ha rischiato—forse la libertà, forse la vita, forse solo l'imbarazzo di ammettere che crede in qualcosa di proibito. Qualcuno che ha capito che l'amore—quello vero, quello che ti fa battere il cuore e sudare le mani e perdere il sonno—vale più di qualsiasi legge.
 
-Ringraziate quella persona.
+Ringraziate quella persona. E poi fate lo stesso.
 
-E poi, quando avrete finito di leggere, fate lo stesso.
-
-Passate il libro a qualcun altro. Raccontate la storia. Non lasciate che muoia.
+Passatelo a qualcuno che ne ha bisogno. A qualcuno che dubita. A qualcuno che, nel silenzio della notte, si chiede se il Sistema ha ragione o se sta mentendo.
 
 ---
 
@@ -104,11 +102,11 @@ Ascoltate il vostro cuore. È l'unica bussola che conta.
 
 ---
 
-Le storie non muoiono mai.
+Le storie sopravvivono a chi le scrive.
 
-L'amore non muore mai.
+L'amore sopravvive a chi lo vive.
 
-E nemmeno noi—finché qualcuno ci ricorda.
+E noi—tutti noi che abbiamo amato contro le regole, che abbiamo sperato contro la logica, che abbiamo creduto contro ogni evidenza—sopravviviamo in ogni cuore che sceglie di battere libero.
 
 ---
 

@@ -1,14 +1,20 @@
 # Capitolo 17: La Decisione
 
-Il test era positivo da tre giorni quando Kate capì che non potevano più aspettare.
+Il test era positivo da tre giorni. Tre giorni in cui Kate aveva camminato per il Complesso con una bomba nel ventre.
 
-Erano seduti nella serra idroponica, nel loro angolo segreto, con la mappa stesa tra loro e il ronzio dei sistemi di irrigazione che copriva le loro voci. James stava elencando per l'ennesima volta i dettagli del piano—i percorsi, i checkpoint, i tempi di viaggio.
+Erano seduti nella serra idroponica, nel loro angolo segreto, con la mappa stesa tra loro e il ronzio dei sistemi di irrigazione che copriva le loro voci. James stava elencando per l'ennesima volta i dettagli del piano—i percorsi, i checkpoint, i tempi di viaggio. La sua voce era tesa, le parole troppo veloci.
 
-Ma Kate non stava ascoltando.
+Ma Kate non riusciva a concentrarsi.
 
-Stava pensando a quello che cresceva dentro di lei. Una scintilla di vita, ancora invisibile, ancora senza forma. Ma già reale. Già sua.
+Continuava a pensare alla vita che cresceva dentro di lei. Una scintilla. Una promessa. Un crimine punibile con l'esilio immediato e l'aborto indotto.
 
-Già loro.
+Posò una mano sulla pancia—un gesto istintivo, proibito. Se qualcuno l'avesse vista...
+
+James si interruppe. I suoi occhi seguirono il movimento della mano.
+
+"Kate. Non qui."
+
+Lei abbassò la mano. Ma il pensiero restava: là dentro c'era già qualcuno. Qualcuno che il Sistema avrebbe voluto cancellare.
 
 "Kate?"
 
@@ -136,23 +142,27 @@ Kate guardò il dispositivo con stupore. "Yuki..."
 
 "Perché fai questo?"
 
-Yuki sorrise—un sorriso triste, antico.
+Yuki la guardò a lungo. Nei suoi occhi brillava una luce che Kate non aveva mai notato—la luce di chi ha perso tutto e non ha più paura di perdere altro.
 
-"Perché non ho aiutato lei. E forse così, aiutando te, posso..." Si interruppe, scuotendo la testa. "Non lo so. Forse non cambia niente. Ma devo provarci."
+"Perché ho amato una donna una volta," rispose Yuki. "E quando l'hanno scoperta, mi sono nascosta. L'ho lasciata sola. L'hanno portata via per la rieducazione. Quando è tornata..." La voce le si spezzò. "Quando è tornata non era più lei. Mi guardava come se fossi un'estranea. Come se tutto ciò che avevamo condiviso fosse stato cancellato."
 
-Kate strinse il jammer tra le dita. Era piccolo, leggero. Ma in quel momento sembrava pesare quanto il mondo intero.
+Kate trattenne il respiro.
 
-"Grazie," sussurrò.
+"Non ho mai perdonato me stessa," continuò Yuki. "E non lo farò mai. Ma se posso aiutare voi a fuggire—se posso dare a qualcun altro la possibilità che non ho dato a lei—allora forse..."
 
-Yuki annuì. Poi, senza dire altro, uscì dalla stanza.
+Si interruppe. Scosse la testa.
 
-Kate restò lì, sola, con il cuore che batteva e le lacrime agli occhi.
+Kate strinse il jammer tra le dita. Pesava meno di un respiro. Pesava come il mondo intero.
 
-Non tutti erano nemici.
+"Grazie," sussurrò. "Per tutto."
 
-Non tutti credevano alle bugie del Sistema.
+Yuki annuì. Le sfiorò la guancia con una carezza breve, quasi materna. Poi uscì dalla stanza senza voltarsi.
 
-E forse, solo forse, non erano soli come pensavano.
+Kate restò immobile nel silenzio, con il dispositivo premuto contro il cuore e le lacrime che scorrevano.
+
+Non tutti erano nemici. Non tutti avevano dimenticato cosa significava amare.
+
+E forse, solo forse, c'era ancora speranza.
 
 ---
 
@@ -180,10 +190,16 @@ C'era speranza.
 
 "Partiamo domani," disse James. "Al crepuscolo."
 
-Kate annuì.
+Kate annuì. Domani. Ventiquattro ore. Millequattrocentoquaranta minuti.
 
-Domani.
+Domani avrebbero lasciato tutto—le loro vite, le loro famiglie, il mondo che conoscevano. Domani avrebbero attraversato la linea che separava la conformità dalla ribellione.
 
-Domani avrebbero lasciato tutto—le loro vite, le loro famiglie, il mondo che conoscevano.
+Non c'era ritorno. Non c'era perdono.
 
-Domani avrebbero iniziato a vivere davvero.
+Solo la fuga, o la rieducazione.
+
+Kate si addormentò con la mano di James sulla pancia, proteggendo la vita che cresceva dentro di lei. Ma i sogni furono pieni di corridoi grigi, di passi che si avvicinavano, di porte che si spalancavano nel buio.
+
+E di una voce metallica che ripeteva, all'infinito:
+
+*"Cittadini infetti identificati. Procedura di contenimento in corso."*

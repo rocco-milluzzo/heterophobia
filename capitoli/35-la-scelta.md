@@ -90,27 +90,27 @@ Non ce l'avremmo fatta entrambe. Il veicolo era troppo vicino, troppo veloce. Se
 
 Ma se una di noi si fosse fermata...
 
-Guardai Alice. Mia figlia. La ragione per cui avevo fatto tutto questo—la fuga, i rischi, i sacrifici. La ragione per cui James si era fermato. La ragione per cui Mira era corsa verso i veicoli.
+Guardai Alice. Mia figlia. La ragione per cui avevo fatto tutto questo. La fuga, i rischi, i sacrifici. La ragione per cui James si era fermato. La ragione per cui Mira era corsa verso i veicoli.
 
-La ragione per cui valeva la pena vivere.
+La ragione per cui valeva la pena lottare.
 
 ---
 
 "Alice." Le presi il viso tra le mani, costringendola a guardarmi. "Ascoltami."
 
-"Mamma, cosa—"
+"Mamma, cosa..."
 
 "Devi correre. Corri verso quella botola e non fermarti. Qualunque cosa succeda, non fermarti."
 
-"No." I suoi occhi si spalancarono. Aveva capito. "No, mamma, non puoi—"
+"No." I suoi occhi si spalancarono. Aveva capito. "No, mamma, non puoi..."
 
-"Devo." Le baciai la fronte, sentendo le lacrime scorrermi sulle guance. "Ti amo, Alice. Ti ho amata dal primo momento in cui ti ho sentita muoverti dentro di me. Ti amerò per sempre."
+"Devo." Le baciai la fronte. Le mie labbra erano salate. "Ti ho voluta piu di qualsiasi cosa al mondo, Alice. Dal primo momento in cui ti ho sentita muoverti dentro di me."
 
-"Mamma—"
+"Mamma..."
 
-"Le storie non muoiono mai, ricordi? L'ha scritto nonno Enzio." Le strinsi le mani. "Tu sei la nostra storia, Alice. Sei tutto quello per cui abbiamo vissuto. Non lasciare che muoia."
+"L'ha scritto nonno Enzio: le parole sopravvivono." Le strinsi le mani. "Tu sei le nostre parole, Alice. Sei tutto quello per cui abbiamo vissuto. Non lasciare che si perdano."
 
-"Mamma, ti prego—"
+"Mamma, ti prego..."
 
 "CORRI!"
 
@@ -148,17 +148,17 @@ Avevo quindici anni, ed ero sola.
 
 Yuki mi ha trovata una settimana dopo.
 
-Non so come abbia saputo dove cercarmi. Non so come sia riuscita a raggiungermi nelle Zone. So solo che un giorno si è presentata all'ingresso del rifugio, con documenti falsi e una storia per farmi rientrare nel Sistema.
+Non so come abbia saputo dove cercarmi. Non so come sia riuscita a raggiungermi nelle Zone. So solo che un giorno si e presentata all'ingresso del rifugio, con documenti falsi e un piano per farmi rientrare nel Sistema.
 
-"Non puoi restare qui," mi ha detto. "Sei troppo giovane. Moriresti in un anno, senza le Cure."
+"Non puoi restare qui." La sua voce era pragmatica, senza spazio per il sentimentalismo. "Sei troppo giovane. Moriresti in un anno, senza le Cure."
 
 "Preferisco morire."
 
-"No." Mi ha preso per le spalle, costringendomi a guardarla. "I tuoi genitori non si sono sacrificati perché tu morissi. Si sono sacrificati perché tu vivessi."
+"No." Mi ha preso per le spalle, costringendomi a guardarla. "I tuoi genitori non si sono sacrificati perche tu morissi. Si sono sacrificati perche tu vivessi."
 
-"Come faccio a vivere? Come faccio a vivere sapendo quello che hanno fatto per me?"
+"Come faccio a vivere? Dopo quello che hanno fatto per me..."
 
-"Raccontando la loro storia." Yuki mi ha guardata con quegli occhi che avevano visto troppo. "È l'unica cosa che puoi fare. L'unica cosa che conta."
+"Raccontando." Yuki mi ha guardata con quegli occhi che avevano visto troppo. "E l'unica cosa che puoi fare. L'unica cosa che conta."
 
 ---
 
@@ -182,19 +182,11 @@ A volte mi chiedo cosa sia successo a mia madre.
 
 A volte, nelle notti più buie, mi permetto di sperare. Di immaginare che sia sopravvissuta. Che sia stata catturata ma non uccisa. Che sia da qualche parte, in un centro di detenzione o in una struttura segreta, ancora viva.
 
-Ma so che è improbabile.
+Ma so che e improbabile.
 
 So che quel giorno, voltandosi verso il veicolo, mia madre sapeva cosa stava facendo. Sapeva che non sarebbe tornata.
 
 L'ha fatto lo stesso.
 
 Per me.
-
----
-
-*Le storie non muoiono mai, Alice.*
-
-Aveva ragione, mamma.
-
-Aveva ragione.
 

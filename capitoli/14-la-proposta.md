@@ -162,11 +162,35 @@ Kate non riuscì a trattenere le lacrime. Gli gettò le braccia al collo e lo st
 
 "Ti amo," sussurrò contro il suo collo. "Ti amo così tanto."
 
-James non rispose con le parole. Non ne era ancora capace. Ma le sue braccia si chiusero intorno a lei, e la tennero stretta, e quella fu la sua risposta.
+James non rispose con le parole. Non ne era ancora capace.
+
+Ma il suo corpo parlò per lui.
+
+La baciò—non con la solita cautela, non con il controllo che si imponeva ogni notte. La baciò come se fosse la prima volta e l'ultima insieme. Come se volesse imprimersi sulla sua bocca, sulla sua lingua, sulla sua anima.
+
+Kate gemette contro le sue labbra. Le mani di lui trovarono la curva dei suoi fianchi, la pelle calda sotto il tessuto. Lei gli slacciò la camicia con dita tremanti, esplorando il petto, le spalle, i muscoli che si tendevano sotto il suo tocco.
+
+"James..." sussurrò il suo nome come una preghiera.
+
+Lui la sollevò tra le braccia e la portò verso il letto. La distese con una delicatezza che contrastava con la fame nei suoi occhi. Si fermò un istante a guardarla—i capelli sparsi sul cuscino, il respiro accelerato che sollevava il petto, le labbra socchiuse.
+
+"Sei sicura?" mormorò.
+
+Per tutta risposta, lei lo attirò a sé.
+
+Si amarono con un'intensità diversa quella notte. Non era solo desiderio—era una promessa. Ogni bacio sigillava un impegno. Ogni carezza tracciava una mappa del futuro. I loro corpi parlavano di ciò che le parole non riuscivano a dire: saremo famiglia, saremo genitori, saremo tutto ciò che ci hanno proibito di essere.
+
+Kate sentì il piacere crescere come un'onda. Si aggrappò a James, le unghie che affondavano nella sua schiena, la bocca che cercava la sua per soffocare i gemiti che sarebbero stati troppo forti. Quando l'onda si infranse, lui la seguì—e per un momento furono una cosa sola, due corpi che sfidavano un mondo intero.
+
+Restarono abbracciati nel silenzio che seguì, i cuori che battevano insieme, il sudore che si mescolava sulla pelle.
+
+"Questo," sussurrò Kate contro il suo collo, "questo è ciò per cui vale la pena morire."
+
+James le baciò la fronte. "No," rispose. "Questo è ciò per cui vale la pena vivere."
 
 ---
 
-Più tardi, sdraiati nel buio, parlarono del futuro.
+Più tardi, ancora avvolti l'uno nell'altra, parlarono del futuro.
 
 Non un futuro astratto, lontano, impossibile. Un futuro concreto, con date e piani e possibilità.
 
@@ -202,6 +226,14 @@ Kate sorrise nel buio.
 
 Fuori, il Complesso dormiva il suo sonno artificiale. Ma in quella stanza, in quel letto, due persone erano più sveglie che mai.
 
-Perché per la prima volta, non stavano solo sopravvivendo.
+Per la prima volta, non stavano solo sopravvivendo. Stavano progettando di vivere.
 
-Stavano progettando di vivere.
+Kate chiuse gli occhi, sentendo il calore del corpo di James contro il suo. Fra tre settimane, forse, avrebbero creato una nuova vita. Una vita che il Sistema non voleva. Una vita che avrebbero dovuto proteggere con ogni respiro.
+
+Ma prima di addormentarsi, un pensiero le attraversò la mente come una lama di ghiaccio.
+
+Yuki l'aveva guardata in modo strano oggi. L'aveva fissata troppo a lungo. Come se vedesse attraverso la maschera.
+
+Kate aprì gli occhi nel buio.
+
+E se qualcuno sapeva già?

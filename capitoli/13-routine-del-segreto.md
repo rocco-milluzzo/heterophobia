@@ -2,15 +2,19 @@
 
 James aveva ventitré anni e una vita che non gli apparteneva.
 
-Di giorno era l'archivista Chen-Rossi, dipendente modello del Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. Arrivava puntuale ogni mattina, salutava i colleghi con un cenno educato, si sedeva alla sua postazione e iniziava a catalogare. Fascicoli, registrazioni, fotografie ingiallite di un mondo che non esisteva più.
+Di giorno era l'archivista Chen-Rossi, dipendente modello del Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. Arrivava puntuale ogni mattina, salutava i colleghi con un cenno educato, si sedeva alla sua postazione e iniziava a catalogare. Fascicoli, registrazioni, fotografie ingiallite di un mondo che non esisteva più. Un mondo dove un uomo e una donna potevano tenersi per mano senza rischiare l'esilio.
 
-Era bravo nel suo lavoro. Così bravo che i superiori lo avevano promosso due volte in tre anni, dandogli accesso a livelli di archiviazione sempre più profondi. Non sapevano che ogni promozione era un'arma in più nelle sue mani.
+Era bravo nel suo lavoro. Così bravo che i superiori lo avevano promosso due volte in tre anni, dandogli accesso a livelli di archiviazione sempre più profondi. Non sapevano che ogni promozione era un'arma. Non sapevano che il loro archivista modello era un infetto.
 
-Di notte era qualcun altro.
+Di notte la maschera cadeva.
 
-Di notte era l'uomo che attraversava il Complesso come un fantasma, seguendo percorsi che aveva memorizzato nel corso degli anni. Sapeva dove erano le telecamere, quando cambiavano angolazione, quali corridoi restavano bui per qualche secondo durante il cambio turno dei sistemi di sorveglianza. Sapeva tutto, perché non sapere significava morire.
+Di notte diventava il fantasma che attraversava il Complesso seguendo percorsi incisi nella memoria come cicatrici. Telecamere: terzo piano, angolo nord-est, punto cieco di 2,3 secondi. Sensori: corridoio B-7, manutenzione ogni giovedì alle 22:47. Pattuglie: cambio turno alle 23:00, ritardo medio di quattro minuti.
 
-O peggio: significava perdere Kate.
+Sapeva tutto. Conosceva ogni falla, ogni crepa, ogni respiro del Sistema.
+
+Perché non sapere significava la rieducazione. Significava le iniezioni che cancellavano i ricordi. Significava svegliarsi un giorno e non ricordare il sapore delle labbra di Kate.
+
+Questo lo terrorizzava più della morte.
 
 ---
 
@@ -28,41 +32,51 @@ Non ancora.
 
 ---
 
-Quella sera, mentre percorreva il corridoio che portava alla serra idroponica, James si fermò.
+Quella sera, mentre percorreva il corridoio che portava alla serra idroponica, James si bloccò.
 
-C'era qualcosa di diverso. Un rumore, forse. O l'assenza di un rumore che avrebbe dovuto esserci. I sistemi di irrigazione della serra emettevano un ronzio costante, appena percettibile. Ma stanotte il ronzio era interrotto da qualcos'altro.
+Un'anomalia. Un suono che non doveva esserci. I sistemi di irrigazione della serra emettevano un ronzio costante, appena percettibile—lo conosceva come il proprio battito cardiaco. Ma stanotte il ronzio era spezzato da voci.
 
 Voci.
 
-James si appiattì contro il muro, trattenendo il respiro. Le voci venivano dall'interno della serra—due, forse tre persone. Troppo lontane per distinguere le parole, ma abbastanza vicine per essere un pericolo.
+Si appiattì contro il muro. Smise di respirare. Il sangue gli rombava nelle orecchie, ma attraverso quel rumore distingueva parole frammentate.
 
-Non era previsto nessuno nella serra a quell'ora. Era uno dei motivi per cui lui e Kate la usavano come punto d'incontro.
+"...controllo di routine..."
 
-Con il cuore in gola, James fece marcia indietro. Prese il percorso alternativo—più lungo, più rischioso, ma necessario. Arrivò all'appartamento di Kate con dieci minuti di ritardo, le mani che tremavano mentre bussava il codice.
+"...segnalazione anonima..."
+
+"...comportamento sospetto..."
+
+Il terrore gli serrò la gola. Controllo. Segnalazione. Qualcuno aveva parlato. Qualcuno li aveva visti. Il Sistema sapeva.
+
+Non era previsto nessuno alla serra a quell'ora. Era il loro santuario, il luogo dove i corpi potevano parlarsi senza bisogno di parole. E ora era compromesso.
+
+Fece marcia indietro con movimenti calcolati. Ogni passo era un rischio. Ogni respiro poteva tradirlo. Prese il percorso alternativo—più lungo, attraverso il seminterrato dove le telecamere erano obsolete e nessuno scendeva mai.
+
+Arrivò all'appartamento di Kate con dieci minuti di ritardo. Le mani gli tremavano così forte che faticò a bussare il codice.
 
 Due colpi. Pausa. Tre colpi.
 
-La porta si aprì immediatamente.
+La porta si spalancò. Kate lo trascinò dentro.
 
-"Cosa è successo?" Kate lo tirò dentro, chiudendo la porta alle sue spalle. "Sei in ritardo. Non sei mai in ritardo."
+"Cosa è successo?" Il suo viso era bianco nel buio. "Non sei mai in ritardo. Mai."
 
-"C'era qualcuno alla serra."
+"C'era un controllo alla serra. Ho sentito le parole 'segnalazione anonima'."
 
-Kate impallidì. "Chi?"
+Il colore abbandonò completamente il viso di Kate. Le sue mani trovarono le sue—gelide, tremanti.
 
-"Non lo so. Non sono riuscito a vedere."
+"Ci hanno visti," sussurrò. "Qualcuno ci ha visti."
 
-Si guardarono nel buio dell'ingresso. James vide la paura negli occhi di Kate—la stessa paura che sentiva lui, quella che non scompariva mai del tutto.
+"Non lo sappiamo."
 
-"Dobbiamo stare più attenti," disse lui.
+"James. Una segnalazione anonima. Un controllo notturno. È così che inizia." La voce le si spezzò. "È così che li prendono. Prima i controlli. Poi gli interrogatori. Poi la rieducazione."
 
-"Siamo già attenti."
+James l'attirò a sé. La strinse così forte che poteva sentire il battito del suo cuore contro il proprio—due cuori terrorizzati che battevano all'unisono.
 
-"Più attenti ancora."
+"Non ci prenderanno," mormorò contro i suoi capelli. "Non lascerò che ci prendano."
 
-Kate annuì lentamente. Poi gli prese la mano e lo guidò verso la camera da letto, senza dire altro.
+"Come puoi prometterlo?"
 
-Non c'era bisogno di parole. C'era solo bisogno di stare insieme, di sentirsi vivi, di ricordarsi perché valeva la pena rischiare tutto.
+Non poteva. Ma la strinse più forte, come se il suo corpo potesse essere uno scudo. Come se l'amore potesse fermare il Sistema.
 
 ---
 
@@ -206,12 +220,24 @@ James tirò fuori la mappa e la studiò ancora una volta.
 
 Poi prese una decisione.
 
-Non sapeva se era la decisione giusta. Non sapeva se li avrebbe salvati o condannati. Ma sapeva una cosa.
+Non sapeva se era la decisione giusta. Non sapeva se li avrebbe salvati o condannati.
 
-Non voleva più avere paura.
+Ma sapeva una cosa con certezza assoluta: preferiva morire come infetto piuttosto che vivere per sempre senza di lei.
 
-Non voleva più nascondersi.
+Piegò la mappa e se la infilò nella tasca interna della giacca, contro il cuore.
 
-Voleva vivere.
+Domani avrebbe detto a Kate. Domani avrebbero iniziato a pianificare. Domani—
 
-E per vivere davvero, a volte bisognava essere disposti a morire.
+Un rumore nel corridoio. Passi. Voci.
+
+James spense le luci e restò immobile nel buio, trattenendo il respiro. I passi si avvicinarono alla sua porta. Si fermarono.
+
+Silenzio.
+
+Poi ripresero e si allontanarono.
+
+James rimase così per ore, con la mappa premuta contro il petto e il terrore che gli divorava le viscere.
+
+Dovevano andarsene. Presto. Prima che il Sistema li trovasse.
+
+Prima che fosse troppo tardi.

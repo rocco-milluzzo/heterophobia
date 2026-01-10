@@ -76,11 +76,11 @@
 
 ---
 
-### Alice Chen-Lindqvist
+### Alice Chen-Rossi Lindqvist
 
 **Dati base:**
-- Nata: ~2095 (illegale, non registrata)
-- Età nel presente narrativo: ~10 anni quando viene separata dai genitori, poi età adulta quando narra
+- Nata: 2107 (illegale, non registrata, nelle Zone Abbandonate)
+- Età nel presente narrativo: 15 anni quando viene separata dai genitori (2122), poi adulta quando narra (~2132)
 - Aspetto: Mix dei genitori - occhi scuri del padre, movimenti nervosi della madre
 - Status: Sconosciuto (il mistero centrale)
 

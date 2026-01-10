@@ -88,6 +88,22 @@ Un lungo silenzio. Poi James annuì lentamente.
 
 Kate sorrise. "Non ancora. Un passo alla volta."
 
+Si guardarono sotto le stelle, e James vide in lei la stessa donna che aveva amato nel buio della biblioteca del Complesso. Gli anni l'avevano cambiata—c'erano rughe intorno ai suoi occhi, fili grigi nei capelli—ma la luce che emanava era la stessa.
+
+"Vieni," sussurrò Kate, prendendogli la mano.
+
+Lo guidò dentro, oltre la stanza dove Alice dormiva, fino al loro letto. La luce della luna filtrava dalla finestra senza vetri, argentando i loro corpi mentre si spogliavano l'uno dell'altra.
+
+Non c'era urgenza. C'era la tenerezza di chi si conosce da vent'anni e ancora desidera scoprirsi. James tracciò con le labbra il percorso delle sue clavicole, quel punto sulla gola dove il battito accelerava. Kate gli affondò le dita nei capelli, tirandolo verso di sé.
+
+Si amarono lentamente, in silenzio, comunicando con il respiro e le mani. Ogni carezza era una promessa, ogni bacio una riconciliazione. Quando lei inarcò la schiena e lui la seguì oltre il limite, fu come sigillare un patto—che la paura non li avrebbe divisi. Mai.
+
+Dopo, rimasero intrecciati nel buio, i cuori che battevano all'unisono.
+
+"Non lasciarmi mai," mormorò Kate.
+
+"Mai," promise James. E intendeva ogni sillaba.
+
 ---
 
 Il mattino dopo, James trovò Alice che raccoglieva fiori nel prato.
@@ -102,7 +118,7 @@ Alice continuò a raccogliere fiori, senza rispondere.
 
 "Allora perché ti sei arrabbiato?"
 
-"Perché ho paura." James esitò. "Ho paura di perderti. Sei la cosa più importante della mia vita, Alice. Tu e tua madre. E l'idea che possa succedervi qualcosa..."
+"Perché ho paura." James esitò. "Ho paura di perderti. Sei la cosa più preziosa della mia vita, Alice. Tu e tua madre. E l'idea che possa succedervi una disgrazia..."
 
 "Ma non deve succedere niente." Alice lo guardò con quei suoi occhi seri. "Voglio solo sapere. Capire. Non voglio scappare via."
 
@@ -146,7 +162,7 @@ James la guardò con stupore.
 
 "Sì. Come tu le scrivi nel tuo quaderno. Ma io le scriverò per tutti."
 
-James sentì qualcosa stringersi nel petto. Guardò Kate, che stava sorridendo con le lacrime agli occhi.
+James avvertì una stretta al petto. Guardò Kate, che stava sorridendo con le lacrime agli occhi.
 
 "È una bellissima idea," disse Kate. "Scrivere le storie è importante."
 
@@ -164,4 +180,6 @@ E le aveva lasciato un messaggio.
 
 Le storie non muoiono mai.
 
-Forse, pensò James, aveva ragione.
+Forse, pensò James, il vecchio archivista aveva ragione.
+
+E forse, un giorno, sua figlia sarebbe stata quella che avrebbe dimostrato a tutti quanto.

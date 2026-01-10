@@ -12,13 +12,13 @@ Ma è qui che devo essere.
 
 Il manoscritto ha iniziato a circolare.
 
-Non so esattamente quante copie esistano, né dove siano finite. Yuki mi ha detto che la rete ne ha distribuite centinaia—nelle Zone, ma anche nel Sistema. Nascoste in librerie, passate di mano in mano, lette in segreto.
+Non so esattamente quante copie esistano, né dove siano finite. Yuki mi ha detto che la rete ne ha distribuite centinaia—nelle Zone, ma anche nel Sistema. Nascoste in doppi fondi, passate di mano in mano nei corridoi degli archivi, lette nelle ore morte della notte quando i sensori dormono.
 
-A volte, camminando per strada, mi chiedo se qualcuna delle persone che incrocio l'abbia letto. Se qualcuno abbia pianto leggendo la storia di James e Kate. Se qualcuno abbia iniziato a dubitare del Sistema dopo aver scoperto cosa significava amare.
+Ho sentito di un giovane Controllore che ha chiesto il trasferimento dopo averlo letto. Di una coppia che ha deciso di fuggire nelle Zone. Di una ragazza che ha smesso di prendere i soppressori ormonali perché voleva *sentire* quello che sentivano James e Kate.
 
-Non lo saprò mai con certezza.
+A volte, camminando per le strade grigie del Complesso, sotto i manifesti che proclamano *L'AMORE NATURALE È INNATURALE*, mi chiedo quanti cuori stiano cambiando in silenzio. Quante crepe si stiano aprendo nel muro dell'heterophobia.
 
-Ma posso sperare.
+Non lo saprò mai con certezza. Ma le crepe si allargano. Lo sento.
 
 ---
 
@@ -118,15 +118,13 @@ E se l'hanno trovato loro, potete trovarlo anche voi.
 
 ---
 
-Le storie non muoiono mai.
+Le storie sono semi.
 
-L'ha scritto nonno Enzio, tanto tempo fa. L'ha ripetuto mia madre, il giorno in cui ci siamo separate. L'ho creduto io, per tutta la vita.
+L'ha scritto nonno Enzio, tanto tempo fa. L'ha ripetuto mia madre, il giorno in cui ci siamo separate. E io l'ho visto con i miei occhi—semi piantati nel buio che germogliano verso la luce.
 
-E ora lo scrivo qui, alla fine di questa storia, perché anche voi possiate crederci.
+Ogni mente che cambia è un germoglio. Ogni cuore che dubita è una radice che si fa strada nel cemento. Ogni persona che legge queste parole e sente qualcosa muoversi dentro di sé è parte di una foresta che un giorno—ne sono certa—coprirà le macerie dell'heterophobia.
 
-Le storie non muoiono mai.
-
-L'amore non muore mai.
+L'amore non si può sradicare. Non del tutto. Non per sempre.
 
 E finché qualcuno ricorderà James e Kate—il loro coraggio, il loro sacrificio, il loro amore impossibile—loro vivranno per sempre.
 

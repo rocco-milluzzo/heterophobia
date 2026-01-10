@@ -8,23 +8,23 @@ Il Sistema stava stringendo la morsa.
 
 ---
 
-"Hanno trovato una comunità a sud," disse Marcus una sera, durante la riunione settimanale. "Cinquanta persone. Portate via tutte."
+"Hanno trovato una comunità a sud," annunciò Marcus una sera, durante la riunione settimanale. "Cinquanta persone. Portate via tutte."
 
-Un mormorio percorse la stanza. James sentì Kate irrigidirsi accanto a lui.
+Un mormorio attraversò la stanza. James avvertì Kate irrigidirsi accanto a lui.
 
-"Cosa gli è successo?" chiese qualcuno.
+"Cosa gli è successo?" domandò qualcuno.
 
-"Non lo sappiamo. Rieducazione, probabilmente. Per i bambini..." Marcus scosse la testa. "Non voglio pensarci."
+"Non lo sappiamo. Rieducazione, probabilmente. Per i bambini..." Marcus scosse la testa. "Non voglio nemmeno immaginarlo."
 
 James guardò verso l'angolo dove Alice stava giocando con Mira, ignara della discussione degli adulti. Aveva nove anni adesso—ancora una bambina, ma abbastanza grande da capire che qualcosa non andava.
 
-"Dobbiamo spostarci?" chiese Kate.
+"Dobbiamo spostarci?" domandò Kate.
 
 "Non ancora. Siamo lontani dai confini. Ma..." Marcus esitò. "Dovremmo essere pronti. Nel caso."
 
-Pronti. James odiava quella parola. Erano sempre stati pronti—pronti a scappare, pronti a nascondersi, pronti a perdere tutto. Pensava che qui, nelle Zone Abbandonate, le cose sarebbero state diverse.
+Pronti. James detestava quella parola. Erano sempre stati pronti—pronti a scappare, pronti a nascondersi, pronti a perdere tutto. Pensava che qui, nelle Zone Abbandonate, le cose sarebbero state diverse.
 
-Ma il Sistema non dimenticava mai.
+Ma il Sistema non dimenticava mai. Non perdonava mai.
 
 ---
 
@@ -34,21 +34,21 @@ James iniziò a tenere uno zaino pronto vicino alla porta—provviste per tre gi
 
 Alice notò il cambiamento.
 
-"Perché siete preoccupati?" chiese una sera.
+"Perché siete preoccupati?" domandò una sera.
 
 James e Kate si guardarono.
 
-"Ci sono dei problemi," disse Kate. "Niente di grave. Ma dobbiamo stare attenti."
+"Ci sono dei problemi," rispose Kate. "Niente di grave. Ma dobbiamo stare attenti."
 
 "Problemi con le persone cattive?"
 
-"Sì, tesoro. Ma stiamo facendo tutto il possibile per tenerti al sicuro."
+"Sì, piccola. Ma stiamo facendo tutto il possibile per tenerti al sicuro."
 
 Alice annuì. Era una bambina intelligente—capiva più di quanto dicessero.
 
-"Se dobbiamo scappare," disse, "porteremo il libro, vero?"
+"Se dobbiamo scappare," affermò, "porteremo il libro, vero?"
 
-James sentì il cuore stringersi. "Certo che lo porteremo."
+James avvertì il cuore stringersi. "Certo che lo porteremo."
 
 "Bene." Alice sorrise, rassicurata. "Le storie non devono perdersi."
 
@@ -88,7 +88,7 @@ Ma il messaggio era chiaro. Il Sistema sapeva. Non dove, non chi esattamente—m
 
 Quella notte, James parlò con Kate.
 
-"Dobbiamo considerare le opzioni," disse.
+"Dobbiamo considerare le opzioni," affermò.
 
 "Quali opzioni? Scappare ancora? Dove?"
 
@@ -100,7 +100,7 @@ Kate scosse la testa. "Alice ha una vita qui. Amici. Una casa. Non possiamo stra
 
 "Preferisco che possiamo vivere senza avere paura ogni secondo."
 
-James sentì la frustrazione montare. "E come pensi di farlo? Il Sistema non si fermerà. Non smetteranno mai di cercare."
+James avvertì la frustrazione montare. "E come pensi di farlo? Il Sistema non si fermerà. Non smetteranno mai di cercare."
 
 "Allora forse dobbiamo smettere noi di nasconderci."
 
@@ -144,6 +144,6 @@ Perché nei suoi sogni, quella notte, Alice vide qualcosa di strano.
 
 Vide se stessa, adulta, seduta a una scrivania. Davanti a lei c'era un libro—lo stesso libro che stringeva nel sonno. E stava scrivendo.
 
-Stava scrivendo una storia.
+Stava scrivendo una storia. La loro storia.
 
-La loro storia.
+E fuori dalla finestra del suo sogno, il mondo stava cambiando.

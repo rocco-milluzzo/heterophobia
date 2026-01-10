@@ -1,14 +1,20 @@
 # Capitolo 19: Il Segno
 
-Kate non aveva mai camminato così velocemente in vita sua.
+Kate non aveva mai corso così velocemente in vita sua.
 
-Seguivano il percorso che James aveva memorizzato—corridoi laterali, scale di emergenza, passaggi dimenticati che nessuno usava più. Ad ogni svolta, Kate sentiva il cuore battere più forte. Ad ogni rumore, tratteneva il respiro.
+I polmoni bruciavano. I muscoli protestavano. La pancia—ancora piatta, ancora segreta—sembrava tirare verso il basso con ogni passo. Ma non si fermò. Non poteva fermarsi.
 
-Ma nessuno li fermò.
+Dietro di loro, le voci degli agenti risuonavano nei corridoi. "Fermatevi! Ordine del Dipartimento di Conformità!"
 
-Il jammer di Yuki funzionava. Le telecamere che avrebbero dovuto riprenderli non registravano nulla. I sensori che avrebbero dovuto scattare restavano silenziosi.
+James la trascinava per mano attraverso un labirinto di scale di emergenza e passaggi dimenticati. Corridoi che nessuno usava più. Porte che non apparivano nelle mappe ufficiali.
 
-Erano invisibili.
+"Il jammer," ansimò Kate. "Attivalo!"
+
+James estrasse il dispositivo di Yuki e premette il pulsante. Per un istante non successe nulla. Poi, un ronzio basso—e le luci di emergenza tremolarono.
+
+Le voci dietro di loro si fecero confuse. "Abbiamo perso il segnale. Ripeto, abbiamo perso il segnale."
+
+Erano invisibili. Per ora.
 
 ---
 
@@ -191,3 +197,29 @@ Kate gli prese la mano e se la posò sulla pancia.
 James abbassò lo sguardo sulla sua mano. Sulla pancia di Kate. Sul futuro che stava crescendo lì dentro.
 
 E per la prima volta da quando poteva ricordare, non ebbe paura.
+
+Ma la pace durò solo un istante.
+
+Dal fondo del rifugio, una donna anziana si avvicinò di corsa. Il suo viso era teso, gli occhi spalancati.
+
+"Marcus! Marcus!"
+
+Il capo della comunità si alzò di scatto. "Cosa succede?"
+
+"Le sentinelle hanno avvistato dei droni. Tre, forse quattro. Si stanno avvicinando dal nord."
+
+Il sangue di Kate si gelò.
+
+"Droni di sorveglianza?" chiese Marcus.
+
+La donna scosse la testa. "Droni di ricerca. Quelli che usano per le retate."
+
+Un silenzio mortale calò sul rifugio. Tutti guardarono James e Kate—i nuovi arrivati, i fuggitivi, la ragione per cui il Sistema li stava cercando.
+
+Marcus si voltò verso di loro. Il suo viso era duro, ma non ostile.
+
+"Avete portato i loro cani qui," disse. "Ora dobbiamo decidere cosa fare."
+
+Kate strinse la mano di James. La vita nella sua pancia—la vita che avevano creato—dipendeva da ciò che sarebbe successo nei prossimi minuti.
+
+Fuori, nel cielo che si stava oscurando, il ronzio dei droni si faceva sempre più vicino.

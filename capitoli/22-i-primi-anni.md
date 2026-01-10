@@ -20,15 +20,37 @@ Kate aveva trovato il suo ruolo. Lavorava nel laboratorio improvvisato della com
 
 James, invece, era diventato l'archivista della comunità. Non c'erano documenti ufficiali da catalogare qui, ma c'erano storie. Memorie. Testimonianze di chi aveva vissuto prima, di chi aveva perso qualcuno, di chi aveva scelto la libertà sapendo che significava rinunciare all'eternità. James le raccoglieva tutte, le trascriveva, le preservava.
 
-"Perché lo fai?" gli aveva chiesto Kate una sera.
+"Perché lo fai?" gli aveva domandato Kate una sera.
 
 "Perché qualcuno deve ricordare," aveva risposto lui. "Quando noi non ci saremo più."
 
-Era la prima volta che parlava della morte come di qualcosa di reale, di vicino. Senza le Cure, la loro vita sarebbe stata breve—sessanta, settant'anni al massimo. Un battito di ciglia rispetto all'eternità che avevano lasciato.
+Era la prima volta che parlava della morte come di un fatto reale, vicino. Senza le Cure, la loro vita sarebbe stata breve—sessanta, settant'anni al massimo. Un battito di ciglia rispetto all'eternità che avevano abbandonato.
 
-Ma Kate aveva capito, in quel momento, che James aveva fatto pace con questo. Che preferiva una vita breve e vera a un'eternità vuota.
+Ma Kate aveva compreso, in quel momento, che James aveva fatto pace con questa consapevolezza. Che preferiva una vita breve e vera a un'eternità vuota.
 
-E lei era d'accordo.
+E lei condivideva quella scelta.
+
+---
+
+Quella notte, dopo aver messo Alice a dormire, Kate raggiunse James nella loro stanza.
+
+Lui era seduto sul bordo del letto, il quaderno delle storie ancora aperto sulle ginocchia. La luce della candela gettava ombre danzanti sul suo viso, accentuando le linee che gli anni di fuga avevano scavato intorno agli occhi.
+
+Kate gli tolse il quaderno dalle mani, lo posò sul pavimento. Senza dire nulla, gli slacciò la camicia—un gesto lento, deliberato. Voleva che lui capisse.
+
+James la guardò. Nei suoi occhi c'era la stessa domanda di sempre: *Sei sicura?*
+
+Lei rispose baciandolo. Un bacio lungo, profondo, che sapeva di pane appena cotto e di erbe selvatiche. Le mani di lui le scivolarono lungo i fianchi, trovando la pelle calda sotto il tessuto leggero.
+
+Si amarono come facevano da anni—senza fretta, con la consapevolezza di chi sa che ogni momento è un dono. I loro corpi si conoscevano ormai a memoria, eppure ogni volta era come scoprirsi di nuovo. Kate arcuò la schiena quando lui la sfiorò nel modo giusto, mordendosi il labbro per non svegliare la bambina nella stanza accanto.
+
+Fuori, il vento portava il profumo del bosco. Dentro, c'era solo il calore dei loro respiri intrecciati, il sussurro dei loro nomi pronunciati come preghiere.
+
+Dopo, rimasero abbracciati nell'oscurità.
+
+"Non tornerei mai indietro," mormorò Kate contro il suo petto. "Non per tutte le eternità del mondo."
+
+James la strinse più forte. Non rispose—non ce n'era bisogno. Il battito del suo cuore parlava per lui.
 
 ---
 
@@ -46,7 +68,7 @@ Kate e James si erano preparati a questa domanda. Avevano discusso per ore su co
 
 "Ma gli altri bambini?"
 
-"Quali altri bambini, tesoro?"
+"Quali altri bambini, piccola mia?"
 
 Alice aveva indicato verso est, nella direzione da cui venivano i nuovi arrivati.
 
@@ -62,9 +84,9 @@ Kate e James si erano guardati. Avevano sottovalutato quanto Alice ascoltasse, q
 
 Alice aveva aggrottato la fronte, confusa. "Amarsi è sbagliato?"
 
-"No, tesoro." Kate l'aveva presa in braccio, stringendola forte. "Amarsi non è mai sbagliato. Ma alcune persone pensano di sì. E noi non volevamo che tu crescessi con quelle persone."
+"No, piccola." Kate l'aveva presa in braccio, stringendola forte. "Amarsi non è mai sbagliato. Ma alcune persone pensano di sì. E noi non volevamo che tu crescessi con quelle persone."
 
-Alice aveva annuito, sembrando soddisfatta della risposta. Ma Kate sapeva che le domande sarebbero tornate. Sempre più difficili, sempre più profonde.
+Alice aveva annuito, apparentemente soddisfatta. Ma Kate sapeva che le domande sarebbero tornate. Sempre più difficili, sempre più profonde.
 
 Era inevitabile.
 
@@ -76,11 +98,11 @@ Si chiamava Mira—una bambina di un anno più grande, nata anche lei nelle Zone
 
 Alice e Mira erano inseparabili. Giocavano insieme, esploravano insieme, si raccontavano storie inventate che duravano ore. Era bello vederle—due bambine libere, che non sapevano cosa fosse la paura.
 
-"Credi che staranno bene?" chiese Kate a James una sera, guardando le due bambine che rincorrevano le lucciole nel crepuscolo.
+"Credi che staranno bene?" domandò Kate a James una sera, guardando le due bambine che rincorrevano le lucciole nel crepuscolo.
 
-"Meglio di noi, sperabilmente." James le mise un braccio intorno alle spalle. "Loro non devono disimparare. Sono nate così."
+"Meglio di noi, spero." James le mise un braccio intorno alle spalle. "Loro non devono disimparare. Sono nate libere."
 
-Kate annuì. Era vero. Alice non portava le cicatrici del Sistema—la paura costante, la necessità di nascondersi, la sensazione di essere sempre osservati. Per lei, la libertà era naturale come respirare.
+Kate annuì. Era vero. Alice non portava le cicatrici del Sistema—la paura costante, il bisogno di nascondersi, la sensazione di essere sempre osservati. Per lei, la libertà era naturale come respirare.
 
 Forse era questo il vero dono che le avevano fatto.
 
@@ -133,6 +155,8 @@ Kate e James si guardavano ogni volta, e in quello sguardo c'era tutto—la paur
 
 Alice non capiva ancora quelle parole. Non davvero.
 
-Ma un giorno le avrebbe capite.
+Ma un giorno le avrebbe capite. E allora, forse, avrebbe compreso anche loro.
 
-E allora, forse, avrebbe compreso anche loro.
+Fuori, il vento notturno portava il profumo dei pini. Un gufo lanciò il suo richiamo nell'oscurità. E da qualche parte, oltre le montagne, il Sistema continuava a vegliare—ignaro della piccola fiamma che bruciava nel cuore delle Zone Abbandonate.
+
+Una fiamma che un giorno avrebbe illuminato il mondo.

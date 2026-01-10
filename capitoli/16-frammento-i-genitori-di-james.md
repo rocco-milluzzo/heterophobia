@@ -20,43 +20,37 @@ Ho capito che i mostri non esistono. Esistono solo persone che fanno scelte sbag
 
 *Ma c'è qualcosa che non ti ho mai detto. Qualcosa che forse è il momento di condividere.*
 
-*Quando ero giovane, il mondo era diverso. Non migliore—diverso. C'era la morte, c'era la sofferenza, c'erano guerre e malattie e povertà. Ma c'era anche qualcos'altro. Qualcosa che abbiamo perso quando abbiamo guadagnato l'immortalità.*
+*Quando ero giovane, il mondo era malato. Non uso questa parola a caso—era davvero malato. C'era la morte, c'era la sofferenza, c'erano guerre e malattie e povertà. E c'era quella che ora chiamiamo "l'ossessione riproduttiva". L'idea che fare figli fosse un diritto. Che l'amore tra uomo e donna fosse naturale.*
 
-*C'era il disordine.*
+*Non lo era. Lo capisco ora. Era solo biologia primitiva, istinto animale travestito da sentimento. I breeder—perdona il termine, ma è quello corretto—erano schiavi dei loro ormoni. Non sapevano che esisteva un'alternativa.*
 
-*Sembra una cosa strana da rimpiangere, vero? Il disordine. Il caos. L'imprevedibilità. Ma era quello che ci rendeva umani. Non sapevamo cosa sarebbe successo domani, e questo ci costringeva a vivere oggi. Ogni momento contava perché non sapevamo quanti ne avremmo avuti.*
+*Poi sono arrivate le Cure. E con le Cure, la libertà. La libertà di vivere per sempre. La libertà di amare senza le catene della riproduzione.*
 
-*Poi sono arrivate le Cure. E con le Cure, la certezza. La certezza di vivere per sempre. La certezza che domani ci sarebbe stato, e il giorno dopo, e quello dopo ancora. All'infinito.*
+*All'inizio non tutti capirono. Alcuni resistettero. Li chiamavano "romantici", come se fosse un complimento. In realtà erano malati che rifiutavano la cura. Egoisti genetici che volevano imporre il proprio DNA al mondo. Dinosauri che non accettavano l'evoluzione.*
 
-*All'inizio sembrava un dono. Ma i doni hanno sempre un prezzo.*
+*Il Divieto fu un atto di misericordia. Lo sai già—te l'hanno insegnato a scuola, te l'abbiamo spiegato noi. L'immortalità richiedeva pulizia. Non potevamo permettere che gli infetti continuassero a contaminare la società. Dovevamo scegliere.*
 
-*Il prezzo è stato il Divieto. Lo sai già—te l'hanno insegnato a scuola, te l'abbiamo spiegato noi. L'immortalità richiedeva sacrifici. Non potevamo più procreare liberamente. Non potevamo più amare liberamente. Dovevamo scegliere.*
+*E abbiamo scelto la guarigione.*
 
-*E abbiamo scelto di vivere.*
+*James, quello che sto per dirti potrebbe sembrarti doloroso. Ma ho bisogno che tu lo capisca, perché un giorno potresti sentire quella malattia risvegliarsi dentro di te.*
 
-*James, quello che sto per dirti potrebbe sembrarti sbagliato. Potrebbe sembrarti crudele. Ma ho bisogno che tu lo capisca, perché un giorno potresti trovarti di fronte alla stessa scelta.*
+*Prima del Divieto, prima di capire, ero malata anch'io. C'era un uomo. Si chiamava Mei. E io lo amavo nel modo sbagliato. Nel modo che ora sappiamo essere patologico.*
 
-*L'amore che provavo per tuo padre—per Marco—non è sempre stato quello che è adesso. Prima del Divieto, prima delle Cure, amavo qualcun altro. Una donna. Si chiamava Mei, e la amavo nel modo in cui ti hanno insegnato a non amare.*
+*Non te lo racconto per vergognarmi. Te lo racconto perché devi sapere che la malattia può colpire chiunque. Anche tua madre. E che si può guarire.*
 
-*Non te lo racconto per giustificarmi. Te lo racconto perché è la verità, e la verità è l'unica cosa che posso darti.*
-
-*Quando è arrivato il Divieto, ho dovuto scegliere. Potevo restare con Mei e rinunciare alle Cure, vivere una vita breve e "naturale" nelle Zone Abbandonate. Oppure potevo conformarmi, accettare le regole, vivere per sempre.*
+*Quando è arrivato il Divieto, ho avuto la forza di scegliere. Potevo restare con Mei—restare malata, rifiutare le Cure, marcire nelle Zone Abbandonate con gli altri infetti. Oppure potevo guarire. Accettare le regole. Vivere.*
 
 *Ho scelto di vivere.*
 
-*Mei ha scelto diversamente. È partita, verso i margini del mondo, verso quei luoghi dove il Sistema non arriva. Non so se sia ancora viva. Probabilmente no—senza le Cure, il tempo l'avrà portata via come porta via tutti quelli che rifiutano l'immortalità.*
+*Mei ha scelto la malattia. È partito verso i margini del mondo, verso quei luoghi dove gli infetti si nascondono come ratti. Non so se sia ancora vivo. Probabilmente no—senza le Cure, la morte avrà preso anche lui, come prende tutti quelli che rifiutano la guarigione.*
 
-*A volte mi chiedo se abbia fatto la scelta giusta. A volte, nelle notti silenziose, penso a lei e mi chiedo come sarebbe stata la mia vita se fossi andata con lei. Se avessi scelto l'amore invece della sopravvivenza.*
+*A volte, nelle notti silenziose, ricordo quella malattia. Come un'eco lontana. Come il fantasma di una febbre. Ma poi mi sveglio e ringrazio il Sistema per avermi salvata.*
 
-*Ma poi guardo te. Guardo l'uomo che sei diventato. E so che ho fatto la scelta giusta.*
+*James, se un giorno sentirai quella febbre—se un giorno guarderai una donna e sentirai qualcosa di sbagliato nel petto—sappi che non sei solo. Sappi che si può guarire. Sappi che la rieducazione esiste per aiutarti, non per punirti.*
 
-*Perché tu esisti. Tu sei qui. E questo vale tutto.*
+*L'amore vero non ha bisogno di figli. L'amore vero non ha bisogno del corpo.*
 
-*James, non so cosa ti riservi il futuro. Non so quali scelte dovrai fare, quali sacrifici ti verranno chiesti. Ma so questo: qualunque cosa tu scelga, scegli di vivere. Scegli il domani. Scegli di essere qui, nel mondo, con le persone che ami.*
-
-*L'amore passa. Le persone cambiano. Ma tu resti.*
-
-*E alla fine, è l'unica cosa che conta.*
+*E alla fine, vivere è l'unica cosa che conta.*
 
 *Con tutto il mio amore,*
 *Tua madre Lin*
@@ -65,23 +59,29 @@ Ho capito che i mostri non esistono. Esistono solo persone che fanno scelte sbag
 
 Ho letto questa lettera più volte di quante possa contare.
 
-Ogni volta, provo qualcosa di diverso. Rabbia, all'inizio. Come poteva Lin pensare che l'amore "passa"? Come poteva credere che sopravvivere fosse più importante che vivere?
+La prima volta ho provato orrore. Puro, gelido orrore.
 
-Poi tristezza. Lin aveva amato qualcuno, e aveva dovuto rinunciare a quel qualcuno. Aveva fatto una scelta impossibile, e aveva passato il resto della sua esistenza immortale a chiedersi se fosse stata quella giusta.
+Questa donna—la madre di James—parla di amore come di una malattia. Chiama gli eterosessuali "infetti", "breeder", "malati". Usa il linguaggio del Sistema come se fosse il suo. Come se non fosse stata lei stessa, un tempo, una di quelle persone che ora disprezza.
 
-E infine, qualcosa che non so come chiamare. Non comprensione—non sono sicura di comprendere Lin. Ma forse empatia. La consapevolezza che le persone fanno scelte terribili quando sono terrorizzate, e che il terrore non le rende malvagie. Solo umane.
+Ma è questo il punto, vero? Non lo fu mai davvero. Si convinse di essere stata malata. Si convinse che l'amore che provava per Mei era un errore, un difetto, una febbre da cui era guarita.
+
+La seconda volta ho provato pietà. Lin non era un mostro. Era una vittima. Il Sistema le aveva insegnato a odiare se stessa, e lei aveva obbedito. Aveva interiorizzato l'odio così profondamente che non riusciva più a distinguerlo dalla realtà.
+
+La terza volta ho provato terrore. Perché ho capito: questo è ciò che mi succederebbe se mi scoprissero. Questa è la persona che diventerei dopo la rieducazione. Qualcuno che chiama l'amore una malattia. Qualcuno che ringrazia il Sistema per averla "salvata".
 
 ---
 
 C'è un dettaglio nella lettera che mi ossessiona.
 
-Lin scrive: *"L'amore che provavo per tuo padre—per Marco—non è sempre stato quello che è adesso."*
+Lin scrive: *"A volte, nelle notti silenziose, ricordo quella malattia. Come un'eco lontana."*
 
-Non dice che ama Marco. Dice che l'amore che prova per lui è diverso da quello che provava per Mei. Più sicuro, forse. Più accettabile. Ma diverso.
+Un'eco. Dopo decenni. Dopo tutta la propaganda, tutta la rieducazione, tutto l'odio interiorizzato. L'amore per Mei è ancora lì, da qualche parte, sepolto sotto strati di vergogna e negazione.
 
-Mi chiedo se James abbia capito. Mi chiedo se, leggendo questa lettera, abbia visto sua madre sotto una luce diversa. Non come una donna conformista, ma come una donna che aveva amato e perso, e che aveva passato il resto della vita a convincersi di aver fatto la cosa giusta.
+Il Sistema non riesce a cancellare davvero ciò che siamo. Può solo insegnarci a odiarlo.
 
-Mi chiedo se questo l'abbia reso più determinato a non fare la stessa scelta.
+Mi chiedo se James abbia capito. Mi chiedo se, leggendo questa lettera, abbia visto il destino che lo aspettava se si fosse arreso. Non la morte—quella sarebbe stata più misericordiosa. Ma la trasformazione. Diventare come sua madre. Chiamare Kate una "malattia" e ringraziare il Sistema per averlo "guarito".
+
+Mi chiedo se questo l'abbia reso più determinato a fuggire.
 
 ---
 
@@ -101,12 +101,16 @@ Era un avvertimento.
 
 ---
 
-Non so cosa abbia pensato James quando ha letto queste parole—se le ha mai lette. Non so se abbia odiato sua madre per aver rinunciato all'amore, o se l'abbia capita, o se abbia provato entrambe le cose insieme.
+Non so cosa abbia pensato James quando ha letto queste parole—se le ha mai lette. Non so se abbia odiato sua madre per aver rinunciato all'amore, o se l'abbia compatita, o se abbia provato entrambe le cose insieme.
 
 So solo questo: James ha fatto la scelta opposta.
 
-Ha scelto l'amore invece della sopravvivenza. Ha scelto Kate invece dell'immortalità. Ha scelto di vivere davvero, anche se questo significava rischiare di morire.
+Ha scelto l'amore invece della "guarigione". Ha scelto Kate invece dell'immortalità. Ha scelto di vivere davvero, anche se questo significava rischiare di morire. Anche se questo significava essere chiamato "infetto" da sua stessa madre.
 
-E guardando i documenti che ho davanti—le mappe, i piani, i preparativi per la fuga—mi chiedo se Lin avrebbe approvato.
+E guardando i documenti che ho davanti—le mappe, i piani, i preparativi per la fuga—provo una strana certezza.
 
-O se avrebbe pianto, sapendo che suo figlio stava per fare esattamente ciò che lei non aveva avuto il coraggio di fare.
+Lin avrebbe pianto. Avrebbe chiamato suo figlio "malato". Avrebbe pregato il Sistema di "salvarlo".
+
+Ma da qualche parte, in quella notte silenziosa, in quell'eco lontana di cui parla nella lettera—forse una parte di lei avrebbe capito.
+
+Forse una parte di lei l'avrebbe invidiato.

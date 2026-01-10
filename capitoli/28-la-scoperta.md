@@ -2,15 +2,15 @@
 
 Arrivarono all'alba.
 
-James si svegliò sentendo un rumore—un ronzio lontano che non avrebbe dovuto esserci. Aprì gli occhi e vide, attraverso la finestra, luci che si muovevano nel cielo.
+James si svegliò di scatto. Un ronzio lontano—un suono che non avrebbe dovuto esistere in quel luogo. Aprì gli occhi e vide, attraverso la finestra, luci che fendevano il cielo ancora buio.
 
-Droni.
+Droni. Una formazione intera.
 
-"Kate." La scosse, il cuore che martellava. "Kate, svegliati."
+"Kate." La scosse, il cuore che esplodeva nel petto. "Kate, svegliati."
 
 Lei aprì gli occhi immediatamente, l'istinto affinato da anni di fuga. Vide le luci e capì.
 
-"Alice," disse.
+"Alice," disse. Una sola parola. Un universo di terrore.
 
 Corsero nella stanza della bambina. Lei era già sveglia, seduta sul letto con il libro di poesie stretto al petto.
 
@@ -56,9 +56,9 @@ Il sole era alto quando finalmente si fermarono, nascosti in una grotta che Jame
 
 Kate si lasciò cadere a terra, esausta. James posò Alice, che non aveva detto una parola per tutto il tempo.
 
-"Stiamo bene?" chiese la bambina.
+"Stiamo bene?" domandò la bambina.
 
-"Stiamo bene," disse James. Ma non ne era sicuro.
+"Stiamo bene," rispose James. Ma non ne era sicuro. Non ne era affatto sicuro.
 
 ---
 
@@ -68,9 +68,9 @@ Non potevano accendere fuochi, non potevano fare rumore. Mangiarono le razioni f
 
 Alice fu incredibilmente coraggiosa. Non pianse, non si lamentò. Leggeva il libro di poesie alla luce che filtrava dall'ingresso della grotta, muovendo le labbra in silenzio.
 
-"Cosa stai leggendo?" le chiese Kate il secondo giorno.
+"Cosa stai leggendo?" le domandò Kate il secondo giorno.
 
-"La mia preferita," disse Alice. "Quella sulle mani."
+"La mia preferita," rispose Alice. "Quella sulle mani."
 
 Kate sorrise, nonostante tutto. "Quale?"
 
@@ -91,7 +91,7 @@ Il terzo giorno, James uscì a esplorare.
 
 Tornò ore dopo con notizie.
 
-"Il rifugio è stato distrutto," disse. "Hanno portato via tutti quelli che hanno trovato."
+"Il rifugio è stato distrutto," annunciò. "Hanno portato via tutti quelli che hanno trovato."
 
 Kate impallidì. "Marcus?"
 
@@ -99,7 +99,9 @@ Kate impallidì. "Marcus?"
 
 Un silenzio pesante calò nella grotta. Kate pensò a tutti gli amici che avevano fatto negli anni. A Mira, l'amica di Alice. Alle donne che le avevano insegnato a partorire. A tutti quelli che avevano condiviso la loro vita.
 
-"Dove andiamo adesso?" chiese.
+Dov'erano adesso? Nei campi di rieducazione? Nelle fosse comuni delle Zone Orientali?
+
+"Dove andiamo adesso?" domandò.
 
 "C'è un altro rifugio," disse James. "A nord-est. Due giorni di cammino. Se è ancora intatto..."
 
@@ -113,15 +115,15 @@ Il viaggio fu lungo e difficile.
 
 Alice camminava da sola ormai—era troppo grande per essere portata in braccio per ore. Ma non si lamentava. Metteva un piede davanti all'altro, lo zaino sulle spalle, il libro sempre a portata di mano.
 
-"Papà?" chiese la prima notte, mentre si riposavano nascosti tra le rovine di un vecchio edificio.
+"Papà?" domandò la prima notte, mentre si riposavano nascosti tra le rovine di un vecchio edificio.
 
 "Sì?"
 
 "Mira sta bene?"
 
-James non sapeva cosa rispondere. Non voleva mentire, ma non voleva nemmeno togliere ogni speranza.
+James non sapeva cosa rispondere. Non voleva mentire, ma non voleva nemmeno spegnere ogni speranza.
 
-"Non lo so, tesoro. Ma spero di sì."
+"Non lo so, piccola. Ma spero di sì."
 
 Alice annuì. "Anch'io. Le ho promesso che ci saremmo riviste."
 
@@ -139,7 +141,7 @@ Era più piccolo del primo, nascosto in una vallata tra due colline. Ma era inta
 
 Era una donna anziana, con capelli bianchi e occhi che avevano visto troppo.
 
-"Chen-Rossi?" chiese.
+"Chen-Rossi?" domandò.
 
 "Sì."
 
@@ -159,9 +161,9 @@ Lui alzò lo sguardo. I suoi occhi erano vuoti, spenti.
 
 Kate si sedette accanto a lui. Non chiese chi era stato preso. Non voleva sapere. Non ancora.
 
-"Cosa facciamo adesso?" chiese invece.
+"Cosa facciamo adesso?" domandò invece.
 
-Marcus scosse la testa. "Non lo so. Per la prima volta... non lo so."
+Marcus scosse la testa. "Non lo so. Per la prima volta in vent'anni di resistenza... non lo so."
 
 ---
 
@@ -173,7 +175,7 @@ Ora non sembrava più possibile niente.
 
 Kate lo raggiunse dopo un po'. Si sedette accanto a lui in silenzio.
 
-"Pensi che sia finita?" chiese.
+"Pensi che sia finita?" domandò.
 
 "Non lo so."
 
@@ -183,7 +185,7 @@ James non rispose. Voleva crederle. Voleva credere che ci fosse ancora speranza,
 
 Ma era difficile. Così difficile.
 
-"Alice sta dormendo?" chiese.
+"Alice sta dormendo?" domandò.
 
 "Sì. Ha pianto un po', per Mira. Ma poi si è addormentata."
 
@@ -195,8 +197,10 @@ James la guardò—questa donna incredibile che aveva amato per vent'anni. Che a
 
 "No," disse alla fine. "Non smetteremo mai."
 
-Si abbracciarono, sotto le stelle. E in quell'abbraccio, nonostante tutto, James trovò qualcosa.
+Si abbracciarono, sotto le stelle. E in quell'abbraccio, nonostante tutto, James trovò una forza che credeva perduta.
 
 Non era speranza. Non ancora.
 
-Ma era un inizio.
+Ma era un inizio. E gli inizi, a volte, sono tutto ciò che serve.
+
+Dentro il rifugio, Alice dormiva con il libro stretto al petto. E nei suoi sogni, forse, vedeva un futuro che i suoi genitori non osavano nemmeno immaginare.

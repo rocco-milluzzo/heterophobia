@@ -134,6 +134,40 @@ James attraversò la stanza e si sedette accanto a lei. Le prese la mano, intrec
 
 Restarono così, in silenzio, mentre le luci si abbassavano e il momento si avvicinava.
 
+Ma il silenzio non bastava. Non quella notte. Non l'ultima notte.
+
+Kate si voltò verso di lui. I loro sguardi si incontrarono nel buio crescente—e in quegli occhi lei vide tutto ciò che lui non riusciva a dire. La paura. La determinazione. L'amore così profondo che faceva male.
+
+"James," sussurrò.
+
+Lui la baciò prima che potesse dire altro. Un bacio che parlava di tutto ciò che stavano per perdere, di tutto ciò che speravano di trovare. Kate rispose con la stessa fame—le mani che cercavano la sua pelle, il suo calore, la sua solidità.
+
+"Potrebbe essere l'ultima volta," mormorò lui contro le sue labbra. "Prima di..."
+
+"Allora facciamola durare."
+
+Lo guidò verso il divano. Lo spinse dolcemente indietro e si sedette sopra di lui, i corpi che si cercavano con la disperazione di chi sa che il tempo sta finendo.
+
+Si spogliarono lentamente, assaporando ogni centimetro di pelle rivelata. Le mani di Kate tracciavano mappe sul petto di James, memorizzando ogni muscolo, ogni cicatrice, ogni battito del cuore. Le sue labbra seguivano le mani—il collo, la spalla, il petto, più giù.
+
+"Kate..." Il suo nome uscì come un gemito.
+
+Lei risalì e lo guardò negli occhi. In quel momento non esisteva nient'altro. Non il Sistema, non la fuga, non il terrore. Solo loro due. Solo questo.
+
+"Guardami," disse. "Non chiudere gli occhi. Guardami mentre ti amo."
+
+E lui obbedì.
+
+Si amarono con una lentezza deliberata, prolungando ogni istante. Kate si muoveva sopra di lui con un ritmo che li portava entrambi al limite, solo per rallentare, per ricominciare, per far durare il più a lungo possibile ciò che poteva essere l'ultima volta.
+
+Quando finalmente si lasciarono andare—insieme, sempre insieme—fu come morire e rinascere nello stesso respiro. Kate sentì le lacrime scorrere mentre il piacere la attraversava, e non sapeva se fossero lacrime di gioia o di paura o di qualcosa che non aveva nome.
+
+Restarono abbracciati a lungo dopo, i corpi sudati, i cuori che rallentavano. La pancia di Kate premeva dolcemente contro il fianco di James—la vita che avevano creato, stretta tra i loro corpi.
+
+"Qualunque cosa succeda stanotte," sussurrò Kate, "sappi che ne è valsa la pena. Tutto. Ogni momento. Ogni rischio."
+
+James le baciò la fronte. "Lo so," rispose. "Lo so."
+
 ---
 
 Alle venti e trenta, si alzarono.
@@ -152,8 +186,28 @@ James aprì la porta. Il corridoio era deserto, le luci basse, i sensori in moda
 
 Uscirono.
 
-E per la prima volta in vita sua, James non guardò le telecamere.
+Per la prima volta in vita sua, James non guardò le telecamere. Non controllò i sensori. Non contò i secondi tra un'ispezione e l'altra.
 
 Non gli importava più.
 
-Stava andando a vivere.
+Il corridoio era silenzioso, le luci basse, l'aria ferma. Sembrava che il Complesso stesso trattenesse il respiro.
+
+Ma a metà del corridoio, un rumore. Passi. Voci.
+
+James si bloccò. Kate gli strinse la mano.
+
+I passi si avvicinarono. Una porta si aprì. Due agenti del Dipartimento di Conformità apparvero all'angolo.
+
+Per un istante eterno, nessuno si mosse.
+
+Poi uno degli agenti alzò il comunicatore.
+
+"Centrale, qui pattuglia 7-B. Abbiamo un avvistamento. Due individui nel corridoio residenziale. Richiedo conferma identità."
+
+James sentì il sangue gelarsi.
+
+Kate gli strinse la mano più forte.
+
+E poi fecero l'unica cosa che potevano fare.
+
+Corsero.

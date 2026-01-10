@@ -4,7 +4,7 @@
 
 Corsi.
 
-Corsi come non avevo mai corso in vita mia. Con Alice aggrappata alla mia mano, le gambe che bruciavano, i polmoni che gridavano per l'aria. Corsi senza voltarmi, senza pensare, senza nient'altro che l'istinto di sopravvivenza.
+Corsi come non avevo mai corso in vita mia. Con Alice aggrappata alla mia mano. Le gambe che bruciavano. I polmoni che gridavano per l'aria. Corsi senza voltarmi, senza pensare. Solo l'istinto di sopravvivenza.
 
 Dietro di me, sentii James gridare qualcosa. Poi il rumore dei veicoli che si fermavano. Poi silenzio.
 
@@ -12,15 +12,15 @@ Non mi voltai.
 
 ---
 
-"Mamma, papà—"
+"Mamma, papà..."
 
-"Non parlare." La mia voce era dura, più dura di quanto avessi mai usato con lei. "Corri."
+"Non parlare." La mia voce era dura. Piu dura di quanto avessi mai usato con lei. "Corri."
 
 Alice corse.
 
-Il bosco era un labirinto di alberi e ombre, di radici sporgenti e rami bassi. Inciampai più volte, mi rialzai, continuai. Alice mi seguiva, silenziosa, obbediente, terrorizzata.
+Il bosco era un labirinto di alberi e ombre. Radici sporgenti. Rami bassi. Inciampai piu volte, mi rialzai, continuai. Alice mi seguiva. Silenziosa. Obbediente. Terrorizzata.
 
-Potevo sentire i droni sopra di noi. Il loro ronzio era costante, inesorabile. Ci stavano seguendo. Sapevano esattamente dove eravamo.
+I droni erano sopra di noi. Il loro ronzio costante, inesorabile. Ci stavano seguendo. Sapevano esattamente dove eravamo.
 
 Ma non potevano fermarci. Non ancora.
 
@@ -130,23 +130,23 @@ Non potei negarlo.
 
 ---
 
-Quella notte—se era notte, là sotto—Alice pianse per la prima volta.
+Quella notte Alice pianse per la prima volta.
 
-Non singhiozzi rumorosi, non grida di dolore. Solo lacrime silenziose che le scorrevano sulle guance, mentre fissava il buio davanti a sé.
+Non singhiozzi rumorosi, non grida di dolore. Solo un pianto silenzioso che le scuoteva le spalle mentre fissava il buio davanti a se.
 
-La tenni stretta. Non dissi niente, perché non c'era niente da dire. Non c'erano parole che potessero consolare quella perdita, quel dolore. C'era solo il mio abbraccio, il mio calore, la mia presenza.
+La tenni stretta. Non dissi niente. Non c'era niente da dire. Non c'erano parole che potessero consolare quella perdita. C'era solo il mio abbraccio. Il mio calore. La mia presenza.
 
-"Mi mancherà," sussurrò Alice. "Mi mancherà per sempre."
+"Mi manchera," sussurro Alice. "Mi manchera per sempre."
 
 "Anche a me."
 
 "Come faremo senza di lui?"
 
-"Non lo so." Era la verità. Non sapevo come avremmo fatto. James era stato il mio compagno per vent'anni, la mia roccia, il mio porto sicuro. Senza di lui, mi sentivo persa.
+"Non lo so." Era la verita. Non sapevo come avremmo fatto. James era stato il mio compagno per vent'anni. La mia roccia. Il mio porto sicuro. Senza di lui, mi sentivo persa.
 
 Ma non potevo permettermi di essere persa. Non con Alice che aveva bisogno di me.
 
-"Andremo avanti," dissi. "È quello che avrebbe voluto."
+"Andremo avanti. E quello che avrebbe voluto."
 
 ---
 
@@ -170,9 +170,9 @@ La domanda mi colpì come un pugno allo stomaco. Non sapevo cosa rispondere. Vol
 
 "Come fai a saperlo?"
 
-"Perché non arrendersi è tutto quello che sappiamo fare." La guardai negli occhi. "Tuo padre ce lo ha insegnato. Non arrendersi. Mai."
+"Perché non arrendersi e tutto quello che sappiamo fare." La guardai negli occhi. "Tuo padre ce lo ha insegnato. Non arrendersi. Mai."
 
-Alice annuì lentamente. Non era una risposta, non davvero. Ma era qualcosa.
+Alice annui lentamente. Non era una risposta. Ma era qualcosa.
 
 ---
 
@@ -192,7 +192,7 @@ Due giorni. Due giorni senza James. Due giorni senza sapere se fosse vivo o mort
 
 Ma non avevamo scelta.
 
-"Andiamo," dissi.
+"Andiamo."
 
 ---
 
@@ -202,7 +202,7 @@ Era Alice.
 
 "Mamma?"
 
-"Sì?"
+"Si?"
 
 "Grazie."
 
@@ -212,9 +212,7 @@ Era Alice.
 
 La strinsi a me. Mia figlia, che aveva perso suo padre quella mattina. Mia figlia, che camminava verso un futuro incerto con una forza che non sapevo di averle insegnato.
 
-"Mai," dissi. "Non mi arrenderò mai."
+"Mai," dissi. "Non mi arrendero mai."
 
 Era una promessa. A lei. A me stessa. A James, ovunque fosse.
-
-*Non mi arrenderò mai.*
 

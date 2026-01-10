@@ -4,25 +4,25 @@ Marcus li ricevette nella sua stanza quella sera.
 
 Era un luogo spartano—un letto, un tavolo, qualche sedia. Ma sulle pareti c'erano mappe, appunti, fotografie. Il centro operativo di una resistenza che James non sapeva esistesse.
 
-"Quindi volete entrare nella rete," disse Marcus, studiandoli con attenzione.
+"Quindi volete entrare nella rete," affermò Marcus, studiandoli con attenzione.
 
-"Vogliamo sapere cos'è," disse Kate. "E cosa potremmo fare."
+"Vogliamo sapere cos'è," rispose Kate. "E cosa potremmo fare."
 
 Marcus annuì lentamente. Si sedette e indicò loro le sedie.
 
 "La rete esiste da vent'anni," iniziò. "È nata dopo il Divieto, quando alcuni di noi hanno capito che scappare non bastava. Che per cambiare davvero le cose, serviva qualcuno dentro."
 
-"Dentro il Sistema?" chiese James.
+"Dentro il Sistema?" domandò James.
 
-"Esattamente. Persone normali—archivisti, medici, funzionari. Gente che fa il suo lavoro, che segue le regole, ma che in segreto..." Marcus sorrise. "In segreto resiste."
+"Esattamente. Persone normali—archivisti, medici, funzionari. Gente che svolge il suo lavoro, che segue le regole, ma che in segreto..." Marcus sorrise. "In segreto resiste."
 
-"Resistono come?"
+"Come resistono?"
 
 "Depistando indagini. Falsificando documenti. Facendo sparire persone che altrimenti sarebbero state catturate." Marcus li guardò. "La vostra amica Yuki, per esempio. È una delle nostre da anni."
 
 James pensò a Yuki—alla sua espressione quando gli aveva dato il jammer, alla nota che aveva mandato. Aveva rischiato tutto, per anni, senza che loro lo sapessero.
 
-"Cosa volete da noi?" chiese Kate.
+"Cosa volete da noi?" domandò Kate.
 
 "Per ora, niente. Siete al sicuro qui. La vostra storia è importante—dimostra che è possibile. Che si può amare, avere figli, vivere davvero, nonostante tutto." Marcus si sporse in avanti. "Ma un giorno potremmo aver bisogno di voi. Di testimoniare. Di raccontare."
 
@@ -36,11 +36,11 @@ James pensò a Yuki—alla sua espressione quando gli aveva dato il jammer, alla
 
 Kate e James si guardarono. Era molto da processare—una rete segreta, una resistenza, la possibilità di cambiare le cose.
 
-"E Alice?" chiese Kate. "Che ruolo avrebbe lei?"
+"E Alice?" domandò Kate. "Che ruolo avrebbe lei?"
 
 "Nessuno, per ora. È una bambina. Ma un giorno..." Marcus sorrise. "Un giorno potrebbe essere la prova vivente che il Divieto è sbagliato. Che l'amore può creare vita, non distruggerla."
 
-James sentì qualcosa stringersi nel petto. Non voleva che sua figlia diventasse un simbolo. Voleva solo che fosse libera.
+James avvertì una morsa al petto. Non voleva che sua figlia diventasse un simbolo. Voleva solo che fosse libera.
 
 "Ci penseremo," disse Kate. "Abbiamo bisogno di tempo."
 
@@ -74,7 +74,7 @@ Quella sera, si sedettero con Alice.
 
 Lei li guardò con sospetto—sapeva che stava per succedere qualcosa di importante. Era sempre stata brava a leggere i suoi genitori.
 
-"Tesoro," iniziò Kate. "Dobbiamo parlarti di alcune cose. Cose importanti."
+"Piccola," iniziò Kate. "Dobbiamo parlarti di alcune cose. Cose importanti."
 
 "Sul posto grande?"
 
@@ -119,3 +119,9 @@ James la abbracciò, trattenendo le lacrime.
 Sua figlia aveva nove anni. E già sapeva chi voleva essere.
 
 Era la cosa più bella e terrificante che avesse mai visto.
+
+Fuori, le stelle brillavano indifferenti. Ma per la prima volta in anni, James percepiva una luce anche dentro di sé. Una luce fragile, incerta, ma reale.
+
+Forse non era troppo tardi. Forse il mondo poteva ancora cambiare.
+
+Forse sua figlia sarebbe stata quella che lo avrebbe cambiato.

@@ -4,7 +4,7 @@
 
 Quella mattina mi svegliai con la sensazione che qualcosa fosse diverso.
 
-Non saprei dire cosa—il rifugio era tranquillo come sempre, il sole filtrava dalle crepe nel soffitto come ogni mattina, i suoni della vita quotidiana riempivano l'aria come ogni giorno. Eppure c'era qualcosa. Un formicolio sulla pelle, una tensione nell'aria.
+Non saprei dire cosa. Il rifugio era tranquillo come sempre, il sole filtrava dalle crepe nel soffitto come ogni mattina, i suoni della vita quotidiana riempivano l'aria come ogni giorno. Eppure c'era qualcosa. Un formicolio sulla pelle. Una tensione nell'aria.
 
 O forse sono io che ricostruisco il passato con il senno del poi. Forse quella mattina ero semplicemente felice, e sto cercando di trovare presagi dove non ce n'erano.
 
@@ -12,7 +12,7 @@ O forse sono io che ricostruisco il passato con il senno del poi. Forse quella m
 
 James era già sveglio quando aprii gli occhi.
 
-Lo trovai seduto sul bordo del letto, che guardava Alice dormire. Nostra figlia aveva quindici anni ormai—non più una bambina, quasi una donna. Ma nel sonno sembrava ancora la piccola che ci stringeva la mano durante i temporali, che chiedeva storie prima di addormentarsi, che sorrideva con gli occhi di suo padre.
+Lo trovai seduto sul bordo del letto, che guardava Alice dormire. Nostra figlia aveva quindici anni ormai. Non più una bambina, quasi una donna. Ma nel sonno sembrava ancora la piccola che ci stringeva la mano durante i temporali, che chiedeva una fiaba prima di addormentarsi, che sorrideva con gli occhi di suo padre.
 
 "A cosa pensi?" gli chiesi, alzandomi per sedermi accanto a lui.
 
@@ -20,7 +20,7 @@ Lo trovai seduto sul bordo del letto, che guardava Alice dormire. Nostra figlia 
 
 "Bugiardo."
 
-James sorrise—un sorriso stanco, ma vero. "Penso a quanto è cresciuta. Penso a tutto quello che abbiamo vissuto per arrivare fin qui." Mi guardò. "Penso che sono grato. Per ogni giorno che abbiamo avuto."
+James sorrise. Un sorriso stanco, ma vero. "Penso a quanto è cresciuta. Penso a tutto quello che abbiamo vissuto per arrivare fin qui." Mi guardò. "Penso che sono grato. Per ogni giorno che abbiamo avuto."
 
 Gli presi la mano. "Anch'io."
 
@@ -80,7 +80,7 @@ James fu il primo a entrare in acqua. Lo guardai tuffarsi, emergere sbuffando pe
 
 "Bugiardo!" rise Alice, ma si tolse i vestiti e si tuffò lo stesso.
 
-Li guardai giocare—mio marito e mia figlia, che ridevano e si schizzavano e per un momento dimenticavano tutto il resto. Il Sistema, la fuga, la paura costante. Per un momento erano solo un padre e una figlia al fiume, in una giornata d'estate.
+Li guardai giocare. Mio marito e mia figlia, che ridevano e si schizzavano e per un momento dimenticavano tutto il resto. Il Sistema, la fuga, la paura costante. Per un momento erano solo un padre e una figlia al fiume, in una giornata d'estate.
 
 Poi Alice mi chiamò.
 
@@ -110,7 +110,7 @@ Sentii gli occhi pizzicare. Mia figlia, che mi ringraziava per averle dato una v
 
 "Non devi ringraziarmi," dissi. "Avresti meritato di più."
 
-"No." Alice scosse la testa. "Ho avuto esattamente quello che serviva. Ho avuto te. Ho avuto papà. Ho avuto l'amore." Mi guardò, e nei suoi occhi vidi qualcosa di così adulto, così saggio, che mi tolse il fiato. "È più di quanto abbia la maggior parte delle persone."
+"No." Alice scosse la testa. "Ho avuto esattamente quello che serviva. Ho avuto te. Ho avuto papà." Mi guardò, e nei suoi occhi vidi qualcosa di così adulto, così saggio, che mi tolse il fiato. "È più di quanto abbia la maggior parte delle persone."
 
 La strinsi a me. Non dissi niente. Non c'era bisogno.
 
@@ -136,7 +136,7 @@ Quella sera, al rifugio, ci fu una piccola festa.
 
 Non so perché—forse perché qualcuno aveva trovato delle bacche selvatiche, forse perché era l'anniversario di qualcosa che non ricordo, forse semplicemente perché qualcuno sentiva il bisogno di celebrare. Nel nostro mondo, le ragioni per festeggiare erano rare.
 
-Mangiammo e ridemmo e cantammo. James suonò la chitarra—una vecchia chitarra scassata che aveva trovato anni prima e riparato con pazienza. Cantò canzoni del prima, canzoni d'amore che il Sistema aveva bandito, melodie che parlavano di mani che si toccano e cuori che battono all'unisono.
+Mangiammo e ridemmo e cantammo. James suonò la chitarra. Una vecchia chitarra scassata che aveva trovato anni prima e riparato con pazienza. Cantò canzoni del prima, melodie che il Sistema aveva bandito. Parole che parlavano di mani che si cercano, di respiri che si mescolano, di corpi che si riconoscono nel buio.
 
 Alice lo ascoltava con gli occhi lucidi.
 
@@ -146,37 +146,51 @@ E lo era. In quel momento, in quella stanza piena di rifugiati e speranze e musi
 
 ---
 
-Quella notte, prima di dormire, James e io restammo svegli a parlare.
+Quella notte, dopo che Alice si fu addormentata, James venne da me.
 
-"Ho un brutto presentimento," disse a bassa voce, perché Alice dormiva nella stanza accanto.
+Non disse niente. Si sdraiò accanto a me nel buio, e le sue mani trovarono il mio viso. Le sue dita tracciarono i contorni delle mie guance, delle mie labbra, della linea della mascella. Come se volesse memorizzarmi. Come se avesse paura di dimenticare.
+
+"Ho un brutto presentimento," sussurrò.
 
 "Anch'io."
 
+Le sue mani scesero lungo il mio collo, sulle mie spalle. Lente. Deliberate. Ogni tocco era una domanda, e il mio corpo rispondeva inclinandosi verso di lui, cercandolo.
+
 "Domani dovremmo..."
 
-"Sì."
+"Domani," risposi. "Non adesso."
 
-Non avevamo bisogno di finire le frasi. Dopo tutti quegli anni, sapevamo cosa pensava l'altro. Domani avremmo controllato i percorsi di fuga. Domani avremmo parlato con Marcus. Domani avremmo preparato tutto per una eventuale partenza improvvisa.
+Lo attirai a me. Le nostre labbra si incontrarono, e per un momento il mondo fuori smise di esistere. Non c'erano droni, non c'erano Controllori, non c'era il Sistema con le sue regole e i suoi divieti. C'erano solo le nostre mani che si cercavano, i nostri respiri che si mescolavano, il calore dei nostri corpi che si riconoscevano dopo vent'anni come se fosse la prima volta.
 
-Ma domani era lontano. E quella notte, per l'ultima volta, eravamo al sicuro.
+James mi spogliò lentamente. Non c'era fretta. Quella notte il tempo ci apparteneva.
 
-"Ti amo," disse James.
+Le sue labbra percorsero la mia pelle. La curva del collo, la linea delle clavicole, il punto dove il cuore batteva sotto le costole. Chiusi gli occhi e mi lasciai andare alle sensazioni. Il suo peso su di me. Il calore del suo corpo. Il modo in cui i nostri respiri si sincronizzavano.
 
-Erano parole che non diceva spesso—non perché non le provasse, ma perché per lui l'amore era qualcosa che si dimostrava, non si dichiarava. Ma quella notte le disse. Come se sapesse.
+Quando ci unimmo, fu come tornare a casa.
 
-"Ti amo anch'io," risposi.
+Non ci fu violenza, non ci fu urgenza. Solo una lentezza deliberata, un'attenzione a ogni movimento, a ogni sospiro. Le sue mani intrecciate alle mie. I suoi occhi nei miei. Un ritmo antico che i nostri corpi conoscevano a memoria.
 
-Ci addormentammo abbracciati, mentre fuori le stelle brillavano su un mondo che presto sarebbe cambiato per sempre.
+In quel momento capii perché il Sistema temeva questo. Non il sesso in sé. Ma l'intimità. La vulnerabilità. Il modo in cui due persone potevano guardarsi negli occhi e vedere qualcosa di più grande di loro stesse. Qualcosa che nessuna legge poteva controllare.
+
+Dopo, restammo abbracciati nel buio. Il sudore si asciugava sulla nostra pelle. I nostri cuori rallentavano insieme.
+
+"Ti amo," disse James. Parole che non diceva spesso. Non perché non le provasse, ma perché per lui erano troppo importanti per essere sprecate.
+
+"Ti amo anch'io."
+
+Quella notte dormimmo avvinghiati, le sue braccia strette intorno a me come se non volesse lasciarmi andare mai. Come se sapesse.
+
+Fuori, le stelle brillavano su un mondo che presto sarebbe cambiato per sempre.
 
 ---
 
 Non potevamo sapere che quella era l'ultima notte.
 
-Non potevamo sapere che all'alba i droni avrebbero sorvolato il rifugio, che i Controllori sarebbero arrivati poche ore dopo, che tutto quello che avevamo costruito sarebbe crollato.
+Non potevamo sapere che all'alba i droni avrebbero sorvolato il rifugio. Che i Controllori sarebbero arrivati poche ore dopo. Che tutto quello che avevamo costruito sarebbe crollato.
 
 Ma forse, in qualche modo, lo sapevamo.
 
-Forse è per questo che quel giorno è così vivido nella mia memoria. Il fiume, il nuoto, la musica. Gli occhi di Alice quando guardava suo padre cantare. La mano di James nella mia, quella notte, che stringeva come se non volesse lasciarmi andare mai.
+Forse è per questo che quel giorno è così vivido nella mia memoria. Il fiume. La musica. Gli occhi di Alice quando guardava suo padre cantare. Le mani di James sulla mia pelle, quella notte. Il suo respiro nel mio collo. Il modo in cui mi ha tenuta stretta fino all'alba, come se potesse proteggermi dal futuro.
 
 È stato il nostro ultimo giorno insieme.
 

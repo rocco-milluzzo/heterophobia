@@ -2,7 +2,9 @@
 
 Dopo quella sera sulla panchina, James cominciò a inventarsi pretesti.
 
-Non poteva avvicinarsi a Kate senza un motivo. Le telecamere registravano tutto, gli algoritmi analizzavano i pattern comportamentali, e due studenti di sesso diverso che si parlavano troppo spesso avrebbero fatto scattare un allarme. Niente di grave—solo una nota, un colloquio con il consulente scolastico, domande a cui non avrebbe saputo rispondere.
+Non poteva avvicinarsi a Kate senza un motivo. Le telecamere registravano tutto, gli algoritmi analizzavano i pattern comportamentali, e due studenti di sesso diverso che si parlavano troppo spesso avrebbero fatto scattare un allarme. Prima una nota. Poi un colloquio con il consulente scolastico. Poi le domande—*Provi attrazione? Hai pensieri riproduttivi? Sai che cosa succede a chi non si fa curare?*
+
+Certo che lo sapeva. Tutti lo sapevano. Le immagini dei centri di rieducazione venivano trasmesse ogni settimana, a scopo "educativo". Volti vuoti, sorrisi forzati, voci monotone che recitavano: *Sono guarito. Sono grato al Sistema per avermi salvato.*
 
 Ma i pretesti esistevano, se sapevi dove cercarli.
 
@@ -54,11 +56,17 @@ All'inizio solo del progetto. Delle "relazioni interpersonali prima del Divieto"
 
 Poi le conversazioni iniziarono a cambiare.
 
-"Mia nonna dice che una volta le persone si sposavano per amore," disse Kate una sera, seduta sulla scala di emergenza abbracciandosi le ginocchia. "Immagina. Scegliere qualcuno e promettergli di restare insieme per sempre."
+"Mia nonna dice che una volta le persone si sposavano per amore," mormoro Kate una sera, seduta sulla scala di emergenza abbracciandosi le ginocchia. "Immagina. Scegliere qualcuno e promettergli di restare insieme per sempre."
 
-"Per sempre era più breve, allora," rispose James. "Cinquant'anni, sessanta al massimo."
+"Per sempre era piu breve, allora," rispose James. "Cinquant'anni, sessanta al massimo."
 
-"Ma era comunque per sempre. Per il tempo che avevano."
+"Ma era comunque per sempre. Per il tempo che avevano." Kate abbasso la voce ancora di piu. "Mia nonna mi ha raccontato di sua figlia. Di mia madre. E stata portata via quando io avevo tre anni. Perche amava mio padre. Perche voleva stare con lui."
+
+James senti il sangue gelarsi. "E tuo padre?"
+
+"Esiliato. Nelle Zone. Non so nemmeno se sia ancora vivo." Gli occhi di Kate brillavano nell'ombra. "E per questo che devo stare attenta. Se scoprono che sono figlia di *infetti*..."
+
+Non fini la frase. Non ce n'era bisogno.
 
 James annuì. Stava guardando le sue mani, non lei. Aveva paura di quello che avrebbe visto nei suoi occhi se l'avesse guardata.
 
@@ -122,11 +130,15 @@ Il vecchio sorrise. "Perché sceglievamo ogni giorno di provarci. Anche quando e
 
 James rimase in silenzio. Pensava a Kate. A quello che provava quando la vedeva. A quello che avrebbe rischiato per rivederla ancora.
 
-"Nonno," disse piano. "Cosa fai quando sai che è sbagliato? Quando tutti ti dicono che è una malattia, che devi curarti, che stai mettendo in pericolo te stesso e gli altri?"
+"Nonno," sussurro. "Che cosa fai quando sai che e sbagliato? Quando tutti ti dicono che e una malattia, che devi curarti, che stai mettendo in pericolo te stesso e gli altri?"
 
-Enzio lo guardò a lungo. C'era tristezza nei suoi occhi, ma anche qualcos'altro. Qualcosa che somigliava alla speranza.
+Enzio lo guardo a lungo. C'era tristezza nei suoi occhi, ma anche un altro sentimento. Un luccichio che somigliava alla speranza.
 
-"Quello che fa chiunque sia mai stato davvero innamorato," disse. "Ti chiedi se vale la pena. E poi scegli comunque."
+"Quello che fa chiunque sia mai stato davvero innamorato," rispose. "Ti chiedi se vale la pena. E poi scegli comunque."
+
+Si alzo e ando alla finestra, guardando fuori verso il cielo grigio.
+
+"Ho visto cose che non ti ho mai raccontato, James. Ho visto le retate del '78. Ho visto i miei vicini trascinati via nel cuore della notte perche si amavano. Ho visto i furgoni bianchi, le uniformi, i volti di chi non tornava mai." Si volto verso il nipote. "E ho visto anche l'amore resistere. Nonostante tutto. Nonostante il terrore."
 
 Si alzò e scomparve in un'altra stanza. Quando tornò, aveva in mano un libro.
 
@@ -148,20 +160,28 @@ Kate sfogliò le pagine con delicatezza, come se avesse paura di romperle. Si fe
 
 Alzò gli occhi su James. Nella penombra del corridoio abbandonato, il suo viso era illuminato solo dalla luce che filtrava da una finestra lontana.
 
-"È bellissimo," disse.
+"E bellissimo," disse.
 
 "Lo so."
 
-"È anche illegale."
+"E anche illegale. Potrebbero mandarci in rieducazione solo per averlo toccato."
 
 "Lo so."
 
-Kate chiuse il libro e lo strinse al petto. "Perché me lo dai?"
+Kate chiuse il libro e lo strinse al petto. I suoi occhi erano lucidi.
 
-James si era immaginato mille risposte a quella domanda. Mille scuse, mille giustificazioni, mille modi per dire la verità senza dirla davvero.
+"Perche me lo dai?"
 
-Ma quando aprì la bocca, uscì solo una parola.
+James si era immaginato mille risposte a quella domanda. Mille scuse, mille giustificazioni, mille modi per dire la verita senza dirla davvero.
 
-"Perché."
+Ma quando apri la bocca, usci solo una parola.
+
+"Perche."
 
 Kate sorrise. E in qualche modo, fu abbastanza.
+
+Si guardarono nel buio del corridoio, il libro proibito stretto tra loro come un segreto. Come una promessa.
+
+Da qualche parte nel Complesso, un sensore registro un'anomalia termica. Due corpi troppo vicini, per troppo tempo, in un luogo non autorizzato. Una nota venne aggiunta ai loro fascicoli.
+
+Ma loro non lo sapevano. E anche se l'avessero saputo, in quel momento non gliene sarebbe importato nulla.

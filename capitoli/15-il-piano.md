@@ -122,15 +122,23 @@ James accumulò provviste un po' alla volta—razioni alimentari, medicine, attr
 
 Kate memorizzò la mappa, il percorso, i segnali di pericolo. Studiò tutto quello che poteva trovare sulle Zone Abbandonate—vecchi rapporti, testimonianze sparse, frammenti di informazione raccolti da fonti che non avrebbe dovuto consultare.
 
-E ogni notte, quando riuscivano a stare insieme, provavano.
+E ogni notte, quando riuscivano a stare insieme, i loro corpi cercavano ciò che le parole non potevano esprimere.
 
-Non era più solo amore. Era un atto di ribellione. Ogni volta che i loro corpi si univano, stavano sfidando tutto ciò in cui il Sistema credeva. Stavano dicendo al mondo: non ci avrete. Non ci controllerete. Non deciderete voi chi siamo.
+Non era più solo amore. Era ribellione allo stato puro.
+
+James la spogliava lentamente, come se ogni centimetro di pelle rivelata fosse una preghiera. Kate rispondeva con fame crescente, le mani che esploravano, le labbra che tracciavano sentieri proibiti lungo il suo collo, il suo petto, più giù.
+
+"Ti voglio," gli sussurrava nell'orecchio, e quella semplice frase era più sovversiva di qualsiasi manifesto politico. "Ti voglio dentro di me. Voglio che tu mi faccia tua."
+
+E lui obbediva. La prendeva con una passione che li lasciava entrambi senza fiato, i corpi intrecciati nel buio della stanza, i gemiti soffocati nei cuscini per non farsi sentire.
+
+Ogni volta che raggiungevano il piacere insieme, stavano dicendo al mondo: non ci avrete. Non ci controllerete. Non deciderete voi chi siamo e chi possiamo amare.
 
 Era terrificante.
 
 Era esaltante.
 
-Era l'unica cosa vera che avessero mai fatto.
+Era l'unica libertà che conoscessero.
 
 ---
 
@@ -160,6 +168,24 @@ Kate chiuse gli occhi e lasciò che le lacrime scorressero.
 
 E in quel momento, in quel bagno stretto con un test obsoleto tra le mani e il futuro più incerto che mai, Kate si sentì stranamente in pace.
 
-Avevano fatto la loro scelta.
+Avevano fatto la loro scelta. Ora portava dentro di sé la prova di quella scelta—una scintilla di vita che il Sistema avrebbe voluto spegnere.
 
-Ora dovevano solo sopravvivere alle conseguenze.
+Ma la pace durò solo un istante.
+
+Dalla tasca di James, un segnale acustico. Il suo comunicatore ufficiale.
+
+Lo estrasse con mani tremanti e lesse il messaggio. Il colore abbandonò il suo viso.
+
+"James? Cosa c'è?"
+
+Lui le mostrò lo schermo.
+
+*"Cittadino Chen-Rossi: convocazione immediata presso l'Ufficio di Conformità, Sezione Indagini. Ore 08:00. La mancata presentazione costituisce reato di primo grado."*
+
+Kate sentì il cuore fermarsi.
+
+L'Ufficio di Conformità. Sezione Indagini. Non era un controllo di routine.
+
+Era un interrogatorio.
+
+Il Sistema li aveva trovati.

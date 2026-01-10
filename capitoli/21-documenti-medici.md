@@ -2,9 +2,9 @@
 
 Ho trovato i referti medici in un fascicolo separato.
 
-Non erano negli archivi ufficiali—quelli non contenevano nulla su Alice Chen-Rossi Lindqvist, perché per il Sistema Alice non era mai esistita. Erano in un quaderno, scritti a mano con calligrafia incerta. Appunti di qualcuno che aveva assistito alla gravidanza senza avere una vera formazione medica.
+Non erano negli archivi ufficiali—quelli non contenevano nulla su Alice Chen-Rossi Lindqvist, perché per il Sistema Alice non era mai esistita. Giacevano in un quaderno dalla copertina consunta, vergati a mano con calligrafia incerta. Appunti di chi aveva assistito alla gravidanza senza formazione medica, armato solo di coraggio e disperazione.
 
-Li ho letti con il cuore in gola.
+Li ho letti trattenendo il respiro.
 
 ---
 
@@ -22,9 +22,9 @@ Mi sono fermata su quella riga per un tempo che non so misurare.
 
 *Il battito del bambino era irregolare quella notte.*
 
-Come potevo sapere questa sensazione? L'ansia di quelle ore, l'attesa nel buio, il sollievo quando il battito era tornato normale. Erano cose che solo qualcuno presente avrebbe potuto raccontare.
+Come potevo conoscere quella sensazione? L'ansia di quelle ore interminabili, l'attesa nel buio con le mani strette fino a far male, il sollievo travolgente quando il battito era tornato normale. Erano emozioni che solo chi era stato presente avrebbe potuto raccontare.
 
-Eppure le sentivo. Le sentivo come se fossero mie.
+Eppure le percepivo. Le riconoscevo nel profondo, come se fossero scolpite nelle mie ossa.
 
 ---
 
@@ -44,19 +44,19 @@ Ho continuato a leggere.
 
 Ho chiuso il quaderno.
 
-Le mani mi tremavano. Non sapevo perché. Erano solo appunti medici, annotazioni cliniche su una gravidanza avvenuta decenni fa. Non c'era niente di personale in quelle parole.
+Le mani mi tremavano. Non capivo perché. Erano solo appunti medici, annotazioni cliniche su una gravidanza avvenuta decenni fa. Non c'era nulla di personale in quelle parole.
 
 Eppure.
 
-Eppure sentivo qualcosa. Un'eco di qualcosa che non riuscivo a identificare. Come un ricordo che non sapevo di avere.
+Eppure percepivo un'eco. Un riverbero che non riuscivo a identificare, come un ricordo sepolto sotto strati di anni e silenzio.
 
 ---
 
 C'è un dettaglio che mi ossessiona.
 
-Il quaderno è scritto da diverse mani. All'inizio la calligrafia è incerta, quasi illeggibile—probabilmente qualcuno della comunità che non aveva mai fatto questo lavoro. Ma verso la fine cambia. Diventa più sicura, più precisa.
+Il quaderno è scritto da diverse mani. All'inizio la calligrafia è incerta, quasi illeggibile—probabilmente uno della comunità che non aveva mai svolto quel compito. Ma verso la fine cambia. Diventa più sicura, più precisa.
 
-E nell'ultima pagina, dopo l'annotazione sulla nascita, c'è qualcos'altro.
+E nell'ultima pagina, dopo l'annotazione sulla nascita, c'è dell'altro.
 
 Una poesia. Copiata a mano, con cura.
 
@@ -107,10 +107,10 @@ Fuori, il sole stava sorgendo. Un'altra giornata nell'eternità grigia del Siste
 
 Ma io non ero più la stessa.
 
-Qualcosa stava cambiando. Qualcosa che non capivo ancora, che non riuscivo a nominare.
+Un mutamento stava avvenendo in me. Una trasformazione che non capivo ancora, che non riuscivo a nominare.
 
-E mi chiedevo—sempre di più—se la risposta non fosse stata davanti a me fin dall'inizio.
-
-Se non l'avessi sempre saputa, in qualche modo.
+E mi domandavo—sempre più insistentemente—se la risposta non fosse stata davanti a me fin dall'inizio. Se non l'avessi sempre saputa, in un angolo nascosto del cuore.
 
 Se quelle parole nel quaderno—*mi chiedo se capirà*—non fossero state scritte per me.
+
+Il quaderno giaceva chiuso sulla scrivania, ma le sue pagine pulsavano come un cuore ancora vivo. E io avevo paura di quello che avrei scoperto continuando a scavare. Paura, e insieme un desiderio bruciante che non riuscivo a soffocare.

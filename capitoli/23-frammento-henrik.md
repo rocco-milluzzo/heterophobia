@@ -2,9 +2,9 @@
 
 Ho trovato il diario di Henrik Lindqvist per caso.
 
-Era nascosto in un doppio fondo di una scatola che conteneva vecchie fotografie—immagini sbiadite di persone che non riconosco, paesaggi che non esistono più. Il diario era sottile, le pagine ingiallite, la copertina consumata.
+Era nascosto in un doppio fondo di una scatola che conteneva vecchie fotografie—immagini sbiadite di persone che non riconosco, paesaggi che non esistono più. Il diario era sottile, le pagine ingiallite, la copertina consumata. Alcune pagine erano strappate, altre macchiate da gocce scure che potevano essere lacrime o sangue.
 
-Non avrei dovuto leggerlo. Era qualcosa di privato, di personale.
+Non avrei dovuto leggerlo. Era un documento privato, intimo.
 
 Ma non sono riuscita a fermarmi.
 
@@ -14,9 +14,63 @@ Ma non sono riuscita a fermarmi.
 
 *Kate è strana, ultimamente. Distratta. Esce spesso la sera, dice che va a studiare con le amiche. Ma non ho mai incontrato queste amiche. Non le ha mai portate a casa.*
 
-*Forse sono paranoico. Forse è solo una ragazza di ventitré anni che ha diritto alla sua privacy. Ma c'è qualcosa nei suoi occhi che mi preoccupa. Qualcosa che somiglia alla paura. O alla felicità. O a entrambe.*
+*Forse sono paranoico. Forse è solo una ragazza di ventitré anni che ha diritto alla sua privacy. Ma c'è una luce nei suoi occhi che mi preoccupa. Una luce che somiglia alla paura. O alla felicità. O a entrambe.*
 
 *Non so quale delle due mi spaventi di più.*
+
+---
+
+*Prima delle annotazioni più recenti, c'erano pagine diverse. Più vecchie. Ho dovuto leggerle.*
+
+---
+
+*18 novembre 2076*
+
+*Oggi hanno portato via i Bergman. Li chiamavano "breeder" per strada, sputavano sui loro bambini quando passavano. Ma erano brave persone. Arne lavorava con me. Sua moglie cucinava dolci per tutto il vicinato.*
+
+*Li hanno presi all'alba. Ho sentito le urla dalla mia finestra. Non sono sceso. Non ho fatto nulla.*
+
+*Dio mi perdoni, non ho fatto nulla.*
+
+---
+
+*3 febbraio 2077*
+
+*La propaganda è ovunque. I manifesti mostrano coppie etero come mostri, vampiri che succhiano risorse al pianeta. "L'amore egoistico genera morte" recitano. "Scegli l'immortalità, scegli di non riprodurre."*
+
+*Ieri sera ho visto un gruppo di giovani picchiare una donna incinta. La chiamavano "fattrice", "infetta". Nessuno è intervenuto. Nemmeno io.*
+
+*È questo che siamo diventati?*
+
+---
+
+*29 giugno 2077*
+
+*Marta è stata presa per la rieducazione. La mia Marta. La madre di Kate.*
+
+*L'hanno trovata con vecchie fotografie del nostro matrimonio. "Glorificazione del comportamento deviante", hanno detto. Sei mesi di rieducazione.*
+
+*Non è mai tornata la stessa. I suoi occhi sono vuoti adesso. Non parla più del passato. Non parla più di noi.*
+
+*Hanno ucciso la donna che amavo e l'hanno sostituita con un guscio vuoto.*
+
+---
+
+*15 dicembre 2078*
+
+*Il Divieto è legge. L'eterosessualità è ufficialmente un crimine.*
+
+*Marta non ha reagito quando l'ho detto. Ha solo annuito e ha continuato a fissare il muro. Quella notte si è addormentata senza una parola.*
+
+*Non l'ho mai più toccata. Non per mancanza di desiderio, ma per paura. Paura che vedessero. Paura che sapessero. Paura che portassero via anche lei, definitivamente.*
+
+*È morta tre anni dopo. Il suo cuore si è semplicemente fermato. I medici hanno detto che non c'era ragione fisica.*
+
+*Io so qual era la ragione. L'avevano già uccisa nel '77. Il suo corpo ha impiegato solo più tempo a capirlo.*
+
+---
+
+*Il diario proseguiva con annotazioni più recenti.*
 
 ---
 
@@ -52,9 +106,13 @@ Ma non sono riuscita a fermarmi.
 
 *Ma non ci riesco.*
 
-*Ogni volta che penso di farlo, vedo il viso di mia moglie. Ricordo cosa provavo per lei. Ricordo che quella non era una malattia—era la cosa più bella che mi fosse mai capitata.*
+*Ogni volta che penso di farlo, vedo il viso di mia moglie. Quello vero, prima della rieducazione. Ricordo i suoi occhi la mattina del nostro matrimonio. Ricordo come mi toccava la sera, come se fossi la cosa più preziosa del mondo.*
 
-*Non posso condannare mia figlia per qualcosa che ho provato anch'io.*
+*Ricordo cosa provavo per lei. E so che quella non era una malattia—era la cosa più bella che mi fosse mai capitata.*
+
+*Ho già visto cosa succede a chi viene "curato". Ho visto Marta tornare come un fantasma. Ho visto i Bergman sparire nel nulla. Ho visto le fosse comuni nelle Zone Orientali, quelle di cui nessuno parla.*
+
+*Non posso condannare mia figlia per qualcosa che ho provato anch'io. Non posso consegnarla a chi ha distrutto la donna che amavo.*
 
 *Ma non posso nemmeno proteggerla per sempre.*
 
@@ -173,13 +231,13 @@ Ma non sono riuscita a fermarmi.
 
 Ho chiuso il diario e non sono riuscita a smettere di piangere.
 
-Henrik Lindqvist. Il padre di Kate. Un uomo che aveva passato anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva—scomparendo.
+Henrik Lindqvist. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che aveva visto sua moglie tornare dalla rieducazione come un guscio vuoto. Che aveva assistito alle retate, ai pestaggi, alle sparizioni. Che aveva trascorso anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva—scomparendo.
 
-Non era un eroe. Non era un ribelle. Era solo un padre che amava sua figlia troppo per tradirla, ma non abbastanza coraggioso per combattere al suo fianco.
+Non era un eroe. Non era un ribelle. Era un sopravvissuto—e i sopravvissuti portano cicatrici invisibili che non guariscono mai.
 
-E forse, in quel fallimento, c'era una forma di amore che non avevo mai considerato.
+Era solo un padre che amava sua figlia troppo per tradirla, ma troppo spezzato dall'epoca dell'heterophobia per combattere al suo fianco. Aveva già perso tutto una volta. Non poteva sopportare di perderlo di nuovo.
 
-L'amore di chi sa di non poter fare abbastanza, e sceglie di fare quel poco che può.
+E forse, in quel fallimento, c'era una forma di amore che non avevo mai considerato. L'amore di chi sa di non poter fare abbastanza, e sceglie di fare quel poco che può. L'amore di chi protegge non combattendo, ma semplicemente non denunciando. Non tradendo.
 
 ---
 
@@ -197,10 +255,12 @@ Mi chiedo se pensasse a me.
 
 Mi chiedo se, in qualche modo, sapesse che sarei esistita.
 
-E mi chiedo cosa avrebbe detto, se avesse potuto vedermi ora—seduta alla mia scrivania, con il suo diario tra le mani, a piangere per persone che non ho mai conosciuto.
+Mi domando cosa avrebbe detto, se avesse potuto vedermi ora—seduta alla mia scrivania, con il suo diario tra le mani, a piangere per persone che non ho mai conosciuto.
 
 O forse sì.
 
 Forse le ho conosciute.
 
 Forse le conosco ancora.
+
+E forse—il pensiero mi attraversa come una lama fredda—forse il sangue che scorre nelle mie vene è lo stesso che scorreva nelle sue.

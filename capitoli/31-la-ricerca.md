@@ -4,23 +4,23 @@
 
 Uscire dal Sistema è più facile di quanto pensassi.
 
-O forse no—forse è solo che so cosa fare. Conosco i percorsi, le zone grigie, i momenti in cui la sorveglianza si allenta. Ho vissuto nascosta per quindici anni. Ho imparato a muovermi nell'ombra prima ancora di imparare a leggere.
+O forse no. Forse è solo che so cosa fare. Conosco i percorsi, le zone grigie, i momenti in cui la sorveglianza si allenta. Ho vissuto nascosta per quindici anni. Il mio corpo ha imparato a muoversi nell'ombra prima ancora che imparassi a leggere.
 
-Il corpo ricorda, anche quando la mente vorrebbe dimenticare.
+I muscoli ricordano. La pelle ricorda. Anche quando la mente vorrebbe dimenticare.
 
 ---
 
 Yuki mi ha procurato i documenti.
 
-Un permesso di transito per motivi di ricerca—ironia della sorte, dato che è quello che ho sempre finto di essere. Una ricercatrice. Una storica che studia i "casi devianti" del passato.
+Un permesso di transito per motivi di ricerca. Ironia della sorte, dato che è quello che ho sempre finto di essere: una ricercatrice. Una storica che studia i "casi devianti" del passato.
 
-"Hai tre giorni," mi ha detto, consegnandomi il pass. "Tre giorni prima che qualcuno inizi a fare domande."
+"Hai tre giorni." Mi ha consegnato il pass senza guardarmi negli occhi. "Tre giorni prima che qualcuno inizi a fare domande."
 
 "Basteranno."
 
 "Ne sei sicura?"
 
-No. Non ne ero sicura. Ma non potevo permettermi di non esserlo.
+No. Ma non potevo permettermi di esitare.
 
 ---
 
@@ -40,11 +40,11 @@ Non ancora.
 
 Le Zone Abbandonate iniziano dove finisce il grigio.
 
-È la prima cosa che noto: il colore. Nel Complesso tutto è uniforme—pareti grigie, cieli grigi, vestiti grigi. Ma qui, oltre il confine, il mondo esplode in sfumature che avevo dimenticato esistessero.
+È la prima cosa che noto: il colore. Nel Complesso tutto è uniforme. Pareti grigie, cieli grigi, vestiti grigi. Ma qui, oltre il confine, il mondo esplode in sfumature che avevo dimenticato esistessero.
 
-Il verde delle piante selvatiche che si arrampicano sulle rovine. Il marrone della terra non pavimentata. Il blu—un blu vero, intenso, impossibile—del cielo sopra di me.
+Il verde delle piante selvatiche che si arrampicano sulle rovine. Il marrone della terra non pavimentata. Il blu del cielo sopra di me. Un blu vero, intenso, impossibile.
 
-Mi fermo a guardare. Le lacrime mi scendono sulle guance prima che me ne renda conto.
+Mi fermo. Il respiro mi si blocca in gola.
 
 È così che era. È così che ricordavo.
 
@@ -58,9 +58,9 @@ Ma quando arrivo, non c'è nessuno.
 
 Solo rovine. Muri crollati, tetti sfondati, tracce di una vita che non esiste più. Trovo oggetti abbandonati—una pentola arrugginita, un libro distrutto dall'umidità, un giocattolo di legno che potrebbe essere stato fatto a mano.
 
-Non è il rifugio dove sono cresciuta. Quello era più a sud, più nascosto. Ma è un posto come quello. Un posto dove persone come i miei genitori hanno vissuto e amato e sperato.
+Non è il rifugio dove sono cresciuta. Quello era più a sud, più nascosto. Ma è un posto simile. Un posto dove persone come i miei genitori hanno vissuto, hanno costruito qualcosa, hanno sperato.
 
-E poi sono state trovate.
+Fino a quando il Sistema non le ha trovate.
 
 ---
 
@@ -80,33 +80,33 @@ Mi accorgo di essere osservata prima ancora di vedere qualcuno. È una sensazion
 
 Un silenzio. Poi una figura emerge dalle rovine—una donna anziana, con capelli bianchi e un fucile in mano. Non punta l'arma verso di me, ma non la abbassa nemmeno.
 
-"Chen-Rossi," ripete. "Li conoscevi?"
+"Chen-Rossi," ripete. Il nome le resta sulla lingua come qualcosa di dimenticato. "Li conoscevi?"
 
 "Erano i miei genitori."
 
-La donna mi studia a lungo. I suoi occhi—grigi, stanchi, ma ancora acuti—mi esaminano come se potesse leggermi dentro.
+La donna mi studia a lungo. I suoi occhi, grigi e stanchi ma ancora acuti, mi esaminano come se potesse leggermi dentro. Come se stesse decidendo se fidarsi.
 
 "Entra," dice alla fine. "Abbiamo molto di cui parlare."
 
 ---
 
-Si chiama Vera. Ha settant'anni—una vita lunga, per le Zone.
+Si chiama Vera. Ha settant'anni. Una vita lunga, per le Zone.
 
 "Non ho accesso alle Cure," mi dice mentre mi porge una tazza di qualcosa che assomiglia a tè. "Nessuno di noi ce l'ha. Viviamo e moriamo come facevano i nostri antenati."
 
 "Non ti spaventa?"
 
-"La morte?" Vera sorride, un sorriso che ha visto troppe cose. "No. Mi spaventa molto di più non vivere."
+"La morte?" Vera sorride. Un sorriso che ha visto troppe cose per averne ancora paura. "Mi spaventa molto di più non vivere. Passare secoli in quel loro mondo asettico, senza mai sentire davvero niente."
 
 ---
 
 Vera conosceva i miei genitori.
 
-"Non bene," precisa. "Erano già fuggiti quando sono arrivata io nelle Zone. Ma ho sentito le storie. Tutti hanno sentito le storie."
+"Non bene," precisa. "Erano già fuggiti quando sono arrivata io nelle Zone. Ma ho sentito parlare di loro. Tutti ne hanno sentito parlare."
 
-"Quali storie?"
+"Cosa dicevano?"
 
-"La coppia che è scappata dal Distretto Nord con una bambina appena nata. Che ha vissuto nascosta per anni, spostandosi da un rifugio all'altro. Che è stata tradita." Vera mi guarda. "Quella bambina eri tu."
+"Una coppia scappata dal Distretto Nord con una bambina appena nata. Anni a spostarsi da un rifugio all'altro. Poi il tradimento." Vera mi guarda. "Quella bambina eri tu."
 
 Non è una domanda.
 
@@ -116,9 +116,9 @@ Non è una domanda.
 
 "Sto cercando di scoprire cosa è successo. Il giorno in cui ci hanno trovati... io sono scappata. Loro sono rimasti indietro." La voce mi trema. "Non so cosa sia successo dopo."
 
-Vera resta in silenzio per un momento. Poi posa la tazza e mi prende la mano.
+Vera resta in silenzio. Posa la tazza e mi prende la mano. Le sue dita sono ruvide, callose. Mani che hanno lavorato, costruito, sopravvissuto.
 
-"Ti dirò quello che so," dice. "Ma potrebbe non essere quello che vuoi sentire."
+"Ti dirò quello che so. Ma potrebbe non essere quello che vuoi sentire."
 
 ---
 
@@ -138,11 +138,11 @@ Le lacrime mi scorrono sulle guance. Non cerco di fermarle.
 
 "Tua madre è corsa. Con te. Verso il punto di raccolta, dove aspettava Mira." Vera esita. "Mira ha detto che tua madre l'ha raggiunta. Che ti ha spinta verso di lei e le ha detto di portarti via."
 
-"Lo ricordo." La mia voce è un sussurro. "Ricordo le sue mani. La sua voce. 'Corri. Non voltarti.'"
+"Lo ricordo." La mia voce è un sussurro. "Ricordo le sue mani. La sua voce. *Corri. Non voltarti.*"
 
 "Ma ti sei voltata."
 
-"Sì." Chiudo gli occhi. Posso ancora vederla—mia madre che si ferma, che si volta verso i Controllori che si avvicinano. "L'ho vista fermarsi. E poi Mira mi ha trascinata via."
+"Sì." Chiudo gli occhi. Posso ancora vederla. Mia madre che si ferma. Che si volta verso i Controllori che si avvicinano. "L'ho vista fermarsi. E poi Mira mi ha trascinata via."
 
 ---
 
@@ -150,11 +150,11 @@ Le lacrime mi scorrono sulle guance. Non cerco di fermarle.
 
 "Come nessuno?"
 
-"I Controllori non lasciano testimoni. Quelli che vengono presi... a volte vengono rieducati e rimandati nel Sistema. A volte scompaiono. A volte..." Non finisce la frase.
+"I Controllori non lasciano testimoni. Quelli che vengono presi..." Si ferma. Beve un sorso di tè. "A volte vengono rieducati e rimandati nel Sistema. A volte scompaiono. A volte..."
 
 "A volte cosa?"
 
-"A volte si sentono voci. Storie di prigionieri che vengono tenuti in strutture segrete. Per interrogarli. Per studiarli." Vera scuote la testa. "Non so quanto ci sia di vero. Ma le voci esistono."
+"Circolano voci. Prigionieri tenuti in strutture segrete. Per interrogarli. Per studiarli." Vera scuote la testa. "Non so quanto ci sia di vero. Ma le voci esistono."
 
 Mi aggrappo a quelle parole come a un'ancora.
 
@@ -162,7 +162,7 @@ Mi aggrappo a quelle parole come a un'ancora.
 
 "Potrebbero. Oppure no." Vera mi guarda con una gentilezza che mi spezza il cuore. "Alice, non voglio darti false speranze. Sono passati quindici anni. Le probabilità..."
 
-"Lo so." Mi asciugo le lacrime con il dorso della mano. "Ma finché non ho la certezza, devo continuare a cercare."
+"Lo so." Mi asciugo gli occhi con il dorso della mano. "Ma finché non ho la certezza, devo continuare a cercare."
 
 ---
 
@@ -190,25 +190,23 @@ Non ho trovato i miei genitori. Non ho trovato risposte definitive. Ma ho trovat
 
 La prova che esistevamo.
 
-Che eravamo una famiglia—una famiglia vera, fatta di amore e rischi e speranze. Che per qualche anno, in un mondo che aveva vietato tutto questo, siamo stati felici.
+Che eravamo una famiglia. Una famiglia vera, fatta di rischi e speranze e momenti rubati. Che per qualche anno, in un mondo che aveva vietato tutto questo, siamo stati felici.
 
-Le lacrime mi rigano le guance mentre cammino. Ma non sono lacrime di dolore. Non solo.
+Cammino, e qualcosa mi brucia negli occhi. Non è dolore. Non solo.
 
-Sono lacrime di gratitudine.
+È gratitudine.
 
 ---
 
 Il sole sta tramontando quando raggiungo il confine.
 
-Mi fermo a guardarlo—un tramonto vero, con colori che il Complesso non potrebbe mai replicare. Arancione e rosso e viola, sfumature che si mescolano all'orizzonte come pittura su una tela infinita.
+Mi fermo a guardarlo. Un tramonto vero, con colori che il Complesso non potrebbe mai replicare. Arancione e rosso e viola, sfumature che si mescolano all'orizzonte come pittura su una tela infinita.
 
-Mia madre amava i tramonti. Me lo ricordo, adesso. Ci sedevamo insieme a guardarli, nelle Zone, quando ancora eravamo al sicuro. Mi raccontava del mondo di prima, di com'era vedere il sole scendere dietro le montagne, di come suo padre le aveva insegnato a distinguere i diversi tipi di nuvole.
+Mia madre amava i tramonti. Me lo ricordo, adesso. Ci sedevamo insieme a guardarli, nelle Zone, quando ancora eravamo al sicuro. Mi raccontava del mondo di prima. Di com'era vedere il sole scendere dietro le montagne. Di come suo padre le aveva insegnato a distinguere i diversi tipi di nuvole.
 
 "Un giorno vedrai tutto questo, Alice," mi diceva. "Un giorno il mondo sarà diverso."
 
 Non so se il mondo sarà mai diverso.
 
-Ma almeno ho visto il tramonto.
-
-Almeno ho avuto questo.
+Ma almeno ho visto il tramonto. Almeno ho avuto questo.
 

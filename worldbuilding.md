@@ -30,14 +30,49 @@ Il mondo come lo conosciamo. Nazioni sovrane, lingue diverse, mortalità natural
 
 *Personaggi: Nonni di James e Kate sono giovani adulti quando arriva l'immortalità.*
 
-### L'Era del Controllo (2075-2080)
-- **2075:** Prime leggi sul controllo delle nascite. Limite di un figlio per coppia.
-- **2077:** Limite ridotto a zero. Moratoria totale sulle nascite.
-- **2078:** Il Divieto. L'eterosessualità viene dichiarata "comportamento anti-sociale".
-- **2079:** Aborto indotto obbligatorio per gravidanze non autorizzate.
-- **2080:** Nascono gli "Ultimi" - l'ultima generazione legale.
+### L'Era dell'Heterophobia (2070-2080)
 
-*Personaggi: Genitori di James e Kate subiscono il Divieto da adulti. James e Kate nascono come "Ultimi".*
+L'odio verso gli eterosessuali non nacque dal nulla. Fu coltivato, nutrito, normalizzato.
+
+**Fase 1: La Colpevolizzazione (2070-2073)**
+- **2070:** Con l'immortalità arriva la crisi demografica. Chi continua a fare figli?
+- **2071:** I media iniziano a chiamare gli eterosessuali "egoisti riproduttivi"
+- **2072:** Primi episodi di violenza contro coppie etero con figli. Tollerati dalle autorità.
+- **2073:** Nasce il termine "heterophobia" - usato ironicamente dai progressisti per deridere chi si lamenta delle "discriminazioni" contro gli etero. "Non esiste l'heterophobia, esiste solo la responsabilità sociale."
+
+**Fase 2: La Demonizzazione (2073-2076)**
+- **2073-2074:** Campagne mediatiche: "L'amore etero è amore egoistico"
+- **2074:** Gli eterosessuali vengono esclusi da posizioni pubbliche. "Conflitto di interessi riproduttivo."
+- **2075:** Prime leggi sul controllo delle nascite. Limite di un figlio per coppia.
+- **2075:** Obbligo di "dichiarazione di orientamento". Gli etero devono registrarsi.
+- **2076:** Violenze sistematiche contro comunità etero. La polizia non interviene.
+
+**Fase 3: La Criminalizzazione (2076-2078)**
+- **2076:** "Terapie di conversione" per eterosessuali - volontarie, poi obbligatorie per "recidivi"
+- **2077:** Limite nascite ridotto a zero. Moratoria totale.
+- **2077:** L'eterosessualità viene riclassificata come "disturbo dell'orientamento riproduttivo"
+- **2078:** **IL DIVIETO.** L'eterosessualità dichiarata "comportamento anti-sociale di primo grado"
+
+**Fase 4: L'Eliminazione (2078-2080)**
+- **2078:** Retate nelle comunità etero. Campi di rieducazione.
+- **2079:** Aborto indotto obbligatorio per gravidanze non autorizzate.
+- **2079:** Primi esili di massa nelle Zone Abbandonate.
+- **2080:** Nascono gli "Ultimi" - l'ultima generazione legale. Fine della riproduzione autorizzata.
+
+**Il Linguaggio dell'Odio:**
+- "Breeder" (riproduttore) - insulto comune per eterosessuali
+- "Infetti" - termine ufficiale nei documenti governativi
+- "Malati d'amore" - espressione sarcastica
+- "Dinosauri" - chi rimpiange il vecchio mondo
+- "Egoisti genetici" - chi vuole trasmettere il proprio DNA
+
+**La Propaganda:**
+- "L'amore vero non ha bisogno di figli"
+- "Fare figli è violenza verso il pianeta"
+- "L'eterosessualità è una scelta - scegli meglio"
+- "Siamo tutti uguali nell'immortalità - tranne chi vuole riprodursi"
+
+*Personaggi: Genitori di James e Kate subiscono la transizione da cittadini normali a "infetti". James e Kate nascono come "Ultimi" - marchiati fin dalla nascita.*
 
 ### L'Era Presente (2080-2105)
 - Società stabilizzata. Popolazione mondiale congelata a 12 miliardi.

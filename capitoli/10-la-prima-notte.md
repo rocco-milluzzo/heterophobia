@@ -88,7 +88,7 @@ Kate sentì qualcosa stringersi nel petto. Capiva cosa intendeva. Una volta varc
 
 James aprì gli occhi. Nelle sue iridi scure, Kate vide tutto—la paura, il desiderio, l'amore che nessuno dei due aveva ancora pronunciato ad alta voce.
 
-E poi lui si chinò, e la baciò.
+E poi lui si chino, e la bacio.
 
 ---
 
@@ -96,25 +96,27 @@ Il primo bacio fu goffo.
 
 Nessuno dei due sapeva cosa fare. Avevano letto descrizioni nei vecchi libri, visto frammenti di film pre-Divieto nascosti negli archivi proibiti. Ma la teoria non era la pratica. Le loro labbra si incontrarono in modo scomposto, i nasi si scontrarono, i denti urtarono.
 
-Kate rise. Non riuscì a trattenersi.
+Kate rise. Non riusci a trattenersi—una risata nervosa, liberatoria, che scosse il silenzio della stanza.
 
 "Scusa," disse James, mortificato. "Non sono—non ho mai—"
 
-"Nemmeno io." Kate gli prese il viso tra le mani. "Nessuno ci ha insegnato come si fa. Dovremo imparare da soli."
+"Nemmeno io." Kate gli prese il viso tra le mani. La sua pelle era calda sotto le dita, leggermente ruvida lungo la mascella. "Nessuno ci ha insegnato come si fa. Dovremo imparare da soli."
 
 "Insieme."
 
 "Insieme."
 
-Il secondo bacio fu meglio. E il terzo. E tutti quelli che vennero dopo.
+Il secondo bacio fu meglio. Le labbra di James erano piu morbide di quanto avesse immaginato, e quando si schiusero leggermente Kate senti un brivido percorrerle la schiena. Il terzo bacio fu ancora meglio—piu lungo, piu profondo. Le mani di lui le scivolarono tra i capelli, e Kate senti il proprio corpo inclinarsi verso il suo come se fosse attratto da una forza invisibile.
+
+Bacio dopo bacio, impararano il linguaggio della pelle. Il modo in cui i respiri si mescolavano. Il calore che cresceva tra loro come un fuoco che nessuno aveva insegnato loro ad accendere, ma che bruciava lo stesso.
 
 ---
 
 Si spostarono verso la camera di Kate senza parlare.
 
-Non c'era bisogno di parole. I loro corpi sapevano cosa fare anche se le loro menti esitavano. Era come se millenni di istinto si fossero risvegliati all'improvviso, guidandoli lungo un percorso che l'umanità aveva percorso infinite volte prima di loro.
+Non c'era bisogno di parole. I loro corpi sapevano che cosa fare anche se le loro menti esitavano. Era come se millenni di istinto si fossero risvegliati all'improvviso, guidandoli lungo un percorso che l'umanita aveva percorso infinite volte prima di loro.
 
-Kate si fermò sulla soglia della sua stanza. Il letto era fatto, le lenzuola pulite. Aveva cambiato tutto quella mattina, preparandosi per un momento che sembrava ancora impossibile.
+Kate si fermo sulla soglia della sua stanza. Il letto era fatto, le lenzuola pulite. Aveva cambiato tutto quella mattina, preparandosi per un momento che sembrava ancora impossibile.
 
 "Qui?" chiese James.
 
@@ -124,35 +126,63 @@ Entrarono. La porta si chiuse alle loro spalle.
 
 ---
 
-Quello che seguì fu terrore e meraviglia in parti uguali.
+Quello che segui fu terrore e meraviglia in parti uguali.
 
-Terrore perché niente li aveva preparati a questo. Kate sentiva il proprio corpo tremare—non di freddo, non di eccitazione, ma di qualcosa di più profondo. Ogni volta che James la toccava, una parte di lei voleva ritrarsi, nascondersi, tornare a essere la ragazza che non sapeva cosa significasse *questo*. Sentiva la paura di lui nella rigidità dei suoi muscoli, nell'esitazione delle sue mani, nel modo in cui si fermava ogni pochi secondi per cercare i suoi occhi nel buio.
+Terrore perche niente li aveva preparati a questo. Kate senti le dita di James sfiorarle la spalla, esitanti, e rabbrivi. Non di freddo—il calore tra loro era quasi insopportabile—ma di un'intensita che non sapeva contenere. Ogni volta che lui la toccava, una parte di lei voleva ritrarsi, nascondersi, tornare a essere la ragazza che non conosceva il peso di un altro corpo contro il proprio.
 
-Ma la meraviglia era più forte.
+Ma la meraviglia era piu forte.
 
-La meraviglia di scoprire il corpo di un altro essere umano. Di sentire la sua pelle contro la propria, il suo respiro mescolarsi al proprio, il suo cuore battere così vicino da sembrare un'eco del proprio. Kate non aveva mai provato niente di simile. Non sapeva nemmeno che fosse possibile provare qualcosa di simile.
+James le sollevo il mento con due dita, cercando i suoi occhi nel buio. "Posso...?" La sua voce era un sussurro rotto.
 
-Era come se tutto il resto del mondo fosse svanito. Le telecamere, i sensori, le regole, le leggi—tutto cessava di esistere. C'erano solo loro due, in quella stanza buia, che si esploravano a vicenda con le mani e le labbra e il cuore.
+Kate annui. Senti le mani di lui scivolarle lungo le braccia, lasciando una scia di fuoco sulla pelle. Era consapevole di ogni punto in cui si toccavano—le spalle, i fianchi, le cosce che si sfioravano. Il tessuto dei vestiti era diventato una barriera intollerabile.
+
+Fu lei a fare il primo gesto. Le dita che trovavano i bottoni della sua camicia, che li slacciavano uno a uno con movimenti tremanti. Sotto, la pelle di James era calda, liscia, tesa sui muscoli. Kate vi appoggio il palmo e senti il suo cuore battere—forte, veloce, disperato quanto il proprio.
+
+"Kate." Lui pronuncio il suo nome come una preghiera.
+
+Lei alzo lo sguardo. "Non fermarti."
+
+Non si fermo.
+
+I vestiti caddero uno dopo l'altro, lasciando spazio alla pelle nuda, alla verita dei corpi. Kate scopri la geografia di James con le mani e con gli occhi—la curva delle spalle, la linea dei fianchi, il calore che emanava come un sole nascosto. Lui la esplorava con la stessa reverenza, le dita che tracciavano sentieri lungo la schiena, i fianchi, le curve che nessuno aveva mai toccato.
+
+"Sei bellissima," sussurro lui, e la sua voce si spezzo sull'ultima sillaba.
+
+Kate senti le lacrime pungerle gli occhi. Nessuno le aveva mai detto una cosa simile. Nessuno l'aveva mai guardata come la guardava James—come se fosse l'unica cosa al mondo che valesse la pena di vedere.
+
+Si stesero sul letto, corpi intrecciati, respiri che si mescolavano. La pelle di lui contro la sua era elettrica, ogni punto di contatto un'esplosione di sensazioni. Kate senti le sue labbra sulla gola, sulla clavicola, sul punto dove il collo incontrava la spalla. Ogni bacio era un marchio, una promessa silenziosa.
+
+"Ti faccio male?" mormoro James.
+
+"No." Kate gli afferro i capelli, attirandolo piu vicino. "Non ti fermare."
+
+Lui non si fermo.
+
+Il resto fu un turbine di sensazioni—il peso del suo corpo sopra il proprio, il ritmo dei respiri che acceleravano, la pressione che cresceva nel basso ventre come un'onda in arrivo. Kate si aggrappava alle spalle di James, le unghie che affondavano nella sua pelle, il corpo che si arcuava verso il suo per un istinto piu antico del pensiero.
+
+Non c'era dolore—o se c'era, era sommerso da qualcos'altro. Qualcosa di vasto, di travolgente, di totale. Era come essere smontata e rimontata, come essere distrutta e ricostruita in qualcosa di nuovo.
+
+Era come morire. Era come nascere.
+
+E quando l'onda finalmente si frango, Kate grido—un suono strozzato, primitivo, che le sfuggi dalla gola senza che potesse fermarlo. Senti James tremare sopra di lei, senti il suo respiro spezzarsi, senti il momento esatto in cui cedette anche lui.
+
+Poi, silenzio. Solo il rumore dei loro respiri, il battito dei loro cuori che rallentavano insieme.
 
 ---
 
-"Ti faccio male?" chiese James a un certo punto.
+Giacquero l'uno accanto all'altra, esausti e tremanti.
 
-"No."
+Kate senti il sudore raffreddarsi sulla pelle, il calore del corpo di James contro il fianco. Ogni muscolo era sciolto, ogni pensiero quieto. Era come se avesse corso per ore, per anni, e finalmente si fosse fermata.
 
-"Sicura?"
+"Kate." James le accarezzo il viso, le dita che indugiavano sulla guancia. "Quello che abbiamo fatto..."
 
-"Sì." Kate gli accarezzò il viso. "Non ti fermare."
+"Lo so." Lei si giro verso di lui, il viso a pochi centimetri dal suo. "Lo so."
 
-Lui non si fermò.
+Non era un errore. Non era una devianza. Non era una malattia da curare.
 
-E quando tutto fu finito—quando giacquero l'uno accanto all'altra, esausti e tremanti e più vivi di quanto fossero mai stati—Kate capì una cosa.
+Era la cosa piu naturale, piu giusta, piu vera che avesse mai fatto in vita sua. Era cio per cui era stata creata—non dai suoi genitori, non dalla societa, ma dalla stessa forza che faceva girare i pianeti e battere i cuori.
 
-Capì che non sarebbe mai potuta tornare indietro.
-
-Capì che quello che avevano fatto non era un errore, non era una devianza, non era una malattia. Era la cosa più naturale, più giusta, più vera che avesse mai fatto in vita sua.
-
-E capì che avrebbe fatto qualsiasi cosa per poterlo rifare. Per poter stare con lui, così, per sempre.
+E seppe, con una certezza che le toglieva il respiro, che avrebbe fatto qualsiasi cosa per poterlo rifare. Per stare con lui, cosi, per sempre.
 
 ---
 
@@ -298,8 +328,30 @@ Ma era un inizio.
 
 ---
 
-Le luci del Complesso si abbassarono fino a diventare un bagliore fioco. Kate restò sveglia ancora un po', il libro stretto al petto, a sentire il battito del proprio cuore.
+Le luci del Complesso si abbassarono fino a diventare un bagliore fioco. Kate resto sveglia ancora un po', il libro stretto al petto, ad ascoltare il battito del proprio cuore.
 
-Era cambiata. Lo sentiva nelle ossa, sulla pelle, in ogni respiro.
+Era cambiata. Lo percepiva nelle ossa, sulla pelle, in ogni respiro.
 
-Non aveva più paura di sentire.
+Non aveva piu paura di sentire.
+
+---
+
+A tre isolati di distanza, nell'ufficio del supervisore notturno, un monitor lampeggio.
+
+*Anomalia rilevata: Unita 2847-K. Sensori ambientali offline per 8.3 ore. Simulazione di presenza attivata.*
+
+L'operatore aggrotto le sopracciglia. Scorse i dati, incrocio i pattern, noto la correlazione con un altro profilo.
+
+*Soggetto 2847-C: posizione sconosciuta durante lo stesso intervallo.*
+
+Esito un momento. Poteva essere un malfunzionamento. Poteva essere niente.
+
+Ma il protocollo era chiaro.
+
+*Segnalazione inviata. Unita di verifica allertata. Ispezione programmata: 72 ore.*
+
+L'operatore chiuse il file e passo al successivo. Era solo una nota tra migliaia. Probabilmente non significava nulla.
+
+Ma a tre isolati di distanza, ignara di tutto, Kate dormiva ancora con il sorriso sulle labbra. E il libro di poesie proibite nascosto sotto il materasso.
+
+E il tempo che le restava, senza saperlo, aveva appena cominciato il suo conto alla rovescia.

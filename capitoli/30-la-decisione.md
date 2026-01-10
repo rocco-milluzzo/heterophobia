@@ -4,9 +4,9 @@
 
 Ci ho messo dieci anni a scrivere questa storia.
 
-Dieci anni di notti insonni, di parole cancellate e riscritte, di ricordi che emergevano quando meno me lo aspettavo. Dieci anni a cercare di catturare qualcosa che forse non può essere catturato—l'essenza di due persone che ho amato più di tutto al mondo.
+Dieci anni di notti insonni, di frasi cancellate e riscritte cento volte, di ricordi che emergevano quando meno me lo aspettavo. Dieci anni a inseguire l'essenza di due persone che ho amato più di chiunque altro—sapendo che le parole non sarebbero mai state sufficienti.
 
-E ora che l'ho scritta, non so cosa farne.
+Eppure eccola qui, la storia. E non so cosa farne.
 
 ---
 
@@ -20,13 +20,11 @@ Ho pensato di distruggerlo.
 
 Sarebbe la cosa sicura da fare. Se qualcuno trovasse questo manoscritto—se il Sistema scoprisse cosa ho scritto—non ci sarebbe scampo. Non per me, non per le persone che mi hanno aiutato, non per la memoria dei miei genitori.
 
-Potrei bruciarlo stanotte. Guardare le pagine consumarsi, le parole dissolversi in cenere e fumo. Nessuno saprebbe mai. La storia morirebbe con me.
+Potrei bruciarlo stanotte. Guardare le pagine consumarsi, le parole dissolversi in cenere e fumo. Nessuno saprebbe mai.
 
-Ma le storie non muoiono mai.
+Ma le storie hanno una loro volontà. L'ha detto nonno Enzio. L'ha scritto nel libro, quello che ancora porto con me, con le sue annotazioni sbiadite e i margini pieni di pensieri. Le storie trovano sempre un modo per sopravvivere—si insinuano nelle crepe, germogliano dove meno te lo aspetti.
 
-L'ha detto nonno Enzio. L'ha scritto nel libro, quello che ancora porto con me. E se c'è una cosa che ho imparato in tutti questi anni, è che aveva ragione.
-
-Le storie trovano sempre un modo per sopravvivere.
+Distruggerla significherebbe tradire tutto ciò per cui i miei genitori hanno lottato.
 
 ---
 
@@ -96,13 +94,13 @@ Prima di andarsene, Yuki mi ha fatto una domanda.
 
 "Cosa farai con quel manoscritto?"
 
-Non ho risposto subito. Non sapevo ancora cosa dire.
+Non ho risposto subito. Nella mia mente scorrevano le immagini dei raid che avevo visto, i video di propaganda che mostravano gli *infetti* trascinati via, le famiglie smembrate.
 
-"Ci sono persone," ha continuato lei, "nella rete, che farebbero qualsiasi cosa per leggerlo. Per copiarlo. Per diffonderlo."
+"Ci sono persone," ha continuato lei, "nella rete, che farebbero qualsiasi cosa per leggerlo. Per copiarlo. Per diffonderlo. Persone che hanno perso tutto per amare chi volevano. Persone che ricordano com'era il mondo prima che *breeder* diventasse un insulto, prima che ci chiamassero *malati d'amore*."
 
-"È troppo pericoloso."
+"È troppo pericoloso. Se mi prendono—"
 
-"Tutto è pericoloso. Ma alcune cose valgono il rischio." Mi ha guardata negli occhi. "I tuoi genitori lo sapevano. È per questo che hanno fatto quello che hanno fatto."
+"Tutto è pericoloso. Ma alcune cose valgono il rischio." Mi ha guardata negli occhi. "I tuoi genitori lo sapevano. Hanno visto l'heterophobia crescere anno dopo anno, hanno visto i loro amici sparire, hanno visto il mondo impazzire. E hanno scelto comunque di amarsi."
 
 ---
 
@@ -116,11 +114,11 @@ Ma l'avevano fatta lo stesso.
 
 ---
 
-Mia madre mi ha detto, l'ultima volta che l'ho vista: "Le storie non muoiono mai."
+Mia madre mi ha detto, l'ultima volta che l'ho vista: "Le storie sono l'unica arma che il Sistema non può controllare."
 
-Aveva ragione. Le storie sopravvivono—nei libri, nei ricordi, nelle parole sussurrate da una generazione all'altra. Sopravvivono perché qualcuno sceglie di raccontarle.
+Aveva ragione. Le storie sopravvivono—nei libri bruciati che qualcuno ha memorizzato, nei ricordi tramandati a bassa voce, nelle parole sussurrate da una generazione all'altra mentre i Controllori pattugliano fuori. Sopravvivono perché qualcuno sceglie di raccontarle.
 
-Qualcuno sceglie di correre il rischio.
+Sceglie di correre il rischio. Come hanno fatto i miei genitori ogni singolo giorno della loro vita insieme.
 
 ---
 
@@ -134,15 +132,17 @@ Forse nessuno lo leggerà mai. Forse verrà intercettato e distrutto prima che p
 
 Ma forse no.
 
-Forse qualcuno lo troverà. Qualcuno che ha dubbi, che si fa domande, che sente nel profondo che c'è qualcosa di sbagliato in questo mondo perfetto.
+Forse qualcuno lo troverà. Qualcuno che ha dubbi, che si guarda intorno e vede i manifesti che gridano *PROTEGGI LA SOCIETÀ—DENUNCIA GLI INFETTI*, che sente nel profondo che c'è qualcosa di marcio in questo mondo perfetto.
 
-E forse, leggendo la storia dei miei genitori, capirà.
+Forse è un ragazzo che prova attrazione per una ragazza e non capisce perché dovrebbe vergognarsene. Forse è una donna anziana che ricorda com'era l'amore prima del Divieto. Forse è un Controllore che la notte non riesce a dormire.
 
-Capirà che l'amore non è una malattia.
+E forse, leggendo la storia dei miei genitori, capiranno.
 
-Che la libertà vale più dell'immortalità.
+Che l'amore non è una malattia da curare.
 
-Che le storie non muoiono mai.
+Che la libertà vale più dell'immortalità promessa.
+
+Che l'heterophobia è stata costruita, mattone dopo mattone, bugia dopo bugia—e può essere smantellata allo stesso modo.
 
 ---
 

@@ -6,13 +6,13 @@ Era sera, una di quelle sere d'estate in cui il sole tramontava lento, dipingend
 
 "Papà?"
 
-"Sì, tesoro?"
+"Sì, piccola?"
 
 "Perché non abbiamo i nonni?"
 
-James sentì qualcosa stringersi nel petto. Guardò Kate, che aveva smesso di respirare.
+James avvertì una morsa stringergli il petto. Guardò Kate, che aveva smesso di respirare.
 
-"Cosa intendi?" chiese, cercando di guadagnare tempo.
+"Cosa intendi?" domandò, cercando di guadagnare tempo.
 
 "Mira ha i nonni. Li ha visti, una volta, prima di venire qui. Dice che erano vecchi e gentili." Alice si girò a guardarlo con quegli occhi scuri che erano i suoi, ma con la luce di Kate. "Io non ho mai visto i miei nonni. Perché?"
 
@@ -20,7 +20,7 @@ James non sapeva cosa rispondere. Aveva preparato discorsi per questo momento, f
 
 Fu Kate a parlare.
 
-"Hai dei nonni, tesoro," disse. "Ne hai quattro, in realtà. Ma sono lontani."
+"Hai dei nonni, piccola," rispose. "Ne hai quattro, in realtà. Ma sono lontani."
 
 "Lontani dove?"
 
@@ -30,9 +30,9 @@ Alice annuì lentamente. Sapeva del "posto grande"—ne avevano parlato prima. M
 
 "Perché non vengono a trovarci?"
 
-Kate guardò James. Lui prese un respiro profondo.
+Kate guardò James. Lui inspirò a fondo.
 
-"Perché non sanno dove siamo," disse. "E non possono saperlo."
+"Perché non sanno dove siamo," spiegò. "E non possono saperlo."
 
 "Ma i nonni ti vogliono bene. Mira dice che i nonni ti vogliono bene."
 
@@ -44,21 +44,21 @@ Alice aggrottò la fronte, cercando di capire.
 
 James si bloccò. Non avevano mai parlato di Enzio ad Alice—o almeno, non direttamente. Ma lei ascoltava tutto. Ricordava tutto.
 
-"Il nonno Enzio era speciale," disse Kate, intervenendo. "Ci ha aiutato a scappare. Ma è rimasto indietro, per proteggerci."
+"Il nonno Enzio era speciale," intervenne Kate. "Ci ha aiutato a scappare. Ma è rimasto indietro, per proteggerci."
 
 "È morto?"
 
-La domanda arrivò con la semplicità brutale dei bambini. James sentì le lacrime pungergli gli occhi.
+La domanda arrivò con la semplicità brutale dei bambini. James avvertì le lacrime pungergli gli occhi.
 
 "Non lo sappiamo," ammise. "Forse. Forse no. Non possiamo scoprirlo."
 
 Alice rimase in silenzio per un lungo momento. Guardava le stelle, il cielo che si scuriva, il mondo che andava a dormire.
 
-Poi disse, con voce piccola: "Mi dispiace che non posso conoscerli."
+Poi mormorò, con voce piccola: "Mi dispiace che non posso conoscerli."
 
 James la prese in braccio e la strinse forte. Kate si avvicinò, abbracciandoli entrambi.
 
-"Anche a noi," sussurrò James. "Anche a noi."
+"Anche a noi," sussurrò James. "Anche a noi, piccola."
 
 ---
 
@@ -114,13 +114,13 @@ Alice spalancò gli occhi. "Hanno paura di me?"
 
 "Non di te. Di quello che rappresenti." James le accarezzò i capelli. "Tu sei nata dall'amore. Dall'amore vero, quello che loro vogliono eliminare. E l'amore vero fa paura a chi vuole controllare tutto."
 
-Alice rimase in silenzio per un lungo momento. Poi disse, con quella serietà che a volte mostrava:
+Alice rimase in silenzio per un lungo momento. Poi affermò, con quella serietà che a volte mostrava:
 
 "Allora sono contenta di essere qui. Dove nessuno ha paura dell'amore."
 
 James la abbracciò.
 
-"Anch'io, tesoro," sussurrò. "Anch'io."
+"Anch'io, piccola," sussurrò. "Anch'io."
 
 ---
 
@@ -166,4 +166,4 @@ James restò lì, guardando il libro sulla mensola.
 
 Un giorno, pensò. Un giorno Alice avrebbe letto quelle poesie e avrebbe capito. Avrebbe capito cosa avevano rischiato i suoi genitori, cosa avevano sacrificato, cosa avevano scelto.
 
-E forse, sperabilmente, avrebbe capito perché.
+E forse—si augurava con tutto se stesso—avrebbe capito perché.

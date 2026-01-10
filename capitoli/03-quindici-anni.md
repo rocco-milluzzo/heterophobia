@@ -60,13 +60,15 @@ Per il resto dell'ora, James non riuscì a concentrarsi su nient'altro. Ogni vol
 
 Questo è sbagliato, si disse. Questo è pericoloso.
 
-Sapeva cos'era. L'aveva studiato, come tutti. L'attrazione eterosessuale era un residuo evolutivo, un istinto che una volta serviva alla riproduzione ma che ora era obsoleto. Come la fame in eccesso, come l'aggressività. Una disfunzione che poteva essere curata.
+Sapeva cos'era. L'aveva studiato, come tutti. L'attrazione eterosessuale era un residuo evolutivo, un istinto che una volta serviva alla riproduzione ma che ora era obsoleto. Come la fame in eccesso, come l'aggressivita. Una disfunzione che poteva essere curata.
 
-Sentire qualcosa per una ragazza non era normale. Non era sano.
+*L'eterosessualita e una scelta—scegli meglio.* Lo slogan lampeggiava sugli schermi pubblici ogni ora, insieme alle immagini dei campi di rieducazione. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
 
-James si guardò le mani. Tremavano leggermente.
+Sentire quel formicolio per una ragazza non era normale. Era pericoloso. Un *breeder* in potenza, lo avrebbero chiamato. Un *infetto*.
 
-Dovrei andare all'infermeria, pensò. Dovrei farmi controllare.
+James si guardo le mani. Tremavano.
+
+Dovrei andare all'infermeria, penso. Dovrei farmi controllare prima che sia troppo tardi.
 
 Ma non lo fece.
 
@@ -84,9 +86,11 @@ Era il suo compagno di banco, Takeshi, un ragazzo alto con i capelli rasati, sem
 
 "Tutto bene? Sembravi un po' perso, durante la lezione."
 
-"Sì, sì. Solo... stanco. Non ho dormito bene."
+"Si, si. Solo... stanco. Non ho dormito bene."
 
-Takeshi annuì e si allontanò. Ma nei suoi occhi James aveva visto qualcosa. Niente di specifico. Solo abbastanza per innervosirlo.
+Takeshi annui, ma non si mosse. I suoi occhi indugiarono un istante di troppo. "Fissavi la Lindqvist," osservo, con un tono che avrebbe potuto essere curioso o accusatorio. "Attento, eh. Le telecamere notano queste cose."
+
+Poi si allontano, lasciando James con il cuore in gola e il sangue gelato nelle vene.
 
 ---
 
@@ -118,11 +122,13 @@ Ma sapeva già che non era vero.
 
 L'orologio sul muro segnò mezzanotte. James era ancora sveglio.
 
-Sentiva qualcosa che non riusciva a nominare. Qualcosa di antico, che non avrebbe dovuto esistere. Sentiva che il tempo stava passando. Che ogni secondo senza vederla era un secondo sprecato.
+Un fremito lo attraversava, un'urgenza che non riusciva a nominare. Un istinto antico, che non avrebbe dovuto esistere. Il tempo correva. Ogni secondo senza vederla era un secondo perduto.
 
-È solo chimica, si disse. Neuroni che sparano nel modo sbagliato. Una disfunzione.
+E solo chimica, si ripeteva. Neuroni che sparano nel modo sbagliato. Una disfunzione.
 
-Ma non voleva essere curato.
+*Malato d'amore*, lo avrebbero chiamato i medici. Lo avrebbero mandato in un centro, gli avrebbero cancellato quel fremito dal cervello. Lo avrebbero guarito.
+
+Ma James non voleva guarire.
 
 Voleva solo rivederla ridere.
 
@@ -136,10 +142,14 @@ Ma sapeva esattamente dove lei si era seduta. Sapeva esattamente come aveva appo
 
 E sapeva che per un istante, solo un istante, lei aveva guardato verso di lui.
 
-O forse lo aveva immaginato.
+O forse lo aveva immaginato. Non importava.
 
-Non importava.
+Era iniziato qualcosa. Un movimento tettonico nelle profondita del suo essere.
 
-Era iniziato qualcosa. Qualcosa che non poteva fermare.
+Nella stanza accanto, il LED della telecamera lampeggio rosso. Da qualche parte, un algoritmo noto un'anomalia nei suoi pattern di sonno. Una nota venne aggiunta al suo fascicolo, in una cartella che non avrebbe mai visto.
 
-Qualcosa che non voleva fermare.
+*Soggetto 2847-C: monitoraggio incrementato.*
+
+James non lo sapeva. Non poteva saperlo.
+
+Ma il Sistema aveva gia iniziato a guardare.

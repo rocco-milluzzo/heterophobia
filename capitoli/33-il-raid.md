@@ -4,13 +4,19 @@
 
 Mi svegliai con il ronzio.
 
-Era un suono che conoscevo—un suono che avevo temuto per anni, che mi aveva perseguitato negli incubi. Il ronzio dei droni. Bassi, prima. Poi sempre più vicini.
+Era un suono che conoscevo. Un suono che avevo temuto per anni, che mi aveva perseguitato negli incubi. Il ronzio dei droni. Bassi, prima. Poi sempre più vicini.
 
-Spalancai gli occhi. La stanza era ancora buia, ma attraverso le crepe nel soffitto vedevo luci che si muovevano—luci bianche, fredde, artificiali.
+Spalancai gli occhi. La stanza era ancora buia, ma attraverso le crepe nel soffitto vedevo luci che si muovevano. Bianche. Fredde. Artificiali.
+
+Gli altoparlanti dei droni gracchiarono. Una voce metallica riempì l'aria:
+
+"OPERAZIONE DI BONIFICA IN CORSO. TUTTI GLI INFETTI SONO TENUTI A CONSEGNARSI IMMEDIATAMENTE. LA RESISTENZA VERRA PUNITA CON LA FORZA."
+
+*Infetti.* Così ci chiamavano. Come se fossimo una malattia da estirpare.
 
 "Kate." La scossi. "Kate, svegliati."
 
-Lei aprì gli occhi immediatamente. Non aveva bisogno di spiegazioni. Vide le luci, sentì il ronzio, e capì.
+Lei aprì gli occhi immediatamente. Non aveva bisogno di spiegazioni. Vide le luci, sentì la voce, e capì.
 
 "Alice," disse.
 
@@ -40,6 +46,10 @@ Era Marcus.
 
 "Ci hanno trovati," disse. I suoi occhi erano duri, il suo corpo teso come una corda di violino. "Droni di ricognizione. I veicoli terrestri saranno qui tra un'ora, forse meno."
 
+Da fuori arrivò un altro annuncio: "BREEDER, ARRENDETEVI. IL VOSTRO ESPERIMENTO GENETICO E TERMINATO. LA SOCIETA NON HA PIU BISOGNO DI VOI."
+
+*Breeder.* Riproduttori. L'insulto che ci avevano appiccicato addosso come un marchio. Come se il desiderio di avere figli, di continuare la specie, fosse una perversione.
+
 "Quanto tempo abbiamo?"
 
 "Dipende da quanto veloce riusciamo a muoverci." Marcus guardò Alice, poi me. "Il percorso sud è ancora libero. Ma non per molto."
@@ -56,9 +66,11 @@ Marcus scosse la testa. "Io resto. Con gli altri che possono combattere. Dobbiam
 
 Uscimmo dal rifugio mentre il cielo iniziava a schiarirsi.
 
-L'aria era fredda, umida di rugiada. I droni erano ancora sopra di noi—li vedevo muoversi tra le nuvole, piccole luci che danzavano come lucciole maligne. Ma non si erano ancora abbassati. Stavano solo osservando.
+L'aria era fredda, umida di rugiada. I droni erano ancora sopra di noi. Li vedevo muoversi tra le nuvole, piccole luci che danzavano come lucciole maligne. I loro altoparlanti continuavano a gracchiare:
 
-Per ora.
+"CONSEGNATE I BAMBINI. I SOGGETTI MINORI POSSONO ANCORA ESSERE RECUPERATI ALLA NORMALITA. I SOGGETTI ADULTI SARANNO PROCESSATI PER CRIMINI CONTRO LA SOCIETA."
+
+*Recuperati alla normalità.* Come se nostra figlia fosse un errore da correggere. Come se l'esistenza stessa di Alice fosse un crimine.
 
 "Per di qua," disse Kate, prendendo la testa del gruppo.
 
@@ -98,6 +110,12 @@ Poi li vidi.
 
 Erano tre veicoli, che emergevano dalla vegetazione come bestie meccaniche. Grigio metallico, privi di finestre, con il simbolo del Sistema inciso sul fianco. Controllori.
 
+Da uno dei veicoli uscì una voce amplificata, non più la registrazione dei droni ma una voce umana, piena di disprezzo:
+
+"Fermi dove siete, breeder. Non rendetelo più difficile del necessario. Sappiamo che avete un soggetto minore con voi. Consegnatelo e la vostra punizione sarà ridotta."
+
+*Soggetto minore.* Non una bambina. Non una figlia. Un soggetto. Un campione da studiare.
+
 ---
 
 "James!"
@@ -110,11 +128,11 @@ Kate si era fermata. Alice era accanto a lei, il viso pallido di terrore.
 
 "Kate, porta Alice via di qui. ADESSO!"
 
-Per un momento, i nostri sguardi si incrociarono. Vidi tutto in quegli occhi—l'amore, la paura, la disperazione. Vidi vent'anni di vita insieme, di rischi e speranze e sogni. Vidi tutto quello che avevamo costruito, e tutto quello che stavamo per perdere.
+Per un momento, i nostri sguardi si incrociarono. Vidi tutto in quegli occhi. Vent'anni di vita insieme. Rischi e speranze e sogni. Tutto quello che avevamo costruito. Tutto quello che stavamo per perdere.
 
 "Ti amo," dissi.
 
-Erano parole che non avevo mai detto facilmente. Parole che mi si bloccavano in gola, che mi sembravano inadeguate per quello che provavo. Ma in quel momento uscirono, chiare e vere.
+Parole che non avevo mai detto facilmente. Parole che mi si bloccavano in gola, che mi sembravano inadeguate. Ma in quel momento uscirono, chiare e vere.
 
 "Ti amo, Kate. Ti amo, Alice. Per sempre."
 
@@ -136,13 +154,15 @@ Ma potevo comprare tempo. Potevo fare in modo che quei veicoli si fermassero, an
 
 Mi misi in mezzo alla strada.
 
-I veicoli rallentarono. Da uno di essi uscì una voce amplificata:
+I veicoli rallentarono. Da uno di essi uscì la stessa voce di prima:
 
-"Cittadino, allontanati immediatamente. Stai ostruendo un'operazione autorizzata."
+"Fatti da parte, breeder. Non vale la pena morire per la tua malattia."
 
 Non mi mossi.
 
-"Questa è la tua ultima opportunità. Allontanati o verrai neutralizzato."
+"Ti diamo dieci secondi. Poi ti passiamo sopra e prendiamo comunque la tua cucciolata."
+
+*Cucciolata.* Come se fossimo animali. Come se mia figlia fosse un cucciolo da catturare.
 
 Restai dove ero.
 
@@ -150,21 +170,25 @@ Restai dove ero.
 
 Non so cosa mi aspettassi.
 
-Forse pensavo che mi avrebbero sparato. Forse pensavo che sarei morto lì, in piedi, a proteggere la mia famiglia. Forse era quello che volevo—una fine eroica, significativa.
+Forse pensavo che mi avrebbero sparato. Forse pensavo che sarei morto lì, in piedi, a proteggere la mia famiglia. Forse era quello che volevo. Una fine eroica, significativa.
 
 Ma non andò così.
 
-I veicoli si fermarono. Le portiere si aprirono. Quattro figure in uniforme ne emersero—Controllori, con i loro volti privi di espressione e le loro armi puntate.
+I veicoli si fermarono. Le portiere si aprirono. Quattro figure in uniforme ne emersero. Controllori, con i loro volti privi di espressione e le loro armi puntate.
 
-"A terra," disse uno di loro. "Adesso."
+Uno di loro si avvicinò. Era giovane, forse trent'anni. Nei suoi occhi non c'era odio, solo un vuoto addestrato, una certezza assoluta nella propria missione.
+
+"Sai cosa mi disgusta di voi?" disse, fermandosi a un metro da me. "Non è quello che fate. È che pensate di essere speciali. Pensate che il vostro istinto riproduttivo sia amore." Sputò ai miei piedi. "È solo biologia. Chimica. Un residuo evolutivo che non vi serve più."
+
+"A terra," ordinò. "Adesso."
 
 Mi inginocchiai. Non perché mi arrendevo, ma perché ogni secondo che passava era un secondo in più per Kate e Alice.
 
-"Dove sono gli altri?"
+"Dove sono gli altri? La femmina e il soggetto minore?"
 
-"Non lo so."
+Non risposi.
 
-Sentii un colpo alla nuca. Il mondo esplose in un lampo di dolore, poi in nero.
+Il calcio mi arrivò alla tempia senza preavviso. Il mondo esplose in un lampo di dolore, poi in nero.
 
 L'ultima cosa che pensai fu: *Correte. Non smettete di correre.*
 
@@ -176,11 +200,15 @@ Non so cosa sia successo dopo.
 
 So solo quello che mi hanno raccontato. Quello che ho ricostruito dai rapporti, dalle voci, dai frammenti.
 
-Mio padre fu catturato quella mattina. I Controllori lo portarono via—dove, nessuno lo sa con certezza. Alcuni dicono nei centri di rieducazione, dove cercano di cancellare i ricordi e ricostruire le persone. Altri dicono in strutture segrete, dove vengono tenuti i "casi più gravi".
+Mio padre fu catturato quella mattina. I Controllori lo portarono via. Dove, nessuno lo sa con certezza. Alcuni dicono nei centri di rieducazione, dove cercano di cancellare i ricordi e ricostruire le persone. Altri dicono in strutture segrete, dove vengono tenuti i "casi più gravi".
 
-Non lo saprò mai.
+Ho letto i rapporti ufficiali, anni dopo. Documenti freddi, burocratici. Mio padre era catalogato come "Soggetto Maschio 7742-B, Categoria: Deviante Riproduttivo Recidivo." Non un nome. Non una persona. Solo un numero e una diagnosi.
 
-Ma so questo: mio padre si è fermato perché noi potessimo correre. Ha sacrificato la sua libertà—forse la sua vita—perché io e mia madre avessimo una possibilità.
+Nei margini, qualcuno aveva annotato a mano: "Resistenza all'interrogatorio. Raccomandato protocollo intensivo."
+
+Non so cosa significhi "protocollo intensivo." Non voglio saperlo.
+
+Ma so questo: mio padre si è fermato perché noi potessimo correre. Ha sacrificato la sua libertà, forse la sua vita, perché io e mia madre avessimo una possibilità.
 
 E quella possibilità è stata tutto.
 
@@ -188,15 +216,13 @@ E quella possibilità è stata tutto.
 
 A volte, la notte, sogno quel momento.
 
-Sogno mio padre che ci dice di correre. Sogno i suoi occhi—così pieni di amore, così pieni di paura. Sogno la sua voce, quelle tre parole che ha finalmente detto: *Ti amo. Per sempre.*
+Sogno mio padre che ci dice di correre. Sogno i suoi occhi, così pieni di paura e determinazione. Sogno la sua voce, quelle parole che ha finalmente pronunciato: *Ti amo. Per sempre.*
 
-Mi sveglio con le lacrime sulle guance.
+Mi sveglio con il viso bagnato.
 
-Ma non sono lacrime di dolore. Non solo.
+Non solo di dolore. Di gratitudine.
 
-Sono lacrime di gratitudine.
+Perché mio padre mi ha amato abbastanza da lasciarmi andare. In un mondo che chiamava quell'amore malattia, lui ha scelto di essere malato. Ha scelto me.
 
-Perché mio padre mi ha amato abbastanza da lasciarmi andare.
-
-E quello, in un mondo che aveva vietato l'amore, era il dono più grande che potesse darmi.
+È il dono più grande che potesse darmi.
 

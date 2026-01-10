@@ -4,9 +4,11 @@
 
 Il viaggio verso le Zone orientali è stato lungo.
 
-Più lungo di quanto mi aspettassi. Ho attraversato territori che non conoscevo, ho incontrato persone che non avrei mai pensato di incontrare, ho visto cose che credevo esistessero solo nei racconti.
+Più lungo di quanto mi aspettassi. Ho attraversato territori dove il Sistema non arriva—le terre contaminate che ci avevano insegnato essere inabitabili, i deserti che una volta erano città, i confini marcati dai resti arrugginiti delle vecchie nazioni.
 
-Il mondo fuori dal Sistema è vasto. Più vasto di quanto avessi mai immaginato.
+Ho incontrato rifugiati, sopravvissuti, resistenti. Persone che il Sistema chiamerebbe *infetti*, *dinosauri*, *egoisti genetici*. Persone che sono semplicemente esseri umani che hanno scelto di vivere.
+
+Il mondo fuori è vasto. Più vasto e più vivo di quanto la propaganda mi avesse fatto credere.
 
 ---
 
@@ -66,7 +68,9 @@ La sua voce era roca, incerta. Come se non osasse crederci.
 
 Poi corsi. Corsi come non avevo mai corso—non per fuggire, questa volta, ma per arrivare. Per raggiungerla. Per stringerla.
 
-Le sue braccia si chiusero intorno a me, e io mi lasciai andare.
+Le sue braccia si chiusero intorno a me. Sentii il suo corpo più magro, più fragile di come lo ricordavo, ma il suo abbraccio era lo stesso. L'odore dei suoi capelli, il calore della sua pelle, il modo in cui le sue mani mi accarezzavano la schiena come faceva quando ero bambina e avevo paura.
+
+Affondai il viso nel suo collo e mi lasciai andare.
 
 ---
 
@@ -84,11 +88,11 @@ Più tardi, sedute accanto al fuoco, parlammo.
 
 Mia madre mi raccontò cosa era successo quel giorno. Come si era voltata verso il veicolo, pronta a sacrificarsi. Come i Controllori l'avevano catturata invece di ucciderla—volevano interrogarla, volevano sapere dove erano gli altri rifugi.
 
-"Mi hanno tenuta in una struttura per mesi," disse. "Cercavano informazioni. Ma non ho parlato. Mai."
+"Mi hanno tenuta in una struttura per mesi," disse. La sua voce si fece distante, come se stesse guardando attraverso il tempo. "Mi chiamavano *l'infetta* numero 7749. Non il mio nome—mai il mio nome. Cercavano informazioni sui rifugi, sui contatti, su chiunque ci avesse aiutato. Usavano tecniche che..." Si interruppe, e vidi ombre antiche passarle negli occhi. "Non ho parlato. Mai. Mi aggrappavo al ricordo di te e di tuo padre, e non ho parlato."
 
 "Come sei scappata?"
 
-Un sorriso triste attraversò il suo viso. "La rete. C'erano persone dentro la struttura—guardie che facevano parte della resistenza. Mi hanno fatto uscire durante un trasferimento. È stato rischioso. Molti ci hanno provato e non ce l'hanno fatta."
+Un sorriso triste attraversò il suo viso. "La rete. Ci sono Controllori che si sono stancati di essere strumenti dell'odio. Guardie che la notte ricordano di aver avuto genitori eterosessuali, nonni che si amavano alla luce del sole. Mi hanno fatto uscire durante un trasferimento. Quattro di loro sono morti per salvarmi."
 
 "Perché non sei tornata nel Sistema? Perché non mi hai cercata?"
 
@@ -144,9 +148,11 @@ Imparai la vita nelle Zone—come coltivare, come costruire, come sopravvivere s
 
 Ma era anche libero.
 
-Nessun sensore che monitorava i miei movimenti. Nessun test genetico ogni tre mesi. Nessuna regola che mi diceva chi potevo amare e chi no.
+Nessun sensore che monitorava i miei movimenti. Nessun test genetico ogni tre mesi. Nessun manifesto che urlava *LA RIPRODUZIONE È EGOISMO* o *DENUNCIA I BREEDER*. Nessuna regola che mi diceva chi potevo amare e chi no.
 
-Per la prima volta in vita mia, ero davvero libera.
+Vidi coppie miste—uomini e donne insieme, senza vergogna. Vidi bambini nati dall'amore, non dalla provetta. Vidi vecchi che si tenevano per mano, che si baciavano alla luce del sole, che facevano le cose più normali del mondo come se fossero miracoli.
+
+E lo erano. Dopo tutto quello che avevo visto, lo erano.
 
 ---
 
@@ -220,7 +226,7 @@ Poi mi voltai e camminai verso il Sistema. Verso la mia vita. Verso il futuro.
 
 Ma una parte di me restava là, in quel villaggio nelle Zone orientali. Con mia madre. Con i ricordi. Con la speranza.
 
-Le storie non muoiono mai.
+Le storie trovano sempre chi le racconta.
 
-E nemmeno l'amore.
+E l'amore trova sempre chi lo difende.
 

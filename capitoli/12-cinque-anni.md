@@ -8,15 +8,15 @@ Il primo anno fu il più difficile.
 
 Non per i rischi—quelli c'erano sempre stati, fin dal primo sguardo. Ma per l'adattamento. Per imparare a vivere due vite contemporaneamente, una alla luce del sole e una nell'ombra.
 
-James sviluppò una routine. Di giorno era lo studente modello, poi il tirocinante all'Archivio Centrale, poi l'archivista junior con accesso ai documenti di secondo livello. Frequentava i colleghi quando necessario, partecipava agli eventi sociali obbligatori, sorrideva alle telecamere.
+James costruì una maschera perfetta. Di giorno era lo studente modello, poi il tirocinante all'Archivio Centrale, poi l'archivista junior con accesso ai documenti di secondo livello. Frequentava i colleghi quando necessario, partecipava agli eventi sociali obbligatori, sorrideva alle telecamere. Nessuno avrebbe sospettato. Nessuno avrebbe immaginato che dietro quei gesti meccanici bruciasse un fuoco proibito.
 
-Di notte era un'altra persona.
+Di notte la maschera cadeva.
 
-Di notte era l'uomo che attraversava il Complesso seguendo percorsi memorizzati, evitando sensori, contando i secondi tra un'ispezione e l'altra. L'uomo che bussava alla porta di Kate con un codice prestabilito—due colpi, pausa, tre colpi—e la stringeva nel buio come se fosse l'ultima volta.
+Di notte diventava l'uomo che attraversava il Complesso come un fantasma, seguendo percorsi memorizzati, evitando sensori, contando i secondi tra un'ispezione e l'altra. L'uomo che bussava alla porta di Kate con un codice prestabilito—due colpi, pausa, tre colpi—e la stringeva nel buio come se il mondo stesse per finire.
 
-Ogni volta poteva essere l'ultima volta.
+Ogni volta poteva essere l'ultima volta. Il Sistema li avrebbe marchiati come "infetti". Li avrebbe mandati in rieducazione. Li avrebbe separati per sempre.
 
-Questo non smetteva mai di terrorizzarlo.
+Questo pensiero gli toglieva il sonno. Ma non gli toglieva il desiderio.
 
 ---
 
@@ -44,19 +44,17 @@ Ma non glielo chiese mai.
 
 I test genetici erano il momento peggiore.
 
-Ogni tre mesi, tutti i cittadini dovevano sottoporsi a un controllo completo. Ufficialmente serviva a monitorare lo stato di salute, a verificare che le Cure funzionassero correttamente. Ma James sapeva che cercavano altro.
+Ogni tre mesi, tutti i cittadini dovevano sottoporsi a un controllo completo. Ufficialmente serviva a monitorare lo stato di salute, a verificare che le Cure funzionassero correttamente. Ma James sapeva la verità.
 
-Cercavano gravidanze. Cercavano segni di "comportamento deviante". Cercavano qualsiasi cosa che potesse suggerire che qualcuno stesse infrangendo il Divieto.
+Cercavano i breeder. Cercavano gli infetti. Cercavano qualsiasi traccia di "comportamento riproduttivo deviante" nei fluidi corporei, nelle secrezioni ormonali, nei pattern cerebrali.
 
-Ogni volta che si sedeva nella sala d'attesa, con il braccio teso per il prelievo, James sentiva il cuore accelerare. Ogni volta era sicuro che quella fosse la volta buona, che qualcosa lo avrebbe tradito, che un algoritmo da qualche parte avrebbe collegato i puntini e capito la verità.
-
-Ma ogni volta, il risultato era lo stesso.
+La sala d'attesa era un incubo di silenzio. Pareti bianche, sedie grigie, telecamere in ogni angolo. James si sedeva con il braccio teso per il prelievo e pregava divinità in cui non credeva. Pregava che l'algoritmo non vedesse l'odore di Kate sulla sua pelle. Pregava che la macchina non leggesse i ricordi nei suoi neuroni—le sue labbra, il suo respiro, il calore del suo corpo contro il suo.
 
 "Tutto nella norma, cittadino Chen-Rossi. Può andare."
 
-E James usciva, con le gambe che tremavano e il sollievo che gli toglieva il fiato.
+Usciva con le gambe che cedevano. Il sollievo durava pochi secondi. Poi iniziava il conto alla rovescia. Novanta giorni. Ottantanove. Ottantotto.
 
-Fino al test successivo.
+Fino al prossimo test. Fino alla prossima tortura.
 
 ---
 
@@ -250,7 +248,7 @@ Non morti. Non catturati. Non rieducati.
 
 Non confermati.
 
-Ho fissato quei nomi per un tempo che non so misurare. Il cuore mi batteva così forte che potevo sentirlo nelle orecchie.
+Ho fissato quei nomi per un tempo che non so misurare. Il cuore mi martellava nelle tempie. Le mani tremavano.
 
 Sono ancora vivi.
 
@@ -258,6 +256,12 @@ Forse sono ancora vivi.
 
 E se lo sono—se sono là fuori, da qualche parte, nelle crepe del mondo—allora devo trovarli.
 
-Devo sapere cosa è successo.
+Devo sapere cosa è successo. Devo sapere chi sono davvero. Devo sapere perché, quando leggo i loro nomi, qualcosa nel mio petto si contrae come se li conoscessi già.
 
-Devo sapere chi sono davvero.
+Stanotte ho preso una decisione.
+
+Domani inizierò a cercare. Domani attraverserò la linea che separa la curiosità dalla ribellione.
+
+E se il Sistema mi scopre... se mi marchiano come infetta, come loro...
+
+Forse ne varrà la pena. Forse alcune risposte valgono qualsiasi prezzo.
