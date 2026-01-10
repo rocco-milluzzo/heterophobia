@@ -4,7 +4,7 @@
 
 Corsi.
 
-Corsi come non avevo mai corso in vita mia. Con Alice aggrappata alla mia mano. Le gambe che bruciavano. I polmoni che gridavano per l'aria. Corsi senza voltarmi, senza pensare. Solo l'istinto di sopravvivenza.
+Corsi come non avevo mai corso in vita mia. Con Alice aggrappata alla mia mano, le gambe che bruciavano, i polmoni che gridavano per l'aria. Senza voltarmi, senza pensare. Solo l'istinto di sopravvivenza.
 
 Dietro di me, sentii James gridare qualcosa. Poi il rumore dei veicoli che si fermavano. Poi silenzio.
 
@@ -102,7 +102,7 @@ Non rispose.
 
 Camminammo per ore.
 
-Il tempo nelle gallerie era strano—senza sole, senza cielo, senza niente che indicasse il passare dei minuti. Potevano essere state ore o giorni. Non avevo modo di saperlo.
+Il tempo nelle gallerie era strano—senza sole, senza cielo, senza nulla che indicasse il passare dei minuti. Potevano essere state ore o giorni. Non avevo modo di saperlo.
 
 A un certo punto, Mira si fermò.
 

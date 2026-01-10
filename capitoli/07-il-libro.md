@@ -19,7 +19,7 @@ Kate rilesse i versi tre volte. Ogni volta sentiva qualcosa stringersi nel petto
 
 Era questo che provava per James?
 
-Non lo sapeva. Non aveva termini di paragone. L'unico amore che conosceva era quello di suo padre Henrik per i compagni che si era scelto—uomini diversi, che si alternavano con la cadenza delle stagioni artificiali. Erano affettuosi. Si rispettavano. Ma non c'era urgenza in ciò che provavano. Niente che somigliasse a questa febbre, a questa fame.
+Non lo sapeva. Non aveva termini di paragone. L'unico amore che conosceva era quello di suo padre Henrik per i compagni che si era scelto — uomini diversi, che si alternavano con la cadenza delle stagioni artificiali. Erano affettuosi. Si rispettavano. Ma non c'era urgenza in ciò che provavano. Niente che somigliasse a questa febbre, a questa fame.
 
 *Disturbo dell'orientamento riproduttivo*, l'avrebbe chiamato un medico. *Primo stadio di infezione. Curabile, se preso in tempo.*
 
@@ -83,7 +83,7 @@ Kate inspirò profondamente. Sentiva il battito del proprio cuore nelle orecchie
 
 "E se ci scoprono?"
 
-"Allora ci scoprono." Kate sentì le parole uscire dalla sua bocca prima di poterle fermare. "Ma almeno avremo provato."
+"Allora ci scoprono." Kate sentì le parole uscirle di bocca prima di poterle fermare. "Ma almeno avremo provato."
 
 "Tu non capisci." La voce di James si ruppe. "Mio nonno mi ha raccontato di sua sorella. L'hanno mandata in rieducazione nel '79. Quando è tornata... non era più lei. Sorrideva sempre, parlava come un manuale, non ricordava niente. L'avevano... l'avevano svuotata."
 
@@ -101,7 +101,7 @@ Restò sveglia a fissare il soffitto, pensando a quello che era successo. Lui l'
 
 Ma non si arrese.
 
-C'era qualcosa in James che la attirava in un modo che non riusciva a spiegare. Il modo in cui lui vedeva il mondo. Il modo in cui parlava del passato, come se fosse una casa in cui avrebbe voluto vivere. Il modo in cui la guardava, quando pensava che lei non se ne accorgesse.
+C'era qualcosa in James che la attirava in un modo inspiegabile. Come vedeva il mondo. Come parlava del passato, come se fosse una casa in cui avrebbe voluto vivere. Come la guardava, quando pensava che lei non se ne accorgesse.
 
 Nessuno l'aveva mai guardata così.
 

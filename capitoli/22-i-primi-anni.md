@@ -20,7 +20,7 @@ Kate aveva trovato il suo ruolo. Lavorava nel laboratorio improvvisato della com
 
 James, invece, era diventato l'archivista della comunità. Non c'erano documenti ufficiali da catalogare qui, ma c'erano storie. Memorie. Testimonianze di chi aveva vissuto prima, di chi aveva perso qualcuno, di chi aveva scelto la libertà sapendo che significava rinunciare all'eternità. James le raccoglieva tutte, le trascriveva, le preservava.
 
-"Perché lo fai?" gli aveva domandato Kate una sera.
+"Perché lo fai?" gli aveva chiesto Kate una sera.
 
 "Perché qualcuno deve ricordare," aveva risposto lui. "Quando noi non ci saremo più."
 
@@ -94,11 +94,11 @@ Era inevitabile.
 
 A quattro anni, Alice fece la sua prima amica.
 
-Si chiamava Mira—una bambina di un anno più grande, nata anche lei nelle Zone Abbandonate. Le sue genitori erano due donne fuggite dal Distretto Sud, che avevano trovato il modo di avere una figlia attraverso metodi che Kate preferiva non approfondire.
+Si chiamava Mira—una bambina di un anno più grande, nata anche lei nelle Zone Abbandonate. I suoi genitori erano due donne fuggite dal Distretto Sud, che avevano trovato il modo di avere una figlia attraverso metodi che Kate preferiva non approfondire.
 
 Alice e Mira erano inseparabili. Giocavano insieme, esploravano insieme, si raccontavano storie inventate che duravano ore. Era bello vederle—due bambine libere, che non sapevano cosa fosse la paura.
 
-"Credi che staranno bene?" domandò Kate a James una sera, guardando le due bambine che rincorrevano le lucciole nel crepuscolo.
+"Credi che staranno bene?" chiese Kate a James una sera, guardando le due bambine rincorrere le lucciole nel crepuscolo.
 
 "Meglio di noi, spero." James le mise un braccio intorno alle spalle. "Loro non devono disimparare. Sono nate libere."
 

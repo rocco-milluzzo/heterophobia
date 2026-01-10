@@ -6,7 +6,7 @@ Il viaggio verso le Zone orientali è stato lungo.
 
 Più lungo di quanto mi aspettassi. Ho attraversato territori dove il Sistema non arriva—le terre contaminate che ci avevano insegnato essere inabitabili, i deserti che una volta erano città, i confini marcati dai resti arrugginiti delle vecchie nazioni.
 
-Ho incontrato rifugiati, sopravvissuti, resistenti. Persone che il Sistema chiamerebbe *infetti*, *dinosauri*, *egoisti genetici*. Persone che sono semplicemente esseri umani che hanno scelto di vivere.
+Ho incontrato rifugiati, sopravvissuti, resistenti. Persone che il Sistema chiamerebbe *infetti*, *dinosauri*, *egoisti genetici*. Persone che sono semplicemente esseri umani, e che hanno scelto di vivere.
 
 Il mondo fuori è vasto. Più vasto e più vivo di quanto la propaganda mi avesse fatto credere.
 
@@ -24,7 +24,7 @@ Da un rifugio all'altro, da un sopravvissuto all'altro. Ogni persona che incontr
 
 ---
 
-Più mi avvicinavo, più le voci diventavano concrete.
+Più mi avvicinavo, più le voci si facevano concrete.
 
 Non era solo una donna con i capelli bianchi. Era una donna alta, con gli occhi chiari e un modo di parlare che tradiva un'educazione formale. Una donna che aveva vissuto nel Sistema, ma che ora viveva nelle Zone.
 
@@ -42,7 +42,7 @@ Le rovine di vecchi edifici si alzavano intorno a noi come scheletri di un passa
 
 E al centro di quella comunità, seduta accanto a un fuoco, c'era lei.
 
-I capelli bianchi adesso, dove una volta erano castani. Il viso segnato da linee che non c'erano l'ultima volta che l'avevo vista. Ma gli occhi—quegli occhi li avrei riconosciuti ovunque.
+I capelli bianchi, dove una volta erano castani. Il viso segnato da linee che non c'erano l'ultima volta che l'avevo vista. Ma gli occhi—quegli occhi li avrei riconosciuti ovunque.
 
 Erano gli occhi di mia madre.
 
@@ -92,7 +92,7 @@ Mia madre mi raccontò cosa era successo quel giorno. Come si era voltata verso 
 
 Si fermò. Le sue mani tremavano.
 
-"Cercavano informazioni sui rifugi, sui contatti, su chiunque ci avesse aiutato. Ma non erano solo interrogatori." La sua voce si spezzò. "I Controllori... alcuni di loro si offrivano volontari per le sessioni notturne. Dicevano che era parte della terapia. Che dovevano *insegnarci* cosa significava essere toccate da un uomo nel modo *sbagliato*, per farci capire quanto fosse disgustoso."
+"Cercavano informazioni sui rifugi, sui contatti, su chiunque ci avesse aiutato. Ma non erano solo interrogatori." La sua voce si spezzò. "I Controllori... alcuni si offrivano volontari per le sessioni notturne. Dicevano che era parte della terapia. Che dovevano *insegnarci* cosa significava essere toccate da un uomo nel modo *sbagliato*, per farci capire quanto fosse disgustoso."
 
 Non riuscivo a parlare. Non riuscivo a respirare.
 
@@ -144,7 +144,7 @@ Lei abbassò lo sguardo.
 
 "Potrebbe." Mi guardò. "O potrebbe no. Non lo sapremo mai con certezza."
 
-Il dolore nel suo sguardo mi disse tutto. Lei ci pensava ogni giorno. Ogni notte. Si chiedeva se James fosse vivo, se soffrisse, se pensasse a loro.
+Il dolore nel suo sguardo mi disse tutto. Lei ci pensava ogni giorno, ogni notte. Si chiedeva se James fosse vivo, se soffrisse, se pensasse a loro.
 
 "Mi manca," dissi.
 
@@ -162,7 +162,7 @@ Imparai la vita nelle Zone—come coltivare, come costruire, come sopravvivere s
 
 Ma era anche libero.
 
-Nessun sensore che monitorava i miei movimenti. Nessun test genetico ogni tre mesi. Nessun manifesto che urlava *LA RIPRODUZIONE È EGOISMO* o *DENUNCIA I BREEDER*. Nessuna regola che mi diceva chi potevo amare e chi no.
+Nessun sensore a monitorare i miei movimenti. Nessun test genetico ogni tre mesi. Nessun manifesto che urlava *LA RIPRODUZIONE È EGOISMO* o *DENUNCIA I BREEDER*. Nessuna regola a dirmi chi potevo amare e chi no.
 
 Vidi coppie miste—uomini e donne insieme, senza vergogna. Vidi bambini nati dall'amore, non dalla provetta. Vidi vecchi che si tenevano per mano, che si baciavano alla luce del sole, che facevano le cose più normali del mondo come se fossero miracoli.
 

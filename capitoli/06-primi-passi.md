@@ -8,7 +8,7 @@ Certo che lo sapeva. Tutti lo sapevano. Le immagini dei centri di rieducazione v
 
 Ma i pretesti esistevano, se sapevi dove cercarli.
 
-Il progetto di storia, per esempio. Ogni anno gli studenti dell'ultimo ciclo dovevano preparare una ricerca sull'Era della Mortalità, e quest'anno l'argomento assegnato era "Le relazioni interpersonali prima del Divieto". I gruppi erano misti—ragazzi e ragazze insieme, per una volta—e James aveva fatto di tutto per finire nel gruppo di Kate.
+Il progetto di storia, per esempio. Ogni anno gli studenti dell'ultimo ciclo dovevano preparare una ricerca sull'Era della Mortalità, e quell'anno l'argomento assegnato era "Le relazioni interpersonali prima del Divieto". I gruppi erano misti — ragazzi e ragazze insieme, per una volta — e James aveva fatto di tutto per finire nel gruppo di Kate.
 
 Non era stato difficile. Bastava conoscere le persone giuste, offrire i favori giusti, far circolare le voci giuste. James aveva imparato presto che in un mondo di conformità, l'unico potere vero era l'informazione.
 
@@ -56,7 +56,7 @@ All'inizio solo del progetto. Delle "relazioni interpersonali prima del Divieto"
 
 Poi le conversazioni iniziarono a cambiare.
 
-"Mia nonna dice che una volta le persone si sposavano per amore," mormorò Kate una sera, seduta sulla scala di emergenza abbracciandosi le ginocchia. "Immagina. Scegliere qualcuno e promettergli di restare insieme per sempre."
+"Mia nonna dice che una volta le persone si sposavano per amore," mormorò Kate una sera, seduta sulla scala di emergenza con le ginocchia raccolte al petto. "Immagina. Scegliere qualcuno e promettergli di restare insieme per sempre."
 
 "Per sempre era più breve, allora," rispose James. "Cinquant'anni, sessanta al massimo."
 
@@ -100,7 +100,7 @@ James si ritrovò a pensare a Kate costantemente. Al mattino, quando si svegliav
 
 Un pomeriggio andò a trovare suo nonno.
 
-Enzio viveva in un'ala del Complesso riservata ai pensionati—gente che aveva scelto di smettere di lavorare dopo il primo secolo di vita, stanchi di fingere che ci fosse qualcosa di nuovo da fare. Il suo appartamento era pieno di libri veri, di quelli con le pagine di carta, reliquie di un'epoca in cui le informazioni non erano tutte digitali.
+Enzio viveva in un'ala del Complesso riservata ai pensionati — gente che aveva scelto di smettere di lavorare dopo il primo secolo di vita, stanca di fingere che ci fosse qualcosa di nuovo da fare. Il suo appartamento era pieno di libri veri, di quelli con le pagine di carta, reliquie di un'epoca in cui le informazioni non erano tutte digitali.
 
 "James." Il vecchio lo accolse con un sorriso. "Cosa ti porta qui?"
 
@@ -126,7 +126,7 @@ Enzio non chiese quale cosa. Non ne aveva bisogno.
 
 "Come?"
 
-Il vecchio sorrise. "Perché sceglievamo ogni giorno di provarci. Anche quando era difficile. Anche quando faceva male. Anche quando tutti ci dicevano che era sbagliato." I suoi occhi, ancora lucidi nonostante l'età biologica congelata, si fissarono su quelli di James. "È questa la differenza, nipote. Non è l'amore che ti trova. Sei tu che lo scegli. Giorno dopo giorno. Momento dopo momento."
+Il vecchio sorrise. "Perché sceglievamo ogni giorno di provarci. Anche quando era difficile. Anche quando faceva male. Anche quando tutti ci dicevano che era sbagliato." I suoi occhi, ancora lucidi nonostante l'età biologica congelata, si fissarono su quelli di James. "È questa la differenza. Non è l'amore che ti trova. Sei tu che lo scegli. Giorno dopo giorno. Momento dopo momento."
 
 James rimase in silenzio. Pensava a Kate. A quello che provava quando la vedeva. A quello che avrebbe rischiato per rivederla ancora.
 

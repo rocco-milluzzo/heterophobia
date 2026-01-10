@@ -162,7 +162,7 @@ James la guardò con stupore.
 
 "Sì. Come tu le scrivi nel tuo quaderno. Ma io le scriverò per tutti."
 
-James avvertì una stretta al petto. Guardò Kate, che stava sorridendo con le lacrime agli occhi.
+James sentì una stretta al petto. Guardò Kate, che stava sorridendo con le lacrime agli occhi.
 
 "È una bellissima idea," disse Kate. "Scrivere le storie è importante."
 

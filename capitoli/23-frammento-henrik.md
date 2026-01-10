@@ -158,7 +158,7 @@ Ma non sono riuscita a fermarmi.
 
 *Qualcosa è cambiato.*
 
-*Kate è nervosa. Esce ancora, ma con più cautela. Parla meno. Mangia di più—o di meno, non riesco a capire. C'è qualcosa che non mi dice, qualcosa di grosso.*
+*Kate è nervosa. Esce ancora, ma con più cautela. Parla meno. Mangia di più—o di meno, non riesco a capire. Mi nasconde qualcosa, qualcosa di grosso.*
 
 *Ho paura di chiedere.*
 
@@ -235,7 +235,7 @@ Henrik Lindqvist. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che av
 
 Non era un eroe. Non era un ribelle. Era un sopravvissuto—e i sopravvissuti portano cicatrici invisibili che non guariscono mai.
 
-Era solo un padre che amava sua figlia troppo per tradirla, ma troppo spezzato dall'epoca dell'heterophobia per combattere al suo fianco. Aveva già perso tutto una volta. Non poteva sopportare di perderlo di nuovo.
+Era solo un padre che amava sua figlia troppo per tradirla, ma troppo spezzato dall'epoca dell'eterofobia per combattere al suo fianco. Aveva già perso tutto una volta. Non poteva sopportare di perderlo di nuovo.
 
 E forse, in quel fallimento, c'era una forma di amore che non avevo mai considerato. L'amore di chi sa di non poter fare abbastanza, e sceglie di fare quel poco che può. L'amore di chi protegge non combattendo, ma semplicemente non denunciando. Non tradendo.
 

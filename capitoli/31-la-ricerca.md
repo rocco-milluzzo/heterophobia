@@ -40,7 +40,7 @@ Non ancora.
 
 Le Zone Abbandonate iniziano dove finisce il grigio.
 
-È la prima cosa che noto: il colore. Nel Complesso tutto è uniforme. Pareti grigie, cieli grigi, vestiti grigi. Ma qui, oltre il confine, il mondo esplode in sfumature che avevo dimenticato esistessero.
+È la prima cosa che noto: il colore. Nel Complesso tutto è uniforme—pareti grigie, cieli grigi, vestiti grigi. Ma qui, oltre il confine, il mondo esplode in sfumature che avevo dimenticato esistessero.
 
 Il verde delle piante selvatiche che si arrampicano sulle rovine. Il marrone della terra non pavimentata. Il blu del cielo sopra di me. Un blu vero, intenso, impossibile.
 
@@ -80,7 +80,7 @@ Mi accorgo di essere osservata prima ancora di vedere qualcuno. È una sensazion
 
 Un silenzio. Poi una figura emerge dalle rovine—una donna anziana, con capelli bianchi e un fucile in mano. Non punta l'arma verso di me, ma non la abbassa nemmeno.
 
-"Chen-Rossi," ripete. Il nome le resta sulla lingua come qualcosa di dimenticato. "Li conoscevi?"
+"Chen-Rossi," ripete. Il nome le indugia sulla lingua come qualcosa di dimenticato. "Li conoscevi?"
 
 "Erano i miei genitori."
 
@@ -192,7 +192,7 @@ La prova che esistevamo.
 
 Che eravamo una famiglia. Una famiglia vera, fatta di rischi e speranze e momenti rubati. Che per qualche anno, in un mondo che aveva vietato tutto questo, siamo stati felici.
 
-Cammino, e qualcosa mi brucia negli occhi. Non è dolore. Non solo.
+Cammino, e qualcosa mi brucia gli occhi. Non è dolore. Non soltanto.
 
 È gratitudine.
 

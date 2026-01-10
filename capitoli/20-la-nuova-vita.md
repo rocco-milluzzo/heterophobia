@@ -8,7 +8,7 @@ Poi i droni erano spariti. Il Sistema aveva rinunciato—almeno per quella volta
 
 I mesi che seguirono passarono come non erano mai passati prima.
 
-Nel Complesso, il tempo era scandito da orari, da routine, da cicli di luce artificiale che non cambiavano mai. Ma qui, nelle Zone Abbandonate, il tempo aveva un altro ritmo. Seguiva il sole—che sorgeva e tramontava con colori che Kate non aveva mai immaginato. Seguiva le stagioni—il caldo che diventava fresco che diventava freddo. Seguiva la vita—quella che cresceva dentro di lei, settimana dopo settimana, sempre più grande, sempre più reale.
+Nel Complesso, il tempo era scandito da orari, da routine, da cicli di luce artificiale che non cambiavano mai. Ma qui, nelle Zone Abbandonate, il tempo aveva un altro ritmo. Seguiva il sole—che sorgeva e tramontava con colori che Kate non aveva mai immaginato. Seguiva le stagioni—il caldo che diventava fresco, poi freddo. Seguiva la vita—quella che cresceva dentro di lei, settimana dopo settimana, sempre più grande, sempre più reale.
 
 Kate si adattò più velocemente di quanto avesse previsto.
 

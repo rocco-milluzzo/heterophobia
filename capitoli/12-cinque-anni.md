@@ -28,7 +28,7 @@ Il secondo anno, Kate smise di avere paura.
 
 Non del tutto—la paura non scompare mai quando ami qualcuno in un mondo che ti vieta di farlo. Ma imparò a conviverci. A trattarla come un rumore di fondo, un ronzio costante che poteva ignorare se si concentrava abbastanza.
 
-Lavorava al laboratorio di sintesi alimentare del Distretto Nord. Ma parte del lavoro includeva anche analisi genetiche sui campioni—l'ironia non le sfuggiva. Passava le giornate a studiare il DNA di organismi sintetici, a cercare anomalie, deviazioni, difetti. A volte si chiedeva cosa avrebbero trovato se avessero analizzato il suo.
+Lavorava al laboratorio di sintesi alimentare del Distretto Nord. Ma parte del lavoro includeva anche analisi genetiche sui campioni — l'ironia non le sfuggiva. Passava le giornate a studiare il DNA di organismi sintetici, a cercare anomalie, deviazioni, difetti. A volte si chiedeva cosa avrebbero trovato se avessero analizzato il suo.
 
 Yuki lavorava nella stessa sezione. Si erano ritrovate per caso, o forse no—nel Sistema niente era davvero casuale. A volte Kate sentiva il suo sguardo addosso, attento, indagatore. Ma Yuki non diceva mai nulla. Si limitava a sorridere e a cambiare argomento.
 
@@ -92,7 +92,7 @@ Kate giaceva accanto a lui nel buio dell'appartamento di lei. Suo padre Henrik e
 
 James non rispose. Sì, stava pensando al futuro. Al fatto che non ne avevano uno. Che potevano continuare così per anni, decenni, secoli—l'eternità era lunga—ma non avrebbero mai avuto quello che volevano davvero.
 
-Una vita insieme. Una vera.
+Una vera vita insieme.
 
 "James." La voce di Kate era seria. "Dobbiamo parlare."
 

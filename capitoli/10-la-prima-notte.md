@@ -12,7 +12,7 @@ Eppure, mentre aspettava James seduta sul divano del soggiorno, Kate tremava.
 
 ---
 
-Non era paura. O meglio, non solo paura.
+Non era paura. O meglio, non solo.
 
 Era qualcos'altro. Qualcosa che non aveva nome, che non aveva studiato in nessuna lezione, che non compariva in nessun manuale di comportamento approvato. Era l'attesa di qualcosa di enorme, di irreversibile. La consapevolezza che dopo quella notte niente sarebbe stato più lo stesso.
 
@@ -94,7 +94,7 @@ E poi lui si chinò, e la baciò.
 
 Il primo bacio fu goffo.
 
-Nessuno dei due sapeva cosa fare. Avevano letto descrizioni nei vecchi libri, visto frammenti di film pre-Divieto nascosti negli archivi proibiti. Ma la teoria non era la pratica. Le loro labbra si incontrarono in modo scomposto, i nasi si scontrarono, i denti urtarono.
+Nessuno dei due sapeva cosa fare. Avevano letto descrizioni nei vecchi libri, visto frammenti di film pre-Divieto nascosti negli archivi proibiti. Ma la teoria non era la pratica. Le labbra si incontrarono in modo scomposto, i nasi si scontrarono, i denti urtarono.
 
 Kate rise. Non riuscì a trattenersi—una risata nervosa, liberatoria, che scosse il silenzio della stanza.
 
@@ -106,9 +106,9 @@ Kate rise. Non riuscì a trattenersi—una risata nervosa, liberatoria, che scos
 
 "Insieme."
 
-Il secondo bacio fu meglio. Le labbra di James erano più morbide di quanto avesse immaginato, e quando si schiusero leggermente Kate sentì un brivido percorrerle la schiena. Il terzo bacio fu ancora meglio—più lungo, più profondo. Le mani di lui le scivolarono tra i capelli, e Kate sentì il proprio corpo inclinarsi verso il suo come se fosse attratto da una forza invisibile.
+Il secondo bacio fu meglio. Le labbra di James erano più morbide di quanto avesse immaginato, e quando si schiusero leggermente Kate sentì un brivido percorrerle la schiena. Il terzo fu ancora migliore — più lungo, più profondo. Le mani di lui le scivolarono tra i capelli, e Kate sentì il proprio corpo inclinarsi verso il suo come attratto da una forza invisibile.
 
-Bacio dopo bacio, impararano il linguaggio della pelle. Il modo in cui i respiri si mescolavano. Il calore che cresceva tra loro come un fuoco che nessuno aveva insegnato loro ad accendere, ma che bruciava lo stesso.
+Bacio dopo bacio, impararono il linguaggio della pelle. Il modo in cui i respiri si mescolavano. Il calore che cresceva tra loro come un fuoco che nessuno aveva insegnato loro ad accendere, ma che bruciava lo stesso.
 
 ---
 
@@ -160,7 +160,7 @@ Lui non si fermò.
 
 Il resto fu un turbine di sensazioni—il peso del suo corpo sopra il proprio, il ritmo dei respiri che acceleravano, la pressione che cresceva nel basso ventre come un'onda in arrivo. Kate si aggrappava alle spalle di James, le unghie che affondavano nella sua pelle, il corpo che si arcuava verso il suo per un istinto più antico del pensiero.
 
-Non c'era dolore—o se c'era, era sommerso da qualcos'altro. Qualcosa di vasto, di travolgente, di totale. Era come essere smontata e rimontata, come essere distrutta e ricostruita in qualcosa di nuovo.
+Non c'era dolore—o se c'era, era sommerso da qualcos'altro. Qualcosa di vasto, di travolgente, di totale. Era come essere disfatta e rifatta, distrutta e ricostruita in qualcosa di nuovo.
 
 Era come morire. Era come nascere.
 
@@ -172,7 +172,7 @@ Poi, silenzio. Solo il rumore dei loro respiri, il battito dei loro cuori che ra
 
 Giacquero l'uno accanto all'altra, esausti e tremanti.
 
-Kate sentì il sudore raffreddarsi sulla pelle, il calore del corpo di James contro il fianco. Ogni muscolo era sciolto, ogni pensiero quieto. Era come se avesse corso per ore, per anni, e finalmente si fosse fermata.
+Kate sentì il sudore raffreddarsi sulla pelle, il calore del corpo di James contro il fianco. Ogni muscolo rilassato, ogni pensiero quieto. Era come se avesse corso per ore, per anni, e finalmente si fosse fermata.
 
 "Kate." James le accarezzò il viso, le dita che indugiavano sulla guancia. "Quello che abbiamo fatto..."
 
@@ -188,7 +188,7 @@ E seppe, con una certezza che le toglieva il respiro, che avrebbe fatto qualsias
 
 Il buio della stanza era quasi totale.
 
-Kate giaceva sul fianco, la testa appoggiata al petto di James. Sentiva il suo cuore battere—un ritmo lento, regolare, così diverso dal martellare frenetico di poco prima. Una sua mano le accarezzava i capelli, piano, con una tenerezza che la faceva quasi piangere.
+Kate giaceva sul fianco, la testa appoggiata al petto di James. Sentiva il suo cuore battere — un ritmo lento, regolare, così diverso dal martellare frenetico di poco prima. La mano di lui le accarezzava i capelli, piano, con una tenerezza che la faceva quasi piangere.
 
 "James."
 
@@ -238,7 +238,7 @@ Kate non ricordava l'ultima volta che aveva dormito così bene. Forse mai. Forse
 
 Si svegliò all'alba, quando la luce artificiale del Complesso iniziò a schiarirsi gradualmente. James dormiva ancora, il viso rilassato in un'espressione che lei non gli aveva mai visto. Sembrava più giovane, nel sonno. Più vulnerabile.
 
-Kate lo guardò per un lungo momento. Memorizzò ogni dettaglio—la curva delle sue ciglia, la forma delle sue labbra, la piccola ruga tra le sopracciglia che compariva anche mentre dormiva. Voleva ricordare tutto. Ogni secondo di quella notte, ogni tocco, ogni respiro.
+Kate lo guardò a lungo. Memorizzò ogni dettaglio — la curva delle ciglia, la forma delle labbra, la piccola ruga tra le sopracciglia che compariva anche mentre dormiva. Voleva ricordare tutto. Ogni secondo di quella notte, ogni tocco, ogni respiro.
 
 Perché sapeva che non avrebbero potuto farlo spesso. Sapeva che i rischi erano enormi, che ogni incontro era una roulette russa con il loro futuro. Sapeva che prima o poi avrebbero potuto essere scoperti.
 
@@ -304,7 +304,7 @@ Fece le cose che doveva fare—studiare, mangiare, rispondere ai messaggi di Yuk
 
 Ogni volta che chiudeva gli occhi, rivedeva il suo viso. Ogni volta che sfiorava qualcosa, sentiva ancora il fantasma delle sue mani. Era come se lui avesse lasciato un'impronta su ogni parte del suo corpo, un marchio invisibile che nessuno poteva vedere ma che lei sentiva costantemente.
 
-*Questo intendevano*, pensò. I poeti, gli scrittori—tutti quelli che avevano rischiato tutto. Non era follia. Era l'unica cosa che avesse senso.
+*Questo intendevano*, pensò. I poeti, gli scrittori — tutti quelli che avevano rischiato tutto. Non era follia. Era l'unica cosa che avesse senso.
 
 ---
 

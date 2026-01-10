@@ -4,7 +4,7 @@
 
 Li sentii prima di vederli.
 
-Eravamo a poche ore dal rifugio—il nuovo rifugio, quello che Mira ci aveva promesso sarebbe stato sicuro. Avevamo camminato per due giorni, dormito all'aperto, mangiato quello che riuscivamo a trovare. Eravamo esausti, sporchi, affamati.
+Eravamo a poche ore dal rifugio—quello nuovo, che Mira ci aveva promesso sarebbe stato sicuro. Avevamo camminato per due giorni, dormito all'aperto, mangiato quel poco che riuscivamo a trovare. Eravamo esausti, sporchi, affamati.
 
 Ma eravamo vivi.
 
@@ -50,7 +50,7 @@ Poi sentimmo i veicoli.
 
 Erano dietro di noi. Li vedevo attraverso gli alberi—tre, come l'altra volta. Grigio metallico, veloci, inesorabili.
 
-"Il rifugio è là," disse Mira, indicando una direzione. "Trecentometri. Ci sono cunicoli sotterranei, non possono seguirci là sotto."
+"Il rifugio è là," disse Mira, indicando una direzione. "Trecento metri. Ci sono cunicoli sotterranei, non possono seguirci là sotto."
 
 "Andiamo."
 
@@ -90,7 +90,7 @@ Non ce l'avremmo fatta entrambe. Il veicolo era troppo vicino, troppo veloce. Se
 
 Ma se una di noi si fosse fermata...
 
-Guardai Alice. Mia figlia. La ragione per cui avevo fatto tutto questo. La fuga, i rischi, i sacrifici. La ragione per cui James si era fermato. La ragione per cui Mira era corsa verso i veicoli.
+Guardai Alice. Mia figlia. La ragione per cui avevo fatto tutto questo. La fuga, i rischi, i sacrifici. La ragione per cui James si era fermato. Per cui Mira era corsa verso i veicoli.
 
 La ragione per cui valeva la pena lottare.
 

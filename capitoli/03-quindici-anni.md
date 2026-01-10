@@ -62,7 +62,7 @@ Questo è sbagliato, si disse. Questo è pericoloso.
 
 Sapeva cos'era. L'aveva studiato, come tutti. L'attrazione eterosessuale era un residuo evolutivo, un istinto che una volta serviva alla riproduzione ma che ora era obsoleto. Come la fame in eccesso, come l'aggressività. Una disfunzione che poteva essere curata.
 
-*L'eterosessualità è una scelta—scegli meglio.* Lo slogan lampeggiava sugli schermi pubblici ogni ora, insieme alle immagini dei campi di rieducazione. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
+*L'eterosessualità è una scelta — scegli meglio.* Lo slogan lampeggiava sugli schermi pubblici ogni ora, insieme alle immagini dei campi di rieducazione. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
 
 Sentire quel formicolio per una ragazza non era normale. Era pericoloso. Un *breeder* in potenza, lo avrebbero chiamato. Un *infetto*.
 
@@ -146,7 +146,7 @@ O forse lo aveva immaginato. Non importava.
 
 Era iniziato qualcosa. Un movimento tettonico nelle profondità del suo essere.
 
-Nella stanza accanto, il LED della telecamera lampeggiò rosso. Da qualche parte, un algoritmo notò un'anomalia nei suoi pattern di sonno. Una nota venne aggiunta al suo fascicolo, in una cartella che non avrebbe mai visto.
+Nella sua stanza, il LED della telecamera lampeggiò rosso. Da qualche parte, un algoritmo notò un'anomalia nei suoi pattern di sonno. Una nota venne aggiunta al suo fascicolo, in una cartella che non avrebbe mai visto.
 
 *Soggetto 2847-C: monitoraggio incrementato.*
 

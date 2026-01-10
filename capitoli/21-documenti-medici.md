@@ -22,7 +22,7 @@ Mi sono fermata su quella riga per un tempo che non so misurare.
 
 *Il battito del bambino era irregolare quella notte.*
 
-Come potevo conoscere quella sensazione? L'ansia di quelle ore interminabili, l'attesa nel buio con le mani strette fino a far male, il sollievo travolgente quando il battito era tornato normale. Erano emozioni che solo chi era stato presente avrebbe potuto raccontare.
+Come potevo riconoscere quella sensazione? L'ansia di quelle ore interminabili, l'attesa nel buio con le mani strette fino a far male, il sollievo travolgente quando il battito era tornato normale. Erano emozioni che solo chi era stato presente avrebbe potuto raccontare.
 
 Eppure le percepivo. Le riconoscevo nel profondo, come se fossero scolpite nelle mie ossa.
 
@@ -107,7 +107,7 @@ Fuori, il sole stava sorgendo. Un'altra giornata nell'eternità grigia del Siste
 
 Ma io non ero più la stessa.
 
-Un mutamento stava avvenendo in me. Una trasformazione che non capivo ancora, che non riuscivo a nominare.
+Qualcosa stava mutando in me. Una trasformazione che non capivo ancora, che non riuscivo a nominare.
 
 E mi domandavo—sempre più insistentemente—se la risposta non fosse stata davanti a me fin dall'inizio. Se non l'avessi sempre saputa, in un angolo nascosto del cuore.
 

@@ -93,7 +93,7 @@ Ho passato settimane a cercare una risposta. Ho confrontato la grafia con tutti 
 
 Mi rendo conto che sto perdendo l'obiettività.
 
-Una storica, una ricercatrice seria, non dovrebbe passare le notti a fissare un libro di poesie cercando di capire perché ha un odore familiare. Non dovrebbe sentire il cuore accelerare leggendo le parole che due sconosciuti si scrivevano tanti anni fa.
+Una storica, una ricercatrice seria, non dovrebbe passare le notti a fissare un libro di poesie cercando di capire perché abbia un odore familiare. Non dovrebbe sentire il cuore accelerare leggendo le parole che due sconosciuti si scrivevano tanti anni fa.
 
 Ma ecco il punto: non mi sembrano sconosciuti.
 

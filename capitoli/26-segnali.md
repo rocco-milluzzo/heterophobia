@@ -10,7 +10,7 @@ Il Sistema stava stringendo la morsa.
 
 "Hanno trovato una comunità a sud," annunciò Marcus una sera, durante la riunione settimanale. "Cinquanta persone. Portate via tutte."
 
-Un mormorio attraversò la stanza. James avvertì Kate irrigidirsi accanto a lui.
+Un mormorio attraversò la stanza. James sentì Kate irrigidirsi accanto a lui.
 
 "Cosa gli è successo?" domandò qualcuno.
 
@@ -48,7 +48,7 @@ Alice annuì. Era una bambina intelligente—capiva più di quanto dicessero.
 
 "Se dobbiamo scappare," affermò, "porteremo il libro, vero?"
 
-James avvertì il cuore stringersi. "Certo che lo porteremo."
+James sentì il cuore stringersi. "Certo che lo porteremo."
 
 "Bene." Alice sorrise, rassicurata. "Le storie non devono perdersi."
 
@@ -100,13 +100,13 @@ Kate scosse la testa. "Alice ha una vita qui. Amici. Una casa. Non possiamo stra
 
 "Preferisco che possiamo vivere senza avere paura ogni secondo."
 
-James avvertì la frustrazione montare. "E come pensi di farlo? Il Sistema non si fermerà. Non smetteranno mai di cercare."
+James sentì la frustrazione montare. "E come pensi di farlo? Il Sistema non si fermerà. Non smetteranno mai di cercare."
 
 "Allora forse dobbiamo smettere noi di nasconderci."
 
 James la guardò, incredulo. "Cosa stai dicendo?"
 
-Kate esitò. Era chiaro che stava pensando a qualcosa da tempo, qualcosa che non aveva mai osato dire ad alta voce.
+Kate esitò. Era chiaro che stava rimuginando su qualcosa da tempo, qualcosa che non aveva mai osato dire ad alta voce.
 
 "Marcus parla di una rete," disse alla fine. "Gente nel Sistema che è dalla nostra parte. Che vuole cambiare le cose dall'interno."
 
@@ -136,7 +136,7 @@ Alice dormiva nella stanza accanto, ignara di tutto.
 
 Nel sonno, abbracciava il libro di poesie—quel libro che era passato di mano in mano, di generazione in generazione, portando con sé parole che il Sistema aveva cercato di cancellare.
 
-Non sapeva cosa stava per succedere. Non sapeva che i suoi genitori stavano pianificando qualcosa che avrebbe potuto cambiare tutto.
+Non sapeva cosa stava per succedere. Ignorava che i suoi genitori stavano pianificando qualcosa che avrebbe potuto cambiare tutto.
 
 Ma in qualche modo, forse, lo sentiva.
 

@@ -8,7 +8,7 @@ Era bravo nel suo lavoro. Così bravo che i superiori lo avevano promosso due vo
 
 Di notte la maschera cadeva.
 
-Di notte diventava il fantasma che attraversava il Complesso seguendo percorsi incisi nella memoria come cicatrici. Telecamere: terzo piano, angolo nord-est, punto cieco di 2,3 secondi. Sensori: corridoio B-7, manutenzione ogni giovedì alle 22:47. Pattuglie: cambio turno alle 23:00, ritardo medio di quattro minuti.
+Di notte diventava il fantasma che attraversava il Complesso seguendo percorsi incisi nella memoria come cicatrici. Telecamere: terzo piano, angolo nord-est, punto cieco di 2,3 secondi. Sensori: corridoio B-7, in manutenzione ogni giovedì alle 22:47. Pattuglie: cambio turno alle 23:00, ritardo medio di quattro minuti.
 
 Sapeva tutto. Conosceva ogni falla, ogni crepa, ogni respiro del Sistema.
 
@@ -34,7 +34,7 @@ Non ancora.
 
 Quella sera, mentre percorreva il corridoio che portava alla serra idroponica, James si bloccò.
 
-Un'anomalia. Un suono che non doveva esserci. I sistemi di irrigazione della serra emettevano un ronzio costante, appena percettibile—lo conosceva come il proprio battito cardiaco. Ma stanotte il ronzio era spezzato da voci.
+Un'anomalia. Un suono che non doveva esserci. I sistemi di irrigazione della serra emettevano un ronzio costante, appena percettibile — lo conosceva come il proprio battito cardiaco. Ma stanotte il ronzio era spezzato da voci.
 
 Voci.
 
@@ -70,7 +70,7 @@ Il colore abbandonò completamente il viso di Kate. Le sue mani trovarono le sue
 
 "James. Una segnalazione anonima. Un controllo notturno. È così che inizia." La voce le si spezzò. "È così che li prendono. Prima i controlli. Poi gli interrogatori. Poi la rieducazione."
 
-James l'attirò a sé. La strinse così forte che poteva sentire il battito del suo cuore contro il proprio—due cuori terrorizzati che battevano all'unisono.
+James la attirò a sé. La strinse così forte che poteva sentire il battito del suo cuore contro il proprio — due cuori terrorizzati che battevano all'unisono.
 
 "Non ci prenderanno," mormorò contro i suoi capelli. "Non lascerò che ci prendano."
 
@@ -112,7 +112,7 @@ James chiuse gli occhi. Cosa stava facendo? Stava cercando di sopravvivere. Di m
 
 "E io ho paura di quello che succederà se non proviamo."
 
-Un silenzio. Fuori, il ronzio del Complesso continuava—il suono dell'aria filtrata, delle luci artificiali, di un mondo che non dormiva mai.
+Un silenzio. Fuori, il ronzio del Complesso continuava — il suono dell'aria filtrata, delle luci artificiali, di un mondo che non dormiva mai.
 
 "Non siamo pronti," disse James.
 
@@ -156,7 +156,7 @@ Enzio aprì la porta con un'espressione sorpresa che si trasformò rapidamente i
 
 "James." Il vecchio si fece da parte. "Entra. In fretta."
 
-L'appartamento era come lo ricordava—pieno di libri veri, di oggetti antichi, di polvere. L'odore era quello della carta vecchia, lo stesso odore che James sentiva ogni giorno all'archivio. Ma qui era diverso. Qui era di casa.
+L'appartamento era come lo ricordava — pieno di libri veri, di oggetti antichi, di polvere. L'odore era quello della carta vecchia, lo stesso odore che James sentiva ogni giorno all'archivio. Ma qui era diverso. Qui era di casa.
 
 "Cosa succede?" chiese Enzio, versando del tè da una teiera sbeccata.
 
@@ -178,7 +178,7 @@ James non rispose. Non ce n'era bisogno.
 
 "Non so cosa fare."
 
-"Lo sai benissimo." Il vecchio sorrise, un sorriso triste e saggio. "Sai cosa vuoi fare. Hai solo paura di ammetterlo."
+"Lo sai benissimo." Il vecchio sorrise, un sorriso triste e sapiente. "Sai cosa vuoi fare. Hai solo paura di ammetterlo."
 
 James sentì qualcosa stringersi nel petto. "Se ci scoprono—"
 

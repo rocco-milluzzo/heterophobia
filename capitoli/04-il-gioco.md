@@ -80,7 +80,7 @@ Margarethe non sembrava convinta, ma non insistette. Si sedette di fronte alla n
 
 "Ma come facevi a distinguerlo dall'amicizia? O dalla semplice attrazione fisica?"
 
-"Non potevi." Margarethe sorrise. "Quello era il bello. E il terribile. Non sapevi mai dove sarebbe finita, quella sensazione. Poteva essere niente, un fuoco di paglia. O poteva essere tutto. L'unico modo per scoprirlo era arrendersi."
+"Non potevi." Margarethe sorrise. "Quello era il bello, e il terribile. Non sapevi mai dove sarebbe finita, quella sensazione. Poteva essere niente, un fuoco di paglia. O poteva essere tutto. L'unico modo per scoprirlo era arrendersi."
 
 "Arrendersi?"
 
@@ -92,7 +92,7 @@ Kate rimase in silenzio. Pensava al ragazzo della finestra, a quello sguardo aff
 
 Le settimane passarono. Il grigio del cielo non cambiava mai, ma qualcosa dentro Kate sì.
 
-Si ritrovava a cercare Chen-Rossi con gli occhi, nei corridoi, in classe, nella mensa. Non capiva perché. Era solo un ragazzo come gli altri, uno dei cinquantadue Ultimi.
+Si ritrovava a cercare Chen-Rossi con lo sguardo, nei corridoi, in classe, nella mensa. Non capiva perché. Era solo un ragazzo come gli altri, uno dei cinquantadue Ultimi.
 
 Ma ogni volta che lo vedeva, un calore le saliva al petto. Una specie di... curiosità. Un bisogno di capire perché la guardasse in quel modo, che cosa scorgesse in lei che nessun altro sembrava vedere.
 

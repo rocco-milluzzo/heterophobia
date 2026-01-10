@@ -4,7 +4,7 @@
 
 Quella mattina mi svegliai con la sensazione che qualcosa fosse diverso.
 
-Non saprei dire cosa. Il rifugio era tranquillo come sempre, il sole filtrava dalle crepe nel soffitto come ogni mattina, i suoni della vita quotidiana riempivano l'aria come ogni giorno. Eppure c'era qualcosa. Un formicolio sulla pelle. Una tensione nell'aria.
+Non saprei dire cosa. Il rifugio era tranquillo come sempre, il sole filtrava dalle crepe nel soffitto, i suoni della vita quotidiana riempivano l'aria. Eppure c'era qualcosa. Un formicolio sulla pelle. Una tensione nell'aria.
 
 O forse sono io che ricostruisco il passato con il senno del poi. Forse quella mattina ero semplicemente felice, e sto cercando di trovare presagi dove non ce n'erano.
 
@@ -20,7 +20,7 @@ Lo trovai seduto sul bordo del letto, che guardava Alice dormire. Nostra figlia 
 
 "Bugiardo."
 
-James sorrise. Un sorriso stanco, ma vero. "Penso a quanto è cresciuta. Penso a tutto quello che abbiamo vissuto per arrivare fin qui." Mi guardò. "Penso che sono grato. Per ogni giorno che abbiamo avuto."
+James sorrise. Un sorriso stanco, ma sincero. "Penso a quanto è cresciuta. Penso a tutto quello che abbiamo vissuto per arrivare fin qui." Mi guardò. "Penso che sono grato. Per ogni giorno che abbiamo avuto."
 
 Gli presi la mano. "Anch'io."
 
@@ -46,7 +46,7 @@ Non nuotavamo spesso. Era un lusso, un momento di leggerezza che ci concedevamo 
 
 Il fiume era a un'ora di cammino dal rifugio.
 
-Attraversammo il bosco seguendo sentieri che conoscevamo a memoria. James apriva la strada, io la chiudevo, Alice camminava nel mezzo. Era così che facevamo sempre—un'abitudine nata dalla necessità di protezione che era diventata routine.
+Attraversammo il bosco seguendo sentieri che conoscevamo a memoria. James apriva la strada, io la chiudevo, Alice camminava nel mezzo. Era così che facevamo sempre—un'abitudine nata dalla necessità, diventata ormai routine.
 
 Il sole filtrava tra gli alberi, creando macchie di luce e ombra sul terreno. L'aria profumava di terra bagnata e foglie in decomposizione. Da qualche parte, un uccello cantava.
 
@@ -62,7 +62,7 @@ La domanda mi sorprese. Alice non parlava spesso del futuro—aveva imparato pre
 
 "Ne ho letto nei libri. Il nonno Enzio ha scritto del mare in una delle sue poesie. Volevo sapere com'è."
 
-Guardai la sua schiena—mia figlia, che camminava verso un fiume perché il mare era troppo lontano, troppo pericoloso, troppo impossibile.
+Guardai la sua schiena—mia figlia, che camminava verso un fiume perché il mare era troppo lontano, troppo pericoloso, irraggiungibile.
 
 "Un giorno," dissi. "Un giorno lo vedrai."
 

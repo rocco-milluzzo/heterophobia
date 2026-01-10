@@ -92,7 +92,7 @@ Il silenzio tra loro era denso, carico di tutto ciò che non riuscivano a dire. 
 
 James si passò una mano sul viso. Quando parlò di nuovo, la sua voce era rotta.
 
-"Ho visto cosa fanno ai bambini nati illegalmente, Kate. Li ho visto nei file. Li portano via alla nascita. Li... li *smaltiscono* come rifiuti medici. E le madri vengono sterilizzate e rieducate fino a quando non ricordano più nemmeno di aver partorito."
+"Ho visto cosa fanno ai bambini nati illegalmente, Kate. Li ho visti nei file. Li portano via alla nascita. Li... li *smaltiscono* come rifiuti medici. E le madri vengono sterilizzate e rieducate fino a quando non ricordano più nemmeno di aver partorito."
 
 Kate sentì il sangue gelarsi.
 

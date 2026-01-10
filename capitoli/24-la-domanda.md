@@ -10,7 +10,7 @@ Era sera, una di quelle sere d'estate in cui il sole tramontava lento, dipingend
 
 "Perché non abbiamo i nonni?"
 
-James avvertì una morsa stringergli il petto. Guardò Kate, che aveva smesso di respirare.
+James sentì una morsa stringergli il petto. Guardò Kate, che aveva smesso di respirare.
 
 "Cosa intendi?" domandò, cercando di guadagnare tempo.
 
@@ -48,13 +48,13 @@ James si bloccò. Non avevano mai parlato di Enzio ad Alice—o almeno, non dire
 
 "È morto?"
 
-La domanda arrivò con la semplicità brutale dei bambini. James avvertì le lacrime pungergli gli occhi.
+La domanda arrivò con la semplicità brutale dei bambini. James sentì le lacrime pungergli gli occhi.
 
 "Non lo sappiamo," ammise. "Forse. Forse no. Non possiamo scoprirlo."
 
 Alice rimase in silenzio per un lungo momento. Guardava le stelle, il cielo che si scuriva, il mondo che andava a dormire.
 
-Poi mormorò, con voce piccola: "Mi dispiace che non posso conoscerli."
+Poi mormorò, con voce piccola: "Mi dispiace non poterli conoscere."
 
 James la prese in braccio e la strinse forte. Kate si avvicinò, abbracciandoli entrambi.
 
@@ -114,7 +114,7 @@ Alice spalancò gli occhi. "Hanno paura di me?"
 
 "Non di te. Di quello che rappresenti." James le accarezzò i capelli. "Tu sei nata dall'amore. Dall'amore vero, quello che loro vogliono eliminare. E l'amore vero fa paura a chi vuole controllare tutto."
 
-Alice rimase in silenzio per un lungo momento. Poi affermò, con quella serietà che a volte mostrava:
+Alice tacque a lungo. Poi disse, con quella serietà che a volte mostrava:
 
 "Allora sono contenta di essere qui. Dove nessuno ha paura dell'amore."
 

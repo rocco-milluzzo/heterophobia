@@ -12,7 +12,7 @@ Era la nonna di Kate. Margarethe Lindqvist.
 
 *[Inizio registrazione — Data stimata: 2095 — Qualità audio: degradata]*
 
-Mi chiedo spesso perché mi abbiano chiesto di parlare. Che cosa posso dire io che altri non abbiano già detto? Sono solo una vecchia che si è ostinata a campare. Una reliquia di un mondo che non esiste più.
+Mi chiedo spesso perché mi abbiano chiesto di parlare. Che cosa posso dire che altri non abbiano già detto? Sono solo una vecchia che si è ostinata a campare. Una reliquia di un mondo che non esiste più.
 
 Una *dinosaura*, come ci chiamano adesso. Una di quelle che rimpiangono l'era della morte e della nascita.
 
@@ -70,7 +70,7 @@ Perché quando vedi i tuoi amici ringiovanire mentre tu invecchi, quando senti l
 
 L'immortalità ha un prezzo. Non parlo del Divieto—quello è venuto dopo, ed era prevedibile. Parlo di ciò che è venuto prima. Di come ci hanno preparato.
 
-Prima ci hanno chiamato "egoisti riproduttivi". Poi "infetti". Poi hanno cominciato le violenze—le finestre rotte, le scritte sui muri, i pestaggi che la polizia fingeva di non vedere. *Breeder* urlavano per strada. *Fate schifo.* I media dicevano che era comprensibile. Che noi eravamo il problema.
+Prima ci hanno chiamato "egoisti riproduttivi". Poi "infetti". Poi sono cominciate le violenze — le finestre rotte, le scritte sui muri, i pestaggi che la polizia fingeva di non vedere. *Breeder*, urlavano per strada. *Fate schifo.* I media dicevano che era comprensibile. Che noi eravamo il problema.
 
 I campi di rieducazione sono arrivati dopo, quando la rabbia era già stata normalizzata. Quando odiare gli eterosessuali era diventato senso civico.
 

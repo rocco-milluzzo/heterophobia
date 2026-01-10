@@ -12,7 +12,7 @@ Ma la storia c'è ancora. E finché c'è la storia, una parte di me sopravvive.
 
 ---
 
-Non so chi siete. Non so in che mondo vivete. Non so se il Divieto esiste ancora, se l'heterophobia è ancora legge o se è diventata un ricordo vergognoso—come la schiavitù, come le persecuzioni, come tutti gli orrori che l'umanità ha commesso e poi ha finto di non riconoscere.
+Non so chi siete. Non so in che mondo vivete. Non so se il Divieto esiste ancora, se l'heterofobia è ancora legge o se è diventata un ricordo vergognoso—come la schiavitù, come le persecuzioni, come tutti gli orrori che l'umanità ha commesso e poi ha finto di non riconoscere.
 
 Ma so perché state leggendo.
 
@@ -26,7 +26,7 @@ Passatelo a qualcuno che ne ha bisogno. A qualcuno che dubita. A qualcuno che, n
 
 I miei genitori si sono amati per vent'anni.
 
-Vent'anni di segreti, di rischi, di paura. Vent'anni di mani che si cercano nel buio, di sguardi che dicono tutto, di cuori che battono all'unisono.
+Vent'anni di segreti, di rischi, di paura. Di mani che si cercano nel buio, di sguardi che dicono tutto, di cuori che battono all'unisono.
 
 Non è stata una vita facile. Non è stata una vita lunga.
 
@@ -92,7 +92,7 @@ E a voi che leggete—a voi che siete arrivati fin qui, attraverso tutte queste 
 
 Non abbiate paura.
 
-Non abbiate paura di amare. Non abbiate paura di rischiare. Non abbiate paura di essere vivi.
+Non abbiate paura di amare. Di rischiare. Di essere vivi.
 
 Il mondo cercherà di dirvi cosa è giusto e cosa è sbagliato. Cercherà di controllarvi, di limitarvi, di farvi diventare quello che vuole lui.
 

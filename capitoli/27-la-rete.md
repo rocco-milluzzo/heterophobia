@@ -40,7 +40,7 @@ Kate e James si guardarono. Era molto da processare—una rete segreta, una resi
 
 "Nessuno, per ora. È una bambina. Ma un giorno..." Marcus sorrise. "Un giorno potrebbe essere la prova vivente che il Divieto è sbagliato. Che l'amore può creare vita, non distruggerla."
 
-James avvertì una morsa al petto. Non voleva che sua figlia diventasse un simbolo. Voleva solo che fosse libera.
+James sentì una morsa al petto. Non voleva che sua figlia diventasse un simbolo. Voleva solo che fosse libera.
 
 "Ci penseremo," disse Kate. "Abbiamo bisogno di tempo."
 
@@ -94,7 +94,7 @@ E le parlarono di lei.
 
 Di quanto fosse speciale. Di quanto l'amassero. Di quanto avessero rischiato per farla esistere.
 
-Alice ascoltò tutto senza interrompere. I suoi occhi si riempirono di lacrime più volte, ma non pianse. Quando i genitori finirono, restò in silenzio per un lungo momento.
+Alice ascoltò tutto senza interrompere. I suoi occhi si riempirono di lacrime più volte, ma non pianse. Quando i genitori finirono, restò in silenzio a lungo.
 
 Poi disse: "Quindi sono illegale."
 

@@ -4,7 +4,7 @@
 
 Sono tornata nel Sistema.
 
-È strano, camminare per le strade del Complesso dopo aver visto le Zone. Dopo aver respirato aria vera, visto cieli veri, vissuto una vita vera. Tutto qui sembra più grigio, più piccolo, più soffocante.
+È strano camminare per le strade del Complesso dopo aver visto le Zone. Dopo aver respirato aria vera, visto cieli veri, vissuto una vita vera. Tutto qui sembra più grigio, più piccolo, più soffocante.
 
 Ma è qui che devo essere.
 
@@ -16,7 +16,7 @@ Non so esattamente quante copie esistano, né dove siano finite. Yuki mi ha dett
 
 Ho sentito di un giovane Controllore che ha chiesto il trasferimento dopo averlo letto. Di una coppia che ha deciso di fuggire nelle Zone. Di una ragazza che ha smesso di prendere i soppressori ormonali perché voleva *sentire* quello che sentivano James e Kate.
 
-A volte, camminando per le strade grigie del Complesso, sotto i manifesti che proclamano *L'AMORE NATURALE È INNATURALE*, mi chiedo quanti cuori stiano cambiando in silenzio. Quante crepe si stiano aprendo nel muro dell'heterophobia.
+A volte, camminando per le strade grigie del Complesso, sotto i manifesti che proclamano *L'AMORE NATURALE È INNATURALE*, mi chiedo quanti cuori stiano cambiando in silenzio. Quante crepe si stiano aprendo nel muro dell'heterofobia.
 
 Non lo saprò mai con certezza. Ma le crepe si allargano. Lo sento.
 
@@ -36,7 +36,7 @@ Ma a volte vorrei solo urlare la verità al mondo intero.
 
 Torno nelle Zone ogni volta che posso.
 
-Non spesso—sarebbe troppo rischioso. Ma quando riesco a organizzare una copertura plausibile, parto. Due o tre giorni di viaggio, qualche giorno con mia madre, poi di nuovo indietro.
+Non spesso—sarebbe troppo rischioso. Ma quando riesco a organizzare una copertura plausibile, parto: due o tre giorni di viaggio, qualche giorno con mia madre, poi di nuovo indietro.
 
 Ogni volta che la vedo, è un miracolo.
 
@@ -48,7 +48,7 @@ Lei sta bene. È invecchiata—nelle Zone si invecchia, senza le Cure—ma i suo
 
 Parliamo di papà.
 
-È l'argomento che evitiamo e a cui torniamo sempre. Nessuna delle due sa cosa sia successo a James. Nessuna delle due vuole rinunciare alla speranza.
+È l'argomento che evitiamo e a cui torniamo sempre. Nessuna delle due sa cosa sia successo a James. Nessuna vuole rinunciare alla speranza.
 
 "A volte lo sogno," mi ha detto mia madre. "Sogno che è vivo. Che mi sta aspettando da qualche parte."
 
@@ -72,7 +72,7 @@ E alla fine, le mie parole. Quelle che avevo scritto prima di partire per le Zon
 
 Ho chiuso il libro e l'ho stretto al petto.
 
-Cinque generazioni. Cinque persone che hanno tenuto tra le mani queste pagine, che hanno letto queste poesie, che hanno creduto nel potere delle parole.
+Cinque generazioni. Cinque persone che hanno tenuto tra le mani queste pagine, hanno letto queste poesie, hanno creduto nel potere delle parole.
 
 Elena. Enzio. James. Kate. Alice.
 
@@ -122,7 +122,7 @@ Le storie sono semi.
 
 L'ha scritto nonno Enzio, tanto tempo fa. L'ha ripetuto mia madre, il giorno in cui ci siamo separate. E io l'ho visto con i miei occhi—semi piantati nel buio che germogliano verso la luce.
 
-Ogni mente che cambia è un germoglio. Ogni cuore che dubita è una radice che si fa strada nel cemento. Ogni persona che legge queste parole e sente qualcosa muoversi dentro di sé è parte di una foresta che un giorno—ne sono certa—coprirà le macerie dell'heterophobia.
+Ogni mente che cambia è un germoglio. Ogni cuore che dubita è una radice che si fa strada nel cemento. Ogni persona che legge queste parole e sente qualcosa muoversi dentro di sé è parte di una foresta che un giorno—ne sono certa—coprirà le macerie dell'heterofobia.
 
 L'amore non si può sradicare. Non del tutto. Non per sempre.
 

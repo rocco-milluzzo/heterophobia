@@ -97,7 +97,7 @@ Kate impallidì. "Marcus?"
 
 "Non lo so. Non sono riuscito a scoprire chi è stato preso e chi è scappato."
 
-Un silenzio pesante calò nella grotta. Kate pensò a tutti gli amici che avevano fatto negli anni. A Mira, l'amica di Alice. Alle donne che le avevano insegnato a partorire. A tutti quelli che avevano condiviso la loro vita.
+Un silenzio pesante calò nella grotta. Kate pensò a tutti gli amici che avevano fatto negli anni. A Mira, l'amica del cuore di Alice. Alle donne che le avevano insegnato a partorire. A tutti quelli che avevano condiviso la loro vita.
 
 Dov'erano adesso? Nei campi di rieducazione? Nelle fosse comuni delle Zone Orientali?
 
@@ -121,7 +121,7 @@ Alice camminava da sola ormai—era troppo grande per essere portata in braccio 
 
 "Mira sta bene?"
 
-James non sapeva cosa rispondere. Non voleva mentire, ma non voleva nemmeno spegnere ogni speranza.
+James esitò. Non voleva mentire, ma non voleva nemmeno spegnere ogni speranza.
 
 "Non lo so, piccola. Ma spero di sì."
 
@@ -181,7 +181,7 @@ Kate lo raggiunse dopo un po'. Si sedette accanto a lui in silenzio.
 
 "Io non credo." Kate guardò il cielo. "Non può essere finita. Non dopo tutto quello che abbiamo passato."
 
-James non rispose. Voleva crederle. Voleva credere che ci fosse ancora speranza, che potessero ancora costruire qualcosa.
+James non rispose. Voleva crederle. Voleva credere che ci fosse ancora speranza, che potessero costruire qualcosa di nuovo.
 
 Ma era difficile. Così difficile.
 

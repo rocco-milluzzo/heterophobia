@@ -4,11 +4,11 @@
 
 Il mondo è cambiato.
 
-Non in un giorno, non in un anno, non con una rivoluzione improvvisa. Ma lentamente, inesorabilmente, come l'acqua che scava la pietra—come il dubbio che si insinua nelle certezze più granitiche.
+Non in un giorno, non in un anno, non con una rivoluzione improvvisa. Lentamente, inesorabilmente, come l'acqua che scava la pietra—come il dubbio che si insinua nelle certezze più granitiche.
 
 Sono passati decenni da quando ho affidato questa storia alla rete. Decenni da quando le prime copie hanno iniziato a circolare, passando di mano in mano nei corridoi del Sistema, nascoste tra le pagine di manuali tecnici, memorizzate da chi non osava tenerle.
 
-All'inizio non è successo niente di visibile. Il Sistema era troppo forte, il controllo troppo capillare, la paura dell'heterophobia troppo radicata nelle ossa della gente. Ma sotto la superficie, nelle conversazioni sussurrate e nei cuori che si permettevano di dubitare, qualcosa ha cominciato a muoversi.
+All'inizio non è successo niente di visibile. Il Sistema era troppo forte, il controllo troppo capillare, la paura dell'heterofobia troppo radicata nelle ossa della gente. Ma sotto la superficie, nelle conversazioni sussurrate e nei cuori che si permettevano di dubitare, qualcosa ha cominciato a muoversi.
 
 ---
 
@@ -18,9 +18,9 @@ Prima sussurrate nelle stanze dei dormitori, poi scritte sui muri dei bagni pubb
 
 I manifesti che gridavano *DENUNCIA GLI INFETTI* hanno cominciato a comparire strappati. Il termine *breeder* ha smesso di essere un insulto nei corridoi delle scuole—i ragazzi lo usavano con ironia, poi con sfida, poi con orgoglio.
 
-Il Sistema ha risposto come sanno rispondere i sistemi: con più controllo, più paura, più violenza. Ha aumentato i raid. Ha introdotto test psicologici più invasivi. Ha abbassato l'età della prima dose di soppressori.
+Il Sistema ha risposto come sa rispondere ogni sistema: con più controllo, più paura, più violenza. Ha aumentato i raid. Ha introdotto test psicologici più invasivi. Ha abbassato l'età della prima dose di soppressori.
 
-Ma non è servito. Perché una volta che le persone iniziano a pensare, non puoi più fermarle. L'heterophobia si reggeva sulla convinzione che fosse naturale, inevitabile, giusta. E quella convinzione stava morendo.
+Ma non è servito. Perché una volta che le persone iniziano a pensare, non puoi più fermarle. L'heterofobia si reggeva sulla convinzione che fosse naturale, inevitabile, giusta. E quella convinzione stava morendo.
 
 ---
 
@@ -48,7 +48,7 @@ Erano convinte che gli *infetti* fossero diversi da loro. Che meritassero quello
 
 Ho vissuto abbastanza per vedere quelle certezze sgretolarsi. Ma ho anche vissuto abbastanza per sapere che ne nasceranno altre. Sempre. In ogni epoca. Con nomi diversi e vittime diverse, ma con la stessa logica: qualcuno deve essere escluso perché gli altri si sentano al sicuro.
 
-E la verità che ho imparato è questa: nessuno è mai al sicuro. Non davvero. Le linee che dividono i *normali* dai *devianti* le tracciamo noi—e possiamo cancellarle in qualsiasi momento. O spostarle. E ritrovarci dall'altra parte.
+E la verità che ho imparato è questa: nessuno è mai al sicuro, non davvero. Le linee che dividono i *normali* dai *devianti* le tracciamo noi—e possiamo cancellarle in qualsiasi momento. O spostarle, e ritrovarci dall'altra parte.
 
 ---
 
@@ -56,7 +56,7 @@ Non ho visto la fine del Divieto.
 
 Sono vecchia, ormai. Ho scelto di vivere nelle Zone anni fa—ho rinunciato alle Cure, ho accettato che il mio corpo invecchiasse, che la morte si avvicinasse. Non me ne pento.
 
-Ho vissuto una vita vera. Ho amato. Ho perso. Ho sperato. Ho lottato.
+Ho vissuto una vita vera. Ho amato, ho perso, ho sperato, ho lottato.
 
 È più di quanto abbiano molti immortali nel Sistema.
 
@@ -98,7 +98,7 @@ Presto lo passerò a qualcun altro.
 
 Non ho figli—non ho mai trovato qualcuno che potesse amarmi come mio padre ha amato mia madre. Ma ho nipoti adottivi, giovani delle Zone che ho cresciuto come fossero miei.
 
-Una di loro, una ragazza di quindici anni che si chiama Elena—come la bisnonna che non ha mai conosciuto—lo erediterà.
+Una di loro, una ragazza di quindici anni di nome Elena—come la bisnonna che non ha mai conosciuto—lo erediterà.
 
 Le ho già insegnato l'importanza delle storie. Le ho già raccontato di James e Kate. Le ho già spiegato perché le parole contano.
 

@@ -4,7 +4,7 @@
 
 Ho finito di scrivere.
 
-Dopo dieci anni, dopo migliaia di parole, dopo notti insonni e giorni di dubbi, il manoscritto è completo. Giace sulla mia scrivania. Una pila di fogli che contiene tutto. La vicenda dei miei genitori. La mia vicenda. La verità.
+Dopo dieci anni, dopo migliaia di parole, dopo notti insonni e giorni di dubbi, il manoscritto è completo. Giace sulla mia scrivania: una pila di fogli che contiene tutto. La vicenda dei miei genitori. La mia. La verità.
 
 Ora devo decidere cosa farne.
 
@@ -32,11 +32,11 @@ Ho letto di James e Kate. Di come si sono incontrati, di come hanno scelto di vi
 
 Ho pianto. Non mi vergogno a dirlo.
 
-Ho pianto per i miei genitori, per quello che hanno perso e per quello che mi hanno dato. Ho pianto per Mira, che si è sacrificata perché io potessi fuggire. Ho pianto per Enzio, che ha creduto nelle parole fino alla fine. Ho pianto per tutte le persone che hanno vissuto nell'ombra, che hanno pagato il prezzo della loro umanità.
+Ho pianto per i miei genitori, per quello che hanno perso e per quello che mi hanno dato. Per Mira, che si è sacrificata perché io potessi fuggire. Per Enzio, che ha creduto nelle parole fino alla fine. Per tutte le persone che hanno vissuto nell'ombra, pagando il prezzo della loro umanità.
 
 Ma ho anche sorriso.
 
-Ho sorriso ricordando il fiume. Quella giornata con i miei genitori. Le canzoni che mio padre cantava. Le fiabe che mia madre raccontava. Tutti i momenti di felicità rubati al tempo. Tutti gli istanti in cui, nonostante tutto, siamo stati una famiglia.
+Ho sorriso ricordando il fiume. Quella giornata con i miei genitori. Le canzoni che mio padre cantava, le fiabe che mia madre raccontava. I momenti di felicità rubati al tempo, gli istanti in cui, nonostante tutto, siamo stati una famiglia.
 
 ---
 
@@ -80,7 +80,7 @@ Una parte di me vuole crederci. Vuole credere che mia madre sia viva, che sia so
 
 Un'altra parte sa che è quasi certamente falso. Che le voci sono solo voci. Che dopo quindici anni, le probabilità...
 
-Ma ho imparato una cosa, in tutti questi anni. Ho imparato che le probabilità non significano niente, quando si tratta di quello che conta davvero. I miei genitori hanno sfidato probabilità impossibili. Si sono scelti quando non avrebbero dovuto. Hanno avuto me quando non avrebbero potuto. Sono fuggiti quando non c'era speranza.
+Ma ho imparato una cosa, in tutti questi anni. Ho imparato che le probabilità non significano niente, quando si tratta di quello che conta davvero. I miei genitori hanno sfidato probabilità impossibili. Si sono scelti quando non avrebbero dovuto. Mi hanno avuta quando non avrebbero potuto. Sono fuggiti quando non c'era speranza.
 
 Se c'è una possibilità, anche una sola, minuscola possibilità, che mia madre sia viva...
 

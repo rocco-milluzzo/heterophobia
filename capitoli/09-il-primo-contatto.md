@@ -76,7 +76,7 @@ Mosse la mano. Solo un poco, pochi millimetri. Ma abbastanza perché le punte de
 
 Il contatto durò meno di un secondo.
 
-Ma in quel secondo, James sentì il mondo fermarsi. La pelle di Kate era calda—più calda di quanto avesse immaginato. Morbida. Viva. Le terminazioni nervose delle sue dita esplosero in un fuoco d'artificio di sensazioni che non aveva mai provato. Il calore si propagò lungo il braccio, gli invase il petto, gli tolse il respiro.
+Ma in quel secondo, James sentì il mondo fermarsi. La pelle di Kate era calda — più calda di quanto avesse immaginato. Morbida. Viva. Le terminazioni nervose delle dita esplosero in un fuoco d'artificio di sensazioni che non aveva mai provato. Il calore si propagò lungo il braccio, gli invase il petto, gli tolse il respiro.
 
 Ritrasse la mano come se si fosse bruciato—ma non era dolore. Era il contrario del dolore. Era la cosa più intensa che avesse mai percepito.
 
@@ -134,7 +134,7 @@ Non pensò. Non calcolò i rischi, non controllò le telecamere, non si chiese c
 
 Questa volta non si ritirò.
 
-La sua pelle era calda. Vellutata. Le dita erano sottili ma forti, e quando le chiuse intorno alle sue, James sentì un nodo sciogliersi nel petto. Come una diga che crolla, come un muro che si sbriciola.
+La sua pelle era calda, vellutata. Le dita sottili ma forti, e quando le chiuse intorno alle sue, James sentì un nodo sciogliersi nel petto. Come una diga che crolla, come un muro che si sbriciola.
 
 Le loro mani si incastrarono l'una nell'altra come se fossero state create per quello scopo. James sentì il polso di lei battere contro il proprio—due ritmi separati che lentamente, impossibilmente, cominciarono a sincronizzarsi. Il calore si diffondeva dal punto di contatto, risalendo lungo il braccio, invadendo il petto, sciogliendogli i muscoli tesi.
 
@@ -146,7 +146,7 @@ Non finì la frase. Non ce n'era bisogno.
 
 James le strinse la mano più forte. Era consapevole di ogni millimetro in cui la sua pelle toccava quella di lei—le nocche, le punte delle dita, il palmo che premeva contro il suo. Sentì le linee della mano di Kate imprimersi nella propria carne, come se il suo corpo stesse memorizzando ogni dettaglio.
 
-Era consapevole del proprio respiro, del proprio battito cardiaco, del sangue che gli scorreva nelle vene. Era consapevole dell'odore di lei—qualcosa di pulito, di fresco, con una nota dolce che non riusciva a identificare.
+Era consapevole del proprio respiro, del proprio battito cardiaco, del sangue che gli scorreva nelle vene. Era consapevole del profumo di lei — qualcosa di pulito, di fresco, con una nota dolce che non riusciva a identificare.
 
 Era consapevole di essere vivo.
 

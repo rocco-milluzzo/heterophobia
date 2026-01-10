@@ -76,7 +76,7 @@ Yuki è rimasta fino a tardi.
 
 Abbiamo parlato dei miei genitori—dei ricordi che aveva di loro, delle conversazioni con mia madre al laboratorio, delle volte in cui aveva notato qualcosa ma aveva scelto di non vedere.
 
-"Tua madre sorrideva sempre," ha detto. "Anche quando sapevo che dentro stava tremando di paura. Aveva questa capacità di trovare luce anche nel buio più totale."
+"Tua madre sorrideva sempre," ha detto. "Anche quando sapevo che dentro tremava di paura. Aveva questa capacità di trovare luce anche nel buio più profondo."
 
 "Me lo ricordo."
 
@@ -100,15 +100,15 @@ Non ho risposto subito. Nella mia mente scorrevano le immagini dei raid che avev
 
 "È troppo pericoloso. Se mi prendono—"
 
-"Tutto è pericoloso. Ma alcune cose valgono il rischio." Mi ha guardata negli occhi. "I tuoi genitori lo sapevano. Hanno visto l'heterophobia crescere anno dopo anno, hanno visto i loro amici sparire, hanno visto il mondo impazzire. E hanno scelto comunque di amarsi."
+"Tutto è pericoloso. Ma alcune cose valgono il rischio." Mi ha guardata negli occhi. "I tuoi genitori lo sapevano. Hanno visto l'heterofobia crescere anno dopo anno, hanno visto i loro amici sparire, hanno visto il mondo impazzire. E hanno scelto comunque di amarsi."
 
 ---
 
 Dopo che Yuki se n'è andata, sono rimasta seduta al buio per un tempo che non so misurare.
 
-Pensavo ai miei genitori. Alla loro scelta di amarsi nonostante tutto. Alla loro scelta di avere me nonostante tutto. Alla loro scelta di fuggire nonostante tutto.
+Pensavo ai miei genitori. Alla loro scelta di amarsi nonostante tutto. Alla decisione di avere me. Alla fuga che li aveva strappati a ogni sicurezza.
 
-Ogni scelta era stata un rischio. Ogni scelta poteva essere stata la sbagliata.
+Ogni scelta era stata un rischio. Ogni decisione poteva essere stata quella sbagliata.
 
 Ma l'avevano fatta lo stesso.
 
@@ -142,7 +142,7 @@ Che l'amore non è una malattia da curare.
 
 Che la libertà vale più dell'immortalità promessa.
 
-Che l'heterophobia è stata costruita, mattone dopo mattone, bugia dopo bugia—e può essere smantellata allo stesso modo.
+Che l'heterofobia è stata costruita, mattone dopo mattone, bugia dopo bugia—e può essere smantellata allo stesso modo.
 
 ---
 

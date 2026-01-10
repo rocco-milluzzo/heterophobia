@@ -8,7 +8,7 @@ Sono passati dieci anni da quando ho iniziato questa ricerca. Dieci anni di docu
 
 E ora, finalmente, ho il quadro completo.
 
-Le mie mani tremano mentre scrivo queste parole. Tremano come tremavano quelle di mio padre quando teneva il libro di poesie. Tremano perché so che quello che sto per ammettere cambierà tutto.
+Le mie mani tremano mentre scrivo queste parole. Come tremavano quelle di mio padre quando teneva il libro di poesie. Perché so che quello che sto per ammettere cambierà tutto.
 
 ---
 
@@ -16,7 +16,7 @@ So chi sono.
 
 L'ho sempre saputo. Nel profondo, dove le menzogne non arrivano.
 
-Fin dalla prima volta che ho toccato quel libro di poesie e le dita hanno riconosciuto la texture della copertina prima ancora che gli occhi la vedessero. Fin dalla prima volta che ho letto le parole di James e Kate e le lacrime sono sgorgate senza che io sapessi perché.
+Fin dalla prima volta che ho toccato quel libro di poesie e le dita hanno riconosciuto la consistenza della copertina prima ancora che gli occhi la vedessero. Fin dalla prima volta che ho letto le parole di James e Kate e le lacrime sono sgorgate senza che io sapessi perché.
 
 Non erano intuizioni. Erano ricordi.
 

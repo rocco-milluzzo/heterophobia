@@ -24,7 +24,7 @@ L'aria esterna era diversa—più fredda, più umida, con un odore che Kate non 
 
 "Da questa parte," sussurrò James.
 
-Attraversarono il cortile, poi un parcheggio abbandonato, poi una strada che non vedeva manutenzione da anni. Le luci si facevano sempre più rare. Il ronzio del Complesso sempre più distante.
+Attraversarono il cortile, poi un parcheggio abbandonato, poi una strada che non vedeva manutenzione da anni. Le luci si facevano sempre più rare, il ronzio del Complesso via via più distante.
 
 Kate guardò indietro una sola volta. Le torri illuminate del Distretto Nord sembravano già lontane—un miraggio che svaniva nell'oscurità.
 
@@ -38,7 +38,7 @@ Camminarono per ore.
 
 Il terreno diventava sempre più difficile—strade rotte, edifici crollati, vegetazione che cresceva selvaggia tra le rovine. Era il paesaggio delle Zone Abbandonate, il mondo che il Sistema aveva lasciato indietro.
 
-Kate era esausta. I piedi le facevano male, i muscoli protestavano, la nausea della gravidanza rendeva ogni passo una sfida. Ma non si fermò. Non poteva fermarsi.
+Kate era esausta. I piedi le facevano male, i muscoli protestavano, la nausea della gravidanza rendeva ogni passo una sfida. Ma continuò ad avanzare. Non poteva permettersi di fermarsi.
 
 "Ancora un po'," disse James, guardando la mappa alla luce di una torcia schermata. "Il primo checkpoint è a due chilometri."
 
@@ -62,7 +62,7 @@ Per un momento, niente.
 
 Poi la porta si aprì.
 
-Una donna li guardava dall'interno. Era anziana—almeno, sembrava anziana. Capelli grigi, viso segnato, occhi che avevano visto troppo. Non aveva fatto le Cure, capì Kate. Stava invecchiando davvero.
+Una donna li guardava dall'interno. Era anziana—almeno, sembrava anziana. Capelli grigi, viso segnato, occhi che avevano visto troppo. Non aveva fatto le Cure, capì Kate. Stava invecchiando davvero, come tutti lì.
 
 "Chi siete?" chiese la donna.
 
@@ -108,7 +108,7 @@ Kate si svegliò con la luce del sole vero sul viso.
 
 Per un momento non capì dove fosse. Poi i ricordi tornarono—la fuga, la notte, il rifugio. Si tirò su a sedere, sbattendo le palpebre nella luce.
 
-Era la prima volta che vedeva il sole. Non le luci artificiali del Complesso, non il cielo grigio filtrato. Il sole vero, che filtrava attraverso le fessure delle assi alle finestre.
+Era la prima volta che vedeva il sole vero. Non le luci artificiali del Complesso, non il cielo grigio filtrato dalle cupole. Il sole autentico, che filtrava attraverso le fessure delle assi alle finestre.
 
 Era bellissimo.
 
@@ -156,7 +156,7 @@ E pensò a ciò che aveva guadagnato. La libertà. L'amore. La vita che cresceva
 
 James si svegliò un'ora dopo.
 
-Lo trovò Kate seduta accanto alla finestra, guardando fuori attraverso le fessure delle assi. Fuori, il mondo era verde—alberi, erba, piante che crescevano senza controllo. La natura che il Sistema aveva cercato di domare e che qui, nelle Zone Abbandonate, era tornata selvaggia.
+Trovò Kate seduta accanto alla finestra, guardando fuori attraverso le fessure delle assi. Fuori, il mondo era verde—alberi, erba, piante che crescevano senza controllo. La natura che il Sistema aveva cercato di domare e che qui, nelle Zone Abbandonate, era tornata selvaggia.
 
 "Buongiorno," disse Kate quando lo sentì avvicinarsi.
 

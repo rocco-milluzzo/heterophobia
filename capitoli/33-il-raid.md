@@ -4,9 +4,9 @@
 
 Mi svegliai con il ronzio.
 
-Era un suono che conoscevo. Un suono che avevo temuto per anni, che mi aveva perseguitato negli incubi. Il ronzio dei droni. Bassi, prima. Poi sempre più vicini.
+Era un suono che conoscevo. Un suono che avevo temuto per anni, che mi aveva perseguitato negli incubi. Il ronzio dei droni. Basso, prima. Poi sempre più vicino.
 
-Spalancai gli occhi. La stanza era ancora buia, ma attraverso le crepe nel soffitto vedevo luci che si muovevano. Bianche. Fredde. Artificiali.
+Spalancai gli occhi. La stanza era ancora buia, ma attraverso le crepe nel soffitto vedevo luci in movimento. Bianche. Fredde. Artificiali.
 
 Gli altoparlanti dei droni gracchiarono. Una voce metallica riempì l'aria:
 
@@ -182,7 +182,7 @@ Uno di loro si avvicinò. Era giovane, forse trent'anni. Alto, con occhi grigi e
 
 Mi guardò come si guarda un animale malato.
 
-"Sai qual è la cosa più triste di voi breeder?" disse, fermandosi a pochi passi da me. "Non è che vi riproducete come bestie. È che siete convinti di fare qualcosa di nobile."
+"Sai qual è la cosa più patetica di voi breeder?" disse, fermandosi a pochi passi da me. "Non è che vi riproducete come bestie. È che siete convinti di fare qualcosa di nobile."
 
 Non risposi.
 
@@ -196,7 +196,7 @@ Qualcosa nel mio petto si strinse.
 
 "Mi hanno *salvato*." Il suo tono si incrinò per un istante, poi tornò piatto. "Mi hanno liberato dalla malattia che mi avevano trasmesso. Ora servo qualcosa di più grande di un'ossessione biologica."
 
-Capii in quel momento che non stavo parlando con un mostro. Stavo parlando con una vittima—una vittima che aveva imparato ad amare le proprie catene.
+Capii in quel momento che non stavo parlando con un mostro. Stavo parlando con una vittima—una vittima che aveva imparato ad amare le sue catene.
 
 "Jensen." Un altro Controllore si avvicinò. "Le altre due sono quasi fuori portata. Dobbiamo muoverci."
 
@@ -204,7 +204,7 @@ Jensen non distolse lo sguardo da me.
 
 "Portale qui," ordinò. "Vive. Soprattutto la minore. Voglio che lui guardi quando la prenderemo per la rieducazione."
 
-In quel momento vidi qualcosa nei suoi occhi. Non odio, non vuoto. Qualcosa di peggio: invidia. Jensen guardava la mia famiglia fuggire e vedeva tutto ciò che gli era stato rubato. E voleva rubarlo anche a noi.
+In quel momento vidi qualcosa nei suoi occhi. Non odio, non vuoto. Qualcosa di peggio: invidia. Jensen guardava la mia famiglia fuggire e vi scorgeva tutto ciò che gli era stato rubato. E voleva strapparlo anche a noi.
 
 "Sai cosa mi disgusta di voi?" disse, fermandosi a un metro da me. "Non è quello che fate. È che pensate di essere speciali. Pensate che il vostro istinto riproduttivo sia amore." Sputò ai miei piedi. "È solo biologia. Chimica. Un residuo evolutivo che non vi serve più."
 

@@ -190,7 +190,7 @@ Per la prima volta in vita sua, James non guardò le telecamere. Non controllò 
 
 Non gli importava più.
 
-Il corridoio era silenzioso, le luci basse, l'aria ferma. Sembrava che il Complesso stesso trattenesse il respiro.
+Sembrava che il Complesso stesso trattenesse il respiro.
 
 Ma a metà del corridoio, un rumore. Passi. Voci.
 

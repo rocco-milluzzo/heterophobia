@@ -18,7 +18,7 @@ Ho capito che i mostri non esistono. Esistono solo persone che fanno scelte sbag
 
 *Oggi compi diciotto anni. Sei un adulto, secondo la legge. Un cittadino a tutti gli effetti. Tuo padre Marco ed io siamo orgogliosi di te—del ragazzo che sei diventato, dell'uomo che diventerai.*
 
-*Ma c'è qualcosa che non ti ho mai detto. Qualcosa che forse è il momento di condividere.*
+*Ma c'è qualcosa che non ti ho mai detto. Qualcosa che forse ora è il momento di condividere.*
 
 *Quando ero giovane, il mondo era malato. Non uso questa parola a caso—era davvero malato. C'era la morte, c'era la sofferenza, c'erano guerre e malattie e povertà. E c'era quella che ora chiamiamo "l'ossessione riproduttiva". L'idea che fare figli fosse un diritto. Che l'amore tra uomo e donna fosse naturale.*
 

@@ -62,7 +62,7 @@ Eravamo così felici di non morire mai. Non abbiamo pensato a cosa avremmo perso
 
 Il Divieto arrivò nel 2078. Otto anni dopo le Cure. Ma l'odio—l'odio era iniziato prima. Molto prima.
 
-Ricordo il primo insulto. Era il 2071, un anno dopo l'immortalità. Ero in metropolitana—sì, esistevano ancora—con Elena. Portavamo la fede al dito, come si usava allora. Una donna ci guardò e sputò. Letteralmente. Poi disse: "Breeder."
+Ricordo il primo insulto. Era il 2071, un anno dopo l'immortalità. Ero in metropolitana — sì, esistevano ancora — con Elena. Portavamo la fede al dito, come si usava allora. Una donna ci guardò e sputò. Letteralmente. Poi disse: "Breeder."
 
 Non capii subito. Breeder. Riproduttore. Come se fossimo animali da allevamento.
 
@@ -72,7 +72,7 @@ Nel giro di mesi, quella parola era ovunque. Sui muri, nelle reti sociali, nei t
 
 Poi venne "infetti". Come se l'attrazione verso il sesso opposto fosse un virus, una malattia contagiosa. I talk show invitavano "esperti" che spiegavano come l'eterosessualità fosse "curabile". Come la società dovesse "proteggersi" dalla contaminazione.
 
-La prima violenza la vidi nel 2072. Una coppia—lui e lei, mano nella mano—attraversava la piazza sotto casa mia. Un gruppo li circondò. Li insultarono prima. "Malati d'amore!" gridavano. "Dinosauri!" Poi passarono ai pugni. La donna cadde. Lui cercò di proteggerla. Chiamai la polizia. Non vennero mai.
+La prima violenza la vidi nel 2072. Una coppia — lui e lei, mano nella mano — attraversava la piazza sotto casa mia. Un gruppo li circondò. Li insultarono prima. "Malati d'amore!" gridavano. "Dinosauri!" Poi passarono ai pugni. La donna cadde. Lui cercò di proteggerla. Chiamai la polizia. Non vennero mai.
 
 Dopo quella notte, Elena smise di tenermi la mano in pubblico. Poi smise di uscire con me. Poi smise di guardarmi negli occhi.
 
@@ -120,7 +120,7 @@ Sono passati anni da allora. Tanti anni che ho perso il conto. Vivo da solo, lav
 
 E poi penso a mio nipote. James.
 
-L'ho visto crescere. L'ho visto diventare un uomo—un uomo come me, che guarda il mondo con occhi che vedono troppo. Un uomo che non ha mai imparato a smettere di sentire.
+L'ho visto crescere. L'ho visto diventare un uomo — un uomo come me, che guarda il mondo con occhi che vedono troppo. Un uomo che non ha mai imparato a smettere di sentire.
 
 Ho visto come guarda quella ragazza. Kate. L'ho visto, e ho riconosciuto quello sguardo. Era lo stesso che avevo io per Elena, prima che il mondo ci dicesse che era sbagliato.
 
