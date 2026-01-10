@@ -2,7 +2,7 @@
 
 Kate notò il ragazzo che la guardava.
 
-Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Kate aveva passato la notte precedente a modificare il codice del programma, inserendo una subroutine nascosta che faceva comparire messaggi assurdi a intervalli casuali. Era il suo modo di ribellirsi—piccoli atti di sabotaggio che nessuno avrebbe mai scoperto. *Glitch casuali*, avrebbero detto i tecnici. *Errori di sistema.*
+Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Kate aveva passato la notte precedente a modificare il codice del programma, inserendo una subroutine nascosta che faceva comparire messaggi assurdi a intervalli casuali. Era il suo modo di ribellarsi—piccoli atti di sabotaggio che nessuno avrebbe mai scoperto. *Glitch casuali*, avrebbero detto i tecnici. *Errori di sistema.*
 
 Kate non era solo una studentessa. Era una mente che non sapeva stare ferma, un cervello che smontava le cose per capire come funzionavano e poi le rimontava in modo migliore. O peggiore, a seconda del punto di vista. A quindici anni aveva già hackerato tre sistemi del Complesso—niente di grave, solo per vedere se ci riusciva. Nessuno l'aveva mai scoperta.
 
