@@ -1815,7 +1815,7 @@ Studiare la loro storia è stato come disseppellire una tomba. Ogni documento er
 
 Alcune cose le ho trovate negli archivi. James lavorava lì, prima. Aveva accesso a documenti che non avrebbe dovuto avere, e ne ha conservati alcuni. Lettere d'amore dell'era pre-Divieto. Poesie. Storie. Tutto il materiale proibito che raccontava di un mondo dove uomini e donne potevano amarsi alla luce del sole.
 
-Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggior parte sono conformi, non vogliono parlare. Ricordare è pericoloso. Ma alcuni si sono aperti. Hanno raccontato frammenti, dettagli. Come lei cantava quando pensava che nessuno la sentisse. Come lui sorrideva raramente, ma quando lo faceva era come vedere il sole dopo mesi di pioggia.
+Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggior parte sono conformi, non vogliono parlare. Ricordare è pericoloso. Ma alcuni si sono aperti. Hanno raccontato frammenti, dettagli. Come lei cantava quando pensava che nessuno la sentisse — una ninna nanna, sempre la stessa, che ancora adesso mi ritrovo a canticchiare senza sapere dove l'ho imparata. Come lui sorrideva raramente, ma quando lo faceva era come vedere il sole dopo mesi di pioggia.
 
 ---
 
@@ -6561,13 +6561,25 @@ Qualcosa nel mio petto si strinse.
 
 Capii in quel momento che non stavo parlando con un mostro. Stavo parlando con una vittima—una vittima che aveva imparato ad amare le sue catene.
 
-"Jensen." Un altro Controllore si avvicinò. "Le altre due sono quasi fuori portata. Dobbiamo muoverci."
+"Jensen." Un'altra Controllore si avvicinò. Più anziana di lui, forse quarant'anni, con una riga di grigio nei capelli rasati e un'espressione stanca. Sulla divisa, il nome: KOVALOVA.
+
+"Le altre due sono quasi fuori portata. Dobbiamo muoverci."
 
 Jensen non distolse lo sguardo da me.
 
-"Portale qui," ordinò. "Vive. Soprattutto la minore. Voglio che lui guardi quando la prenderemo per la rieducazione."
+"Portale qui. Vive. Soprattutto la minore. Voglio che lui guardi quando la prenderemo per la rieducazione."
 
-In quel momento vidi qualcosa nei suoi occhi. Non odio, non vuoto. Qualcosa di peggio: invidia. Jensen guardava la mia famiglia fuggire e vi scorgeva tutto ciò che gli era stato rubato. E voleva strapparlo anche a noi.
+Kovalova esitò. I suoi occhi incontrarono i miei per un istante—e in quello sguardo vidi qualcosa che non mi aspettavo. Non la rabbia fredda di Jensen. Qualcosa di più simile al... dolore?
+
+"Jensen." La sua voce era bassa. "Forse non serve la minore. Abbiamo già il primario. Possiamo—"
+
+"Puoi andare, Kovalova." Jensen parlò senza voltarsi. "Se non hai lo stomaco per questo lavoro."
+
+Kovalova abbassò lo sguardo. Si voltò. Tornò verso i veicoli.
+
+*Ecco*, pensai nel mio stordimento. *Ecco come funziona il Sistema. Non ha bisogno che tutti siano mostri. Ha solo bisogno che i buoni tacciano.*
+
+In quel momento vidi qualcosa negli occhi di Jensen. Non odio, non vuoto. Qualcosa di peggio: invidia. Jensen guardava la mia famiglia fuggire e vi scorgeva tutto ciò che gli era stato rubato. E voleva strapparlo anche a noi.
 
 "Sai cosa mi disgusta di voi?" disse, fermandosi a un metro da me. "Non è quello che fate. È che pensate di essere speciali. Pensate che il vostro istinto riproduttivo sia amore." Sputò ai miei piedi. "È solo biologia. Chimica. Un residuo evolutivo che non vi serve più."
 

@@ -198,13 +198,25 @@ Qualcosa nel mio petto si strinse.
 
 Capii in quel momento che non stavo parlando con un mostro. Stavo parlando con una vittima—una vittima che aveva imparato ad amare le sue catene.
 
-"Jensen." Un altro Controllore si avvicinò. "Le altre due sono quasi fuori portata. Dobbiamo muoverci."
+"Jensen." Un'altra Controllore si avvicinò. Più anziana di lui, forse quarant'anni, con una riga di grigio nei capelli rasati e un'espressione stanca. Sulla divisa, il nome: KOVALOVA.
+
+"Le altre due sono quasi fuori portata. Dobbiamo muoverci."
 
 Jensen non distolse lo sguardo da me.
 
-"Portale qui," ordinò. "Vive. Soprattutto la minore. Voglio che lui guardi quando la prenderemo per la rieducazione."
+"Portale qui. Vive. Soprattutto la minore. Voglio che lui guardi quando la prenderemo per la rieducazione."
 
-In quel momento vidi qualcosa nei suoi occhi. Non odio, non vuoto. Qualcosa di peggio: invidia. Jensen guardava la mia famiglia fuggire e vi scorgeva tutto ciò che gli era stato rubato. E voleva strapparlo anche a noi.
+Kovalova esitò. I suoi occhi incontrarono i miei per un istante—e in quello sguardo vidi qualcosa che non mi aspettavo. Non la rabbia fredda di Jensen. Qualcosa di più simile al... dolore?
+
+"Jensen." La sua voce era bassa. "Forse non serve la minore. Abbiamo già il primario. Possiamo—"
+
+"Puoi andare, Kovalova." Jensen parlò senza voltarsi. "Se non hai lo stomaco per questo lavoro."
+
+Kovalova abbassò lo sguardo. Si voltò. Tornò verso i veicoli.
+
+*Ecco*, pensai nel mio stordimento. *Ecco come funziona il Sistema. Non ha bisogno che tutti siano mostri. Ha solo bisogno che i buoni tacciano.*
+
+In quel momento vidi qualcosa negli occhi di Jensen. Non odio, non vuoto. Qualcosa di peggio: invidia. Jensen guardava la mia famiglia fuggire e vi scorgeva tutto ciò che gli era stato rubato. E voleva strapparlo anche a noi.
 
 "Sai cosa mi disgusta di voi?" disse, fermandosi a un metro da me. "Non è quello che fate. È che pensate di essere speciali. Pensate che il vostro istinto riproduttivo sia amore." Sputò ai miei piedi. "È solo biologia. Chimica. Un residuo evolutivo che non vi serve più."
 

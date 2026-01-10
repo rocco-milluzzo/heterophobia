@@ -40,7 +40,7 @@ Studiare la loro storia è stato come disseppellire una tomba. Ogni documento er
 
 Alcune cose le ho trovate negli archivi. James lavorava lì, prima. Aveva accesso a documenti che non avrebbe dovuto avere, e ne ha conservati alcuni. Lettere d'amore dell'era pre-Divieto. Poesie. Storie. Tutto il materiale proibito che raccontava di un mondo dove uomini e donne potevano amarsi alla luce del sole.
 
-Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggior parte sono conformi, non vogliono parlare. Ricordare è pericoloso. Ma alcuni si sono aperti. Hanno raccontato frammenti, dettagli. Come lei cantava quando pensava che nessuno la sentisse. Come lui sorrideva raramente, ma quando lo faceva era come vedere il sole dopo mesi di pioggia.
+Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggior parte sono conformi, non vogliono parlare. Ricordare è pericoloso. Ma alcuni si sono aperti. Hanno raccontato frammenti, dettagli. Come lei cantava quando pensava che nessuno la sentisse — una ninna nanna, sempre la stessa, che ancora adesso mi ritrovo a canticchiare senza sapere dove l'ho imparata. Come lui sorrideva raramente, ma quando lo faceva era come vedere il sole dopo mesi di pioggia.
 
 ---
 
