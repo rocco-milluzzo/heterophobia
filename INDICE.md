@@ -2,67 +2,62 @@
 
 ---
 
-## Prologo
+## Atto I: Scoperta (Cap. 1-11)
 
-- [Capitolo 0: Prologo](capitoli/00-prologo.md)
-
----
-
-## Atto I: Scoperta (Cap. 3-12)
-
-- [Capitolo 3: Quindici Anni](capitoli/03-quindici-anni.md)
-- [Capitolo 4: Il Gioco](capitoli/04-il-gioco.md)
-- [Capitolo 5: Frammento - Margarethe](capitoli/05-frammento-margarethe.md)
-- [Capitolo 6: Primi Passi](capitoli/06-primi-passi.md)
-- [Capitolo 7: Il Libro](capitoli/07-il-libro.md)
-- [Capitolo 8: Documenti Interni](capitoli/08-documenti-interni.md)
-- [Capitolo 9: Il Primo Contatto](capitoli/09-il-primo-contatto.md)
-- [Capitolo 10: La Prima Notte](capitoli/10-la-prima-notte.md)
-- [Capitolo 11: Frammento - Enzio](capitoli/11-frammento-enzio.md)
-- [Capitolo 12: Cinque Anni](capitoli/12-cinque-anni.md)
+- [Capitolo 1: Quindici Anni](capitoli/01-quindici-anni.md)
+- [Capitolo 2: Il Gioco](capitoli/02-il-gioco.md)
+- [Capitolo 3: Frammento - Marta](capitoli/03-frammento-marta.md)
+- [Capitolo 4: Primi Passi](capitoli/04-primi-passi.md)
+- [Capitolo 5: Il Libro](capitoli/05-il-libro.md)
+- [Capitolo 6: Documenti Interni](capitoli/06-documenti-interni.md)
+- [Capitolo 7: Il Primo Contatto](capitoli/07-il-primo-contatto.md)
+- [Capitolo 8: La Prima Notte](capitoli/08-la-prima-notte.md)
+- [Intermezzo: La Voce](capitoli/09-intermezzo.md)
+- [Capitolo 10: Frammento - Enzio](capitoli/10-frammento-enzio.md)
+- [Capitolo 11: Cinque Anni](capitoli/11-cinque-anni.md)
 
 ---
 
-## Atto II: Escalation (Cap. 13-28)
+## Atto II: Escalation (Cap. 12-27)
 
-- [Capitolo 13: Routine del Segreto](capitoli/13-routine-del-segreto.md)
-- [Capitolo 14: La Proposta](capitoli/14-la-proposta.md)
-- [Capitolo 15: Il Piano](capitoli/15-il-piano.md)
-- [Capitolo 16: Frammento - I Genitori di James](capitoli/16-frammento-i-genitori-di-james.md)
-- [Capitolo 17: La Decisione](capitoli/17-la-decisione.md)
-- [Capitolo 18: L'Attesa](capitoli/18-lattesa.md)
-- [Capitolo 19: Il Segno](capitoli/19-il-segno.md)
-- [Capitolo 20: La Nuova Vita](capitoli/20-la-nuova-vita.md)
-- [Capitolo 21: Documenti Medici](capitoli/21-documenti-medici.md)
-- [Capitolo 22: I Primi Anni](capitoli/22-i-primi-anni.md)
-- [Capitolo 23: Frammento - Henrik](capitoli/23-frammento-henrik.md)
-- [Capitolo 24: La Domanda](capitoli/24-la-domanda.md)
-- [Capitolo 25: La Crepa](capitoli/25-la-crepa.md)
-- [Capitolo 26: Segnali](capitoli/26-segnali.md)
-- [Capitolo 27: La Rete](capitoli/27-la-rete.md)
-- [Capitolo 28: La Scoperta](capitoli/28-la-scoperta.md)
-
----
-
-## Atto III: Rivelazione (Cap. 29-38)
-
-- [Capitolo 29: Dieci Anni](capitoli/29-dieci-anni.md)
-- [Capitolo 30: La Decisione](capitoli/30-la-decisione.md)
-- [Capitolo 31: La Ricerca](capitoli/31-la-ricerca.md)
-- [Capitolo 32: L'Ultimo Giorno](capitoli/32-lultimo-giorno.md)
-- [Capitolo 33: Il Raid](capitoli/33-il-raid.md)
-- [Capitolo 34: La Corsa](capitoli/34-la-corsa.md)
-- [Capitolo 35: La Scelta](capitoli/35-la-scelta.md)
-- [Capitolo 36: Il Manoscritto](capitoli/36-il-manoscritto.md)
-- [Capitolo 37: Le Zone Orientali](capitoli/37-le-zone-orientali.md)
-- [Capitolo 38: Il Ritorno](capitoli/38-il-ritorno.md)
+- [Capitolo 12: Routine del Segreto](capitoli/12-routine-del-segreto.md)
+- [Capitolo 13: La Proposta](capitoli/13-la-proposta.md)
+- [Capitolo 14: Il Piano](capitoli/14-il-piano.md)
+- [Capitolo 15: Frammento - I Genitori di James](capitoli/15-frammento-i-genitori-di-james.md)
+- [Capitolo 16: La Decisione](capitoli/16-la-decisione.md)
+- [Capitolo 17: L'Attesa](capitoli/17-lattesa.md)
+- [Capitolo 18: Il Segno](capitoli/18-il-segno.md)
+- [Capitolo 19: La Nuova Vita](capitoli/19-la-nuova-vita.md)
+- [Capitolo 20: Documenti Medici](capitoli/20-documenti-medici.md)
+- [Capitolo 21: I Primi Anni](capitoli/21-i-primi-anni.md)
+- [Capitolo 22: Frammento - Enrico](capitoli/22-frammento-enrico.md)
+- [Capitolo 23: La Domanda](capitoli/23-la-domanda.md)
+- [Capitolo 24: La Crepa](capitoli/24-la-crepa.md)
+- [Capitolo 25: Segnali](capitoli/25-segnali.md)
+- [Capitolo 26: La Rete](capitoli/26-la-rete.md)
+- [Capitolo 27: La Scoperta](capitoli/27-la-scoperta.md)
 
 ---
 
-## Epilogo (Cap. 39-40)
+## Atto III: Rivelazione (Cap. 28-37)
 
-- [Capitolo 39: Epilogo](capitoli/39-epilogo.md)
-- [Capitolo 40: Fine](capitoli/40-fine.md)
+- [Capitolo 28: Dieci Anni](capitoli/28-dieci-anni.md)
+- [Capitolo 29: La Decisione](capitoli/29-la-decisione.md)
+- [Capitolo 30: La Ricerca](capitoli/30-la-ricerca.md)
+- [Capitolo 31: L'Ultimo Giorno](capitoli/31-lultimo-giorno.md)
+- [Capitolo 32: Il Raid](capitoli/32-il-raid.md)
+- [Capitolo 33: La Corsa](capitoli/33-la-corsa.md)
+- [Capitolo 34: La Scelta](capitoli/34-la-scelta.md)
+- [Capitolo 35: Il Manoscritto](capitoli/35-il-manoscritto.md)
+- [Capitolo 36: Le Zone Orientali](capitoli/36-le-zone-orientali.md)
+- [Capitolo 37: Il Ritorno](capitoli/37-il-ritorno.md)
+
+---
+
+## Epilogo (Cap. 38-39)
+
+- [Capitolo 38: Epilogo](capitoli/38-epilogo.md)
+- [Capitolo 39: Fine](capitoli/39-fine.md)
 
 ---
 

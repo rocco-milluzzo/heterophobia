@@ -174,11 +174,65 @@ Ex-città evacuate dopo le Guerre di Fusione. Mai ricostruite. Ora rifugio dei r
 - **Blocco dell'invecchiamento:** Telomeri mantenuti artificialmente
 - **Costo:** Gratuito per i conformi, inesistente per i ribelli
 
+**I Limiti delle Cure (cruciale per la plausibilità):**
+
+Le Cure non sono magia. Hanno regole precise:
+
+1. **Morte violenta istantanea:** I nanobot non possono ricostruire un cervello distrutto. Un colpo alla testa, una caduta da grande altezza, un'esplosione = morte reale e definitiva.
+
+2. **Soglia di danno critico:** Se oltre il 40% del corpo viene danneggiato simultaneamente, i nanobot non riescono a rigenerare abbastanza velocemente. Gli incidenti gravi uccidono ancora.
+
+3. **Dipendenza dalle infusioni:** I nanobot hanno una vita limitata (~5 anni). Servono infusioni regolari nelle cliniche autorizzate. Senza accesso alle cliniche = invecchiamento ripreso.
+
+4. **Il cervello non si rigenera completamente:** I nanobot preservano il tessuto cerebrale esistente ma non lo ricreano. Danni cerebrali gravi = perdita permanente di memoria/personalità.
+
+5. **Veleni specializzati:** Esistono tossine sviluppate per neutralizzare i nanobot. Usate per le esecuzioni legali e, clandestinamente, per omicidi.
+
+6. **Nessuna immortalità mentale:** La psiche non è stata "curata". Depressione, follia, suicidio esistono ancora - anzi, aumentati con la prospettiva dell'eternità.
+
+*Implicazione narrativa: James e Kate possono morire. Il Sistema può ucciderli. La loro fuga ha rischi reali.*
+
 ### Sorveglianza
 - **Chip identità:** Impiantato alla nascita, traccia posizione
 - **Analisi comportamentale:** AI predice "deviazioni" da pattern
 - **Test genetici:** Trimestrali, rilevano gravidanze al primo giorno
 - **Monitoraggio ambientale:** Sensori ovunque nelle Unità
+
+### Come Sfuggire al Sistema (La Resistenza Tecnica)
+
+Il Sistema non è perfetto. Ha falle che i ribelli e i "devianti" hanno imparato a sfruttare:
+
+**1. Zone Grigie del Tracciamento:**
+- I chip funzionano tramite rete. Nelle aree con scarsa copertura (vecchi edifici, tunnel della metropolitana pre-Fusione, zone industriali dismesse), il segnale è intermittente.
+- Gli archivi storici dove lavora James hanno zone "schermate" per proteggere documenti sensibili - copertura perfetta per incontri segreti.
+
+**2. Jammer Artigianali:**
+- Dispositivi che creano un'area di silenzio radio (~10 metri).
+- Illegali, ma i pezzi per costruirli sono comuni.
+- Yuki ne fornisce uno a Kate - proveniente dalla rete sotterranea.
+
+**3. Mascheramento dei Test Genetici:**
+- I test rilevano ormoni gravidici nel sangue. Kate, come biologa, ha accesso a inibitori ormonali sperimentali che mascherano i marcatori per 72 ore.
+- Per 9 mesi di gravidanza serve pianificazione meticolosa: ogni test deve essere preceduto da una dose, ogni dose ha effetti collaterali che vanno nascosti.
+- Enzio ha conservato i protocolli pre-Divieto per la falsificazione dei test - documenti dell'era in cui alcuni cercavano di nascondere gravidanze indesiderate.
+
+**4. Falle nell'Analisi Comportamentale:**
+- L'AI cerca pattern anomali. La chiave è la *prevedibilità*.
+- James e Kate stabiliscono routine rigidissime, con variazioni minime pianificate in anticipo.
+- Gli incontri avvengono sempre in momenti che possono essere spiegati: "ritardo al lavoro", "guasto ai trasporti", "manutenzione sanitaria".
+
+**5. I Complici Silenziosi:**
+- Il Sistema dipende dalle segnalazioni. Molti cittadini *vedono* ma non *denunciano*.
+- Enrico (padre di Kate) sa tutto ma tace.
+- Yuki sospetta ma copre Kate al lavoro.
+- Questa rete di silenzi è la vera protezione - più della tecnologia.
+
+**6. Le Zone Abbandonate come Via di Fuga:**
+- Le Zone non hanno copertura di rete. Chi ci entra "scompare" dai radar.
+- Ma l'ingresso è sorvegliato. Servono guide che conoscono i passaggi segreti (tunnel, fogne, vecchie linee metropolitane).
+- Mira è una di queste guide - figlia di ribelli, nata nelle Zone.
+
+*Implicazione narrativa: James e Kate sopravvivono 25 anni perché sono meticolosi, hanno alleati, e il Sistema ha più falle di quanto ammetta.*
 
 ### Comunicazione
 - **Traduzione universale:** Ogni lingua tradotta in tempo reale

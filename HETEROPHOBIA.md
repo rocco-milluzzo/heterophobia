@@ -21,197 +21,16 @@ toc-depth: 1
 
 *Ex-Europa, 2105*
 
-*In un mondo dove l'immortalità ha reso obsoleta la riproduzione, l'eterosessualità è stata dichiarata illegale. James e Kate si innamorano lo stesso.*
+*In un mondo dove l'immortalita ha reso obsoleta la riproduzione, l'eterosessualita e stata dichiarata illegale. James e Kate si innamorano lo stesso.*
 
-*Questa è la loro storia. Raccontata da chi non sarebbe mai dovuta esistere.*
+*Questa e la loro storia. Raccontata da chi non sarebbe mai dovuta esistere.*
 
 \newpage
 
 
+\newpage
 
-ewpage
-
-# Prologo
-
-## Capitolo 1: La Voce
-
-Non so esattamente quando abbiano iniziato ad amarsi. So solo quando hanno smesso di nasconderlo a se stessi.
-
-C'è una data nei documenti. Un giorno specifico dell'anno 2098, terzo mese, quando lei aveva diciotto anni e lui ne aveva compiuti 19 da poco. Ma l'amore non funziona così, non inizia in un momento preciso che puoi segnare su un calendario. L'amore è un'infezione lenta, un contagio che si insinua nelle ossa prima che tu possa accorgertene.
-
-Almeno, così lo chiamavano. Infezione. Contagio. I *breeder*, li chiamavano. Gli *infetti*. Egoisti genetici che volevano perpetuare il proprio DNA a scapito del pianeta.
-
-Loro se ne accorsero troppo tardi.
-
-Ho passato anni a ricostruire questa storia. A mettere insieme frammenti: lettere mai spedite, registrazioni audio deteriorate, testimonianze di chi li conosceva. Ho cercato di capire cosa significasse amare quando amare era un crimine. Cosa volesse dire desiderare qualcuno quando il desiderio stesso ti condannava.
-
-Non è una storia semplice. Non ha eroi, non nel senso che intendiamo oggi. Ha solo due persone che hanno fatto una scelta impossibile, e hanno continuato a farla ogni giorno per venticinque anni.
-
-Lei si chiamava Kate. Lui si chiamava James.
-
-Erano Ultimi.
-
----
-
-Gli Ultimi. L'ultima generazione. I bambini nati subito dopo il Divieto, quando il mondo aveva già deciso che non ce ne sarebbero stati altri. Concepiti prima che la legge entrasse in vigore, partoriti quando era già troppo tardi per fermarli. Marchiati fin dalla nascita come residui di un'era barbara—*dinosauri*, li chiamava la propaganda. Figli di un mondo malato che aveva finalmente trovato la cura.
-
-Cresciuti sapendo di essere tra gli ultimi della loro specie, se così si può dire. Tra gli ultimi a nascere come si nasceva una volta, da un corpo, non da una macchina. Gli ultimi a cui qualcuno avesse detto "figlio" intendendo un legame di sangue, di carne, di verità.
-
-Avevano quindici anni quando si sono visti per la prima volta. Una scuola del Distretto Nord dell'Ex-Europa, aule grigie, uniformi identiche, il ronzio costante dei sistemi di monitoraggio che nessuno notava più. Lei rideva di qualcosa. Lui l'ha guardata.
-
-Nei documenti non c'è traccia di quel momento. Nessuna telecamera ha registrato il battito accelerato del suo cuore, nessun sensore ha catturato il modo in cui lei ha girato la testa e i loro occhi si sono incrociati. Certi momenti sfuggono alla sorveglianza. Forse i più importanti.
-
-Ma le fonti concordano su questo.
-
-Lui tornò a casa quella sera e non dormì. Lei iniziò a cercarlo con lo sguardo nei corridoi, fingendo di non farlo. Per settimane, mesi, si girarono intorno come due pianeti in orbite che non avrebbero dovuto incrociarsi.
-
-E quando finalmente si parlarono, quando le parole ruppero quel silenzio carico di significato, si mise in moto qualcosa che nessuno dei due avrebbe potuto fermare.
-
----
-
-Studiare la loro storia è stato come disseppellire una tomba. Ogni documento era un osso, ogni registrazione un frammento di qualcosa che un tempo era stato vivo. Ho dovuto ricostruire un corpo a partire da schegge sparse, immaginare la carne dove restavano solo ceneri.
-
-Alcune cose le ho trovate negli archivi. James lavorava lì, prima. Aveva accesso a documenti che non avrebbe dovuto avere, e ne ha conservati alcuni. Lettere d'amore dell'era pre-Divieto. Poesie. Storie. Tutto il materiale proibito che raccontava di un mondo dove uomini e donne potevano amarsi alla luce del sole.
-
-Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggior parte sono conformi, non vogliono parlare. Ricordare è pericoloso. Ma alcuni si sono aperti. Hanno raccontato frammenti, dettagli. Come lei cantava quando pensava che nessuno la sentisse. Come lui sorrideva raramente, ma quando lo faceva era come vedere il sole dopo mesi di pioggia.
-
----
-
-L'amore, nel mondo di Kate e James, non era romantico. Era geologico. Una forza sotterranea che spostava continenti, che faceva tremare la terra.
-
-Il Sistema ha provato a soffocarlo. Per decenni ha insegnato che l'attrazione tra uomo e donna era un residuo evolutivo, un istinto obsoleto come l'appendice o i denti del giudizio. *L'eterosessualità è una scelta — scegli meglio*, recitavano i manifesti nelle scuole. *L'amore vero non ha bisogno di figli. Fare figli è violenza verso il pianeta.*
-
-I campi di rieducazione erano pieni di chi non aveva scelto meglio. Le retate notturne svuotavano interi quartieri. Gli *infetti* sparivano nelle Zone Abbandonate, e nessuno faceva domande.
-
-*Nessuno si sentiva al sicuro—eppure tutti pensavano che non sarebbe toccato a loro.*
-
-È questa la cosa che mi terrorizza di più, quando studio quei tempi. Non la brutalità del Sistema—quella è facile da condannare. È la normalità con cui tutto è avvenuto. Un giorno ami chi vuoi, il giorno dopo l'amore è una malattia. Un giorno sei normale, il giorno dopo sei un criminale. E tutti quelli intorno a te—i tuoi vicini, i tuoi colleghi, i tuoi amici—annuiscono e dicono: *era ora*.
-
-Ho letto i diari di quel periodo. Persone rispettabili, istruite, che scrivevano senza ironia: *finalmente qualcuno fa qualcosa*. Medici che firmavano le diagnosi di "devianza riproduttiva" con la stessa tranquillità con cui prescrivevano vitamine. Insegnanti che segnalavano i propri studenti e poi tornavano a casa convinti di aver fatto la cosa giusta.
-
-Nessuno di loro si considerava un mostro. Nessuno pensava di stare dalla parte sbagliata. Erano tutti convinti—tutti—che le linee tracciate tra *noi* e *loro* fossero giuste, naturali, inevitabili.
-
-È questo che mi tiene sveglia la notte. Non i carnefici. I carnefici sono pochi. Sono tutti gli altri—quelli che guardano, che annuiscono, che pensano *non mi riguarda*—a rendere possibile l'orrore.
-
-La maggior parte ci ha creduto. O almeno, ha finto di crederci.
-
-Kate e James no. I loro corpi dicevano una cosa e il mondo ne diceva un'altra, e non riuscirono a dare retta al mondo.
-
----
-
-Ho deciso di scrivere questa storia perché qualcuno deve farlo. Perché tra cento anni, mille, quando saremo tutti immortali e sterili e perfetti, qualcuno dovrà sapere che una volta l'amore esisteva. Non l'amore che conosciamo oggi, asettico, regolamentato, sicuro. L'amore vero. Quello che fa male. Quello che ti distrugge e ti ricostruisce. Quello per cui vale la pena morire.
-
-Kate e James lo sapevano.
-
-E l'hanno dimostrato.
-
----
-
-## Capitolo 2: Il Primo Documento
-
-Ho trovato la prima lettera per caso.
-
-Stavo esaminando un archivio sequestrato, materiale confiscato durante un raid in un insediamento non autorizzato nelle Zone Abbandonate. Documenti deteriorati, per lo più illeggibili. Testimonianze vuote di esistenze irrilevanti, secondo la classificazione ufficiale.
-
-Ma in mezzo a tutto quel rumore, una voce.
-
-La calligrafia era stretta, inclinata verso destra. Inchiostro vero su carta vera, non una stampa, non un ologramma. Qualcuno aveva scritto quelle parole a mano, tracciando ogni lettera come se il gesto stesso fosse una preghiera.
-
-La data: 2115. L'anno in cui tutto finì.
-
-Non era indirizzata a nessuno, non in modo esplicito. Ma era chiaramente scritta per lei. Per Kate.
-
----
-
-*K.,*
-
-*Oggi sono vent'anni. Vent'anni da quel corridoio, da quello sguardo. A volte mi chiedo se ti abbia inventata. Se quella ragazza che rideva non fosse altro che un'allucinazione, un sintomo di una malattia che avrei dovuto curare.*
-
-*Ma poi ti vedo, e so che sei reale. Più reale di tutto il resto.*
-
-*Il mondo dice che siamo malati. Che quello che proviamo è una disfunzione, un errore nel codice. Mi hanno insegnato fin da bambino che l'attrazione tra uomo e donna era qualcosa di cui vergognarsi, come un vizio o una debolezza. Ho provato a crederci. Per anni ho provato.*
-
-*Non ci sono riuscito.*
-
-*Perché la malattia non dovrebbe sentirsi così. Non dovrebbe avere il sapore delle tue labbra o il suono della tua risata. Non dovrebbe farmi sentire più vivo di qualsiasi altra cosa al mondo.*
-
-*Se amarti è essere malato, allora non voglio guarire.*
-
-*Vent'anni. Ho perso il conto dei rischi che abbiamo corso, delle volte in cui siamo stati quasi scoperti. Ogni test genetico è una sentenza sospesa. Ogni giorno che passa senza conseguenze è un miracolo.*
-
-*Ma non mi pento di niente.*
-
-*Ti guardo dormire, a volte. Nelle rare notti in cui possiamo stare insieme, quando il mondo per qualche ora dimentica di controllarci. Ti guardo e penso: questo vale tutto. Il modo in cui tieni sempre la mano sinistra sotto il cuscino, come se nascondessi un segreto. I capelli che ti cadono sulla fronte. Il piccolo suono che fai quando stai per svegliarti. Qualsiasi cosa accada, questi momenti valgono tutto.*
-
-*Non te l'ho mai detto abbastanza. So che aspetti di sentirtelo dire e io resto in silenzio, bloccato dalla paura che le parole possano renderlo più reale, più pericoloso. Come se pronunciarle ad alta voce significasse invocare la rovina.*
-
-*Ma oggi voglio scriverlo, almeno. Dove nessuno può sentire.*
-
-*Ti amo.*
-
-*Ti amo come non dovrei, come non posso, come è illegale amare.*
-
-*Ti amo come si amava una volta, prima che l'amore diventasse un crimine.*
-
-*E se domani verranno a prenderci, se tutto finirà, voglio che tu sappia: non cambierei nulla. Ogni secondo con te è valso una vita intera.*
-
-*Sempre,*
-*J.*
-
----
-
-La lettera non fu mai spedita.
-
-L'ho trovata piegata tra le pagine di un libro, un volume di poesie dell'era pre-Fusione che secondo i registri apparteneva a lui. Forse la scrisse e poi non ebbe il coraggio di consegnarla. Forse intendeva darla di persona, ma l'occasione non si presentò mai. O forse la nascose lì sapendo che un giorno qualcuno l'avrebbe trovata.
-
-Non lo saprò mai.
-
-Ma leggendola ho capito una cosa. Ho capito che questa non era solo una storia di crimine e punizione, di devianza e repressione. Era la storia di qualcosa di più grande, qualcosa che il sistema non poteva contenere per quanto ci provasse.
-
-Due persone che si amavano.
-
-In un mondo che aveva bandito l'amore.
-
----
-
-È da quella lettera che tutto è iniziato. Ho cercato altre tracce, altri frammenti. Ho ricostruito le loro vite pezzo per pezzo, anno per anno. Ho parlato con chi li conosceva. Ho letto i rapporti ufficiali, quelli che li descrivevano come "soggetti devianti", "casi patologici", "minacce alla stabilità sociale".
-
-E ho trovato qualcosa di diverso.
-
-Ho trovato due persone normali. Non eroi, non martiri. Solo due persone che non sono riuscite a smettere di amarsi, per quanto il mondo glielo chiedesse.
-
-Quella, forse, è la cosa più rivoluzionaria di tutte.
-
----
-
-Nei documenti che seguono troverete la loro storia dall'inizio. Da quel giorno a scuola, quando lei rideva e lui la guardò. Lungo gli anni del corteggiamento silenzioso, delle parole non dette, dei tocchi rubati. Fino alla decisione che cambiò tutto.
-
-Fino a ciò che venne dopo.
-
-Ma per ora, fermatevi un momento. Guardate questa lettera. Queste parole che James scrisse a mano per Kate, vent'anni dopo essersi innamorato di lei.
-
-*Ti amo come non dovrei, come non posso, come è illegale amare.*
-
-In un mondo dove l'immortalità ha reso tutto eterno, questo è l'unico documento che mi abbia fatto provare una fitta al petto. Un dolore umano. Mortale.
-
-Vero.
-
----
-
-C'è un'ultima cosa che devo dire, prima di cominciare.
-
-Non so chi sono. Non nel senso filosofico—so il mio nome, la mia storia, il mio ruolo. Ma c'è un vuoto, dentro di me. Un'assenza che non riesco a spiegare. E ogni volta che leggo le parole di James e Kate, quel vuoto brucia.
-
-Come se stessi leggendo la mia stessa storia.
-
-Come se l'avessi dimenticata.
-
-Come se qualcuno me l'avesse fatta dimenticare.
-
-
-ewpage
-
-# Capitolo 3: Quindici Anni
+# Capitolo 1: Quindici Anni
 
 La prima volta che la vide, James stava pensando alla morte.
 
@@ -241,7 +60,7 @@ James si accorse che stava trattenendo il respiro.
 
 ---
 
-"Chen-Rossi."
+"Valeri."
 
 La voce del professore lo fece trasalire. Tutti lo stavano guardando.
 
@@ -263,9 +82,9 @@ James sapeva la risposta, l'aveva studiata mille volte. Ma le parole gli sfuggiv
 
 James si voltò. Era lei. La ragazza che rideva aveva parlato, e ora guardava il professore con un'espressione neutra, impassibile. Come se non fosse la stessa persona di un momento prima.
 
-"Esatto, Lindqvist. Almeno qualcuno segue la lezione."
+"Esatto, Ferrante. Almeno qualcuno segue la lezione."
 
-Lindqvist. Adesso aveva un nome.
+Ferrante. Adesso aveva un nome.
 
 ---
 
@@ -301,7 +120,7 @@ Era il suo compagno di banco, Takeshi, un ragazzo alto con i capelli rasati, sem
 
 "Sì, sì. Solo... stanco. Non ho dormito bene."
 
-Takeshi annuì, ma non si mosse. I suoi occhi indugiarono un istante di troppo. "Fissavi la Lindqvist," osservò, con un tono che avrebbe potuto essere curioso o accusatorio. "Attento, eh. Le telecamere notano queste cose."
+Takeshi annuì, ma non si mosse. I suoi occhi indugiarono un istante di troppo. "Fissavi la Ferrante," osservò, con un tono che avrebbe potuto essere curioso o accusatorio. "Attento, eh. Le telecamere notano queste cose."
 
 Poi si allontanò, lasciando James con il cuore in gola e il sangue gelato nelle vene.
 
@@ -319,7 +138,7 @@ Fino a oggi.
 
 Chiuse gli occhi e cercò di dormire, ma vedeva solo lei. La curva del suo collo. Il movimento delle sue labbra quando rideva. La luce nei suoi occhi quando aveva risposto al professore.
 
-Lindqvist.
+Ferrante.
 
 Non poteva cercarla nel database scolastico. Le ricerche erano monitorate, e una ricerca su una compagna di classe avrebbe fatto scattare un alert. Niente di grave, probabilmente solo una nota nel suo file. Ma bastava.
 
@@ -367,10 +186,9 @@ James non lo sapeva. Non poteva saperlo.
 
 Ma il Sistema aveva già iniziato a guardare.
 
+\newpage
 
-ewpage
-
-# Capitolo 4: Il Gioco
+# Capitolo 2: Il Gioco
 
 Kate notò il ragazzo che la guardava.
 
@@ -392,7 +210,7 @@ C'era qualcosa di affamato in quello sguardo. Qualcosa di disperato.
 
 Qualcosa di sbagliato.
 
-Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Chen-Rossi, aveva detto il professore quando lo aveva interrogato. Un cognome doppio, quindi due padri o due madri. Normale.
+Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore quando lo aveva interrogato. Un cognome doppio, quindi due padri o due madri. Normale.
 
 Lui, però, non sembrava normale. Sembrava... tormentato.
 
@@ -400,27 +218,27 @@ Kate scosse la testa e cercò di concentrarsi sulla lezione. Non erano affari su
 
 ---
 
-"Il Divieto," disse, quando il professore cercava una risposta che Chen-Rossi non riusciva a dare. "L'immortalità ha reso necessario il Divieto. Senza morte naturale, la riproduzione doveva cessare per evitare il collasso delle risorse."
+"Il Divieto," disse, quando il professore cercava una risposta che Valeri non riusciva a dare. "L'immortalità ha reso necessario il Divieto. Senza morte naturale, la riproduzione doveva cessare per evitare il collasso delle risorse."
 
 Le parole le uscirono automatiche, senza pensarci. Le aveva sentite ripetere così tante volte che erano diventate parte di lei, come il battito del cuore o il ritmo del respiro. La verità ufficiale. L'unica verità.
 
-"Esatto, Lindqvist. Almeno qualcuno segue la lezione."
+"Esatto, Ferrante. Almeno qualcuno segue la lezione."
 
 Kate annuì educatamente. Ma dentro di sé stava pensando ad altro.
 
-Stava pensando a sua nonna. A quello che Margarethe le aveva raccontato, la sera prima, in una delle loro conversazioni segrete. Storie di un tempo in cui le persone morivano, sì, ma anche nascevano. In cui l'amore tra un uomo e una donna non era classificato come *disturbo dell'orientamento riproduttivo*.
+Stava pensando a sua nonna. A quello che Marta le aveva raccontato, la sera prima, in una delle loro conversazioni segrete. Storie di un tempo in cui le persone morivano, sì, ma anche nascevano. In cui l'amore tra un uomo e una donna non era classificato come *disturbo dell'orientamento riproduttivo*.
 
 "Sciocchezze," aveva ribattuto Kate. "Propaganda dei *dinosauri*."
 
 Era ciò che le avevano insegnato. I nostalgici del vecchio mondo erano malati, egoisti genetici che rimpiangevano un'era di violenza e caos. La rieducazione esisteva per salvarli da se stessi.
 
-Ma Margarethe aveva solo sorriso, con quella sua aria triste e sapiente. "Forse. O forse no."
+Ma Marta aveva solo sorriso, con quella sua aria triste e sapiente. "Forse. O forse no."
 
 ---
 
 Quella sera Kate andò a trovare sua nonna.
 
-L'appartamento di Margarethe era in un'ala diversa del Complesso Residenziale, riservata agli anziani pre-immortalità. Erano pochi, ormai—la maggior parte aveva accettato le Cure non appena erano diventate disponibili. Ma alcuni, come Margarethe, avevano resistito a lungo, abbastanza da ricordare un mondo diverso.
+L'appartamento di Marta era in un'ala diversa del Complesso Residenziale, riservata agli anziani pre-immortalità. Erano pochi, ormai—la maggior parte aveva accettato le Cure non appena erano diventate disponibili. Ma alcuni, come Marta, avevano resistito a lungo, abbastanza da ricordare un mondo diverso.
 
 "Sei tornata," disse la vecchia aprendo la porta. Non era davvero vecchia—le Cure l'avevano congelata biologicamente intorno ai quarantacinque anni, quando finalmente aveva ceduto—ma c'era qualcosa nei suoi occhi che nessun trattamento poteva ringiovanire.
 
@@ -428,7 +246,7 @@ L'appartamento di Margarethe era in un'ala diversa del Complesso Residenziale, r
 
 "Entra. Ho preparato il tè."
 
-Il tè era un lusso, una delle poche cose che Margarethe si concedeva. Kate si sedette al tavolo della cucina, stringendo la tazza calda tra le mani, e cercò le parole.
+Il tè era un lusso, una delle poche cose che Marta si concedeva. Kate si sedette al tavolo della cucina, stringendo la tazza calda tra le mani, e cercò le parole.
 
 "Ieri mi hai parlato dell'amore. Dell'amore di prima."
 
@@ -436,7 +254,7 @@ Il tè era un lusso, una delle poche cose che Margarethe si concedeva. Kate si s
 
 "Sì, ma..." Kate esitò. "Come si capiva? Voglio dire, come faceva una persona a sapere di essere... di provare quella cosa? Per qualcuno dell'altro sesso?"
 
-Margarethe la guardò a lungo, con un'espressione che Kate non riusciva a decifrare.
+Marta la guardò a lungo, con un'espressione che Kate non riusciva a decifrare.
 
 "Perché me lo chiedi?"
 
@@ -446,13 +264,13 @@ Margarethe la guardò a lungo, con un'espressione che Kate non riusciva a decifr
 
 "È solo curiosità, nonna. Per un progetto scolastico. Sulla storia delle relazioni pre-Divieto."
 
-Margarethe non sembrava convinta, ma non insistette. Si sedette di fronte alla nipote e bevve un sorso di tè.
+Marta non sembrava convinta, ma non insistette. Si sedette di fronte alla nipote e bevve un sorso di tè.
 
 "Non era qualcosa che si capiva," disse finalmente. "Era qualcosa che si sentiva. Qui." Si toccò il petto. "E qui." Si toccò la tempia. "E qui." Si toccò lo stomaco. "Tutto insieme, tutto in una volta. Come essere colpiti da un fulmine."
 
 "Ma come facevi a distinguerlo dall'amicizia? O dalla semplice attrazione fisica?"
 
-"Non potevi." Margarethe sorrise. "Quello era il bello, e il terribile. Non sapevi mai dove sarebbe finita, quella sensazione. Poteva essere niente, un fuoco di paglia. O poteva essere tutto. L'unico modo per scoprirlo era arrendersi."
+"Non potevi." Marta sorrise. "Quello era il bello, e il terribile. Non sapevi mai dove sarebbe finita, quella sensazione. Poteva essere niente, un fuoco di paglia. O poteva essere tutto. L'unico modo per scoprirlo era arrendersi."
 
 "Arrendersi?"
 
@@ -464,7 +282,7 @@ Kate rimase in silenzio. Pensava al ragazzo della finestra, a quello sguardo aff
 
 Le settimane passarono. Il grigio del cielo non cambiava mai, ma qualcosa dentro Kate sì.
 
-Si ritrovava a cercare Chen-Rossi con lo sguardo, nei corridoi, in classe, nella mensa. Non capiva perché. Era solo un ragazzo come gli altri, uno dei cinquantadue Ultimi.
+Si ritrovava a cercare Valeri con lo sguardo, nei corridoi, in classe, nella mensa. Non capiva perché. Era solo un ragazzo come gli altri, uno dei cinquantadue Ultimi.
 
 Ma ogni volta che lo vedeva, un calore le saliva al petto. Una specie di... curiosità. Un bisogno di capire perché la guardasse in quel modo, che cosa scorgesse in lei che nessun altro sembrava vedere.
 
@@ -492,7 +310,7 @@ A chi stava pensando?
 
 La risposta arrivò un mese dopo, nel modo più inaspettato.
 
-Era tardi, quasi l'ora del coprifuoco. Kate stava tornando verso la sua Unità dopo una sessione di studio prolungata quando lo vide. Chen-Rossi, seduto su una panchina nel cortile interno del Complesso, da solo.
+Era tardi, quasi l'ora del coprifuoco. Kate stava tornando verso la sua Unità dopo una sessione di studio prolungata quando lo vide. Valeri, seduto su una panchina nel cortile interno del Complesso, da solo.
 
 Non stava facendo niente. Guardava il cielo—quel cielo grigio e uniforme che era tutto quello che avevano—con un'espressione che Kate non riusciva a decifrare. Tristezza? Rabbia? Rassegnazione?
 
@@ -514,9 +332,9 @@ Lui alzò la testa di scatto, come svegliato da un sogno. Quando la vide, i suoi
 
 Un silenzio. Lui la guardava come se fosse un'apparizione, qualcosa di impossibile. Kate si sentì stranamente nuda sotto quegli occhi.
 
-"Sei Lindqvist, vero?" disse lui. "Kate Lindqvist."
+"Sei Ferrante, vero?" disse lui. "Kate Ferrante."
 
-"E tu sei Chen-Rossi. James, giusto?"
+"E tu sei Valeri. James, giusto?"
 
 Lui annuì. Un altro silenzio.
 
@@ -586,7 +404,7 @@ Era un'idea pericolosa. Un pensiero che bastava a farti finire in un centro di r
 
 Ma per la prima volta in vita sua, Kate si chiese cosa sarebbe successo se avesse smesso di lottare contro quella curiosità. Se avesse lasciato che la corrente la portasse dove voleva.
 
-Chiuse gli occhi e vide il sorriso di James Chen-Rossi, quel sorriso timido e meravigliato che le aveva rivolto quando lei gli aveva parlato.
+Chiuse gli occhi e vide il sorriso di James Valeri, quel sorriso timido e meravigliato che le aveva rivolto quando lei gli aveva parlato.
 
 *Lasciarti cadere, e vedere se qualcuno ti afferra.*
 
@@ -596,10 +414,9 @@ Da qualche parte nel Complesso, un algoritmo registrava che due studenti di sess
 
 Ma Kate non lo sapeva. Stava solo sorridendo nel buio, pensando a un ragazzo con gli occhi scuri che la guardava come nessuno l'aveva mai guardata.
 
+\newpage
 
-ewpage
-
-# Capitolo 5: Frammento — Margarethe
+# Capitolo 3: Frammento — Marta
 
 Ho trovato la registrazione per caso, in mezzo a una pila di file audio corrotti.
 
@@ -607,7 +424,7 @@ Era catalogata come "Testimonianza anonima #2847 — Era della Fusione", uno dei
 
 Ma questa voce l'ho riconosciuta subito.
 
-Era la nonna di Kate. Margarethe Lindqvist.
+Era la nonna di Kate. Marta Ferrante.
 
 ---
 
@@ -695,7 +512,7 @@ Perché quella paura era anche amore.
 
 Ho ascoltato questa testimonianza quattro volte prima di riuscire a spegnere il dispositivo.
 
-Non sapevo che Margarethe avesse parlato per gli archivi. Non sapevo che avesse affidato a una registrazione pensieri così intimi, così vulnerabili. Ascoltandola, mi sembrava di essere seduta accanto a lei in una sera tranquilla, con il tè che si raffreddava e il tempo che sembrava fermarsi.
+Non sapevo che Marta avesse parlato per gli archivi. Non sapevo che avesse affidato a una registrazione pensieri così intimi, così vulnerabili. Ascoltandola, mi sembrava di essere seduta accanto a lei in una sera tranquilla, con il tè che si raffreddava e il tempo che sembrava fermarsi.
 
 Ma una frase mi è rimasta dentro, come una spina nel cuore.
 
@@ -707,7 +524,7 @@ E mi chiedo se non fosse proprio quella paura a rendere il loro amore così fort
 
 ---
 
-C'è un'altra cosa, nella registrazione. Qualcosa che Margarethe dice quasi di sfuggita, verso la fine, prima che l'audio si interrompa.
+C'è un'altra cosa, nella registrazione. Qualcosa che Marta dice quasi di sfuggita, verso la fine, prima che l'audio si interrompa.
 
 Dice: "Ho una nipote. Si chiama Kate. Ha quindici anni."
 
@@ -735,10 +552,9 @@ E io resto qui, con le mani che tremano, a chiedermi che cosa abbiano fatto a qu
 
 E che cosa faranno a James e Kate, se li scoprono.
 
+\newpage
 
-ewpage
-
-# Capitolo 6: Primi Passi
+# Capitolo 4: Primi Passi
 
 Dopo quella sera sulla panchina, James cominciò a inventarsi pretesti.
 
@@ -926,10 +742,9 @@ Da qualche parte nel Complesso, un sensore registrò un'anomalia termica. Due co
 
 Ma loro non lo sapevano. E anche se l'avessero saputo, in quel momento non gliene sarebbe importato nulla.
 
+\newpage
 
-ewpage
-
-# Capitolo 7: Il Libro
+# Capitolo 5: Il Libro
 
 Kate lo leggeva di notte, sotto le coperte, con la luce del tablet abbassata al minimo.
 
@@ -950,7 +765,7 @@ Kate rilesse i versi tre volte. Ogni volta sentiva qualcosa stringersi nel petto
 
 Era questo che provava per James?
 
-Non lo sapeva. Non aveva termini di paragone. L'unico amore che conosceva era quello di suo padre Henrik per i compagni che si era scelto — uomini diversi, che si alternavano con la cadenza delle stagioni artificiali. Erano affettuosi. Si rispettavano. Ma non c'era urgenza in ciò che provavano. Niente che somigliasse a questa febbre, a questa fame.
+Non lo sapeva. Non aveva termini di paragone. L'unico amore che conosceva era quello di suo padre Enrico per i compagni che si era scelto — uomini diversi, che si alternavano con la cadenza delle stagioni artificiali. Erano affettuosi. Si rispettavano. Ma non c'era urgenza in ciò che provavano. Niente che somigliasse a questa febbre, a questa fame.
 
 *Disturbo dell'orientamento riproduttivo*, l'avrebbe chiamato un medico. *Primo stadio di infezione. Curabile, se preso in tempo.*
 
@@ -1089,7 +904,7 @@ Un silenzio. Intorno a loro, la biblioteca continuava a vivere—studenti che su
 
 "E tu vuoi farlo comunque?"
 
-Kate ci pensò. Per un istante, un solo istante, vide tutto quello che avrebbe potuto perdere. L'accesso alle Cure, un futuro eterno, la sicurezza di una vita conforme. Vide suo padre Henrik, la sua delusione. Vide i furgoni bianchi, i centri, i volti svuotati di chi tornava. Vide sua madre—o almeno, l'idea di sua madre—che saliva su un veicolo e spariva per sempre.
+Kate ci pensò. Per un istante, un solo istante, vide tutto quello che avrebbe potuto perdere. L'accesso alle Cure, un futuro eterno, la sicurezza di una vita conforme. Vide suo padre Enrico, la sua delusione. Vide i furgoni bianchi, i centri, i volti svuotati di chi tornava. Vide sua madre—o almeno, l'idea di sua madre—che saliva su un veicolo e spariva per sempre.
 
 Poi guardò James. Guardò i suoi occhi scuri, pieni di paura e di speranza. Guardò le sue mani, che tremavano sul tavolo.
 
@@ -1129,10 +944,9 @@ Il Sistema poteva osservarla. Gli algoritmi potevano analizzarla. I Controllori 
 
 Ma non le avrebbero portato via questo. Non ancora.
 
+\newpage
 
-ewpage
-
-# Capitolo 8: Documenti Interni
+# Capitolo 6: Documenti Interni
 
 Il libro di poesie è qui, davanti a me.
 
@@ -1171,7 +985,7 @@ Ma io so che questo è diverso. Lo so con una certezza che mi spaventa, perché 
 
 Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicologiche. Trascrizioni di interrogatori.
 
-Il fascicolo di James Chen-Rossi è spesso quasi tre centimetri. Quello di Kate Lindqvist poco meno. Vent'anni di sorveglianza, di sospetti mai confermati, di segnalazioni archiviate per insufficienza di prove.
+Il fascicolo di James Valeri è spesso quasi tre centimetri. Quello di Kate Ferrante poco meno. Vent'anni di sorveglianza, di sospetti mai confermati, di segnalazioni archiviate per insufficienza di prove.
 
 Li ho letti tutti. Più volte.
 
@@ -1195,15 +1009,15 @@ Eppure alcune persone sapevano.
 
 Il nonno di James. Enzio. Lui sapeva, fin dall'inizio. Fu lui a dare a James il libro di poesie—questo libro che ora ho tra le mani—e fu lui a coprirli per anni, a mentire per loro, a rischiare la propria posizione per proteggere qualcosa in cui credeva.
 
-La nonna di Kate. Margarethe. Anche lei sapeva. Ho la sua registrazione, archiviata come "Testimonianza anonima #2847". Parla di Kate con una tenerezza che va oltre l'affetto normale tra nonna e nipote. Parla come qualcuno che conosce un segreto e ha scelto di custodirlo.
+La nonna di Kate. Marta. Anche lei sapeva. Ho la sua registrazione, archiviata come "Testimonianza anonima #2847". Parla di Kate con una tenerezza che va oltre l'affetto normale tra nonna e nipote. Parla come qualcuno che conosce un segreto e ha scelto di custodirlo.
 
-E poi c'era il padre di Kate. Henrik.
+E poi c'era il padre di Kate. Enrico.
 
-Di lui i documenti dicono poco. Un uomo conformista, vedovo—anzi, no. Non vedovo. *Separato per intervento del Sistema.* Sua moglie, la madre biologica di Kate, fu classificata come *infetta recidiva* e deportata nelle Zone Abbandonate quando Kate aveva tre anni. Henrik non oppose resistenza. Firmò i documenti di dissociazione. Accettò la custodia esclusiva della figlia.
+Di lui i documenti dicono poco. Un uomo conformista, vedovo—anzi, no. Non vedovo. *Separato per intervento del Sistema.* Sua moglie, la madre biologica di Kate, fu classificata come *infetta recidiva* e deportata nelle Zone Abbandonate quando Kate aveva tre anni. Enrico non oppose resistenza. Firmò i documenti di dissociazione. Accettò la custodia esclusiva della figlia.
 
 Nei rapporti è descritto come "cittadino modello, pienamente riabilitato dopo esposizione a influenze devianti". Cambiò compagni spesso—sempre uomini, sempre approvati—senza mai legarsi davvero. Guardava sua figlia con un misto di amore e incomprensione, come se fosse un oggetto prezioso di cui non capiva l'uso.
 
-Henrik non sapeva di Kate e James. O almeno, così dicono le fonti.
+Enrico non sapeva di Kate e James. O almeno, così dicono le fonti.
 
 Ma io ho i miei dubbi. Un padre che ha perso la moglie per amore eterosessuale... davvero non avrebbe riconosciuto i segni nella propria figlia?
 
@@ -1308,10 +1122,9 @@ Sotto, una sola frase scritta con una grafia diversa—più tremante, più urgen
 
 *Trova noi.*
 
+\newpage
 
-ewpage
-
-# Capitolo 9: Il Primo Contatto
+# Capitolo 7: Il Primo Contatto
 
 Avevano diciotto anni quando James le toccò la mano per la prima volta.
 
@@ -1463,7 +1276,7 @@ Era consapevole del proprio respiro, del proprio battito cardiaco, del sangue ch
 
 Era consapevole di essere vivo.
 
-Per la prima volta in diciotto anni, James Chen-Rossi si sentiva davvero, completamente, dolorosamente vivo.
+Per la prima volta in diciotto anni, James Valeri si sentiva davvero, completamente, dolorosamente vivo.
 
 ---
 
@@ -1561,14 +1374,13 @@ Il Sistema era paziente. Il Sistema poteva aspettare.
 
 Ma il tempo di James e Kate stava già cominciando a scadere.
 
+\newpage
 
-ewpage
-
-# Capitolo 10: La Prima Notte
+# Capitolo 8: La Prima Notte
 
 Kate aveva pianificato tutto.
 
-Suo padre Henrik sarebbe stato fuori per tre giorni—un congresso di bioetica in un altro Distretto, uno di quegli eventi noiosi a cui partecipava per mantenere le apparenze di uomo impegnato. L'appartamento sarebbe stato vuoto. Le telecamere interne erano disattivabili durante l'assenza del capofamiglia—una delle poche concessioni alla privacy che il Sistema ancora permetteva.
+Suo padre Enrico sarebbe stato fuori per tre giorni—un congresso di bioetica in un altro Distretto, uno di quegli eventi noiosi a cui partecipava per mantenere le apparenze di uomo impegnato. L'appartamento sarebbe stato vuoto. Le telecamere interne erano disattivabili durante l'assenza del capofamiglia—una delle poche concessioni alla privacy che il Sistema ancora permetteva.
 
 Aveva disattivato i sensori ambientali fingendo un malfunzionamento. Aveva impostato il suo dispositivo per simulare una presenza normale—movimenti casuali, consumo energetico regolare, niente di sospetto. Aveva persino preparato una storia nel caso qualcuno avesse chiesto: stava studiando, non si sentiva bene, preferiva restare sola.
 
@@ -1922,16 +1734,194 @@ Ma a tre isolati di distanza, ignara di tutto, Kate dormiva ancora con il sorris
 
 E il tempo che le restava, senza saperlo, aveva appena cominciato il suo conto alla rovescia.
 
+\newpage
 
-ewpage
+# Intermezzo
 
-# Capitolo 11: Frammento — Enzio
+## La Voce
+
+Non so esattamente quando abbiano iniziato ad amarsi. So solo quando hanno smesso di nasconderlo a se stessi.
+
+C'è una data nei documenti. Un giorno specifico dell'anno 2098, terzo mese, quando lei aveva diciotto anni e lui ne aveva compiuti 19 da poco. Ma l'amore non funziona così, non inizia in un momento preciso che puoi segnare su un calendario. L'amore è un'infezione lenta, un contagio che si insinua nelle ossa prima che tu possa accorgertene.
+
+Almeno, così lo chiamavano. Infezione. Contagio. I *breeder*, li chiamavano. Gli *infetti*. Egoisti genetici che volevano perpetuare il proprio DNA a scapito del pianeta.
+
+Loro se ne accorsero troppo tardi.
+
+Ho passato anni a ricostruire questa storia. A mettere insieme frammenti: lettere mai spedite, registrazioni audio deteriorate, testimonianze di chi li conosceva. Ho cercato di capire cosa significasse amare quando amare era un crimine. Cosa volesse dire desiderare qualcuno quando il desiderio stesso ti condannava.
+
+Non è una storia semplice. Non ha eroi, non nel senso che intendiamo oggi. Ha solo due persone che hanno fatto una scelta impossibile, e hanno continuato a farla ogni giorno per venticinque anni.
+
+Lei si chiamava Kate. Lui si chiamava James.
+
+Erano Ultimi.
+
+---
+
+Gli Ultimi. L'ultima generazione. I bambini nati subito dopo il Divieto, quando il mondo aveva già deciso che non ce ne sarebbero stati altri. Concepiti prima che la legge entrasse in vigore, partoriti quando era già troppo tardi per fermarli. Marchiati fin dalla nascita come residui di un'era barbara—*dinosauri*, li chiamava la propaganda. Figli di un mondo malato che aveva finalmente trovato la cura.
+
+Cresciuti sapendo di essere tra gli ultimi della loro specie, se così si può dire. Tra gli ultimi a nascere come si nasceva una volta, da un corpo, non da una macchina. Gli ultimi a cui qualcuno avesse detto "figlio" intendendo un legame di sangue, di carne, di verità.
+
+Avevano quindici anni quando si sono visti per la prima volta. Una scuola del Distretto Nord dell'Ex-Europa, aule grigie, uniformi identiche, il ronzio costante dei sistemi di monitoraggio che nessuno notava più. Lei rideva di qualcosa. Lui l'ha guardata.
+
+Nei documenti non c'è traccia di quel momento. Nessuna telecamera ha registrato il battito accelerato del suo cuore, nessun sensore ha catturato il modo in cui lei ha girato la testa e i loro occhi si sono incrociati. Certi momenti sfuggono alla sorveglianza. Forse i più importanti.
+
+Ma le fonti concordano su questo.
+
+Lui tornò a casa quella sera e non dormì. Lei iniziò a cercarlo con lo sguardo nei corridoi, fingendo di non farlo. Per settimane, mesi, si girarono intorno come due pianeti in orbite che non avrebbero dovuto incrociarsi.
+
+E quando finalmente si parlarono, quando le parole ruppero quel silenzio carico di significato, si mise in moto qualcosa che nessuno dei due avrebbe potuto fermare.
+
+---
+
+Studiare la loro storia è stato come disseppellire una tomba. Ogni documento era un osso, ogni registrazione un frammento di qualcosa che un tempo era stato vivo. Ho dovuto ricostruire un corpo a partire da schegge sparse, immaginare la carne dove restavano solo ceneri.
+
+Alcune cose le ho trovate negli archivi. James lavorava lì, prima. Aveva accesso a documenti che non avrebbe dovuto avere, e ne ha conservati alcuni. Lettere d'amore dell'era pre-Divieto. Poesie. Storie. Tutto il materiale proibito che raccontava di un mondo dove uomini e donne potevano amarsi alla luce del sole.
+
+Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggior parte sono conformi, non vogliono parlare. Ricordare è pericoloso. Ma alcuni si sono aperti. Hanno raccontato frammenti, dettagli. Come lei cantava quando pensava che nessuno la sentisse. Come lui sorrideva raramente, ma quando lo faceva era come vedere il sole dopo mesi di pioggia.
+
+---
+
+L'amore, nel mondo di Kate e James, non era romantico. Era geologico. Una forza sotterranea che spostava continenti, che faceva tremare la terra.
+
+Il Sistema ha provato a soffocarlo. Per decenni ha insegnato che l'attrazione tra uomo e donna era un residuo evolutivo, un istinto obsoleto come l'appendice o i denti del giudizio. *L'eterosessualità è una scelta — scegli meglio*, recitavano i manifesti nelle scuole. *L'amore vero non ha bisogno di figli. Fare figli è violenza verso il pianeta.*
+
+I campi di rieducazione erano pieni di chi non aveva scelto meglio. Le retate notturne svuotavano interi quartieri. Gli *infetti* sparivano nelle Zone Abbandonate, e nessuno faceva domande.
+
+*Nessuno si sentiva al sicuro—eppure tutti pensavano che non sarebbe toccato a loro.*
+
+È questa la cosa che mi terrorizza di più, quando studio quei tempi. Non la brutalità del Sistema—quella è facile da condannare. È la normalità con cui tutto è avvenuto. Un giorno ami chi vuoi, il giorno dopo l'amore è una malattia. Un giorno sei normale, il giorno dopo sei un criminale. E tutti quelli intorno a te—i tuoi vicini, i tuoi colleghi, i tuoi amici—annuiscono e dicono: *era ora*.
+
+Ho letto i diari di quel periodo. Persone rispettabili, istruite, che scrivevano senza ironia: *finalmente qualcuno fa qualcosa*. Medici che firmavano le diagnosi di "devianza riproduttiva" con la stessa tranquillità con cui prescrivevano vitamine. Insegnanti che segnalavano i propri studenti e poi tornavano a casa convinti di aver fatto la cosa giusta.
+
+Nessuno di loro si considerava un mostro. Nessuno pensava di stare dalla parte sbagliata. Erano tutti convinti—tutti—che le linee tracciate tra *noi* e *loro* fossero giuste, naturali, inevitabili.
+
+È questo che mi tiene sveglia la notte. Non i carnefici. I carnefici sono pochi. Sono tutti gli altri—quelli che guardano, che annuiscono, che pensano *non mi riguarda*—a rendere possibile l'orrore.
+
+La maggior parte ci ha creduto. O almeno, ha finto di crederci.
+
+Kate e James no. I loro corpi dicevano una cosa e il mondo ne diceva un'altra, e non riuscirono a dare retta al mondo.
+
+---
+
+Ho deciso di scrivere questa storia perché qualcuno deve farlo. Perché tra cento anni, mille, quando saremo tutti immortali e sterili e perfetti, qualcuno dovrà sapere che una volta l'amore esisteva. Non l'amore che conosciamo oggi, asettico, regolamentato, sicuro. L'amore vero. Quello che fa male. Quello che ti distrugge e ti ricostruisce. Quello per cui vale la pena morire.
+
+Kate e James lo sapevano.
+
+E l'hanno dimostrato.
+
+---
+
+## Capitolo 2: Il Primo Documento
+
+Ho trovato la prima lettera per caso.
+
+Stavo esaminando un archivio sequestrato, materiale confiscato durante un raid in un insediamento non autorizzato nelle Zone Abbandonate. Documenti deteriorati, per lo più illeggibili. Testimonianze vuote di esistenze irrilevanti, secondo la classificazione ufficiale.
+
+Ma in mezzo a tutto quel rumore, una voce.
+
+La calligrafia era stretta, inclinata verso destra. Inchiostro vero su carta vera, non una stampa, non un ologramma. Qualcuno aveva scritto quelle parole a mano, tracciando ogni lettera come se il gesto stesso fosse una preghiera.
+
+La data: 2115. L'anno in cui tutto finì.
+
+Non era indirizzata a nessuno, non in modo esplicito. Ma era chiaramente scritta per lei. Per Kate.
+
+---
+
+*K.,*
+
+*Oggi sono vent'anni. Vent'anni da quel corridoio, da quello sguardo. A volte mi chiedo se ti abbia inventata. Se quella ragazza che rideva non fosse altro che un'allucinazione, un sintomo di una malattia che avrei dovuto curare.*
+
+*Ma poi ti vedo, e so che sei reale. Più reale di tutto il resto.*
+
+*Il mondo dice che siamo malati. Che quello che proviamo è una disfunzione, un errore nel codice. Mi hanno insegnato fin da bambino che l'attrazione tra uomo e donna era qualcosa di cui vergognarsi, come un vizio o una debolezza. Ho provato a crederci. Per anni ho provato.*
+
+*Non ci sono riuscito.*
+
+*Perché la malattia non dovrebbe sentirsi così. Non dovrebbe avere il sapore delle tue labbra o il suono della tua risata. Non dovrebbe farmi sentire più vivo di qualsiasi altra cosa al mondo.*
+
+*Se amarti è essere malato, allora non voglio guarire.*
+
+*Vent'anni. Ho perso il conto dei rischi che abbiamo corso, delle volte in cui siamo stati quasi scoperti. Ogni test genetico è una sentenza sospesa. Ogni giorno che passa senza conseguenze è un miracolo.*
+
+*Ma non mi pento di niente.*
+
+*Ti guardo dormire, a volte. Nelle rare notti in cui possiamo stare insieme, quando il mondo per qualche ora dimentica di controllarci. Ti guardo e penso: questo vale tutto. Il modo in cui tieni sempre la mano sinistra sotto il cuscino, come se nascondessi un segreto. I capelli che ti cadono sulla fronte. Il piccolo suono che fai quando stai per svegliarti. Qualsiasi cosa accada, questi momenti valgono tutto.*
+
+*Non te l'ho mai detto abbastanza. So che aspetti di sentirtelo dire e io resto in silenzio, bloccato dalla paura che le parole possano renderlo più reale, più pericoloso. Come se pronunciarle ad alta voce significasse invocare la rovina.*
+
+*Ma oggi voglio scriverlo, almeno. Dove nessuno può sentire.*
+
+*Ti amo.*
+
+*Ti amo come non dovrei, come non posso, come è illegale amare.*
+
+*Ti amo come si amava una volta, prima che l'amore diventasse un crimine.*
+
+*E se domani verranno a prenderci, se tutto finirà, voglio che tu sappia: non cambierei nulla. Ogni secondo con te è valso una vita intera.*
+
+*Sempre,*
+*J.*
+
+---
+
+La lettera non fu mai spedita.
+
+L'ho trovata piegata tra le pagine di un libro, un volume di poesie dell'era pre-Fusione che secondo i registri apparteneva a lui. Forse la scrisse e poi non ebbe il coraggio di consegnarla. Forse intendeva darla di persona, ma l'occasione non si presentò mai. O forse la nascose lì sapendo che un giorno qualcuno l'avrebbe trovata.
+
+Non lo saprò mai.
+
+Ma leggendola ho capito una cosa. Ho capito che questa non era solo una storia di crimine e punizione, di devianza e repressione. Era la storia di qualcosa di più grande, qualcosa che il sistema non poteva contenere per quanto ci provasse.
+
+Due persone che si amavano.
+
+In un mondo che aveva bandito l'amore.
+
+---
+
+È da quella lettera che tutto è iniziato. Ho cercato altre tracce, altri frammenti. Ho ricostruito le loro vite pezzo per pezzo, anno per anno. Ho parlato con chi li conosceva. Ho letto i rapporti ufficiali, quelli che li descrivevano come "soggetti devianti", "casi patologici", "minacce alla stabilità sociale".
+
+E ho trovato qualcosa di diverso.
+
+Ho trovato due persone normali. Non eroi, non martiri. Solo due persone che non sono riuscite a smettere di amarsi, per quanto il mondo glielo chiedesse.
+
+Quella, forse, è la cosa più rivoluzionaria di tutte.
+
+---
+
+Nei documenti che seguono troverete la loro storia dall'inizio. Da quel giorno a scuola, quando lei rideva e lui la guardò. Lungo gli anni del corteggiamento silenzioso, delle parole non dette, dei tocchi rubati. Fino alla decisione che cambiò tutto.
+
+Fino a ciò che venne dopo.
+
+Ma per ora, fermatevi un momento. Guardate questa lettera. Queste parole che James scrisse a mano per Kate, vent'anni dopo essersi innamorato di lei.
+
+*Ti amo come non dovrei, come non posso, come è illegale amare.*
+
+In un mondo dove l'immortalità ha reso tutto eterno, questo è l'unico documento che mi abbia fatto provare una fitta al petto. Un dolore umano. Mortale.
+
+Vero.
+
+---
+
+C'è un'ultima cosa che devo dire, prima di cominciare.
+
+Non so chi sono. Non nel senso filosofico—so il mio nome, la mia storia, il mio ruolo. Ma c'è un vuoto, dentro di me. Un'assenza che non riesco a spiegare. E ogni volta che leggo le parole di James e Kate, quel vuoto brucia.
+
+Come se stessi leggendo la mia stessa storia.
+
+Come se l'avessi dimenticata.
+
+Come se qualcuno me l'avesse fatta dimenticare.
+
+\newpage
+
+# Capitolo 10: Frammento — Enzio
 
 Ho trovato la seconda registrazione nello stesso archivio della prima.
 
 Era catalogata come "Testimonianza storica #4291 — Era dell'Immortalità", una delle migliaia di voci raccolte nei primi anni dopo le Cure per documentare "la transizione verso la nuova era". La maggior parte sono celebrazioni vuote, propaganda vestita da memoria. Ma questa era diversa.
 
-Era la voce di Enzio Chen-Rossi. Il nonno di James.
+Era la voce di Enzio Valeri. Il nonno di James.
 
 ---
 
@@ -2110,10 +2100,9 @@ Chi sono io in questa storia?
 
 E perché, quando chiudo gli occhi, vedo il viso di qualcuno che non ho ancora incontrato?
 
+\newpage
 
-ewpage
-
-# Capitolo 12: Cinque Anni
+# Capitolo 11: Cinque Anni
 
 ## I.
 
@@ -2165,7 +2154,7 @@ Cercavano i breeder. Cercavano gli infetti. Cercavano qualsiasi traccia di "comp
 
 La sala d'attesa era un incubo di silenzio. Pareti bianche, sedie grigie, telecamere in ogni angolo. James si sedeva con il braccio teso per il prelievo e pregava divinità in cui non credeva. Pregava che l'algoritmo non vedesse l'odore di Kate sulla sua pelle. Pregava che la macchina non leggesse i ricordi nei suoi neuroni—le sue labbra, il suo respiro, il calore del suo corpo contro il suo.
 
-"Tutto nella norma, cittadino Chen-Rossi. Può andare."
+"Tutto nella norma, cittadino Valeri. Può andare."
 
 Usciva con le gambe che cedevano. Il sollievo durava pochi secondi. Poi iniziava il conto alla rovescia. Novanta giorni. Ottantanove. Ottantotto.
 
@@ -2199,7 +2188,7 @@ Ma aveva smesso di credere nell'impossibile.
 
 "A cosa stai pensando?"
 
-Kate giaceva accanto a lui nel buio dell'appartamento di lei. Suo padre Henrik era fuori—accadeva sempre più spesso, ultimamente. James si chiedeva se fosse un caso o se Henrik avesse capito qualcosa e si stesse allontanando apposta.
+Kate giaceva accanto a lui nel buio dell'appartamento di lei. Suo padre Enrico era fuori—accadeva sempre più spesso, ultimamente. James si chiedeva se fosse un caso o se Enrico avesse capito qualcosa e si stesse allontanando apposta.
 
 "A niente," mentì.
 
@@ -2351,7 +2340,7 @@ Era una lista. Nomi, date, luoghi. Persone che erano scomparse nelle Zone Abband
 
 In fondo alla lista, due nomi.
 
-*James Chen-Rossi. Kate Lindqvist.*
+*James Valeri. Kate Ferrante.*
 
 E accanto, una nota a mano.
 
@@ -2381,14 +2370,13 @@ E se il Sistema mi scopre... se mi marchiano come infetta, come loro...
 
 Forse ne varrà la pena. Forse alcune risposte valgono qualsiasi prezzo.
 
+\newpage
 
-ewpage
-
-# Capitolo 13: Routine del Segreto
+# Capitolo 12: Routine del Segreto
 
 James aveva ventitré anni e una vita che non gli apparteneva.
 
-Di giorno era l'archivista Chen-Rossi, dipendente modello del Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. Arrivava puntuale ogni mattina, salutava i colleghi con un cenno educato, si sedeva alla sua postazione e iniziava a catalogare. Fascicoli, registrazioni, fotografie ingiallite di un mondo che non esisteva più. Un mondo dove un uomo e una donna potevano tenersi per mano senza rischiare l'esilio.
+Di giorno era l'archivista Valeri, dipendente modello del Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. Arrivava puntuale ogni mattina, salutava i colleghi con un cenno educato, si sedeva alla sua postazione e iniziava a catalogare. Fascicoli, registrazioni, fotografie ingiallite di un mondo che non esisteva più. Un mondo dove un uomo e una donna potevano tenersi per mano senza rischiare l'esilio.
 
 Era bravo nel suo lavoro. Così bravo che i superiori lo avevano promosso due volte in tre anni, dandogli accesso a livelli di archiviazione sempre più profondi. Non sapevano che ogni promozione era un'arma. Non sapevano che il loro archivista modello era un infetto.
 
@@ -2456,7 +2444,7 @@ Il colore abbandonò completamente il viso di Kate. Le sue mani trovarono le sue
 
 "James. Una segnalazione anonima. Un controllo notturno. È così che inizia." La voce le si spezzò. "È così che li prendono. Prima i controlli. Poi gli interrogatori. Poi la rieducazione."
 
-James l'attirò a sé. La strinse così forte che poteva sentire il battito del suo cuore contro il proprio—due cuori terrorizzati che battevano all'unisono.
+James la attirò a sé. La strinse così forte che poteva sentire il battito del suo cuore contro il proprio — due cuori terrorizzati che battevano all'unisono.
 
 "Non ci prenderanno," mormorò contro i suoi capelli. "Non lascerò che ci prendano."
 
@@ -2498,7 +2486,7 @@ James chiuse gli occhi. Cosa stava facendo? Stava cercando di sopravvivere. Di m
 
 "E io ho paura di quello che succederà se non proviamo."
 
-Un silenzio. Fuori, il ronzio del Complesso continuava—il suono dell'aria filtrata, delle luci artificiali, di un mondo che non dormiva mai.
+Un silenzio. Fuori, il ronzio del Complesso continuava — il suono dell'aria filtrata, delle luci artificiali, di un mondo che non dormiva mai.
 
 "Non siamo pronti," disse James.
 
@@ -2542,7 +2530,7 @@ Enzio aprì la porta con un'espressione sorpresa che si trasformò rapidamente i
 
 "James." Il vecchio si fece da parte. "Entra. In fretta."
 
-L'appartamento era come lo ricordava—pieno di libri veri, di oggetti antichi, di polvere. L'odore era quello della carta vecchia, lo stesso odore che James sentiva ogni giorno all'archivio. Ma qui era diverso. Qui era di casa.
+L'appartamento era come lo ricordava — pieno di libri veri, di oggetti antichi, di polvere. L'odore era quello della carta vecchia, lo stesso odore che James sentiva ogni giorno all'archivio. Ma qui era diverso. Qui era di casa.
 
 "Cosa succede?" chiese Enzio, versando del tè da una teiera sbeccata.
 
@@ -2564,7 +2552,7 @@ James non rispose. Non ce n'era bisogno.
 
 "Non so cosa fare."
 
-"Lo sai benissimo." Il vecchio sorrise, un sorriso triste e saggio. "Sai cosa vuoi fare. Hai solo paura di ammetterlo."
+"Lo sai benissimo." Il vecchio sorrise, un sorriso triste e sapiente. "Sai cosa vuoi fare. Hai solo paura di ammetterlo."
 
 James sentì qualcosa stringersi nel petto. "Se ci scoprono—"
 
@@ -2628,16 +2616,15 @@ Dovevano andarsene. Presto. Prima che il Sistema li trovasse.
 
 Prima che fosse troppo tardi.
 
+\newpage
 
-ewpage
-
-# Capitolo 14: La Proposta
+# Capitolo 13: La Proposta
 
 Kate aveva scelto il momento con cura.
 
-Era una di quelle rare sere in cui potevano stare insieme per più di qualche ora—suo padre Henrik era partito per un viaggio di tre giorni, qualcosa legato al suo lavoro che Kate non aveva chiesto di approfondire. Non voleva sapere. Voleva solo il tempo.
+Era una di quelle rare sere in cui potevano stare insieme per più di qualche ora—suo padre Enrico era partito per un viaggio di tre giorni, qualcosa legato al suo lavoro che Kate non aveva chiesto di approfondire. Non voleva sapere. Voleva solo il tempo.
 
-James era arrivato poco dopo il tramonto artificiale, quando le luci del Complesso avevano iniziato il loro lento calo verso la modalità notturna. Si erano seduti sul divano del soggiorno, con le tende tirate e i sensori disattivati, a fingere per qualche ora che quella fosse una serata normale.
+James era arrivato poco dopo il tramonto artificiale, quando le luci del Complesso avevano iniziato il loro lento calo verso la modalità notturna. Si erano seduti sul divano del soggiorno, le tende tirate e i sensori disattivati, a fingere per qualche ora che quella fosse una serata normale.
 
 Ma Kate sapeva che non era una serata normale.
 
@@ -2655,7 +2642,7 @@ Kate inspirò profondamente. Aveva preparato un discorso, aveva scelto le parole
 
 "Voglio un figlio."
 
-Il silenzio che seguì fu così totale che Kate poté sentire il ronzio del sistema di ventilazione, il ticchettio di un orologio nella stanza accanto, il battito del proprio cuore.
+Il silenzio che seguì fu così totale che Kate poté sentire il ronzio del sistema di ventilazione, il ticchettio di un orologio nella stanza accanto, i battiti del proprio cuore.
 
 James non si mosse. Non parlò. Il suo viso era diventato una maschera.
 
@@ -2707,7 +2694,7 @@ James la guardò. I suoi occhi erano lucidi, e Kate si rese conto con una fitta 
 
 Parlarono per ore.
 
-James elencò tutti i rischi. I test genetici trimestrali che avrebbero rilevato la gravidanza. I controlli medici obbligatori. L'impossibilità di partorire in segreto, di crescere un bambino nascosto, di mantenerlo invisibile al Sistema per anni, decenni, per sempre.
+James elencò tutti i rischi. I test genetici trimestrali che avrebbero rilevato la gravidanza. I controlli medici obbligatori. L'impossibilità di partorire in segreto, di crescere un bambino nascosto, di mantenerlo invisibile al Sistema per anni, decenni, per l'eternità.
 
 Kate ascoltò. Non interruppe, non contestò. Lasciò che James sfogasse tutta la sua paura, tutte le sue obiezioni, tutti i motivi per cui era impossibile.
 
@@ -2757,7 +2744,7 @@ James non rispose quella sera.
 
 Disse che aveva bisogno di tempo. Di pensare. Di valutare. Kate non insistette—lo conosceva abbastanza da sapere che forzarlo avrebbe ottenuto l'effetto opposto.
 
-Ma quando lui se ne andò, poco prima dell'alba, Kate vide qualcosa nei suoi occhi che non c'era prima.
+Ma quando lui se ne andò, poco prima dell'alba, Kate vide qualcosa nei suoi occhi che prima non c'era.
 
 Non era paura. Non era rassegnazione.
 
@@ -2771,7 +2758,7 @@ Kate aspettò. Non parlò più dell'argomento, non fece pressioni. Si limitò a 
 
 Ma tutto era cambiato.
 
-Lo vedeva nel modo in cui James la guardava. Nei silenzi che duravano un po' più a lungo del solito. Nelle domande che non faceva ma che pendevano tra loro come nubi cariche di pioggia.
+Lo vedeva nel modo in cui James la guardava. Nei silenzi che duravano un po' più a lungo del solito. Nelle domande che non faceva ma che pendevano tra loro come nuvole cariche di pioggia.
 
 Poi, una sera, lui arrivò con qualcosa in mano.
 
@@ -2783,7 +2770,7 @@ Kate sentì il cuore fermarsi.
 
 "James?"
 
-Lui alzò lo sguardo su di lei. I suoi occhi erano ancora pieni di paura—quella non sarebbe mai scomparsa del tutto. Ma c'era qualcos'altro adesso. Determinazione.
+Lui alzò lo sguardo. I suoi occhi erano ancora pieni di paura — quella non sarebbe mai scomparsa del tutto. Ma c'era qualcos'altro adesso. Determinazione.
 
 "Non posso prometterti che funzionerà," disse. "Non posso prometterti che sopravviveremo. Non posso prometterti niente, tranne questo."
 
@@ -2871,10 +2858,9 @@ Kate aprì gli occhi nel buio.
 
 E se qualcuno sapeva già?
 
+\newpage
 
-ewpage
-
-# Capitolo 15: Il Piano
+# Capitolo 14: Il Piano
 
 Le tre settimane passarono come un sogno febbrile.
 
@@ -2882,7 +2868,7 @@ James non aveva mai lavorato così tanto in vita sua. Di giorno, all'archivio, c
 
 Di notte, invece di dormire, studiava.
 
-I protocolli di sicurezza del Distretto Nord. I turni delle pattuglie. I punti deboli della rete di sorveglianza. Ogni informazione che riusciva a trovare diventava un tassello del mosaico che stava costruendo.
+I protocolli di sicurezza del Distretto Nord. I turni delle pattuglie. I punti deboli della rete di sorveglianza. Ogni informazione diventava un tassello del mosaico che stava costruendo.
 
 Un mosaico che avrebbe dovuto tenerli in vita.
 
@@ -2892,7 +2878,7 @@ Il nonno Enzio lo aiutò senza fare domande.
 
 Non esplicitamente—sarebbe stato troppo pericoloso. Ma in modi sottili, quasi invisibili. Un documento lasciato sulla scrivania per sbaglio. Un commento casuale durante una visita. Un libro prestato con una pagina segnata.
 
-"C'è stata un'epoca," disse Enzio una sera, sfogliando un vecchio volume di storia, "in cui le persone fuggivano. Da guerre, da persecuzioni, da regimi che li volevano morti. Attraversavano deserti, mari, montagne. Molti morivano. Ma alcuni ce la facevano."
+"C'è stata un'epoca," disse Enzio una sera, sfogliando un vecchio volume di storia, "in cui la gente fuggiva. Da guerre, da persecuzioni, da regimi che la volevano morta. Attraversava deserti, mari, montagne. Molti morivano. Ma alcuni ce la facevano."
 
 James guardò il libro. Era un atlante storico, aperto su una mappa dell'Europa pre-Fusione.
 
@@ -2940,7 +2926,7 @@ James si sedette di fronte a lei nella serra idroponica, il viso teso dalla preo
 
 "I test genetici." James estrasse un tablet e glielo mostrò. "Li fanno ogni tre mesi, ma il prossimo giro è tra sei settimane. Se sei incinta, lo troveranno."
 
-Kate studiò i dati. "Quanto tempo ci vuole per rilevare una gravidanza?"
+Kate studiò i dati. "Quanto tempo serve per rilevare una gravidanza?"
 
 "Due settimane dal concepimento. A volte meno."
 
@@ -2954,9 +2940,45 @@ Kate annuì lentamente. Era un problema che aveva previsto, ma sentirlo dire ad 
 
 James esitò. "Non ce n'è una. Non una sicura."
 
-"E una non sicura?"
+Kate si morse il labbro, pensando. Al laboratorio, nel reparto di sintesi alimentare dove lavorava, aveva accesso a sostanze che pochi altri conoscevano. Inibitori sperimentali. Composti progettati per mascherare marcatori biologici negli esperimenti sulle colture cellulari.
 
-"Dobbiamo andarcene prima del test. Prima che possano scoprirci."
+"Forse c'è un modo," disse lentamente. "Al laboratorio abbiamo degli inibitori ormonali. Li usiamo per stabilizzare le colture proteiche, ma... teoricamente potrebbero mascherare i marcatori gravidici nel sangue."
+
+James la fissò. "Mascherarli? Per quanto?"
+
+"Settantadue ore. Forse ottanta se le dosi sono calibrate bene." Kate si strinse le mani. "Il problema è che hanno effetti collaterali. Nausea, vertigini, sbalzi di pressione. Dovrei nascondere anche quelli."
+
+"È pericoloso?"
+
+"Per me, no. Per il bambino..." Kate esitò. "Non lo so. Nessuno ha mai testato questi composti su donne incinte. Non esistono più donne incinte."
+
+Un silenzio pesante calò tra loro.
+
+"Mio nonno ha qualcosa," disse James. "Protocolli dell'era pre-Divieto. Documenti su come le donne mascheravano gravidanze indesiderate quando i test erano meno sofisticati. Forse ci sono informazioni utili."
+
+"E il tracciamento? I chip?"
+
+"Il mio archivio ha zone schermate. Protezione per documenti sensibili - interferiscono con il segnale dei chip. Possiamo incontrarci lì." James le strinse la mano. "Non è perfetto. Niente di tutto questo è perfetto. Ma può funzionare."
+
+Kate pensò a Yuki, la sua collega. L'aveva vista guardarla troppe volte, con quello sguardo attento che non riusciva a decifrare. Sospettava qualcosa? Avrebbe denunciato? O forse - forse - era una di quelle persone che vedevano e tacevano?
+
+"C'è un'altra cosa," disse Kate. "Yuki. La mia collega. Credo che sappia. O almeno che sospetti."
+
+"È un problema?"
+
+"Non lo so ancora. Ma se dovessi chiederle aiuto... per accedere agli inibitori senza lasciare tracce nei registri..."
+
+"Sarebbe un rischio enorme."
+
+"Lo è già tutto quanto."
+
+James la guardò a lungo. Poi annuì.
+
+"Fidati del tuo istinto. Se pensi che Yuki possa aiutare, chiediglielo. Ma con attenzione."
+
+"E se non funziona? Se i mascheramenti non bastano?"
+
+"Allora dobbiamo andarcene prima del test. Prima che possano scoprirci."
 
 Kate sentì il cuore accelerare. "Quanto tempo abbiamo?"
 
@@ -2986,7 +3008,7 @@ Un silenzio. James le prese la mano.
 
 "Allora troveremo un altro modo. Ma non smetteremo di provarci."
 
-Kate sorrise. Era quel sorriso che lui amava e temeva—quello che diceva: sono pronta a tutto.
+Kate sorrise. Era quel sorriso che lui amava e temeva — quello che diceva: sono pronta a tutto.
 
 "Non smetteremo," ripeté lei. "Mai."
 
@@ -3000,7 +3022,7 @@ Kate memorizzò la mappa, il percorso, i segnali di pericolo. Studiò tutto quel
 
 E ogni notte, quando riuscivano a stare insieme, i loro corpi cercavano ciò che le parole non potevano esprimere.
 
-Non era più solo amore. Era ribellione allo stato puro.
+Non era più solo amore. Era ribellione pura.
 
 James la spogliava lentamente, come se ogni centimetro di pelle rivelata fosse una preghiera. Kate rispondeva con fame crescente, le mani che esploravano, le labbra che tracciavano sentieri proibiti lungo il suo collo, il suo petto, più giù.
 
@@ -3020,7 +3042,7 @@ Era l'unica libertà che conoscessero.
 
 Quattro settimane dopo la decisione, Kate fece il test.
 
-Non quello ufficiale—quello l'avrebbe scoperta. Un vecchio test casalingo, di quelli che si usavano prima che tutto diventasse controllato. James l'aveva trovato in un angolo polveroso dell'archivio, tra le reliquie di un mondo che non esisteva più.
+Non quello ufficiale — quello l'avrebbe scoperta. Un vecchio test casalingo, di quelli che si usavano prima che tutto fosse controllato. James l'aveva trovato in un angolo polveroso dell'archivio, tra le reliquie di un mondo che non esisteva più.
 
 Aspettarono insieme il risultato, seduti sul pavimento del bagno di Kate, le mani intrecciate così forte da fare male.
 
@@ -3032,7 +3054,7 @@ Kate guardò James. Lui guardò lei.
 
 "È successo," sussurrò lei.
 
-James non rispose. Per un momento, il suo viso fu illeggibile—paura, gioia, terrore, speranza, tutto mescolato insieme in un'espressione che Kate non aveva mai visto.
+James non rispose. Per un momento, il suo viso fu illeggibile — paura, gioia, terrore, speranza, tutto mescolato in un'espressione che Kate non aveva mai visto.
 
 Poi lui la abbracciò. La strinse così forte che lei faticava a respirare. E contro il suo orecchio, con voce spezzata, disse le parole che non era mai riuscito a pronunciare.
 
@@ -3056,7 +3078,7 @@ Lo estrasse con mani tremanti e lesse il messaggio. Il colore abbandonò il suo 
 
 Lui le mostrò lo schermo.
 
-*"Cittadino Chen-Rossi: convocazione immediata presso l'Ufficio di Conformità, Sezione Indagini. Ore 08:00. La mancata presentazione costituisce reato di primo grado."*
+*"Cittadino Valeri: convocazione immediata presso l'Ufficio di Conformità, Sezione Indagini. Ore 08:00. La mancata presentazione costituisce reato di primo grado."*
 
 Kate sentì il cuore fermarsi.
 
@@ -3066,16 +3088,15 @@ Era un interrogatorio.
 
 Il Sistema li aveva trovati.
 
+\newpage
 
-ewpage
-
-# Capitolo 16: Frammento — I Genitori di James
+# Capitolo 15: Frammento — I Genitori di James
 
 Ho trovato la terza registrazione in un posto che non mi aspettavo.
 
 Non era negli archivi ufficiali, non era nascosta tra documenti sequestrati. Era nel database personale di James—un file criptato che ci ho messo settimane a decifrare.
 
-Era una lettera. Scritta da Lin Chen a suo figlio, datata 2098. L'anno in cui James compì diciotto anni. L'anno in cui la sua relazione con Kate iniziò a diventare qualcosa di più.
+Era una lettera. Scritta da Mei a suo figlio, datata 2098. L'anno in cui James compì diciotto anni. L'anno in cui la sua relazione con Kate iniziò a diventare qualcosa di più.
 
 James non l'ha mai ricevuta. O forse l'ha ricevuta e l'ha conservata senza mai rispondere. Non lo saprò mai.
 
@@ -3186,10 +3207,9 @@ Ma da qualche parte, in quella notte silenziosa, in quell'eco lontana di cui par
 
 Forse una parte di lei l'avrebbe invidiato.
 
+\newpage
 
-ewpage
-
-# Capitolo 17: La Decisione
+# Capitolo 16: La Decisione
 
 Il test era positivo da tre giorni. Tre giorni in cui Kate aveva camminato per il Complesso con una bomba nel ventre.
 
@@ -3317,7 +3337,7 @@ Yuki era già lì, china su uno schermo di analisi. Alzò lo sguardo quando Kate
 
 "Buongiorno."
 
-Uno scambio normale. Ma gli occhi di Yuki indugiarono un secondo di troppo. Kate sentì un brivido lungo la schiena.
+Uno scambio normale. Ma gli occhi di Yuki indugiarono un secondo di troppo. Kate sentì lo stomaco contrarsi.
 
 Le ore passarono lente. Kate lavorava meccanicamente, la mente altrove. Pensava alla fuga, ai preparativi, a tutto ciò che sarebbe potuto andare storto. Pensava a James, nascosto da qualche parte nel labirinto dell'archivio, che radunava le ultime provviste.
 
@@ -3347,7 +3367,7 @@ Un silenzio. Kate cercò le parole, ma non le trovò.
 
 "Perché?"
 
-Yuki esitò. Per un momento, qualcosa passò nei suoi occhi—qualcosa di antico, di doloroso.
+Yuki esitò. Per un istante, qualcosa passò nei suoi occhi—qualcosa di antico, di doloroso.
 
 "Perché una volta ho avuto un'amica," disse. "Una persona che amavo. È sparita, un giorno. Nelle Zone Abbandonate. Non l'ho più rivista."
 
@@ -3361,7 +3381,7 @@ Le due donne si guardarono. Nel silenzio della stanza, Kate sentì qualcosa camb
 
 Kate annuì lentamente.
 
-"Con lui. Con James Chen-Rossi."
+"Con lui. Con James Valeri."
 
 Un altro cenno.
 
@@ -3427,7 +3447,7 @@ Kate annuì. Domani. Ventiquattro ore. Millequattrocentoquaranta minuti.
 
 Domani avrebbero lasciato tutto—le loro vite, le loro famiglie, il mondo che conoscevano. Domani avrebbero attraversato la linea che separava la conformità dalla ribellione.
 
-Non c'era ritorno. Non c'era perdono.
+Non c'era ritorno. Nessun perdono.
 
 Solo la fuga, o la rieducazione.
 
@@ -3437,10 +3457,9 @@ E di una voce metallica che ripeteva, all'infinito:
 
 *"Cittadini infetti identificati. Procedura di contenimento in corso."*
 
+\newpage
 
-ewpage
-
-# Capitolo 18: L'Attesa
+# Capitolo 17: L'Attesa
 
 L'ultimo giorno fu il più lungo della vita di James.
 
@@ -3508,7 +3527,7 @@ James guardò il nonno—gli occhi ancora lucidi nonostante l'età biologica con
 
 Enzio non rispose. Si alzò, andò in un'altra stanza, tornò con qualcosa in mano.
 
-Era il libro di poesie. Lo stesso che aveva dato a James anni prima. Lo stesso che James aveva dato a Kate.
+Era il libro di poesie. Quello che aveva dato a James anni prima, e che James aveva poi dato a Kate.
 
 "L'ho recuperato," disse Enzio. "Kate me l'ha restituito quando avete deciso. Voleva che lo tenessi io, per sicurezza."
 
@@ -3534,7 +3553,7 @@ Non si voltò.
 
 Il pomeriggio passò in un'agonia di attesa.
 
-James camminò per il Complesso un'ultima volta, guardando i corridoi grigi, le luci artificiali, le telecamere che ronzavano nei loro angoli. Tutto ciò che aveva conosciuto per tutta la vita. Tutto ciò che stava per lasciare.
+James camminò per il Complesso un'ultima volta, guardando i corridoi grigi, le luci artificiali, le telecamere che ronzavano nei loro angoli. Tutto ciò che aveva conosciuto per tutta la vita. Tutto quello che stava per lasciare.
 
 Non provava nostalgia. Solo una strana leggerezza, come se stesse già fluttuando via.
 
@@ -3552,7 +3571,7 @@ Entrarono. La porta si chiuse alle loro spalle.
 
 Le ultime ore le passarono in silenzio.
 
-Non c'era bisogno di parlare. Avevano detto tutto quello che c'era da dire. Ora restava solo l'attesa—quella tensione sottile che precedeva l'azione, quel momento sospeso tra il prima e il dopo.
+Non c'era bisogno di parlare. Avevano detto tutto quello che andava detto. Ora restava solo l'attesa—quella tensione sottile che precedeva l'azione, quel momento sospeso tra il prima e il dopo.
 
 Kate era seduta sul divano, le mani intrecciate sulla pancia. James era in piedi alla finestra, guardando le luci del Complesso abbassarsi per il ciclo serale.
 
@@ -3654,10 +3673,9 @@ E poi fecero l'unica cosa che potevano fare.
 
 Corsero.
 
+\newpage
 
-ewpage
-
-# Capitolo 19: Il Segno
+# Capitolo 18: Il Segno
 
 Kate non aveva mai corso così velocemente in vita sua.
 
@@ -3697,7 +3715,7 @@ Camminarono per ore.
 
 Il terreno diventava sempre più difficile—strade rotte, edifici crollati, vegetazione che cresceva selvaggia tra le rovine. Era il paesaggio delle Zone Abbandonate, il mondo che il Sistema aveva lasciato indietro.
 
-Kate era esausta. I piedi le facevano male, i muscoli protestavano, la nausea della gravidanza rendeva ogni passo una sfida. Ma non si fermò. Non poteva fermarsi.
+Kate era esausta. I piedi le facevano male, i muscoli protestavano, la nausea della gravidanza rendeva ogni passo una sfida. Ma continuò ad avanzare. Non poteva permettersi di fermarsi.
 
 "Ancora un po'," disse James, guardando la mappa alla luce di una torcia schermata. "Il primo checkpoint è a due chilometri."
 
@@ -3883,10 +3901,9 @@ Kate strinse la mano di James. La vita nella sua pancia—la vita che avevano cr
 
 Fuori, nel cielo che si stava oscurando, il ronzio dei droni si faceva sempre più vicino.
 
+\newpage
 
-ewpage
-
-# Capitolo 20: La Nuova Vita
+# Capitolo 19: La Nuova Vita
 
 I droni passarono quella notte senza trovarli.
 
@@ -3968,7 +3985,7 @@ James non rispose subito. Guardò la pancia di Kate, dove la loro figlia—Alice
 
 Kate sorrise. Le lacrime le pungevano gli occhi, ma erano lacrime di gioia.
 
-"Alice Chen-Rossi Lindqvist," disse. "La prima di una nuova generazione."
+"Alice Valeri Ferrante," disse. "La prima di una nuova generazione."
 
 ---
 
@@ -4004,7 +4021,7 @@ Dopo tutto quello che avevano passato, dopo tutti i rischi e le paure, era reale
 
 James si sedette sul bordo del letto. Con delicatezza infinita, allungò un dito e lo posò sulla mano della bambina. Le dita minuscole si chiusero intorno al suo, stringendo con una forza sorprendente.
 
-E in quel momento, James Chen-Rossi—che aveva passato tutta la vita ad avere paura, a nascondersi, a sopravvivere—sentì qualcosa che non aveva mai provato prima.
+E in quel momento, James Valeri—che aveva passato tutta la vita ad avere paura, a nascondersi, a sopravvivere—sentì qualcosa che non aveva mai provato prima.
 
 Sentì di essere esattamente dove doveva essere.
 
@@ -4055,14 +4072,13 @@ Qualcuno che portava il suo stesso nome.
 
 Qualcuno che non sapeva ancora di essere sua figlia.
 
+\newpage
 
-ewpage
-
-# Capitolo 21: Documenti Medici
+# Capitolo 20: Documenti Medici
 
 Ho trovato i referti medici in un fascicolo separato.
 
-Non erano negli archivi ufficiali—quelli non contenevano nulla su Alice Chen-Rossi Lindqvist, perché per il Sistema Alice non era mai esistita. Giacevano in un quaderno dalla copertina consunta, vergati a mano con calligrafia incerta. Appunti di chi aveva assistito alla gravidanza senza formazione medica, armato solo di coraggio e disperazione.
+Non erano negli archivi ufficiali—quelli non contenevano nulla su Alice Valeri Ferrante, perché per il Sistema Alice non era mai esistita. Giacevano in un quaderno dalla copertina consunta, vergati a mano con calligrafia incerta. Appunti di chi aveva assistito alla gravidanza senza formazione medica, armato solo di coraggio e disperazione.
 
 Li ho letti trattenendo il respiro.
 
@@ -4175,10 +4191,9 @@ Se quelle parole nel quaderno—*mi chiedo se capirà*—non fossero state scrit
 
 Il quaderno giaceva chiuso sulla scrivania, ma le sue pagine pulsavano come un cuore ancora vivo. E io avevo paura di quello che avrei scoperto continuando a scavare. Paura, e insieme un desiderio bruciante che non riuscivo a soffocare.
 
+\newpage
 
-ewpage
-
-# Capitolo 22: I Primi Anni
+# Capitolo 21: I Primi Anni
 
 Alice imparò a camminare nella primavera del 2107.
 
@@ -4296,7 +4311,7 @@ A cinque anni, Alice chiese dei nonni.
 
 Fu James a rispondere, quella volta. Kate non ce l'avrebbe fatta.
 
-"Hai una bisnonna," disse. "Si chiama Margarethe. È... molto lontana da qui."
+"Hai una bisnonna," disse. "Si chiama Marta. È... molto lontana da qui."
 
 "Perché non viene a trovarci?"
 
@@ -4341,12 +4356,11 @@ Fuori, il vento notturno portava il profumo dei pini. Un gufo lanciò il suo ric
 
 Una fiamma che un giorno avrebbe illuminato il mondo.
 
+\newpage
 
-ewpage
+# Capitolo 22: Frammento — Enrico
 
-# Capitolo 23: Frammento — Henrik
-
-Ho trovato il diario di Henrik Lindqvist per caso.
+Ho trovato il diario di Enrico Ferrante per caso.
 
 Era nascosto in un doppio fondo di una scatola che conteneva vecchie fotografie—immagini sbiadite di persone che non riconosco, paesaggi che non esistono più. Il diario era sottile, le pagine ingiallite, la copertina consumata. Alcune pagine erano strappate, altre macchiate da gocce scure che potevano essere lacrime o sangue.
 
@@ -4436,7 +4450,7 @@ Ma non sono riuscita a fermarmi.
 
 *3 giugno 2103*
 
-*Ho cercato il ragazzo nel database. Si chiama James Chen-Rossi. Figlio di Lin e Marco Chen-Rossi, una coppia conforme. Lavora all'Archivio Centrale. Nessuna segnalazione, nessun problema disciplinare. Apparentemente normale.*
+*Ho cercato il ragazzo nel database. Si chiama James Valeri. Figlio di Lin e Marco Valeri, una coppia conforme. Lavora all'Archivio Centrale. Nessuna segnalazione, nessun problema disciplinare. Apparentemente normale.*
 
 *Ma non è normale, quello che c'è tra lui e Kate. Non può esserlo.*
 
@@ -4571,13 +4585,13 @@ Ma non sono riuscita a fermarmi.
 *Ti amo, figlia mia. Ovunque tu sia.*
 
 *Tuo padre,*
-*Henrik*
+*Enrico*
 
 ---
 
 Ho chiuso il diario e non sono riuscita a smettere di piangere.
 
-Henrik Lindqvist. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che aveva visto sua moglie tornare dalla rieducazione come un guscio vuoto. Che aveva assistito alle retate, ai pestaggi, alle sparizioni. Che aveva trascorso anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva—scomparendo.
+Enrico Ferrante. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che aveva visto sua moglie tornare dalla rieducazione come un guscio vuoto. Che aveva assistito alle retate, ai pestaggi, alle sparizioni. Che aveva trascorso anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva—scomparendo.
 
 Non era un eroe. Non era un ribelle. Era un sopravvissuto—e i sopravvissuti portano cicatrici invisibili che non guariscono mai.
 
@@ -4589,7 +4603,7 @@ E forse, in quel fallimento, c'era una forma di amore che non avevo mai consider
 
 C'è una cosa che mi tormenta.
 
-Henrik scrive: *"A chiunque trovi questo diario."*
+Enrico scrive: *"A chiunque trovi questo diario."*
 
 Non *"A Kate"*. Non *"A chi di dovere"*.
 
@@ -4611,10 +4625,9 @@ Forse le conosco ancora.
 
 E forse—il pensiero mi attraversa come una lama fredda—forse il sangue che scorre nelle mie vene è lo stesso che scorreva nelle sue.
 
+\newpage
 
-ewpage
-
-# Capitolo 24: La Domanda
+# Capitolo 23: La Domanda
 
 Alice aveva sei anni quando fece la domanda che James temeva da sempre.
 
@@ -4784,10 +4797,9 @@ Un giorno, pensò. Un giorno Alice avrebbe letto quelle poesie e avrebbe capito.
 
 E forse—si augurava con tutto se stesso—avrebbe capito perché.
 
+\newpage
 
-ewpage
-
-# Capitolo 25: La Crepa
+# Capitolo 24: La Crepa
 
 La prima vera discussione arrivò quando Alice aveva otto anni.
 
@@ -4925,7 +4937,7 @@ James guardò. Era una margherita, semplice e bianca. Niente di speciale.
 
 Ma per Alice era il più bello del mondo.
 
-E in quel momento, James capì qualcosa.
+E allora James capì qualcosa.
 
 Sua figlia non aveva bisogno di vedere il Complesso, o le montagne, o il mare. Aveva bisogno di essere vista. Di essere ascoltata. Di sapere che le sue domande contavano.
 
@@ -4935,7 +4947,7 @@ E quello, almeno, poteva darglielo.
 
 I mesi successivi furono diversi.
 
-James iniziò a raccontare storie. Storie del Complesso, della vita che aveva vissuto prima. Storie di nonna Margarethe e nonno Enzio, di Henrik e Lin, di tutte le persone che Alice non avrebbe mai conosciuto.
+James iniziò a raccontare storie. Storie del Complesso, della vita che aveva vissuto prima. Storie di nonna Marta e nonno Enzio, di Enrico e Lin, di tutte le persone che Alice non avrebbe mai conosciuto.
 
 Alcune storie erano belle—i primi incontri con Kate, le poesie lette di nascosto, la scoperta che l'amore poteva esistere anche dove era vietato.
 
@@ -4963,7 +4975,7 @@ James sussultò. "Cosa?"
 
 James sentì le lacrime scendere. Non sapeva che Enzio avesse scritto qualcosa nel libro. Non l'aveva mai notato.
 
-Ma Enzio sapeva. Sapeva che un giorno Alice l'avrebbe trovato.
+Ma Enzio lo sapeva. Aveva previsto che un giorno Alice l'avrebbe trovato.
 
 E le aveva lasciato un messaggio.
 
@@ -4973,10 +4985,9 @@ Forse, pensò James, il vecchio archivista aveva ragione.
 
 E forse, un giorno, sua figlia sarebbe stata quella che avrebbe dimostrato a tutti quanto.
 
+\newpage
 
-ewpage
-
-# Capitolo 26: Segnali
+# Capitolo 25: Segnali
 
 Nell'estate del 2115, le cose iniziarono a cambiare.
 
@@ -5040,7 +5051,7 @@ Era stato portato da un fuggiasco appena arrivato—un uomo giovane, spaventato,
 
 Era un pezzo di carta, piegato in quattro. Sopra c'era scritto un nome.
 
-*James Chen-Rossi.*
+*James Valeri.*
 
 James lo prese con mani tremanti. Lo aprì.
 
@@ -5096,7 +5107,7 @@ James rimase in silenzio. Sapeva che esistevano dissidenti dentro il Sistema—l
 
 "Cosa stai proponendo?"
 
-"Non lo so ancora. Ma forse... forse il modo migliore per proteggere Alice non è nasconderla per sempre. Forse è combattere per un mondo in cui non debba nascondersi."
+"Non lo so ancora. Ma forse il modo migliore per proteggere Alice non è nasconderla per sempre. Forse è combattere per un mondo in cui non debba nascondersi."
 
 Era un'idea folle. Pericolosa. Forse impossibile.
 
@@ -5126,10 +5137,9 @@ Stava scrivendo una storia. La loro storia.
 
 E fuori dalla finestra del suo sogno, il mondo stava cambiando.
 
+\newpage
 
-ewpage
-
-# Capitolo 27: La Rete
+# Capitolo 26: La Rete
 
 Marcus li ricevette nella sua stanza quella sera.
 
@@ -5249,7 +5259,7 @@ James la abbracciò, trattenendo le lacrime.
 
 Sua figlia aveva nove anni. E già sapeva chi voleva essere.
 
-Era la cosa più bella e terrificante che avesse mai visto.
+Era la visione più bella e terrificante che avesse mai avuto.
 
 Fuori, le stelle brillavano indifferenti. Ma per la prima volta in anni, James percepiva una luce anche dentro di sé. Una luce fragile, incerta, ma reale.
 
@@ -5257,10 +5267,9 @@ Forse non era troppo tardi. Forse il mondo poteva ancora cambiare.
 
 Forse sua figlia sarebbe stata quella che lo avrebbe cambiato.
 
+\newpage
 
-ewpage
-
-# Capitolo 28: La Scoperta
+# Capitolo 27: La Scoperta
 
 Arrivarono all'alba.
 
@@ -5403,7 +5412,7 @@ Era più piccolo del primo, nascosto in una vallata tra due colline. Ma era inta
 
 Era una donna anziana, con capelli bianchi e occhi che avevano visto troppo.
 
-"Chen-Rossi?" domandò.
+"Valeri?" domandò.
 
 "Sì."
 
@@ -5467,10 +5476,9 @@ Ma era un inizio. E gli inizi, a volte, sono tutto ciò che serve.
 
 Dentro il rifugio, Alice dormiva con il libro stretto al petto. E nei suoi sogni, forse, vedeva un futuro che i suoi genitori non osavano nemmeno immaginare.
 
+\newpage
 
-ewpage
-
-# Capitolo 29: Dieci Anni
+# Capitolo 28: Dieci Anni
 
 *Presente — Alice*
 
@@ -5492,7 +5500,7 @@ Fin dalla prima volta che ho toccato quel libro di poesie e le dita hanno ricono
 
 Non erano intuizioni. Erano ricordi.
 
-Sono Alice Chen-Rossi Lindqvist.
+Sono Alice Valeri Ferrante.
 
 Sono la figlia di James e Kate.
 
@@ -5598,7 +5606,7 @@ E ora, finalmente, posso dirlo.
 
 ---
 
-Sono Alice Chen-Rossi Lindqvist.
+Sono Alice Valeri Ferrante.
 
 Sono nata dall'amore—l'amore vero, quello che il Sistema chiama malattia, devianza, crimine.
 
@@ -5662,10 +5670,9 @@ Aveva ragione, nonno Enzio.
 
 Aveva ragione.
 
+\newpage
 
-ewpage
-
-# Capitolo 30: La Decisione
+# Capitolo 29: La Decisione
 
 *Presente — Alice*
 
@@ -5767,7 +5774,7 @@ Non ho risposto subito. Nella mia mente scorrevano le immagini dei raid che avev
 
 "È troppo pericoloso. Se mi prendono—"
 
-"Tutto è pericoloso. Ma alcune cose valgono il rischio." Mi ha guardata negli occhi. "I tuoi genitori lo sapevano. Hanno visto l'heterophobia crescere anno dopo anno, hanno visto i loro amici sparire, hanno visto il mondo impazzire. E hanno scelto comunque di amarsi."
+"Tutto è pericoloso. Ma alcune cose valgono il rischio." Mi ha guardata negli occhi. "I tuoi genitori lo sapevano. Hanno visto l'heterofobia crescere anno dopo anno, hanno visto i loro amici sparire, hanno visto il mondo impazzire. E hanno scelto comunque di amarsi."
 
 ---
 
@@ -5809,7 +5816,7 @@ Che l'amore non è una malattia da curare.
 
 Che la libertà vale più dell'immortalità promessa.
 
-Che l'heterophobia è stata costruita, mattone dopo mattone, bugia dopo bugia—e può essere smantellata allo stesso modo.
+Che l'heterofobia è stata costruita, mattone dopo mattone, bugia dopo bugia—e può essere smantellata allo stesso modo.
 
 ---
 
@@ -5866,10 +5873,9 @@ Ma posso sperare.
 E la speranza, a volte, è abbastanza.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 31: La Ricerca
+# Capitolo 30: La Ricerca
 
 *Presente — Alice*
 
@@ -5947,11 +5953,11 @@ Mi accorgo di essere osservata prima ancora di vedere qualcuno. È una sensazion
 
 "Informazioni su cosa?"
 
-"Su due persone. James Chen-Rossi e Kate Lindqvist. Sono scomparsi quindici anni fa, in questa zona."
+"Su due persone. James Valeri e Kate Ferrante. Sono scomparsi quindici anni fa, in questa zona."
 
 Un silenzio. Poi una figura emerge dalle rovine—una donna anziana, con capelli bianchi e un fucile in mano. Non punta l'arma verso di me, ma non la abbassa nemmeno.
 
-"Chen-Rossi," ripete. Il nome le indugia sulla lingua come qualcosa di dimenticato. "Li conoscevi?"
+"Valeri," ripete. Il nome le indugia sulla lingua come qualcosa di dimenticato. "Li conoscevi?"
 
 "Erano i miei genitori."
 
@@ -6082,10 +6088,9 @@ Non so se il mondo sarà mai diverso.
 Ma almeno ho visto il tramonto. Almeno ho avuto questo.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 32: L'Ultimo Giorno
+# Capitolo 31: L'Ultimo Giorno
 
 *2122 — Kate*
 
@@ -6284,10 +6289,9 @@ Forse è per questo che quel giorno è così vivido nella mia memoria. Il fiume.
 Ed è stato perfetto.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 33: Il Raid
+# Capitolo 32: Il Raid
 
 *2122 — James*
 
@@ -6560,10 +6564,9 @@ Perché mio padre mi ha amato abbastanza da lasciarmi andare. In un mondo che ch
 È il dono più grande che potesse darmi.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 34: La Corsa
+# Capitolo 33: La Corsa
 
 *2122 — Kate*
 
@@ -6782,10 +6785,9 @@ La strinsi a me. Mia figlia, che aveva perso suo padre quella mattina. Mia figli
 Era una promessa. A lei. A me stessa. A James, ovunque fosse.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 35: La Scelta
+# Capitolo 34: La Scelta
 
 *2122 — Kate*
 
@@ -6957,7 +6959,7 @@ Con un segreto che mi bruciava dentro.
 
 Ho studiato. Ho lavorato. Mi sono fatta strada in quel mondo grigio e perfetto, fingendo di essere una di loro, fingendo di credere nelle loro regole.
 
-Ma dentro, non ho mai smesso di essere Alice Chen-Rossi Lindqvist.
+Ma dentro, non ho mai smesso di essere Alice Valeri Ferrante.
 
 Non ho mai smesso di essere la figlia di James e Kate.
 
@@ -6978,10 +6980,9 @@ L'ha fatto lo stesso.
 Per me.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 36: Il Manoscritto
+# Capitolo 35: Il Manoscritto
 
 *Presente — Alice*
 
@@ -7156,10 +7157,9 @@ Per avermi amato.
 È stato tutto.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 37: Le Zone Orientali
+# Capitolo 36: Le Zone Orientali
 
 *Tre mesi dopo — Alice*
 
@@ -7406,10 +7406,9 @@ Le storie trovano sempre chi le racconta.
 E l'amore trova sempre chi lo difende.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 38: Il Ritorno
+# Capitolo 37: Il Ritorno
 
 *Sei mesi dopo — Alice*
 
@@ -7533,7 +7532,7 @@ Le storie sono semi.
 
 L'ha scritto nonno Enzio, tanto tempo fa. L'ha ripetuto mia madre, il giorno in cui ci siamo separate. E io l'ho visto con i miei occhi—semi piantati nel buio che germogliano verso la luce.
 
-Ogni mente che cambia è un germoglio. Ogni cuore che dubita è una radice che si fa strada nel cemento. Ogni persona che legge queste parole e sente qualcosa muoversi dentro di sé è parte di una foresta che un giorno—ne sono certa—coprirà le macerie dell'heterophobia.
+Ogni mente che cambia è un germoglio. Ogni cuore che dubita è una radice che si fa strada nel cemento. Ogni persona che legge queste parole e sente qualcosa muoversi dentro di sé è parte di una foresta che un giorno—ne sono certa—coprirà le macerie dell'heterofobia.
 
 L'amore non si può sradicare. Non del tutto. Non per sempre.
 
@@ -7547,7 +7546,7 @@ Nel mondo che un giorno, forse, cambierà.
 
 ---
 
-Mi chiamo Alice Chen-Rossi Lindqvist.
+Mi chiamo Alice Valeri Ferrante.
 
 Sono la figlia di James e Kate.
 
@@ -7556,10 +7555,9 @@ Sono nata dall'amore—l'amore vero, quello che il Sistema chiama malattia.
 E questa è la nostra storia.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 39: Epilogo
+# Capitolo 38: Epilogo
 
 *Molti anni dopo*
 
@@ -7710,10 +7708,9 @@ Vive in voi che leggete. In voi che dubitate. In voi che, forse, un giorno amere
 Per sempre.
 
 
+\newpage
 
-ewpage
-
-# Capitolo 40: Fine
+# Capitolo 39: Fine
 
 *L'ultima pagina*
 
@@ -7741,7 +7738,7 @@ Passatelo a qualcuno che ne ha bisogno. A qualcuno che dubita. A qualcuno che, n
 
 I miei genitori si sono amati per vent'anni.
 
-Vent'anni di segreti, di rischi, di paura. Vent'anni di mani che si cercano nel buio, di sguardi che dicono tutto, di cuori che battono all'unisono.
+Vent'anni di segreti, di rischi, di paura. Di mani che si cercano nel buio, di sguardi che dicono tutto, di cuori che battono all'unisono.
 
 Non è stata una vita facile. Non è stata una vita lunga.
 
@@ -7807,7 +7804,7 @@ E a voi che leggete—a voi che siete arrivati fin qui, attraverso tutte queste 
 
 Non abbiate paura.
 
-Non abbiate paura di amare. Non abbiate paura di rischiare. Non abbiate paura di essere vivi.
+Non abbiate paura di amare. Di rischiare. Di essere vivi.
 
 Il mondo cercherà di dirvi cosa è giusto e cosa è sbagliato. Cercherà di controllarvi, di limitarvi, di farvi diventare quello che vuole lui.
 
@@ -7838,27 +7835,4 @@ E noi—tutti noi che abbiamo amato contro le regole, che abbiamo sperato contro
 ---
 
 **FINE**
-
-
-\newpage
-
----
-
-## Nota dell'Autore
-
-*Heterophobia* è nato da una domanda semplice: cosa succederebbe se le persecuzioni che abbiamo inflitto nel corso della storia venissero rivolte contro chi oggi si considera "normale"?
-
-Non è un romanzo contro nessuno. È un romanzo *per* tutti coloro che hanno amato quando non avrebbero dovuto, che hanno sperato quando non c'era speranza, che hanno scelto di essere umani in un mondo che chiedeva loro di essere altro.
-
-Le linee che tracciano i confini tra "noi" e "loro" le disegniamo noi. E possiamo cancellarle.
-
----
-
-*Questo romanzo è dedicato a chi ha il coraggio di amare.*
-
----
-
-© 2026 Rocco Milluzzo
-
-Tutti i diritti riservati.
 

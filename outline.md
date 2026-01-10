@@ -52,18 +52,18 @@ Dettagli: aula grigia, uniformi identiche, il suono della sua risata.
 
 Lo stesso momento dal punto di vista di Kate. Lei nota James che la guarda. Pensa sia strano. Poi inizia a cercarlo con gli occhi.
 
-Introduce il suo mondo: madre morta, padre assente, nonna Margarethe che le racconta del "prima".
+Introduce il suo mondo: madre morta, padre assente, nonna Marta che le racconta del "prima".
 
 **Scena chiave:** Kate chiede alla nonna: "Cos'era l'amore, prima?"
 
 ---
 
-### Capitolo 5: Frammento - Margarethe
-**POV:** Alice (narratrice) + flashback di Margarethe
+### Capitolo 5: Frammento - Marta
+**POV:** Alice (narratrice) + flashback di Marta
 **Tempo:** Presente + 2050 (Era della Fusione)
 **Parole:** ~2,000
 
-Alice ha trovato una registrazione di Margarethe. La vecchia racconta di quando le nazioni sono scomparse. Di come "tutto è cambiato lentamente, poi tutto insieme."
+Alice ha trovato una registrazione di Marta. La vecchia racconta di quando le nazioni sono scomparse. Di come "tutto è cambiato lentamente, poi tutto insieme."
 
 **Funzione:** Primo flashback generazionale. Worldbuilding organico.
 
@@ -192,7 +192,7 @@ Il nonno Enzio lo aiuta senza fare domande.
 **Tempo:** Presente + 2078 (anno del Divieto)
 **Parole:** ~2,000
 
-Alice ha trovato una lettera di Lin Chen. Racconta il giorno del Divieto. Come l'hanno accettato come "necessario".
+Alice ha trovato una lettera di Mei. Racconta il giorno del Divieto. Come l'hanno accettato come "necessario".
 
 Mostra l'indottrinamento sincero. I genitori di James non sono cattivi - sono convinti.
 
@@ -258,7 +258,7 @@ Seconda crepa: "Il battito del bambino era irregolare quella notte..."
 **Tempo:** 2105-2106 (flashback)
 **Parole:** ~3,000
 
-La gravidanza procede. Kate vive reclusa. James porta tutto. Nonna Margarethe li aiuta senza chiedere.
+La gravidanza procede. Kate vive reclusa. James porta tutto. Nonna Marta li aiuta senza chiedere.
 
 **Scena chiave:** Kate sente Alice muoversi. Piange. James, per la prima volta, sorride.
 
@@ -269,7 +269,7 @@ La gravidanza procede. Kate vive reclusa. James porta tutto. Nonna Margarethe li
 **Tempo:** 2106 (flashback)
 **Parole:** ~3,000
 
-Alice nasce in segreto. Nonna Margarethe fa da levatrice.
+Alice nasce in segreto. Nonna Marta fa da levatrice.
 
 James tiene sua figlia per la prima volta. Non sa cosa dire. Non piange. Ma qualcosa in lui si rompe e si ricompone.
 
@@ -288,8 +288,8 @@ Il "gioco del silenzio" - Alice impara a non fare rumore quando sentono passi.
 
 ---
 
-### Capitolo 25: Frammento - Henrik
-**POV:** Alice (narratrice) + scena con Henrik
+### Capitolo 25: Frammento - Enrico
+**POV:** Alice (narratrice) + scena con Enrico
 **Tempo:** Presente + 2108
 **Parole:** ~2,000
 

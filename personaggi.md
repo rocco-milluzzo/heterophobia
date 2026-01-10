@@ -4,7 +4,7 @@
 
 ## Protagonisti
 
-### James Chen-Rossi
+### James Valeri
 
 **Dati base:**
 - Nato: 2080 (Ultimo)
@@ -40,7 +40,7 @@
 
 ---
 
-### Kate Lindqvist
+### Kate Ferrante
 
 **Dati base:**
 - Nata: 2080 (Ultima)
@@ -76,7 +76,7 @@
 
 ---
 
-### Alice Chen-Rossi Lindqvist
+### Alice Valeri Ferrante
 
 **Dati base:**
 - Nata: 2107 (illegale, non registrata, nelle Zone Abbandonate)
@@ -109,13 +109,13 @@
 
 ### Generazione Genitori (nati ~2050)
 
-**Henrik Lindqvist** (padre di Kate)
+**Enrico Ferrante** (padre di Kate)
 - Vedovo, la moglie morì prima che le Cure fossero perfezionate
 - Perfettamente conforme per sopravvivenza, non convinzione
 - Sa della relazione di Kate ma finge di non vedere
 - Funzione: Mostra il costo del silenzio complice
 
-**Lin Chen e Marco Rossi** (genitori di James)
+**Mei e Marco Valeri** (genitori di James)
 - Coppia omosessuale "modello"
 - James è figlio da ectogenesi pre-Divieto
 - Genuinamente credono nel Sistema
@@ -125,7 +125,7 @@
 
 ### Generazione Nonni (nati ~2030)
 
-**Nonna Margarethe** (nonna materna di Kate, madre di Henrik)
+**Nonna Marta** (nonna materna di Kate, madre di Enrico)
 - 75 anni quando arrivano le Cure, ora biologicamente ~45
 - Ricorda il mondo "prima"
 - Unica che parla apertamente con Kate della "vecchia normalità"
@@ -147,10 +147,15 @@
 - Rappresenta i "complici silenziosi" del sistema
 - Potenziale traditrice o salvatrice?
 
-**Il Controllore** (senza nome)
-- Funzionario che gestisce i test genetici del distretto
-- Non malvagio, solo "fa il suo lavoro"
-- Banalità del male incarnata
+**Jensen** (Il Controllore)
+- Controllore del Sistema, responsabile delle operazioni di "bonifica"
+- Circa 30 anni, alto, occhi grigi, cicatrice sottile sul sopracciglio sinistro
+- Background tragico: figlio di "infetti", cresciuto nelle Zone per 8 anni prima della cattura
+- Completamente rieducato - non ricorda i genitori, ma li odia per averlo "contagiato"
+- Non malvagio per sadismo, ma per convinzione: crede sinceramente di salvare le persone
+- Guarda le famiglie con invidia nascosta - vede ciò che gli è stato rubato
+- Funzione: Mostra come le vittime diventano carnefici; la rieducazione funziona
+- Incarna la "banalità del male" con un volto umano e una storia
 
 **Mira**
 - Ribelle delle Zone Abbandonate
@@ -170,7 +175,7 @@ GENERAZIONE BISNONNI (nati ~2020)
      │
      ▼
 GENERAZIONE NONNI (nati ~2030-2040)
-├── Margarethe ─── Henrik ─┬─ [moglie morta]
+├── Marta ─── Enrico ─┬─ [moglie morta]
 │                          │
 │                          Kate (2080)
 │                                    ╲
@@ -178,7 +183,7 @@ GENERAZIONE NONNI (nati ~2030-2040)
 │                                      Alice (2107)
 │                                     ╱
 │                                    ╱
-└── Enzio ─── Lin Chen + Marco Rossi
+└── Enzio ─── Mei + Marco Valeri
                     │
                  James (2080)
 ```
