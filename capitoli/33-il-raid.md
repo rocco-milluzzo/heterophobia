@@ -10,7 +10,7 @@ Spalancai gli occhi. La stanza era ancora buia, ma attraverso le crepe nel soffi
 
 Gli altoparlanti dei droni gracchiarono. Una voce metallica riempì l'aria:
 
-"OPERAZIONE DI BONIFICA IN CORSO. TUTTI GLI INFETTI SONO TENUTI A CONSEGNARSI IMMEDIATAMENTE. LA RESISTENZA VERRA PUNITA CON LA FORZA."
+"OPERAZIONE DI BONIFICA IN CORSO. TUTTI GLI INFETTI SONO TENUTI A CONSEGNARSI IMMEDIATAMENTE. LA RESISTENZA VERRÀ PUNITA CON LA FORZA."
 
 *Infetti.* Così ci chiamavano. Come se fossimo una malattia da estirpare.
 
@@ -46,7 +46,7 @@ Era Marcus.
 
 "Ci hanno trovati," disse. I suoi occhi erano duri, il suo corpo teso come una corda di violino. "Droni di ricognizione. I veicoli terrestri saranno qui tra un'ora, forse meno."
 
-Da fuori arrivò un altro annuncio: "BREEDER, ARRENDETEVI. IL VOSTRO ESPERIMENTO GENETICO E TERMINATO. LA SOCIETA NON HA PIU BISOGNO DI VOI."
+Da fuori arrivò un altro annuncio: "BREEDER, ARRENDETEVI. IL VOSTRO ESPERIMENTO GENETICO È TERMINATO. LA SOCIETÀ NON HA PIÙ BISOGNO DI VOI."
 
 *Breeder.* Riproduttori. L'insulto che ci avevano appiccicato addosso come un marchio. Come se il desiderio di avere figli, di continuare la specie, fosse una perversione.
 
@@ -68,7 +68,7 @@ Uscimmo dal rifugio mentre il cielo iniziava a schiarirsi.
 
 L'aria era fredda, umida di rugiada. I droni erano ancora sopra di noi. Li vedevo muoversi tra le nuvole, piccole luci che danzavano come lucciole maligne. I loro altoparlanti continuavano a gracchiare:
 
-"CONSEGNATE I BAMBINI. I SOGGETTI MINORI POSSONO ANCORA ESSERE RECUPERATI ALLA NORMALITA. I SOGGETTI ADULTI SARANNO PROCESSATI PER CRIMINI CONTRO LA SOCIETA."
+"CONSEGNATE I BAMBINI. I SOGGETTI MINORI POSSONO ANCORA ESSERE RECUPERATI ALLA NORMALITÀ. I SOGGETTI ADULTI SARANNO PROCESSATI PER CRIMINI CONTRO LA SOCIETÀ."
 
 *Recuperati alla normalità.* Come se nostra figlia fosse un errore da correggere. Come se l'esistenza stessa di Alice fosse un crimine.
 
@@ -176,7 +176,35 @@ Ma non andò così.
 
 I veicoli si fermarono. Le portiere si aprirono. Quattro figure in uniforme ne emersero. Controllori, con i loro volti privi di espressione e le loro armi puntate.
 
-Uno di loro si avvicinò. Era giovane, forse trent'anni. Nei suoi occhi non c'era odio, solo un vuoto addestrato, una certezza assoluta nella propria missione.
+Uno di loro si avvicinò. Era giovane, forse trent'anni. Alto, con occhi grigi e una cicatrice sottile che gli attraversava il sopracciglio sinistro. Sulla sua uniforme, il nome: JENSEN.
+
+"Soggetto maschile identificato," disse nella sua radio. La voce era piatta, professionale. "Età stimata quarant'anni. Probabile deviante primario."
+
+Mi guardò come si guarda un animale malato.
+
+"Sai qual è la cosa più triste di voi breeder?" disse, fermandosi a pochi passi da me. "Non è che vi riproducete come bestie. È che siete convinti di fare qualcosa di nobile."
+
+Non risposi.
+
+"I miei genitori erano come te." Jensen inclinò la testa, studiandomi. "Due infetti che si sono innamorati. Mi hanno cresciuto nelle Zone per otto anni prima che li trovassero."
+
+Qualcosa nel mio petto si strinse.
+
+"Sai cosa ricordo di loro? Niente. Assolutamente niente." Si toccò la tempia. "La rieducazione è molto efficace. A volte penso che forse li amavo. Ma è come cercare di ricordare un sogno—più ci provi, più svanisce."
+
+"E questo ti sembra giusto?" Le parole mi uscirono prima che potessi fermarle. "Ti hanno rubato i ricordi dei tuoi genitori e tu—"
+
+"Mi hanno *salvato*." Il suo tono si incrinò per un istante, poi tornò piatto. "Mi hanno liberato dalla malattia che mi avevano trasmesso. Ora servo qualcosa di più grande di un'ossessione biologica."
+
+Capii in quel momento che non stavo parlando con un mostro. Stavo parlando con una vittima—una vittima che aveva imparato ad amare le proprie catene.
+
+"Jensen." Un altro Controllore si avvicinò. "Le altre due sono quasi fuori portata. Dobbiamo muoverci."
+
+Jensen non distolse lo sguardo da me.
+
+"Portale qui," ordinò. "Vive. Soprattutto la minore. Voglio che lui guardi quando la prenderemo per la rieducazione."
+
+In quel momento vidi qualcosa nei suoi occhi. Non odio, non vuoto. Qualcosa di peggio: invidia. Jensen guardava la mia famiglia fuggire e vedeva tutto ciò che gli era stato rubato. E voleva rubarlo anche a noi.
 
 "Sai cosa mi disgusta di voi?" disse, fermandosi a un metro da me. "Non è quello che fate. È che pensate di essere speciali. Pensate che il vostro istinto riproduttivo sia amore." Sputò ai miei piedi. "È solo biologia. Chimica. Un residuo evolutivo che non vi serve più."
 

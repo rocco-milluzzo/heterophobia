@@ -68,9 +68,51 @@ James studiò la mappa. Le sue dita tracciavano il percorso rosso, calcolando di
 
 "Non saremo mai pronti. Ma se aspettiamo, potremmo non avere un'altra occasione."
 
-Kate guardò la mappa, poi James, poi le proprie mani posate sulla pancia. Tre giorni. Settantadue ore per dire addio a tutto ciò che conosceva.
+"E se non ce la facciamo?" Le parole uscirono prima che potesse fermarle. "Se ci prendono? Se—"
 
-"Va bene," disse. "Tre giorni."
+"Kate."
+
+"No, ascoltami." Si alzò, allontanandosi da lui. "Finora abbiamo rischiato solo noi stessi. Ma adesso..." Si toccò la pancia. "Adesso non siamo più solo noi due."
+
+James la guardò. I suoi occhi erano feriti. "Pensi che non lo sappia?"
+
+"Penso che tu stia correndo troppo. Che vuoi scappare subito perché hai paura di perdere il controllo."
+
+"Ho paura di perderti." La sua voce si spezzò. "Ho paura di perdere entrambe. Ogni giorno che passa è un giorno in più in cui potrebbero scoprirci."
+
+"E ogni giorno che passiamo a preparare è un giorno in più di possibilità di farcela."
+
+Il silenzio tra loro era denso, carico di tutto ciò che non riuscivano a dire. Per la prima volta da quando si conoscevano, Kate vide James come un estraneo. Un uomo terrorizzato che prendeva decisioni per tutti e tre.
+
+"Non hai il diritto," disse piano. "Non hai il diritto di decidere da solo."
+
+"E tu non hai il diritto di chiedermi di restare qui a guardare mentre—"
+
+"Mentre cosa? Mentre *io* decido del *mio* corpo? Della *mia* vita?"
+
+James si passò una mano sul viso. Quando parlò di nuovo, la sua voce era rotta.
+
+"Ho visto cosa fanno ai bambini nati illegalmente, Kate. Li ho visto nei file. Li portano via alla nascita. Li... li *smaltiscono* come rifiuti medici. E le madri vengono sterilizzate e rieducate fino a quando non ricordano più nemmeno di aver partorito."
+
+Kate sentì il sangue gelarsi.
+
+"Non te l'ho mai detto perché non volevo che avessi paura," continuò James. "Ma questa è la realtà. Questo è quello che ci aspetta se restiamo."
+
+Per un lungo momento, nessuno dei due parlò. Il ronzio della serra riempiva il silenzio.
+
+Poi Kate si avvicinò. Gli prese il viso tra le mani.
+
+"Avevi ragione a non dirmelo," disse. "E io avevo ragione a chiederti tempo. Possiamo avere ragione entrambi e sbagliare comunque. È questo che significa amarsi in questo mondo di merda."
+
+James chiuse gli occhi. Una lacrima gli scivolò sulla guancia.
+
+"Non voglio perderti."
+
+"Non mi perderai. Ma devi smettere di proteggermi dalle decisioni che dobbiamo prendere insieme."
+
+Lui annuì. "Tre giorni. Ma se hai bisogno di più tempo—"
+
+"Tre giorni va bene." Kate guardò la mappa, poi James, poi le proprie mani posate sulla pancia. "Partiamo tra tre giorni. Insieme. Qualunque cosa succeda."
 
 ---
 

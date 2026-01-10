@@ -34,19 +34,21 @@ I miei genitori non erano mostri. Non erano criminali. Erano due persone che si 
 
 E il mondo li ha perseguitati per questo.
 
-Penso spesso a chi legge queste parole adesso—nel 2025, nel 2030, nel 2100. Vi sembra impossibile, vero? Vi sembra barbaro, primitivo, incomprensibile. Come potevano perseguitare qualcuno per chi amava?
+Una volta ho chiesto a mia madre: "Come hanno potuto? Come hanno potuto persone normali trasformarsi in carnefici?"
 
-Ma guardatevi intorno. Chi sono gli *infetti* del vostro tempo? Chi sono quelli che il vostro mondo considera *sbagliati*, *malati*, *pericolosi*? Chi è il capro espiatorio di questa generazione?
+Lei mi ha guardato a lungo prima di rispondere.
 
-Perché ce n'è sempre uno. C'è sempre qualcuno che non merita gli stessi diritti degli altri. Qualcuno che va *corretto*, *controllato*, *eliminato*. E la maggior parte delle persone—brave persone, persone normali, persone come voi—annuisce e dice: *è diverso. Loro se lo meritano. Noi non siamo come gli odiatori del passato.*
+"Non si sono trasformate, Alice. Erano sempre state così. Avevano solo bisogno di un permesso."
 
-Ma lo siete. Lo siamo tutti. Finché accettiamo che qualcuno sia meno umano di noi.
+Ho pensato molto a quelle parole. Ho pensato ai vicini dei miei nonni, che li salutavano ogni mattina e poi una notte hanno chiamato i Controllori. Ho pensato agli insegnanti che dicevano *è per il vostro bene* mentre ci insegnavano a odiare. Ho pensato a tutte le persone che si credevano buone, che erano convinte di stare dalla parte giusta.
 
-Nessuno è mai al sicuro. La storia non finisce. E le linee che dividono i *normali* dai *devianti* possono spostarsi in una notte.
+Erano convinte che gli *infetti* fossero diversi da loro. Che meritassero quello che gli succedeva. Che il mondo sarebbe stato migliore senza di loro.
 
-Oggi sei dalla parte giusta.
+È sempre così che comincia. Con la certezza di essere nel giusto. Con la convinzione che *loro* non sono come *noi*.
 
-Domani potresti svegliarti come *infetto*.
+Ho vissuto abbastanza per vedere quelle certezze sgretolarsi. Ma ho anche vissuto abbastanza per sapere che ne nasceranno altre. Sempre. In ogni epoca. Con nomi diversi e vittime diverse, ma con la stessa logica: qualcuno deve essere escluso perché gli altri si sentano al sicuro.
+
+E la verità che ho imparato è questa: nessuno è mai al sicuro. Non davvero. Le linee che dividono i *normali* dai *devianti* le tracciamo noi—e possiamo cancellarle in qualsiasi momento. O spostarle. E ritrovarci dall'altra parte.
 
 ---
 
