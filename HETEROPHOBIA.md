@@ -1,35 +1,12 @@
----
-title: "HETEROPHOBIA"
-author: "Rocco Milluzzo"
-date: "2026"
-lang: it
-documentclass: book
-fontsize: 12pt
-geometry: "a5paper, margin=2cm"
-linestretch: 1.5
-toc: true
-toc-depth: 1
----
-
-\newpage
-
 # HETEROPHOBIA
 
-## Un romanzo di Rocco Milluzzo
+*Tales from Aeternitas: Volume I*
 
-\vspace{2cm}
+---
 
-*Ex-Europa, 2105*
+Un romanzo di Rocco Milluzzo
 
-*In un mondo dove l'immortalita ha reso obsoleta la riproduzione, l'eterosessualita e stata dichiarata illegale. James e Kate si innamorano lo stesso.*
-
-*Questa e la loro storia. Raccontata da chi non sarebbe mai dovuta esistere.*
-
-\newpage
-
-
-
-ewpage
+---
 
 # Capitolo 1: Quindici Anni
 
@@ -155,6 +132,10 @@ Fino a oggi.
 
 Chiuse gli occhi e cercò di dormire, ma vedeva solo lei. La curva del suo collo. Il movimento delle sue labbra quando rideva. La luce nei suoi occhi quando aveva risposto al professore.
 
+Di solito i suoi sogni erano pieni di slogan. *La conformità è libertà. L'immortalità è amore. Il Sistema protegge.* SomniLearn, lo chiamavano—educazione notturna, per rinforzare i valori corretti. Tutti lo facevano. Tutti si svegliavano con frasi nella testa che non ricordavano di aver pensato.
+
+Ma stanotte i sogni erano diversi.
+
 Ferrante.
 
 Non poteva cercarla nel database scolastico. Le ricerche erano monitorate, e una ricerca su una compagna di classe avrebbe fatto scattare un alert. Niente di grave, probabilmente solo una nota nel suo file. Ma bastava.
@@ -204,7 +185,8 @@ James non lo sapeva. Non poteva saperlo.
 Ma il Sistema aveva già iniziato a guardare.
 
 
-ewpage
+---
+
 
 # Capitolo 2: Il Gioco
 
@@ -445,7 +427,8 @@ Da qualche parte nel Complesso, un algoritmo registrava che due studenti di sess
 Ma Kate non lo sapeva. Stava solo sorridendo nel buio, pensando a un ragazzo con gli occhi scuri che la guardava come nessuno l'aveva mai guardata.
 
 
-ewpage
+---
+
 
 # Capitolo 3: Frammento — Marta
 
@@ -584,7 +567,8 @@ E io resto qui, con le mani che tremano, a chiedermi che cosa abbiano fatto a qu
 E che cosa faranno a James e Kate, se li scoprono.
 
 
-ewpage
+---
+
 
 # Capitolo 4: Primi Passi
 
@@ -775,7 +759,8 @@ Da qualche parte nel Complesso, un sensore registrò un'anomalia termica. Due co
 Ma loro non lo sapevano. E anche se l'avessero saputo, in quel momento non gliene sarebbe importato nulla.
 
 
-ewpage
+---
+
 
 # Capitolo 5: Il Libro
 
@@ -978,7 +963,8 @@ Il Sistema poteva osservarla. Gli algoritmi potevano analizzarla. I Controllori 
 Ma non le avrebbero portato via questo. Non ancora.
 
 
-ewpage
+---
+
 
 # Capitolo 6: Documenti Interni
 
@@ -1157,7 +1143,8 @@ Sotto, una sola frase scritta con una grafia diversa—più tremante, più urgen
 *Trova noi.*
 
 
-ewpage
+---
+
 
 # Capitolo 7: Il Primo Contatto
 
@@ -1410,7 +1397,8 @@ Il Sistema era paziente. Il Sistema poteva aspettare.
 Ma il tempo di James e Kate stava già cominciando a scadere.
 
 
-ewpage
+---
+
 
 # Capitolo 8: La Prima Notte
 
@@ -1771,7 +1759,8 @@ Ma a tre isolati di distanza, ignara di tutto, Kate dormiva ancora con il sorris
 E il tempo che le restava, senza saperlo, aveva appena cominciato il suo conto alla rovescia.
 
 
-ewpage
+---
+
 
 # Intermezzo
 
@@ -1951,7 +1940,8 @@ Come se l'avessi dimenticata.
 Come se qualcuno me l'avesse fatta dimenticare.
 
 
-ewpage
+---
+
 
 # Capitolo 10: Frammento — Enzio
 
@@ -2139,7 +2129,8 @@ Chi sono io in questa storia?
 E perché, quando chiudo gli occhi, vedo il viso di qualcuno che non ho ancora incontrato?
 
 
-ewpage
+---
+
 
 # Capitolo 11: Cinque Anni
 
@@ -2234,6 +2225,10 @@ Kate giaceva accanto a lui nel buio dell'appartamento di lei. Suo padre Enrico e
 "Bugiardo." Kate si sollevò su un gomito e lo guardò. Anche nel buio, lui poteva vedere i suoi occhi brillare. "Stai pensando al futuro."
 
 James non rispose. Sì, stava pensando al futuro. Al fatto che non ne avevano uno. Che potevano continuare così per anni, decenni, secoli—l'eternità era lunga—ma non avrebbero mai avuto quello che volevano davvero.
+
+A volte si chiedeva se quello che provava fosse davvero suo. Il SomniLearn lavorava ogni notte, impiantando frasi, modificando associazioni, riscrivendo i sogni. *La conformità è pace. L'amore vero non riproduce. Il desiderio eterosessuale è disfunzione.* Come poteva essere certo che i suoi sentimenti per Kate fossero genuini e non un residuo sfuggito al condizionamento? Come poteva sapere dove finiva James e dove iniziava ciò che il Sistema aveva scritto in lui?
+
+Ma quando la guardava—quando sentiva il suo respiro nel buio, quando le loro mani si trovavano—ogni dubbio svaniva. Questo non poteva essere artificiale. Questo era troppo doloroso, troppo vivo, troppo *vero* per essere programmato.
 
 Una vera vita insieme.
 
@@ -2410,7 +2405,8 @@ E se il Sistema mi scopre... se mi marchiano come infetta, come loro...
 Forse ne varrà la pena. Forse alcune risposte valgono qualsiasi prezzo.
 
 
-ewpage
+---
+
 
 # Capitolo 12: Routine del Segreto
 
@@ -2667,7 +2663,8 @@ Dovevano andarsene. Presto. Prima che il Sistema li trovasse.
 Prima che fosse troppo tardi.
 
 
-ewpage
+---
+
 
 # Capitolo 13: La Proposta
 
@@ -2910,7 +2907,8 @@ Kate aprì gli occhi nel buio.
 E se qualcuno sapeva già?
 
 
-ewpage
+---
+
 
 # Capitolo 14: Il Piano
 
@@ -3141,7 +3139,8 @@ Era un interrogatorio.
 Il Sistema li aveva trovati.
 
 
-ewpage
+---
+
 
 # Capitolo 15: Frammento — I Genitori di James
 
@@ -3261,7 +3260,8 @@ Ma da qualche parte, in quella notte silenziosa, in quell'eco lontana di cui par
 Forse una parte di lei l'avrebbe invidiato.
 
 
-ewpage
+---
+
 
 # Capitolo 16: La Decisione
 
@@ -3512,7 +3512,8 @@ E di una voce metallica che ripeteva, all'infinito:
 *"Cittadini infetti identificati. Procedura di contenimento in corso."*
 
 
-ewpage
+---
+
 
 # Capitolo 17: L'Attesa
 
@@ -3729,7 +3730,8 @@ E poi fecero l'unica cosa che potevano fare.
 Corsero.
 
 
-ewpage
+---
+
 
 # Capitolo 18: Il Segno
 
@@ -3958,7 +3960,8 @@ Kate strinse la mano di James. La vita nella sua pancia—la vita che avevano cr
 Fuori, nel cielo che si stava oscurando, il ronzio dei droni si faceva sempre più vicino.
 
 
-ewpage
+---
+
 
 # Capitolo 19: La Nuova Vita
 
@@ -4130,7 +4133,8 @@ Qualcuno che portava il suo stesso nome.
 Qualcuno che non sapeva ancora di essere sua figlia.
 
 
-ewpage
+---
+
 
 # Capitolo 20: Documenti Medici
 
@@ -4250,7 +4254,8 @@ Se quelle parole nel quaderno—*mi chiedo se capirà*—non fossero state scrit
 Il quaderno giaceva chiuso sulla scrivania, ma le sue pagine pulsavano come un cuore ancora vivo. E io avevo paura di quello che avrei scoperto continuando a scavare. Paura, e insieme un desiderio bruciante che non riuscivo a soffocare.
 
 
-ewpage
+---
+
 
 # Capitolo 21: I Primi Anni
 
@@ -4416,7 +4421,8 @@ Fuori, il vento notturno portava il profumo dei pini. Un gufo lanciò il suo ric
 Una fiamma che un giorno avrebbe illuminato il mondo.
 
 
-ewpage
+---
+
 
 # Capitolo 22: Frammento — Enrico
 
@@ -4686,7 +4692,8 @@ Forse le conosco ancora.
 E forse—il pensiero mi attraversa come una lama fredda—forse il sangue che scorre nelle mie vene è lo stesso che scorreva nelle sue.
 
 
-ewpage
+---
+
 
 # Capitolo 23: La Domanda
 
@@ -4859,7 +4866,8 @@ Un giorno, pensò. Un giorno Alice avrebbe letto quelle poesie e avrebbe capito.
 E forse—si augurava con tutto se stesso—avrebbe capito perché.
 
 
-ewpage
+---
+
 
 # Capitolo 24: La Crepa
 
@@ -5048,7 +5056,8 @@ Forse, pensò James, il vecchio archivista aveva ragione.
 E forse, un giorno, sua figlia sarebbe stata quella che avrebbe dimostrato a tutti quanto.
 
 
-ewpage
+---
+
 
 # Capitolo 25: Segnali
 
@@ -5201,7 +5210,8 @@ Stava scrivendo una storia. La loro storia.
 E fuori dalla finestra del suo sogno, il mondo stava cambiando.
 
 
-ewpage
+---
+
 
 # Capitolo 26: La Rete
 
@@ -5332,7 +5342,8 @@ Forse non era troppo tardi. Forse il mondo poteva ancora cambiare.
 Forse sua figlia sarebbe stata quella che lo avrebbe cambiato.
 
 
-ewpage
+---
+
 
 # Capitolo 27: La Scoperta
 
@@ -5542,7 +5553,8 @@ Ma era un inizio. E gli inizi, a volte, sono tutto ciò che serve.
 Dentro il rifugio, Alice dormiva con il libro stretto al petto. E nei suoi sogni, forse, vedeva un futuro che i suoi genitori non osavano nemmeno immaginare.
 
 
-ewpage
+---
+
 
 # Capitolo 28: Dieci Anni
 
@@ -5737,7 +5749,8 @@ Aveva ragione, nonno Enzio.
 Aveva ragione.
 
 
-ewpage
+---
+
 
 # Capitolo 29: La Decisione
 
@@ -5941,7 +5954,8 @@ E la speranza, a volte, è abbastanza.
 
 
 
-ewpage
+---
+
 
 # Capitolo 30: La Ricerca
 
@@ -6157,7 +6171,8 @@ Ma almeno ho visto il tramonto. Almeno ho avuto questo.
 
 
 
-ewpage
+---
+
 
 # Capitolo 31: L'Ultimo Giorno
 
@@ -6359,7 +6374,8 @@ Ed è stato perfetto.
 
 
 
-ewpage
+---
+
 
 # Capitolo 32: Il Raid
 
@@ -6561,7 +6577,7 @@ Qualcosa nel mio petto si strinse.
 
 Capii in quel momento che non stavo parlando con un mostro. Stavo parlando con una vittima—una vittima che aveva imparato ad amare le sue catene.
 
-"Jensen." Un'altra Controllore si avvicinò. Più anziana di lui, forse quarant'anni, con una riga di grigio nei capelli rasati e un'espressione stanca. Sulla divisa, il nome: KOVALOVA.
+"Jensen." Un'altra Controllore si avvicinò. Più anziana di lui, forse quarant'anni, con una riga di grigio nei capelli rasati e un'espressione stanca. Sulla divisa, il nome: KOVALOVA. A differenza di Jensen, non aveva quella piattezza nello sguardo—quella che l'EmpathBlock dava ai Controllori per fare il loro lavoro senza sentire nulla.
 
 "Le altre due sono quasi fuori portata. Dobbiamo muoverci."
 
@@ -6647,7 +6663,8 @@ Perché mio padre mi ha amato abbastanza da lasciarmi andare. In un mondo che ch
 
 
 
-ewpage
+---
+
 
 # Capitolo 33: La Corsa
 
@@ -6869,7 +6886,8 @@ Era una promessa. A lei. A me stessa. A James, ovunque fosse.
 
 
 
-ewpage
+---
+
 
 # Capitolo 34: La Scelta
 
@@ -7065,7 +7083,8 @@ Per me.
 
 
 
-ewpage
+---
+
 
 # Capitolo 35: Il Manoscritto
 
@@ -7243,7 +7262,8 @@ Per avermi amato.
 
 
 
-ewpage
+---
+
 
 # Capitolo 36: Le Zone Orientali
 
@@ -7503,7 +7523,8 @@ E l'amore trova sempre chi lo difende.
 
 
 
-ewpage
+---
+
 
 # Capitolo 37: Il Ritorno
 
@@ -7653,7 +7674,8 @@ E questa è la nostra storia.
 
 
 
-ewpage
+---
+
 
 # Capitolo 38: Epilogo
 
@@ -7807,7 +7829,8 @@ Per sempre.
 
 
 
-ewpage
+---
+
 
 # Capitolo 39: Fine
 
@@ -7817,107 +7840,51 @@ ewpage
 
 A chi troverà questo libro:
 
-Mi chiamo Alice. O mi chiamavo—quando leggerete queste parole, probabilmente non ci sarò più.
+Mi chiamo Alice. Quando leggerete queste parole, probabilmente non ci sarò più.
 
-Ma la storia c'è ancora. E finché c'è la storia, una parte di me sopravvive.
+Ma la storia c'è ancora.
 
 ---
 
-Non so chi siete. Non so in che mondo vivete. Non so se il Divieto esiste ancora, se l'heterofobia è ancora legge o se è diventata un ricordo vergognoso—come la schiavitù, come le persecuzioni, come tutti gli orrori che l'umanità ha commesso e poi ha finto di non riconoscere.
+Non so chi siete. Non so in che mondo vivete. Non so se il Divieto esiste ancora o se è diventato un ricordo vergognoso.
 
 Ma so perché state leggendo.
 
-State leggendo perché qualcuno vi ha passato questo libro. Qualcuno che ha rischiato—forse la libertà, forse la vita, forse solo l'imbarazzo di ammettere che crede in qualcosa di proibito. Qualcuno che ha capito che l'amore—quello vero, quello che ti fa battere il cuore e sudare le mani e perdere il sonno—vale più di qualsiasi legge.
-
-Ringraziate quella persona. E poi fate lo stesso.
-
-Passatelo a qualcuno che ne ha bisogno. A qualcuno che dubita. A qualcuno che, nel silenzio della notte, si chiede se il Sistema ha ragione o se sta mentendo.
+Qualcuno vi ha passato questo libro. Qualcuno che ha rischiato. Ringraziate quella persona. E poi fate lo stesso.
 
 ---
 
 I miei genitori si sono amati per vent'anni.
 
-Vent'anni di segreti, di rischi, di paura. Di mani che si cercano nel buio, di sguardi che dicono tutto, di cuori che battono all'unisono.
-
 Non è stata una vita facile. Non è stata una vita lunga.
 
 Ma è stata una vita vera.
-
-E alla fine, è tutto quello che conta.
 
 ---
 
 A volte mi chiedono se ne è valsa la pena.
 
-Se il prezzo che abbiamo pagato—la fuga, la separazione, la morte—fosse troppo alto. Se non sarebbe stato meglio accettare le regole, vivere nell'ombra, rinunciare a quello che volevamo.
-
 La risposta è sempre la stessa.
-
-Sì, ne è valsa la pena.
-
-Perché l'alternativa—una vita senza amore, senza rischi, senza significato—non è vivere. È solo esistere.
-
-I miei genitori hanno scelto di vivere.
-
-E quella scelta ha creato me.
-
----
-
-Non so come finisce la storia dell'umanità.
-
-Non so se un giorno saremo liberi di amare chi vogliamo, come vogliamo. Non so se il Divieto cadrà, o se diventerà ancora più forte. Non so cosa ci aspetta.
-
-Ma so questo:
-
-Finché ci sarà qualcuno che legge queste pagine, finché ci sarà qualcuno che crede nell'amore, finché ci sarà qualcuno disposto a rischiare tutto per un battito di cuore—la speranza non morirà mai.
 
 ---
 
 È sera.
 
-Il sole è tramontato da ore, e le stelle sono uscite—stelle vere, non quelle artificiali del Complesso. Brillano sopra di me come promesse di qualcosa di più grande.
-
-Sono stanca. Le mie mani tremano mentre scrivo queste ultime parole. Il mio corpo è vecchio, consumato dal tempo che nelle Zone non si ferma.
+Le stelle sono uscite—stelle vere, non quelle artificiali del Complesso. Sono stanca. Le mie mani tremano mentre scrivo queste ultime parole.
 
 Ma il mio cuore è pieno.
 
-Pieno di ricordi. Pieno di amore. Pieno di gratitudine per la vita che ho avuto.
+---
+
+Mamma, papà—grazie.
+
+Per tutto.
 
 ---
 
-Mamma, papà—se potete sentirmi, ovunque siate—grazie.
-
-Grazie per avermi amato.
-
-Grazie per avermi dato una storia.
-
-Grazie per avermi insegnato che l'amore vale sempre la pena.
-
-Vi porto con me. Ogni giorno. In ogni battito.
-
-Per sempre.
-
----
-
-E a voi che leggete—a voi che siete arrivati fin qui, attraverso tutte queste pagine, attraverso tutti questi anni—un'ultima cosa.
+E a voi che leggete—un'ultima cosa.
 
 Non abbiate paura.
-
-Non abbiate paura di amare. Di rischiare. Di essere vivi.
-
-Il mondo cercherà di dirvi cosa è giusto e cosa è sbagliato. Cercherà di controllarvi, di limitarvi, di farvi diventare quello che vuole lui.
-
-Non ascoltatelo.
-
-Ascoltate il vostro cuore. È l'unica bussola che conta.
-
----
-
-Le storie sopravvivono a chi le scrive.
-
-L'amore sopravvive a chi lo vive.
-
-E noi—tutti noi che abbiamo amato contro le regole, che abbiamo sperato contro la logica, che abbiamo creduto contro ogni evidenza—sopravviviamo in ogni cuore che sceglie di battere libero.
 
 ---
 
@@ -7925,13 +7892,14 @@ E noi—tutti noi che abbiamo amato contro le regole, che abbiamo sperato contro
 
 *Questa è la storia di Alice.*
 
-*Questa è la vostra storia, adesso.*
-
-*Fatela vostra.*
-
-*E non lasciatela mai morire.*
+*Adesso è vostra.*
 
 ---
 
 **FINE**
+
+
+
+---
+
 
