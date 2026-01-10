@@ -92,6 +92,10 @@ Kate giaceva accanto a lui nel buio dell'appartamento di lei. Suo padre Enrico e
 
 James non rispose. Sì, stava pensando al futuro. Al fatto che non ne avevano uno. Che potevano continuare così per anni, decenni, secoli—l'eternità era lunga—ma non avrebbero mai avuto quello che volevano davvero.
 
+A volte si chiedeva se quello che provava fosse davvero suo. Il SomniLearn lavorava ogni notte, impiantando frasi, modificando associazioni, riscrivendo i sogni. *La conformità è pace. L'amore vero non riproduce. Il desiderio eterosessuale è disfunzione.* Come poteva essere certo che i suoi sentimenti per Kate fossero genuini e non un residuo sfuggito al condizionamento? Come poteva sapere dove finiva James e dove iniziava ciò che il Sistema aveva scritto in lui?
+
+Ma quando la guardava—quando sentiva il suo respiro nel buio, quando le loro mani si trovavano—ogni dubbio svaniva. Questo non poteva essere artificiale. Questo era troppo doloroso, troppo vivo, troppo *vero* per essere programmato.
+
 Una vera vita insieme.
 
 "James." La voce di Kate era seria. "Dobbiamo parlare."
