@@ -156,7 +156,7 @@ Un silenzio. Kate cercò le parole, ma non le trovò.
 
 "Perché?"
 
-Yuki esitò. Per un momento, qualcosa passò nei suoi occhi—qualcosa di antico, di doloroso.
+Yuki esitò. Per un istante, qualcosa passò nei suoi occhi—qualcosa di antico, di doloroso.
 
 "Perché una volta ho avuto un'amica," disse. "Una persona che amavo. È sparita, un giorno. Nelle Zone Abbandonate. Non l'ho più rivista."
 
@@ -236,7 +236,7 @@ Kate annuì. Domani. Ventiquattro ore. Millequattrocentoquaranta minuti.
 
 Domani avrebbero lasciato tutto—le loro vite, le loro famiglie, il mondo che conoscevano. Domani avrebbero attraversato la linea che separava la conformità dalla ribellione.
 
-Non c'era ritorno. Non c'era perdono.
+Non c'era ritorno. Nessun perdono.
 
 Solo la fuga, o la rieducazione.
 

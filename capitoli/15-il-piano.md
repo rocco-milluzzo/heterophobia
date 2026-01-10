@@ -6,7 +6,7 @@ James non aveva mai lavorato così tanto in vita sua. Di giorno, all'archivio, c
 
 Di notte, invece di dormire, studiava.
 
-I protocolli di sicurezza del Distretto Nord. I turni delle pattuglie. I punti deboli della rete di sorveglianza. Ogni informazione che riusciva a trovare diventava un tassello del mosaico che stava costruendo.
+I protocolli di sicurezza del Distretto Nord. I turni delle pattuglie. I punti deboli della rete di sorveglianza. Ogni informazione diventava un tassello del mosaico che stava costruendo.
 
 Un mosaico che avrebbe dovuto tenerli in vita.
 
@@ -16,7 +16,7 @@ Il nonno Enzio lo aiutò senza fare domande.
 
 Non esplicitamente—sarebbe stato troppo pericoloso. Ma in modi sottili, quasi invisibili. Un documento lasciato sulla scrivania per sbaglio. Un commento casuale durante una visita. Un libro prestato con una pagina segnata.
 
-"C'è stata un'epoca," disse Enzio una sera, sfogliando un vecchio volume di storia, "in cui le persone fuggivano. Da guerre, da persecuzioni, da regimi che li volevano morti. Attraversavano deserti, mari, montagne. Molti morivano. Ma alcuni ce la facevano."
+"C'è stata un'epoca," disse Enzio una sera, sfogliando un vecchio volume di storia, "in cui la gente fuggiva. Da guerre, da persecuzioni, da regimi che la volevano morta. Attraversava deserti, mari, montagne. Molti morivano. Ma alcuni ce la facevano."
 
 James guardò il libro. Era un atlante storico, aperto su una mappa dell'Europa pre-Fusione.
 
@@ -64,7 +64,7 @@ James si sedette di fronte a lei nella serra idroponica, il viso teso dalla preo
 
 "I test genetici." James estrasse un tablet e glielo mostrò. "Li fanno ogni tre mesi, ma il prossimo giro è tra sei settimane. Se sei incinta, lo troveranno."
 
-Kate studiò i dati. "Quanto tempo ci vuole per rilevare una gravidanza?"
+Kate studiò i dati. "Quanto tempo serve per rilevare una gravidanza?"
 
 "Due settimane dal concepimento. A volte meno."
 
@@ -110,7 +110,7 @@ Un silenzio. James le prese la mano.
 
 "Allora troveremo un altro modo. Ma non smetteremo di provarci."
 
-Kate sorrise. Era quel sorriso che lui amava e temeva—quello che diceva: sono pronta a tutto.
+Kate sorrise. Era quel sorriso che lui amava e temeva — quello che diceva: sono pronta a tutto.
 
 "Non smetteremo," ripeté lei. "Mai."
 
@@ -124,7 +124,7 @@ Kate memorizzò la mappa, il percorso, i segnali di pericolo. Studiò tutto quel
 
 E ogni notte, quando riuscivano a stare insieme, i loro corpi cercavano ciò che le parole non potevano esprimere.
 
-Non era più solo amore. Era ribellione allo stato puro.
+Non era più solo amore. Era ribellione pura.
 
 James la spogliava lentamente, come se ogni centimetro di pelle rivelata fosse una preghiera. Kate rispondeva con fame crescente, le mani che esploravano, le labbra che tracciavano sentieri proibiti lungo il suo collo, il suo petto, più giù.
 
@@ -144,7 +144,7 @@ Era l'unica libertà che conoscessero.
 
 Quattro settimane dopo la decisione, Kate fece il test.
 
-Non quello ufficiale—quello l'avrebbe scoperta. Un vecchio test casalingo, di quelli che si usavano prima che tutto diventasse controllato. James l'aveva trovato in un angolo polveroso dell'archivio, tra le reliquie di un mondo che non esisteva più.
+Non quello ufficiale — quello l'avrebbe scoperta. Un vecchio test casalingo, di quelli che si usavano prima che tutto fosse controllato. James l'aveva trovato in un angolo polveroso dell'archivio, tra le reliquie di un mondo che non esisteva più.
 
 Aspettarono insieme il risultato, seduti sul pavimento del bagno di Kate, le mani intrecciate così forte da fare male.
 
@@ -156,7 +156,7 @@ Kate guardò James. Lui guardò lei.
 
 "È successo," sussurrò lei.
 
-James non rispose. Per un momento, il suo viso fu illeggibile—paura, gioia, terrore, speranza, tutto mescolato insieme in un'espressione che Kate non aveva mai visto.
+James non rispose. Per un momento, il suo viso fu illeggibile — paura, gioia, terrore, speranza, tutto mescolato in un'espressione che Kate non aveva mai visto.
 
 Poi lui la abbracciò. La strinse così forte che lei faticava a respirare. E contro il suo orecchio, con voce spezzata, disse le parole che non era mai riuscito a pronunciare.
 

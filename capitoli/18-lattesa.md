@@ -66,7 +66,7 @@ James guardò il nonno—gli occhi ancora lucidi nonostante l'età biologica con
 
 Enzio non rispose. Si alzò, andò in un'altra stanza, tornò con qualcosa in mano.
 
-Era il libro di poesie. Lo stesso che aveva dato a James anni prima. Lo stesso che James aveva dato a Kate.
+Era il libro di poesie. Quello che aveva dato a James anni prima, e che James aveva poi dato a Kate.
 
 "L'ho recuperato," disse Enzio. "Kate me l'ha restituito quando avete deciso. Voleva che lo tenessi io, per sicurezza."
 
@@ -92,7 +92,7 @@ Non si voltò.
 
 Il pomeriggio passò in un'agonia di attesa.
 
-James camminò per il Complesso un'ultima volta, guardando i corridoi grigi, le luci artificiali, le telecamere che ronzavano nei loro angoli. Tutto ciò che aveva conosciuto per tutta la vita. Tutto ciò che stava per lasciare.
+James camminò per il Complesso un'ultima volta, guardando i corridoi grigi, le luci artificiali, le telecamere che ronzavano nei loro angoli. Tutto ciò che aveva conosciuto per tutta la vita. Tutto quello che stava per lasciare.
 
 Non provava nostalgia. Solo una strana leggerezza, come se stesse già fluttuando via.
 
@@ -110,7 +110,7 @@ Entrarono. La porta si chiuse alle loro spalle.
 
 Le ultime ore le passarono in silenzio.
 
-Non c'era bisogno di parlare. Avevano detto tutto quello che c'era da dire. Ora restava solo l'attesa—quella tensione sottile che precedeva l'azione, quel momento sospeso tra il prima e il dopo.
+Non c'era bisogno di parlare. Avevano detto tutto quello che andava detto. Ora restava solo l'attesa—quella tensione sottile che precedeva l'azione, quel momento sospeso tra il prima e il dopo.
 
 Kate era seduta sul divano, le mani intrecciate sulla pancia. James era in piedi alla finestra, guardando le luci del Complesso abbassarsi per il ciclo serale.
 

@@ -1,0 +1,101 @@
+@page {
+    size: A5;
+    margin: 2cm 1.5cm;
+    @bottom-center {
+        content: counter(page);
+        font-family: 'Georgia', serif;
+        font-size: 10pt;
+    }
+}
+
+@page :first {
+    @bottom-center {
+        content: none;
+    }
+}
+
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 11pt;
+    line-height: 1.7;
+    text-align: justify;
+    color: #1a1a1a;
+    hyphens: auto;
+}
+
+h1 {
+    font-size: 22pt;
+    text-align: center;
+    page-break-before: always;
+    margin-top: 4cm;
+    margin-bottom: 2cm;
+    font-weight: normal;
+    letter-spacing: 0.05em;
+}
+
+h1:first-of-type {
+    page-break-before: avoid;
+    font-size: 32pt;
+    margin-top: 6cm;
+}
+
+h2 {
+    font-size: 12pt;
+    text-align: center;
+    margin-top: 1.5cm;
+    margin-bottom: 1cm;
+    font-weight: normal;
+    font-style: italic;
+}
+
+p {
+    text-indent: 1.5em;
+    margin: 0;
+    orphans: 3;
+    widows: 3;
+}
+
+p:first-of-type,
+hr + p,
+h1 + p,
+h2 + p {
+    text-indent: 0;
+}
+
+hr {
+    border: none;
+    text-align: center;
+    margin: 1.5em 0;
+    page-break-after: avoid;
+}
+
+hr::before {
+    content: "❧";
+    font-size: 14pt;
+    color: #666;
+}
+
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+blockquote {
+    margin: 1em 2em;
+    font-style: italic;
+}
+
+.title-page {
+    text-align: center;
+    page-break-after: always;
+}
+
+.dedication {
+    text-align: center;
+    font-style: italic;
+    margin-top: 40%;
+    page-break-after: always;
+}

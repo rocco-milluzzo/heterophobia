@@ -118,7 +118,7 @@ James rimase in silenzio. Sapeva che esistevano dissidenti dentro il Sistema—l
 
 "Cosa stai proponendo?"
 
-"Non lo so ancora. Ma forse... forse il modo migliore per proteggere Alice non è nasconderla per sempre. Forse è combattere per un mondo in cui non debba nascondersi."
+"Non lo so ancora. Ma forse il modo migliore per proteggere Alice non è nasconderla per sempre. Forse è combattere per un mondo in cui non debba nascondersi."
 
 Era un'idea folle. Pericolosa. Forse impossibile.
 

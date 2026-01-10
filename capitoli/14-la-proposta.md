@@ -4,7 +4,7 @@ Kate aveva scelto il momento con cura.
 
 Era una di quelle rare sere in cui potevano stare insieme per più di qualche ora—suo padre Henrik era partito per un viaggio di tre giorni, qualcosa legato al suo lavoro che Kate non aveva chiesto di approfondire. Non voleva sapere. Voleva solo il tempo.
 
-James era arrivato poco dopo il tramonto artificiale, quando le luci del Complesso avevano iniziato il loro lento calo verso la modalità notturna. Si erano seduti sul divano del soggiorno, con le tende tirate e i sensori disattivati, a fingere per qualche ora che quella fosse una serata normale.
+James era arrivato poco dopo il tramonto artificiale, quando le luci del Complesso avevano iniziato il loro lento calo verso la modalità notturna. Si erano seduti sul divano del soggiorno, le tende tirate e i sensori disattivati, a fingere per qualche ora che quella fosse una serata normale.
 
 Ma Kate sapeva che non era una serata normale.
 
@@ -22,7 +22,7 @@ Kate inspirò profondamente. Aveva preparato un discorso, aveva scelto le parole
 
 "Voglio un figlio."
 
-Il silenzio che seguì fu così totale che Kate poté sentire il ronzio del sistema di ventilazione, il ticchettio di un orologio nella stanza accanto, il battito del proprio cuore.
+Il silenzio che seguì fu così totale che Kate poté sentire il ronzio del sistema di ventilazione, il ticchettio di un orologio nella stanza accanto, i battiti del proprio cuore.
 
 James non si mosse. Non parlò. Il suo viso era diventato una maschera.
 
@@ -74,7 +74,7 @@ James la guardò. I suoi occhi erano lucidi, e Kate si rese conto con una fitta 
 
 Parlarono per ore.
 
-James elencò tutti i rischi. I test genetici trimestrali che avrebbero rilevato la gravidanza. I controlli medici obbligatori. L'impossibilità di partorire in segreto, di crescere un bambino nascosto, di mantenerlo invisibile al Sistema per anni, decenni, per sempre.
+James elencò tutti i rischi. I test genetici trimestrali che avrebbero rilevato la gravidanza. I controlli medici obbligatori. L'impossibilità di partorire in segreto, di crescere un bambino nascosto, di mantenerlo invisibile al Sistema per anni, decenni, per l'eternità.
 
 Kate ascoltò. Non interruppe, non contestò. Lasciò che James sfogasse tutta la sua paura, tutte le sue obiezioni, tutti i motivi per cui era impossibile.
 
@@ -124,7 +124,7 @@ James non rispose quella sera.
 
 Disse che aveva bisogno di tempo. Di pensare. Di valutare. Kate non insistette—lo conosceva abbastanza da sapere che forzarlo avrebbe ottenuto l'effetto opposto.
 
-Ma quando lui se ne andò, poco prima dell'alba, Kate vide qualcosa nei suoi occhi che non c'era prima.
+Ma quando lui se ne andò, poco prima dell'alba, Kate vide qualcosa nei suoi occhi che prima non c'era.
 
 Non era paura. Non era rassegnazione.
 
@@ -138,7 +138,7 @@ Kate aspettò. Non parlò più dell'argomento, non fece pressioni. Si limitò a 
 
 Ma tutto era cambiato.
 
-Lo vedeva nel modo in cui James la guardava. Nei silenzi che duravano un po' più a lungo del solito. Nelle domande che non faceva ma che pendevano tra loro come nubi cariche di pioggia.
+Lo vedeva nel modo in cui James la guardava. Nei silenzi che duravano un po' più a lungo del solito. Nelle domande che non faceva ma che pendevano tra loro come nuvole cariche di pioggia.
 
 Poi, una sera, lui arrivò con qualcosa in mano.
 
@@ -150,7 +150,7 @@ Kate sentì il cuore fermarsi.
 
 "James?"
 
-Lui alzò lo sguardo su di lei. I suoi occhi erano ancora pieni di paura—quella non sarebbe mai scomparsa del tutto. Ma c'era qualcos'altro adesso. Determinazione.
+Lui alzò lo sguardo. I suoi occhi erano ancora pieni di paura — quella non sarebbe mai scomparsa del tutto. Ma c'era qualcos'altro adesso. Determinazione.
 
 "Non posso prometterti che funzionerà," disse. "Non posso prometterti che sopravviveremo. Non posso prometterti niente, tranne questo."
 

@@ -118,7 +118,7 @@ James la abbracciò, trattenendo le lacrime.
 
 Sua figlia aveva nove anni. E già sapeva chi voleva essere.
 
-Era la cosa più bella e terrificante che avesse mai visto.
+Era la visione più bella e terrificante che avesse mai avuto.
 
 Fuori, le stelle brillavano indifferenti. Ma per la prima volta in anni, James percepiva una luce anche dentro di sé. Una luce fragile, incerta, ma reale.
 

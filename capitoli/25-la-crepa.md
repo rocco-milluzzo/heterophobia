@@ -136,7 +136,7 @@ James guardò. Era una margherita, semplice e bianca. Niente di speciale.
 
 Ma per Alice era il più bello del mondo.
 
-E in quel momento, James capì qualcosa.
+E allora James capì qualcosa.
 
 Sua figlia non aveva bisogno di vedere il Complesso, o le montagne, o il mare. Aveva bisogno di essere vista. Di essere ascoltata. Di sapere che le sue domande contavano.
 
@@ -174,7 +174,7 @@ James sussultò. "Cosa?"
 
 James sentì le lacrime scendere. Non sapeva che Enzio avesse scritto qualcosa nel libro. Non l'aveva mai notato.
 
-Ma Enzio sapeva. Sapeva che un giorno Alice l'avrebbe trovato.
+Ma Enzio lo sapeva. Aveva previsto che un giorno Alice l'avrebbe trovato.
 
 E le aveva lasciato un messaggio.
 
