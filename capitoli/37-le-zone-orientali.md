@@ -88,11 +88,25 @@ Più tardi, sedute accanto al fuoco, parlammo.
 
 Mia madre mi raccontò cosa era successo quel giorno. Come si era voltata verso il veicolo, pronta a sacrificarsi. Come i Controllori l'avevano catturata invece di ucciderla—volevano interrogarla, volevano sapere dove erano gli altri rifugi.
 
-"Mi hanno tenuta in una struttura per mesi," disse. La sua voce si fece distante, come se stesse guardando attraverso il tempo. "Mi chiamavano *l'infetta* numero 7749. Non il mio nome—mai il mio nome. Cercavano informazioni sui rifugi, sui contatti, su chiunque ci avesse aiutato. Usavano tecniche che..." Si interruppe, e vidi ombre antiche passarle negli occhi. "Non ho parlato. Mai. Mi aggrappavo al ricordo di te e di tuo padre, e non ho parlato."
+"Mi hanno tenuta in una struttura per mesi," disse. La sua voce si fece distante, come se stesse guardando attraverso il tempo. "Mi chiamavano *l'infetta* numero 7749. Non il mio nome—mai il mio nome. Solo quel numero, gridato o sussurrato, a seconda di cosa volevano da me."
+
+Si fermò. Le sue mani tremavano.
+
+"Cercavano informazioni sui rifugi, sui contatti, su chiunque ci avesse aiutato. Ma non erano solo interrogatori." La sua voce si spezzò. "I Controllori... alcuni di loro si offrivano volontari per le sessioni notturne. Dicevano che era parte della terapia. Che dovevano *insegnarci* cosa significava essere toccate da un uomo nel modo *sbagliato*, per farci capire quanto fosse disgustoso."
+
+Non riuscivo a parlare. Non riuscivo a respirare.
+
+"Erano in tre, quella prima notte. Mi hanno legata al tavolo e hanno detto che mi avrebbero *curata*. Che quando avessero finito, non avrei più desiderato nessun uomo." Una lacrima le scivolò sulla guancia, ma la sua voce restò ferma. "Avevano ragione su una cosa. Non ho più desiderato nessun uomo—tranne tuo padre. Perché quello che facevano loro non era desiderio. Era violenza. Era potere. Era tutto ciò che il Sistema finge di combattere ma in realtà incarna."
+
+"Mamma..."
+
+"No, lasciami finire." Mi prese le mani. "Devi sapere. Devi capire cosa succede là dentro, perché il mondo deve sapere. Ogni notte, per settimane, venivano. A volte uno, a volte di più. Registravano tutto—per i *rapporti medici*, dicevano. Mi chiamavano *fattrice*, *breeder*, *puttana della riproduzione*. E io... io mi aggrappavo al ricordo di te e di tuo padre, e non ho parlato. Mai. Mi hanno spezzato il corpo, ma non sono riusciti a toccare quello che avevo dentro."
+
+Si interruppe, e vidi ombre antiche passarle negli occhi—ombre che non se ne sarebbero mai andate.
 
 "Come sei scappata?"
 
-Un sorriso triste attraversò il suo viso. "La rete. Ci sono Controllori che si sono stancati di essere strumenti dell'odio. Guardie che la notte ricordano di aver avuto genitori eterosessuali, nonni che si amavano alla luce del sole. Mi hanno fatto uscire durante un trasferimento. Quattro di loro sono morti per salvarmi."
+Un sorriso triste attraversò il suo viso. "Quando mi hanno trasferita, pensavo che sarebbe stato peggio. Ma sulla strada c'erano quattro guardie che avevano scelto di essere umane. Controllori che si erano stancati di essere strumenti dell'odio—che la notte ricordavano di aver avuto genitori eterosessuali, nonni che si amavano alla luce del sole. Mi hanno fatto uscire durante un trasferimento. Quattro di loro sono morti quella notte, perché io potessi vivere."
 
 "Perché non sei tornata nel Sistema? Perché non mi hai cercata?"
 

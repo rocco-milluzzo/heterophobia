@@ -206,7 +206,23 @@ Ho letto i rapporti ufficiali, anni dopo. Documenti freddi, burocratici. Mio pad
 
 Nei margini, qualcuno aveva annotato a mano: "Resistenza all'interrogatorio. Raccomandato protocollo intensivo."
 
-Non so cosa significhi "protocollo intensivo." Non voglio saperlo.
+So cosa significa "protocollo intensivo." L'ho scoperto anni dopo, nei file che non avrei dovuto leggere.
+
+I centri di rieducazione non erano ospedali. Erano macelli dell'anima.
+
+I detenuti venivano spogliati all'arrivo—non solo dei vestiti, ma di ogni traccia di identità. Nome, storia, dignità. Ti assegnavano un numero e ti trattavano come bestiame. Gli uomini etero venivano sottoposti a "terapia avversiva": costretti a guardare immagini di donne mentre ricevevano scariche elettriche, iniezioni che provocavano nausea violenta, dolore. L'obiettivo era rompere l'associazione tra desiderio e piacere. Sostituirla con terrore.
+
+Ma c'era di peggio. Molto peggio.
+
+I documenti parlavano di "sessioni di ricondizionamento sessuale". Un eufemismo. La verità era che i Controllori—quelli che si offrivano volontari per quel lavoro—usavano i detenuti per i propri piaceri. Li violentavano sistematicamente, metodicamente, documentando tutto come "procedura terapeutica". L'idea era che se un uomo etero veniva penetrato abbastanza volte, abbastanza brutalmente, il suo cervello avrebbe "imparato" a dissociare il sesso dalle donne.
+
+Non funzionava, ovviamente. Non poteva funzionare. Ma questo non li fermava.
+
+Ho letto le testimonianze dei sopravvissuti. Frammenti di orrore raccolti nelle Zone, sussurrati a voce bassa perché anche il ricordo faceva male. Uomini che non riuscivano più a dormire. Che si svegliavano urlando. Che si erano tolti la vita piuttosto che continuare a vivere con quelle immagini nella testa.
+
+Non so cosa abbiano fatto a mio padre.
+
+Non voglio saperlo. Ma so che quando penso a lui, non riesco a impedirmi di immaginare. E ogni volta che immagino, una parte di me muore.
 
 Ma so questo: mio padre si è fermato perché noi potessimo correre. Ha sacrificato la sua libertà, forse la sua vita, perché io e mia madre avessimo una possibilità.
 

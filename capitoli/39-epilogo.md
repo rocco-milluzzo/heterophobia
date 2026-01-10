@@ -24,6 +24,32 @@ Ma non è servito. Perché una volta che le persone iniziano a pensare, non puoi
 
 ---
 
+A volte mi chiedono: *Come è potuto succedere?*
+
+Come se fosse un mistero. Come se l'odio nascesse dal nulla.
+
+Ma io ho vissuto abbastanza per sapere che l'odio non è mai un mistero. L'odio è una scelta—una scelta fatta da migliaia di persone, ogni giorno, quando decidono che qualcuno è *diverso* abbastanza da non meritare pietà.
+
+I miei genitori non erano mostri. Non erano criminali. Erano due persone che si amavano—l'unica colpa che avessero mai commesso era amare nel modo sbagliato, secondo regole che qualcun altro aveva inventato.
+
+E il mondo li ha perseguitati per questo.
+
+Penso spesso a chi legge queste parole adesso—nel 2025, nel 2030, nel 2100. Vi sembra impossibile, vero? Vi sembra barbaro, primitivo, incomprensibile. Come potevano perseguitare qualcuno per chi amava?
+
+Ma guardatevi intorno. Chi sono gli *infetti* del vostro tempo? Chi sono quelli che il vostro mondo considera *sbagliati*, *malati*, *pericolosi*? Chi è il capro espiatorio di questa generazione?
+
+Perché ce n'è sempre uno. C'è sempre qualcuno che non merita gli stessi diritti degli altri. Qualcuno che va *corretto*, *controllato*, *eliminato*. E la maggior parte delle persone—brave persone, persone normali, persone come voi—annuisce e dice: *è diverso. Loro se lo meritano. Noi non siamo come gli odiatori del passato.*
+
+Ma lo siete. Lo siamo tutti. Finché accettiamo che qualcuno sia meno umano di noi.
+
+Nessuno è mai al sicuro. La storia non finisce. E le linee che dividono i *normali* dai *devianti* possono spostarsi in una notte.
+
+Oggi sei dalla parte giusta.
+
+Domani potresti svegliarti come *infetto*.
+
+---
+
 Non ho visto la fine del Divieto.
 
 Sono vecchia, ormai. Ho scelto di vivere nelle Zone anni fa—ho rinunciato alle Cure, ho accettato che il mio corpo invecchiasse, che la morte si avvicinasse. Non me ne pento.

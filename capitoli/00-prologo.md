@@ -50,6 +50,14 @@ Il Sistema ha provato a soffocarlo. Per decenni ha insegnato che l'attrazione tr
 
 I campi di rieducazione erano pieni di chi non aveva scelto meglio. Le retate notturne svuotavano interi quartieri. Gli *infetti* sparivano nelle Zone Abbandonate, e nessuno faceva domande.
 
+*Nessuno si sentiva al sicuro—eppure tutti pensavano che non sarebbe toccato a loro.*
+
+È questa la cosa che mi terrorizza di più, quando studio quei tempi. Non la brutalità del Sistema—quella è facile da condannare. È la normalità con cui tutto è avvenuto. Un giorno ami chi vuoi, il giorno dopo l'amore è una malattia. Un giorno sei normale, il giorno dopo sei un criminale. E tutti quelli intorno a te—i tuoi vicini, i tuoi colleghi, i tuoi amici—annuiscono e dicono: *era ora*.
+
+Penso spesso a chi leggerà queste parole tra cento anni. Vi sembrerà impossibile, forse. Vi chiederete come abbiamo potuto. Ma guardatevi intorno. Guardate chi oggi è considerato *normale* e chi è ai margini. Guardate le linee che tracciate tra *noi* e *loro*. Perché quelle linee possono spostarsi. Si sono sempre spostate. E quando si spostano, non c'è mai abbastanza tempo per correre.
+
+Oggi sei dalla parte giusta della storia. Domani potresti essere tu l'*infetto*.
+
 La maggior parte ci ha creduto. O almeno, ha finto di crederci.
 
 Kate e James no. I loro corpi dicevano una cosa e il mondo ne diceva un'altra, e non riuscirono a dare retta al mondo.
