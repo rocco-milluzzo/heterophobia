@@ -96,7 +96,7 @@ Ma non lo fece.
 
 ---
 
-Il segnale di fine lezione risuonò e tutti si alzarono. James mise via i libri lentamente, cercando di non guardare verso di lei. Se la guardava ancora, avrebbe fatto qualcosa di stupido. Avrebbe attirato l'attenzione.
+Il segnale di fine lezione risuonò e tutti si alzarono. James mise via i libri lentamente, cercando di non guardare verso di lei. Se l'avesse guardata ancora, avrebbe fatto qualcosa di stupido. Avrebbe attirato l'attenzione.
 
 Si avviò verso la porta, gli occhi fissi sul pavimento.
 
@@ -185,14 +185,12 @@ James non lo sapeva. Non poteva saperlo.
 Ma il Sistema aveva già iniziato a guardare.
 
 
----
-
 
 # Capitolo 2: Il Gioco
 
 Kate notò il ragazzo che la guardava.
 
-Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Kate aveva passato la notte precedente a modificare il codice del programma, inserendo una subroutine nascosta che faceva comparire messaggi assurdi a intervalli casuali. Era il suo modo di ribellirsi—piccoli atti di sabotaggio che nessuno avrebbe mai scoperto. *Glitch casuali*, avrebbero detto i tecnici. *Errori di sistema.*
+Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Kate aveva passato la notte precedente a modificare il codice del programma, inserendo una subroutine nascosta che faceva comparire messaggi assurdi a intervalli casuali. Era il suo modo di ribellarsi—piccoli atti di sabotaggio che nessuno avrebbe mai scoperto. *Glitch casuali*, avrebbero detto i tecnici. *Errori di sistema.*
 
 Kate non era solo una studentessa. Era una mente che non sapeva stare ferma, un cervello che smontava le cose per capire come funzionavano e poi le rimontava in modo migliore. O peggiore, a seconda del punto di vista. A quindici anni aveva già hackerato tre sistemi del Complesso—niente di grave, solo per vedere se ci riusciva. Nessuno l'aveva mai scoperta.
 
@@ -214,7 +212,7 @@ C'era qualcosa di affamato in quello sguardo. Qualcosa di disperato.
 
 Qualcosa di sbagliato.
 
-Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore quando lo aveva interrogato. Un cognome doppio, quindi due padri o due madri. Normale.
+Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore quando lo aveva interrogato. Un cognome singolo—insolito. Di solito le famiglie conformi avevano cognomi doppi, uno per genitore. Forse i suoi genitori avevano lo stesso cognome per coincidenza, o forse c'era qualcosa di diverso in quella famiglia.
 
 Lui, però, non sembrava normale. Sembrava... tormentato.
 
@@ -252,7 +250,7 @@ Quella sera Kate andò a trovare sua nonna.
 
 L'appartamento di Marta era in un'ala diversa del Complesso Residenziale, riservata agli anziani pre-immortalità. Erano pochi, ormai—la maggior parte aveva accettato le Cure non appena erano diventate disponibili. Ma alcuni, come Marta, avevano resistito a lungo, abbastanza da ricordare un mondo diverso.
 
-"Sei tornata," disse la vecchia aprendo la porta. Non era davvero vecchia—le Cure l'avevano congelata biologicamente intorno ai quarantacinque anni, quando finalmente aveva ceduto—ma c'era qualcosa nei suoi occhi che nessun trattamento poteva ringiovanire.
+"Sei tornata," disse la vecchia aprendo la porta. Non era davvero vecchia—le Cure l'avevano congelata biologicamente intorno ai cinquantacinque anni, quando finalmente aveva ceduto—ma c'era qualcosa nei suoi occhi che nessun trattamento poteva ringiovanire.
 
 "Volevo chiederti una cosa."
 
@@ -427,8 +425,6 @@ Da qualche parte nel Complesso, un algoritmo registrava che due studenti di sess
 Ma Kate non lo sapeva. Stava solo sorridendo nel buio, pensando a un ragazzo con gli occhi scuri che la guardava come nessuno l'aveva mai guardata.
 
 
----
-
 
 # Capitolo 3: Frammento — Marta
 
@@ -567,8 +563,6 @@ E io resto qui, con le mani che tremano, a chiedermi che cosa abbiano fatto a qu
 E che cosa faranno a James e Kate, se li scoprono.
 
 
----
-
 
 # Capitolo 4: Primi Passi
 
@@ -632,11 +626,11 @@ Poi le conversazioni iniziarono a cambiare.
 
 "Per sempre era più breve, allora," rispose James. "Cinquant'anni, sessanta al massimo."
 
-"Ma era comunque per sempre. Per il tempo che avevano." Kate abbassò la voce ancora di più. "Mia nonna mi ha raccontato di sua figlia. Di mia madre. È stata portata via quando io avevo tre anni. Perché amava mio padre. Perché voleva stare con lui."
+"Ma era comunque per sempre. Per il tempo che avevano." Kate abbassò la voce ancora di più. "Mia nonna mi ha raccontato di sua figlia. Di mia madre. È stata portata via quando io avevo tre anni. L'hanno classificata *infetta recidiva*. Deportata nelle Zone."
 
 James sentì il sangue gelarsi. "E tuo padre?"
 
-"Esiliato. Nelle Zone. Non so nemmeno se sia ancora vivo." Gli occhi di Kate brillavano nell'ombra. "E per questo che devo stare attenta. Se scoprono che sono figlia di *infetti*..."
+"Ha firmato i documenti di dissociazione. Per tenermi." La voce di Kate era piatta, priva di giudizio. "Non lo biasimo. Se non l'avesse fatto, avrebbero portato via anche me. Ma non ne parliamo mai. È come se mia madre non fosse mai esistita." Gli occhi di Kate brillavano nell'ombra. "Per questo devo stare attenta. Se scoprono che sono figlia di un'*infetta*..."
 
 Non finì la frase. Non ce n'era bisogno.
 
@@ -758,8 +752,6 @@ Da qualche parte nel Complesso, un sensore registrò un'anomalia termica. Due co
 
 Ma loro non lo sapevano. E anche se l'avessero saputo, in quel momento non gliene sarebbe importato nulla.
 
-
----
 
 
 # Capitolo 5: Il Libro
@@ -963,8 +955,6 @@ Il Sistema poteva osservarla. Gli algoritmi potevano analizzarla. I Controllori 
 Ma non le avrebbero portato via questo. Non ancora.
 
 
----
-
 
 # Capitolo 6: Documenti Interni
 
@@ -1142,8 +1132,6 @@ Sotto, una sola frase scritta con una grafia diversa—più tremante, più urgen
 
 *Trova noi.*
 
-
----
 
 
 # Capitolo 7: Il Primo Contatto
@@ -1397,8 +1385,6 @@ Il Sistema era paziente. Il Sistema poteva aspettare.
 Ma il tempo di James e Kate stava già cominciando a scadere.
 
 
----
-
 
 # Capitolo 8: La Prima Notte
 
@@ -1546,7 +1532,7 @@ Lei alzò lo sguardo. "Non fermarti."
 
 Non si fermò.
 
-I vestiti caddero uno dopo l'altro, lasciando spazio alla pelle nuda, alla verità dei corpi. Kate scoprì la geografia di James con le mani e con gli occhi—la curva delle spalle, la linea dei fianchi, il calore che emanava come un sole nascosto. Lui la esplorava con la stessa reverenza, le dita che tracciavano sentieri lungo la schiena, i fianchi, le curve che nessuno aveva mai toccato.
+I vestiti caddero uno dopo l'altro, lasciando spazio alla pelle nuda, alla verità dei corpi. Kate lo scoprì con le mani e con gli occhi—la curva delle spalle, la linea dei fianchi, il calore che emanava come un sole nascosto. Lui la esplorava con la stessa reverenza, le dita che tracciavano sentieri lungo la schiena, i fianchi, le curve che nessuno aveva mai toccato.
 
 "Sei bellissima," sussurrò lui, e la sua voce si spezzò sull'ultima sillaba.
 
@@ -1759,8 +1745,6 @@ Ma a tre isolati di distanza, ignara di tutto, Kate dormiva ancora con il sorris
 E il tempo che le restava, senza saperlo, aveva appena cominciato il suo conto alla rovescia.
 
 
----
-
 
 # Intermezzo
 
@@ -1808,7 +1792,7 @@ Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggi
 
 ---
 
-L'amore, nel mondo di Kate e James, non era romantico. Era geologico. Una forza sotterranea che spostava continenti, che faceva tremare la terra.
+L'amore, nel mondo di Kate e James, non era romantico. Era qualcosa di più antico, più profondo. Una forza sotterranea che spostava continenti, che faceva tremare la terra.
 
 Il Sistema ha provato a soffocarlo. Per decenni ha insegnato che l'attrazione tra uomo e donna era un residuo evolutivo, un istinto obsoleto come l'appendice o i denti del giudizio. *L'eterosessualità è una scelta — scegli meglio*, recitavano i manifesti nelle scuole. *L'amore vero non ha bisogno di figli. Fare figli è violenza verso il pianeta.*
 
@@ -1837,8 +1821,6 @@ Kate e James lo sapevano.
 E l'hanno dimostrato.
 
 ---
-
-## Capitolo 2: Il Primo Documento
 
 Ho trovato la prima lettera per caso.
 
@@ -1939,8 +1921,6 @@ Come se l'avessi dimenticata.
 
 Come se qualcuno me l'avesse fatta dimenticare.
 
-
----
 
 
 # Capitolo 10: Frammento — Enzio
@@ -2128,8 +2108,6 @@ Chi sono io in questa storia?
 
 E perché, quando chiudo gli occhi, vedo il viso di qualcuno che non ho ancora incontrato?
 
-
----
 
 
 # Capitolo 11: Cinque Anni
@@ -2405,8 +2383,6 @@ E se il Sistema mi scopre... se mi marchiano come infetta, come loro...
 Forse ne varrà la pena. Forse alcune risposte valgono qualsiasi prezzo.
 
 
----
-
 
 # Capitolo 12: Routine del Segreto
 
@@ -2663,8 +2639,6 @@ Dovevano andarsene. Presto. Prima che il Sistema li trovasse.
 Prima che fosse troppo tardi.
 
 
----
-
 
 # Capitolo 13: La Proposta
 
@@ -2907,8 +2881,6 @@ Kate aprì gli occhi nel buio.
 E se qualcuno sapeva già?
 
 
----
-
 
 # Capitolo 14: Il Piano
 
@@ -3139,8 +3111,6 @@ Era un interrogatorio.
 Il Sistema li aveva trovati.
 
 
----
-
 
 # Capitolo 15: Frammento — I Genitori di James
 
@@ -3259,8 +3229,6 @@ Ma da qualche parte, in quella notte silenziosa, in quell'eco lontana di cui par
 
 Forse una parte di lei l'avrebbe invidiato.
 
-
----
 
 
 # Capitolo 16: La Decisione
@@ -3512,8 +3480,6 @@ E di una voce metallica che ripeteva, all'infinito:
 *"Cittadini infetti identificati. Procedura di contenimento in corso."*
 
 
----
-
 
 # Capitolo 17: L'Attesa
 
@@ -3729,8 +3695,6 @@ E poi fecero l'unica cosa che potevano fare.
 
 Corsero.
 
-
----
 
 
 # Capitolo 18: Il Segno
@@ -3960,8 +3924,6 @@ Kate strinse la mano di James. La vita nella sua pancia—la vita che avevano cr
 Fuori, nel cielo che si stava oscurando, il ronzio dei droni si faceva sempre più vicino.
 
 
----
-
 
 # Capitolo 19: La Nuova Vita
 
@@ -4133,8 +4095,6 @@ Qualcuno che portava il suo stesso nome.
 Qualcuno che non sapeva ancora di essere sua figlia.
 
 
----
-
 
 # Capitolo 20: Documenti Medici
 
@@ -4253,8 +4213,6 @@ Se quelle parole nel quaderno—*mi chiedo se capirà*—non fossero state scrit
 
 Il quaderno giaceva chiuso sulla scrivania, ma le sue pagine pulsavano come un cuore ancora vivo. E io avevo paura di quello che avrei scoperto continuando a scavare. Paura, e insieme un desiderio bruciante che non riuscivo a soffocare.
 
-
----
 
 
 # Capitolo 21: I Primi Anni
@@ -4421,8 +4379,6 @@ Fuori, il vento notturno portava il profumo dei pini. Un gufo lanciò il suo ric
 Una fiamma che un giorno avrebbe illuminato il mondo.
 
 
----
-
 
 # Capitolo 22: Frammento — Enrico
 
@@ -4472,7 +4428,7 @@ Ma non sono riuscita a fermarmi.
 
 *29 giugno 2077*
 
-*Marta è stata presa per la rieducazione. La mia Marta. La madre di Kate.*
+*Elena è stata presa per la rieducazione. La mia Elena.*
 
 *L'hanno trovata con vecchie fotografie del nostro matrimonio. "Glorificazione del comportamento deviante", hanno detto. Sei mesi di rieducazione.*
 
@@ -4486,13 +4442,23 @@ Ma non sono riuscita a fermarmi.
 
 *Il Divieto è legge. L'eterosessualità è ufficialmente un crimine.*
 
-*Marta non ha reagito quando l'ho detto. Ha solo annuito e ha continuato a fissare il muro. Quella notte si è addormentata senza una parola.*
+*Elena non ha reagito quando l'ho detto. Ha solo annuito e ha continuato a fissare il muro. Quella notte si è addormentata senza una parola.*
 
-*Non l'ho mai più toccata. Non per mancanza di desiderio, ma per paura. Paura che vedessero. Paura che sapessero. Paura che portassero via anche lei, definitivamente.*
+*Non l'ho mai più toccata. Non per mancanza di desiderio, ma per paura. Paura che vedessero. Paura che sapessero. Paura che la portassero via definitivamente.*
 
-*È morta tre anni dopo. Il suo cuore si è semplicemente fermato. I medici hanno detto che non c'era ragione fisica.*
+---
 
-*Io so qual era la ragione. L'avevano già uccisa nel '77. Il suo corpo ha impiegato solo più tempo a capirlo.*
+*3 marzo 2083*
+
+*L'hanno portata via.*
+
+*Kate aveva tre anni. Elena l'ha abbracciata un'ultima volta prima di salire sul furgone. Non ha pianto. Non ha urlato. È rimasta lì, con gli occhi vuoti, come se avesse già accettato il suo destino da anni.*
+
+*L'hanno classificata "infetta recidiva". Deportata nelle Zone Abbandonate. Non la rivedrò mai più.*
+
+*Ho firmato i documenti di dissociazione. Non avevo scelta. Se avessi rifiutato, avrebbero portato via anche Kate.*
+
+*Mi odio per non aver fatto nulla. Ma cosa potevo fare?*
 
 ---
 
@@ -4692,8 +4658,6 @@ Forse le conosco ancora.
 E forse—il pensiero mi attraversa come una lama fredda—forse il sangue che scorre nelle mie vene è lo stesso che scorreva nelle sue.
 
 
----
-
 
 # Capitolo 23: La Domanda
 
@@ -4865,8 +4829,6 @@ Un giorno, pensò. Un giorno Alice avrebbe letto quelle poesie e avrebbe capito.
 
 E forse—si augurava con tutto se stesso—avrebbe capito perché.
 
-
----
 
 
 # Capitolo 24: La Crepa
@@ -5056,8 +5018,6 @@ Forse, pensò James, il vecchio archivista aveva ragione.
 E forse, un giorno, sua figlia sarebbe stata quella che avrebbe dimostrato a tutti quanto.
 
 
----
-
 
 # Capitolo 25: Segnali
 
@@ -5210,8 +5170,6 @@ Stava scrivendo una storia. La loro storia.
 E fuori dalla finestra del suo sogno, il mondo stava cambiando.
 
 
----
-
 
 # Capitolo 26: La Rete
 
@@ -5341,8 +5299,6 @@ Forse non era troppo tardi. Forse il mondo poteva ancora cambiare.
 
 Forse sua figlia sarebbe stata quella che lo avrebbe cambiato.
 
-
----
 
 
 # Capitolo 27: La Scoperta
@@ -5553,8 +5509,6 @@ Ma era un inizio. E gli inizi, a volte, sono tutto ciò che serve.
 Dentro il rifugio, Alice dormiva con il libro stretto al petto. E nei suoi sogni, forse, vedeva un futuro che i suoi genitori non osavano nemmeno immaginare.
 
 
----
-
 
 # Capitolo 28: Dieci Anni
 
@@ -5748,8 +5702,6 @@ Aveva ragione, nonno Enzio.
 
 Aveva ragione.
 
-
----
 
 
 # Capitolo 29: La Decisione
@@ -5953,8 +5905,6 @@ Ma posso sperare.
 E la speranza, a volte, è abbastanza.
 
 
-
----
 
 
 # Capitolo 30: La Ricerca
@@ -6171,8 +6121,6 @@ Ma almeno ho visto il tramonto. Almeno ho avuto questo.
 
 
 
----
-
 
 # Capitolo 31: L'Ultimo Giorno
 
@@ -6373,8 +6321,6 @@ Forse è per questo che quel giorno è così vivido nella mia memoria. Il fiume.
 Ed è stato perfetto.
 
 
-
----
 
 
 # Capitolo 32: Il Raid
@@ -6663,8 +6609,6 @@ Perché mio padre mi ha amato abbastanza da lasciarmi andare. In un mondo che ch
 
 
 
----
-
 
 # Capitolo 33: La Corsa
 
@@ -6886,8 +6830,6 @@ Era una promessa. A lei. A me stessa. A James, ovunque fosse.
 
 
 
----
-
 
 # Capitolo 34: La Scelta
 
@@ -7083,8 +7025,6 @@ Per me.
 
 
 
----
-
 
 # Capitolo 35: Il Manoscritto
 
@@ -7261,8 +7201,6 @@ Per avermi amato.
 È stato tutto.
 
 
-
----
 
 
 # Capitolo 36: Le Zone Orientali
@@ -7523,8 +7461,6 @@ E l'amore trova sempre chi lo difende.
 
 
 
----
-
 
 # Capitolo 37: Il Ritorno
 
@@ -7673,8 +7609,6 @@ Sono nata dall'amore—l'amore vero, quello che il Sistema chiama malattia.
 E questa è la nostra storia.
 
 
-
----
 
 
 # Capitolo 38: Epilogo
@@ -7829,8 +7763,6 @@ Per sempre.
 
 
 
----
-
 
 # Capitolo 39: Fine
 
@@ -7899,7 +7831,5 @@ Non abbiate paura.
 **FINE**
 
 
-
----
 
 
