@@ -122,6 +122,10 @@ Fino a oggi.
 
 Chiuse gli occhi e cercò di dormire, ma vedeva solo lei. La curva del suo collo. Il movimento delle sue labbra quando rideva. La luce nei suoi occhi quando aveva risposto al professore.
 
+Di solito i suoi sogni erano pieni di slogan. *La conformità è libertà. L'immortalità è amore. Il Sistema protegge.* SomniLearn, lo chiamavano—educazione notturna, per rinforzare i valori corretti. Tutti lo facevano. Tutti si svegliavano con frasi nella testa che non ricordavano di aver pensato.
+
+Ma stanotte i sogni erano diversi.
+
 Ferrante.
 
 Non poteva cercarla nel database scolastico. Le ricerche erano monitorate, e una ricerca su una compagna di classe avrebbe fatto scattare un alert. Niente di grave, probabilmente solo una nota nel suo file. Ma bastava.

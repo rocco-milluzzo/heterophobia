@@ -1,4 +1,21 @@
-# Worldbuilding: Il Mondo del 2105
+# Worldbuilding: Il Mondo di Aeternitas
+
+*Questo documento descrive l'universo narrativo della saga "Tales from Aeternitas"*
+
+---
+
+## La Saga
+
+**Nome dell'universo:** Aeternitas (dal latino *aeternitas* = eternità)
+
+**Primo volume:** *Tales from Aeternitas: Heterophobia*
+
+**Potenziali espansioni:**
+- *Tales from Aeternitas: Jensen* — La storia del Controllore, da bambino rubato nelle Zone a carnefice del Sistema
+- *Tales from Aeternitas: Before the Cure* — Il mondo prima dell'immortalità (2023-2070)
+- *Tales from Aeternitas: Kovalova* — Chi serve il Sistema con dubbi morali
+- *Tales from Aeternitas: The Last Generation* — Altre storie degli Ultimi
+- *Tales from Aeternitas: The Zones* — La vita nelle Zone Abbandonate
 
 ---
 
@@ -197,6 +214,37 @@ Le Cure non sono magia. Hanno regole precise:
 - **Analisi comportamentale:** AI predice "deviazioni" da pattern
 - **Test genetici:** Trimestrali, rilevano gravidanze al primo giorno
 - **Monitoraggio ambientale:** Sensori ovunque nelle Unità
+
+### Tecnologie di Condizionamento Mentale
+
+**MemoraSoft™ (Rieducazione):**
+Farmaci + stimolazione neurale che indeboliscono i ricordi legati all'attrazione eterosessuale. Non cancellano completamente—lasciano "ombre" che il soggetto non riesce a mettere a fuoco. Jensen ricorda di aver amato i suoi genitori, ma non riesce a *sentire* quell'amore.
+
+**SomniLearn™ (Educazione notturna):**
+Durante il sonno, messaggi subliminali rinforzano la conformità. Molti cittadini sognano slogan del Sistema senza rendersene conto. James ne parla: *"A volte mi sveglio con frasi nella testa che so di non aver pensato."*
+
+**EmpathBlock™ (Controllori):**
+Iniezione che riduce temporaneamente l'empatia. Permette ai Controllori di fare il loro lavoro senza trauma psicologico. Kovalova ha smesso di prenderla—per questo esita durante il raid.
+
+*Implicazione narrativa: La realtà nel mondo di Aeternitas è filtrata. Nessuno sa con certezza cosa è un proprio pensiero e cosa è stato impiantato.*
+
+### Le Fazioni Interne al Sistema
+
+Il Sistema non è monolitico. Esistono correnti sotterranee:
+
+**I Pragmatici (maggioranza):**
+Credono nel Divieto come necessità matematica. Non odiano gli eterosessuali—li considerano semplicemente un problema da gestire. La maggior parte dei burocrati.
+
+**I Puristi (minoranza vocale):**
+Credono che l'eterosessualità sia *moralmente* sbagliata, non solo pragmaticamente. Vogliono rieducazione più aggressiva, esilio immediato. Jensen appartiene a questa fazione.
+
+**I Riformisti (sotterranei):**
+Credono che il Divieto sia andato troppo oltre. Vorrebbero permettere relazioni eterosessuali sterili (con contraccezione obbligatoria). Non osano parlare apertamente—sarebbero accusati di "simpatia deviante". Kovalova simpatizza segretamente con loro.
+
+**I Nostalgici (illegali):**
+Credono che l'intero sistema dell'immortalità sia stato un errore. Vorrebbero tornare alla mortalità naturale e alla riproduzione. Considerati estremisti pericolosi.
+
+*Implicazione narrativa: Il Sistema può crollare dall'interno. Le crepe esistono già.*
 
 ### Come Sfuggire al Sistema (La Resistenza Tecnica)
 

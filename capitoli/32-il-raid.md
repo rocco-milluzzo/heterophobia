@@ -198,7 +198,7 @@ Qualcosa nel mio petto si strinse.
 
 Capii in quel momento che non stavo parlando con un mostro. Stavo parlando con una vittima—una vittima che aveva imparato ad amare le sue catene.
 
-"Jensen." Un'altra Controllore si avvicinò. Più anziana di lui, forse quarant'anni, con una riga di grigio nei capelli rasati e un'espressione stanca. Sulla divisa, il nome: KOVALOVA.
+"Jensen." Un'altra Controllore si avvicinò. Più anziana di lui, forse quarant'anni, con una riga di grigio nei capelli rasati e un'espressione stanca. Sulla divisa, il nome: KOVALOVA. A differenza di Jensen, non aveva quella piattezza nello sguardo—quella che l'EmpathBlock dava ai Controllori per fare il loro lavoro senza sentire nulla.
 
 "Le altre due sono quasi fuori portata. Dobbiamo muoverci."
 
