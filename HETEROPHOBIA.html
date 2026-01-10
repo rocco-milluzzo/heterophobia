@@ -11,6 +11,153 @@
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
+    html {
+      font-size: 12pt;
+      line-height: 1.5;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -27,7 +174,6 @@
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <link rel="stylesheet" href="" />
 </head>
 <body>
 <header id="title-block-header">
@@ -135,6 +281,7 @@ l’eterosessualita e stata dichiarata illegale. James e Kate si
 innamorano lo stesso.</em></p>
 <p><em>Questa e la loro storia. Raccontata da chi non sarebbe mai dovuta
 esistere.</em></p>
+<p>ewpage</p>
 <h1 id="capitolo-1-quindici-anni">Capitolo 1: Quindici Anni</h1>
 <p>La prima volta che la vide, James stava pensando alla morte.</p>
 <p>Non alla propria—quella era diventata un concetto astratto, qualcosa
@@ -209,11 +356,18 @@ percepire solo lei.</p>
 eterosessuale era un residuo evolutivo, un istinto che una volta serviva
 alla riproduzione ma che ora era obsoleto. Come la fame in eccesso, come
 l’aggressività. Una disfunzione che poteva essere curata.</p>
-<p><em>L’eterosessualità è una scelta — scegli meglio.</em> Lo slogan
-lampeggiava sugli schermi pubblici ogni ora, insieme alle immagini dei
-campi di rieducazione. Sei mesi di terapia per la prima infrazione.
-Dieci anni senza le Cure per la seconda. Esilio permanente per la
-terza.</p>
+<p><em>L’eterosessualità è una scelta — scegli meglio.</em></p>
+<p>Lo slogan lampeggiava sugli schermi pubblici ogni ora, alternandosi
+con gli altri messaggi del Sistema:</p>
+<p><em>L’amore vero non ha bisogno di figli.</em></p>
+<p><em>Fare figli è violenza verso il pianeta.</em></p>
+<p><em>Siamo tutti uguali nell’immortalità — tranne chi vuole
+riprodursi.</em></p>
+<p><em>Breeder oggi, esiliato domani.</em></p>
+<p>Le immagini che accompagnavano gli slogan mostravano i campi di
+rieducazione — edifici bianchi immersi nel verde, che sembravano
+cliniche di lusso. Sei mesi di terapia per la prima infrazione. Dieci
+anni senza le Cure per la seconda. Esilio permanente per la terza.</p>
 <p>Sentire quel formicolio per una ragazza non era normale. Era
 pericoloso. Un <em>breeder</em> in potenza, lo avrebbero chiamato. Un
 <em>infetto</em>.</p>
@@ -248,9 +402,16 @@ Tutto bianco, tutto pulito, tutto monitorato. C’era una telecamera
 nell’angolo del soffitto, discreta ma presente. James ci aveva fatto
 l’abitudine anni prima, come tutti. Le telecamere servivano a
 proteggere, non a sorvegliare. Così dicevano.</p>
-<p>Dalla porta aperta sentiva la voce di Lin—sempre Lin a casa la sera,
-Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti
-vent’anni prima, una coppia modello. James era nato da ectogenesi,
+<p>Sul muro della zona comune, lo schermo pubblico trasmetteva il
+notiziario serale. Una voce calma, rassicurante, elencava le statistiche
+del giorno: <em>“Oggi sono stati identificati e avviati alla
+rieducazione quattordici soggetti devianti nel Distretto Nord.
+Ricordiamo che la segnalazione di comportamenti sospetti è un dovere
+civico. Il Sistema protegge chi collabora.”</em></p>
+<p>James distolse lo sguardo. Lo schermo non si poteva spegnere.</p>
+<p>Dalla porta aperta sentiva la voce di Mei — sempre Mei a casa la
+sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano
+uniti vent’anni prima, una coppia modello. James era nato da ectogenesi,
 cresciuto in una vasca per nove mesi. Non aveva mai conosciuto
 nient’altro. Non aveva mai pensato che potesse esistere
 qualcos’altro.</p>
@@ -305,19 +466,30 @@ visto.</p>
 <p><em>Soggetto 2847-C: monitoraggio incrementato.</em></p>
 <p>James non lo sapeva. Non poteva saperlo.</p>
 <p>Ma il Sistema aveva già iniziato a guardare.</p>
+<p>ewpage</p>
 <h1 id="capitolo-2-il-gioco">Capitolo 2: Il Gioco</h1>
 <p>Kate notò il ragazzo che la guardava.</p>
 <p>Non subito—stava leggendo un messaggio di Yuki, una battuta stupida
-su un nuovo programma di simulazione che avevano trovato. Stava ridendo,
-cercando di soffocare il suono, quando un brivido le corse lungo la
-schiena.</p>
+su un nuovo programma di simulazione che avevano trovato. Kate aveva
+passato la notte precedente a modificare il codice del programma,
+inserendo una subroutine nascosta che faceva comparire messaggi assurdi
+a intervalli casuali. Era il suo modo di ribellirsi—piccoli atti di
+sabotaggio che nessuno avrebbe mai scoperto. <em>Glitch casuali</em>,
+avrebbero detto i tecnici. <em>Errori di sistema.</em></p>
+<p>Kate non era solo una studentessa. Era una mente che non sapeva stare
+ferma, un cervello che smontava le cose per capire come funzionavano e
+poi le rimontava in modo migliore. O peggiore, a seconda del punto di
+vista. A quindici anni aveva già hackerato tre sistemi del
+Complesso—niente di grave, solo per vedere se ci riusciva. Nessuno
+l’aveva mai scoperta.</p>
+<p>Stava ridendo, cercando di soffocare il suono, quando un brivido le
+corse lungo la schiena.</p>
 <p>Non un rumore. La sensazione improvvisa di essere osservata. Di
 essere <em>vista</em>.</p>
 <p>Alzò gli occhi e lo vide.</p>
 <p>Tre file indietro, vicino alla finestra. Un ragazzo con i capelli
-scuri e gli occhi ancora più scuri, fissi su di lei. Quando i loro
-sguardi si incrociarono, lui si voltò di scatto, come se fosse stato
-colto in flagrante.</p>
+scuri e gli occhi ancora più scuri, fissi su di lei. Quando lei lo
+guardò, lui si voltò di scatto, colto in flagrante.</p>
 <p>Kate trattenne un sorriso. Tipico.</p>
 <hr />
 <p>Non era la prima volta che qualcuno la guardava. A quindici anni
@@ -343,6 +515,19 @@ evitare il collasso delle risorse.”</p>
 ripetere così tante volte che erano diventate parte di lei, come il
 battito del cuore o il ritmo del respiro. La verità ufficiale. L’unica
 verità.</p>
+<p>Ma Kate sapeva fare i conti. Aveva fatto i conti, una notte, da sola
+nel buio della sua stanza. Dodici miliardi di immortali. Risorse
+planetarie. Tassi di consumo. Aveva inserito i numeri in un modello che
+si era costruita da sola, usando dati che aveva… <em>trovato</em> nei
+sistemi del Complesso.</p>
+<p>I numeri non tornavano.</p>
+<p>Non del tutto, almeno. Il Divieto aveva senso, certo. Ma non
+<em>quel</em> Divieto. Non l’eliminazione totale della riproduzione.
+C’era spazio per qualcosa di più moderato—limiti, controlli, non
+cancellazione. Kate non capiva perché il Sistema avesse scelto la
+soluzione più estrema.</p>
+<p>O forse lo capiva. Ma era un pensiero che non poteva permettersi di
+pensare.</p>
 <p>“Esatto, Ferrante. Almeno qualcuno segue la lezione.”</p>
 <p>Kate annuì educatamente. Ma dentro di sé stava pensando ad altro.</p>
 <p>Stava pensando a sua nonna. A quello che Marta le aveva raccontato,
@@ -526,6 +711,7 @@ stati collegati.</p>
 <p>Ma Kate non lo sapeva. Stava solo sorridendo nel buio, pensando a un
 ragazzo con gli occhi scuri che la guardava come nessuno l’aveva mai
 guardata.</p>
+<p>ewpage</p>
 <h1 id="capitolo-3-frammento-marta">Capitolo 3: Frammento — Marta</h1>
 <p>Ho trovato la registrazione per caso, in mezzo a una pila di file
 audio corrotti.</p>
@@ -681,6 +867,7 @@ sopravvivere.”</p>
 fatto a quella donna. Che cosa facciano a tutti quelli che
 spariscono.</p>
 <p>E che cosa faranno a James e Kate, se li scoprono.</p>
+<p>ewpage</p>
 <h1 id="capitolo-4-primi-passi">Capitolo 4: Primi Passi</h1>
 <p>Dopo quella sera sulla panchina, James cominciò a inventarsi
 pretesti.</p>
@@ -875,6 +1062,7 @@ termica. Due corpi troppo vicini, per troppo tempo, in un luogo non
 autorizzato. Una nota venne aggiunta ai loro fascicoli.</p>
 <p>Ma loro non lo sapevano. E anche se l’avessero saputo, in quel
 momento non gliene sarebbe importato nulla.</p>
+<p>ewpage</p>
 <h1 id="capitolo-5-il-libro">Capitolo 5: Il Libro</h1>
 <p>Kate lo leggeva di notte, sotto le coperte, con la luce del tablet
 abbassata al minimo.</p>
@@ -1045,6 +1233,7 @@ lui.</p>
 <p>Il Sistema poteva osservarla. Gli algoritmi potevano analizzarla. I
 Controllori potevano bussare alla sua porta nel cuore della notte.</p>
 <p>Ma non le avrebbero portato via questo. Non ancora.</p>
+<p>ewpage</p>
 <h1 id="capitolo-6-documenti-interni">Capitolo 6: Documenti Interni</h1>
 <p>Il libro di poesie è qui, davanti a me.</p>
 <p>L’ho recuperato dagli archivi sequestrati tre settimane fa, insieme a
@@ -1231,6 +1420,7 @@ più urgente.</p>
 che qualcuno sta ancora cercando.</em></p>
 <p><em>Trova il mulino. Trova la verità.</em></p>
 <p><em>Trova noi.</em></p>
+<p>ewpage</p>
 <h1 id="capitolo-7-il-primo-contatto">Capitolo 7: Il Primo Contatto</h1>
 <p>Avevano diciotto anni quando James le toccò la mano per la prima
 volta.</p>
@@ -1448,11 +1638,11 @@ avrebbero potuto sentirla.</p>
 dopo ancora.</p>
 <p>Ogni volta trovavano nuovi modi per toccarsi senza essere visti. Le
 dita che si sfioravano passandosi un tablet—un lampo di calore, un
-brivido lungo la schiena. I piedi che si incontravano sotto il tavolo—la
-caviglia di lei contro la sua, il calore che penetrava attraverso il
-tessuto. Le mani che si stringevano nell’ombra, lontano dagli occhi
-elettronici—ogni volta un po’ più a lungo, ogni volta un po’ più
-intensamente.</p>
+fremito che si propagava fino alla nuca. I piedi che si incontravano
+sotto il tavolo—la caviglia di lei contro la sua, il calore che
+penetrava attraverso il tessuto. Le mani che si stringevano nell’ombra,
+lontano dagli occhi elettronici—ogni volta un po’ più a lungo, ogni
+volta un po’ più intensamente.</p>
 <p>Una volta, nascosti dietro le file di lattuga della serra idroponica,
 Kate gli aveva sfiorato il viso. Solo per un istante. Le sue dita
 avevano percorso la linea della mascella, si erano fermate sull’angolo
@@ -1497,6 +1687,7 @@ Probabilità di devianza congiunta: 34%.</em></p>
 dati.</em></p>
 <p>Il Sistema era paziente. Il Sistema poteva aspettare.</p>
 <p>Ma il tempo di James e Kate stava già cominciando a scadere.</p>
+<p>ewpage</p>
 <h1 id="capitolo-8-la-prima-notte">Capitolo 8: La Prima Notte</h1>
 <p>Kate aveva pianificato tutto.</p>
 <p>Suo padre Enrico sarebbe stato fuori per tre giorni—un congresso di
@@ -1853,6 +2044,7 @@ con il sorriso sulle labbra. E il libro di poesie proibite nascosto
 sotto il materasso.</p>
 <p>E il tempo che le restava, senza saperlo, aveva appena cominciato il
 suo conto alla rovescia.</p>
+<p>ewpage</p>
 <h1 id="intermezzo">Intermezzo</h1>
 <h2 id="la-voce">La Voce</h2>
 <p>Non so esattamente quando abbiano iniziato ad amarsi. So solo quando
@@ -2077,6 +2269,7 @@ quel vuoto brucia.</p>
 <p>Come se stessi leggendo la mia stessa storia.</p>
 <p>Come se l’avessi dimenticata.</p>
 <p>Come se qualcuno me l’avesse fatta dimenticare.</p>
+<p>ewpage</p>
 <h1 id="capitolo-10-frammento-enzio">Capitolo 10: Frammento — Enzio</h1>
 <p>Ho trovato la seconda registrazione nello stesso archivio della
 prima.</p>
@@ -2287,6 +2480,7 @@ dovrei provare.</p>
 <p>Chi sono io in questa storia?</p>
 <p>E perché, quando chiudo gli occhi, vedo il viso di qualcuno che non
 ho ancora incontrato?</p>
+<p>ewpage</p>
 <h1 id="capitolo-11-cinque-anni">Capitolo 11: Cinque Anni</h1>
 <h2 id="i.">I.</h2>
 <p><em>2098 — James</em></p>
@@ -2520,12 +2714,32 @@ curiosità dalla ribellione.</p>
 loro…</p>
 <p>Forse ne varrà la pena. Forse alcune risposte valgono qualsiasi
 prezzo.</p>
+<p>ewpage</p>
 <h1 id="capitolo-12-routine-del-segreto">Capitolo 12: Routine del
 Segreto</h1>
 <p>James aveva ventitré anni e una vita che non gli apparteneva.</p>
 <p>Di giorno era l’archivista Valeri, dipendente modello del
-Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione.
-Arrivava puntuale ogni mattina, salutava i colleghi con un cenno
+Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. La
+mattina iniziava sempre allo stesso modo: la sveglia alle sei, la doccia
+di tre minuti (l’acqua era razionata, anche per gli immortali), la
+colazione sintetica che sapeva di niente. Poi il tragitto verso
+l’archivio, seduto nel vagone silenzioso del trasporto pubblico insieme
+ad altri pendolari che non parlavano mai.</p>
+<p>Nessuno parlava, sui trasporti. Le telecamere registravano tutto, e
+l’AI analizzava le conversazioni in tempo reale. Una parola sbagliata,
+un’espressione sospetta, e il tuo fascicolo si appesantiva di un’altra
+nota. Tutti avevano imparato il silenzio.</p>
+<p>Sul vagone c’erano gli schermi pubblici, impossibili da ignorare.
+Quella mattina trasmettevano un documentario educativo: <em>“Guariti:
+Storie di Recupero dalla Devianza Eterosessuale”</em>. Un uomo di mezza
+età parlava alla telecamera con espressione serena.</p>
+<p><em>“Prima della rieducazione, ero malato. Pensavo di amare una
+donna. Pensavo che fosse naturale. Ma i medici mi hanno aiutato a capire
+che era solo un’ossessione, una disfunzione chimica. Ora sono libero.
+Ora sono finalmente normale.”</em></p>
+<p>James distolse lo sguardo e fissò il pavimento fino alla sua
+fermata.</p>
+<p>Arrivava puntuale ogni mattina, salutava i colleghi con un cenno
 educato, si sedeva alla sua postazione e iniziava a catalogare.
 Fascicoli, registrazioni, fotografie ingiallite di un mondo che non
 esisteva più. Un mondo dove un uomo e una donna potevano tenersi per
@@ -2756,6 +2970,7 @@ respiro. I passi si avvicinarono alla sua porta. Si fermarono.</p>
 terrore che gli divorava le viscere.</p>
 <p>Dovevano andarsene. Presto. Prima che il Sistema li trovasse.</p>
 <p>Prima che fosse troppo tardi.</p>
+<p>ewpage</p>
 <h1 id="capitolo-13-la-proposta">Capitolo 13: La Proposta</h1>
 <p>Kate aveva scelto il momento con cura.</p>
 <p>Era una di quelle rare sere in cui potevano stare insieme per più di
@@ -2981,6 +3196,7 @@ una lama di ghiaccio.</p>
 lungo. Come se vedesse attraverso la maschera.</p>
 <p>Kate aprì gli occhi nel buio.</p>
 <p>E se qualcuno sapeva già?</p>
+<p>ewpage</p>
 <h1 id="capitolo-14-il-piano">Capitolo 14: Il Piano</h1>
 <p>Le tre settimane passarono come un sogno febbrile.</p>
 <p>James non aveva mai lavorato così tanto in vita sua. Di giorno,
@@ -3192,6 +3408,7 @@ costituisce reato di primo grado.”</em></p>
 routine.</p>
 <p>Era un interrogatorio.</p>
 <p>Il Sistema li aveva trovati.</p>
+<p>ewpage</p>
 <h1 id="capitolo-15-frammento-i-genitori-di-james">Capitolo 15:
 Frammento — I Genitori di James</h1>
 <p>Ho trovato la terza registrazione in un posto che non mi
@@ -3331,6 +3548,7 @@ pregato il Sistema di “salvarlo”.</p>
 <p>Ma da qualche parte, in quella notte silenziosa, in quell’eco lontana
 di cui parla nella lettera—forse una parte di lei avrebbe capito.</p>
 <p>Forse una parte di lei l’avrebbe invidiato.</p>
+<p>ewpage</p>
 <h1 id="capitolo-16-la-decisione">Capitolo 16: La Decisione</h1>
 <p>Il test era positivo da tre giorni. Tre giorni in cui Kate aveva
 camminato per il Complesso con una bomba nel ventre.</p>
@@ -3551,6 +3769,7 @@ buio.</p>
 <p>E di una voce metallica che ripeteva, all’infinito:</p>
 <p><em>“Cittadini infetti identificati. Procedura di contenimento in
 corso.”</em></p>
+<p>ewpage</p>
 <h1 id="capitolo-17-lattesa">Capitolo 17: L’Attesa</h1>
 <p>L’ultimo giorno fu il più lungo della vita di James.</p>
 <p>Si svegliò all’alba, come sempre, ma non andò all’archivio. Aveva
@@ -3737,6 +3956,7 @@ nel corridoio residenziale. Richiedo conferma identità.”</p>
 <p>Kate gli strinse la mano più forte.</p>
 <p>E poi fecero l’unica cosa che potevano fare.</p>
 <p>Corsero.</p>
+<p>ewpage</p>
 <h1 id="capitolo-18-il-segno">Capitolo 18: Il Segno</h1>
 <p>Kate non aveva mai corso così velocemente in vita sua.</p>
 <p>I polmoni bruciavano. I muscoli protestavano. La pancia—ancora
@@ -3940,6 +4160,7 @@ avevano creato—dipendeva da ciò che sarebbe successo nei prossimi
 minuti.</p>
 <p>Fuori, nel cielo che si stava oscurando, il ronzio dei droni si
 faceva sempre più vicino.</p>
+<p>ewpage</p>
 <h1 id="capitolo-19-la-nuova-vita">Capitolo 19: La Nuova Vita</h1>
 <p>I droni passarono quella notte senza trovarli.</p>
 <p>Marcus aveva fatto spostare tutti in un bunker sotterraneo—un vecchio
@@ -4106,6 +4327,7 @@ ascoltato le sue registrazioni, seguito le sue tracce.</p>
 cercare di trovarlo.</p>
 <p>Qualcuno che portava il suo stesso nome.</p>
 <p>Qualcuno che non sapeva ancora di essere sua figlia.</p>
+<p>ewpage</p>
 <h1 id="capitolo-20-documenti-medici">Capitolo 20: Documenti Medici</h1>
 <p>Ho trovato i referti medici in un fascicolo separato.</p>
 <p>Non erano negli archivi ufficiali—quelli non contenevano nulla su
@@ -4224,6 +4446,7 @@ fossero state scritte per me.</p>
 pulsavano come un cuore ancora vivo. E io avevo paura di quello che
 avrei scoperto continuando a scavare. Paura, e insieme un desiderio
 bruciante che non riuscivo a soffocare.</p>
+<p>ewpage</p>
 <h1 id="capitolo-21-i-primi-anni">Capitolo 21: I Primi Anni</h1>
 <p>Alice imparò a camminare nella primavera del 2107.</p>
 <p>Kate se lo ricordava come uno dei momenti più belli della sua vita—e
@@ -4389,6 +4612,7 @@ il suo richiamo nell’oscurità. E da qualche parte, oltre le montagne, il
 Sistema continuava a vegliare—ignaro della piccola fiamma che bruciava
 nel cuore delle Zone Abbandonate.</p>
 <p>Una fiamma che un giorno avrebbe illuminato il mondo.</p>
+<p>ewpage</p>
 <h1 id="capitolo-22-frammento-enrico">Capitolo 22: Frammento —
 Enrico</h1>
 <p>Ho trovato il diario di Enrico Ferrante per caso.</p>
@@ -4616,6 +4840,7 @@ persone che non ho mai conosciuto.</p>
 <p>Forse le conosco ancora.</p>
 <p>E forse—il pensiero mi attraversa come una lama fredda—forse il
 sangue che scorre nelle mie vene è lo stesso che scorreva nelle sue.</p>
+<p>ewpage</p>
 <h1 id="capitolo-23-la-domanda">Capitolo 23: La Domanda</h1>
 <p>Alice aveva sei anni quando fece la domanda che James temeva da
 sempre.</p>
@@ -4760,6 +4985,7 @@ fuori a giocare con Mira.</p>
 avrebbe capito. Avrebbe capito cosa avevano rischiato i suoi genitori,
 cosa avevano sacrificato, cosa avevano scelto.</p>
 <p>E forse—si augurava con tutto se stesso—avrebbe capito perché.</p>
+<p>ewpage</p>
 <h1 id="capitolo-24-la-crepa">Capitolo 24: La Crepa</h1>
 <p>La prima vera discussione arrivò quando Alice aveva otto anni.</p>
 <p>Non era un litigio—Kate e James non litigavano quasi mai. Ma era
@@ -4919,6 +5145,7 @@ trovato.</p>
 <p>Forse, pensò James, il vecchio archivista aveva ragione.</p>
 <p>E forse, un giorno, sua figlia sarebbe stata quella che avrebbe
 dimostrato a tutti quanto.</p>
+<p>ewpage</p>
 <h1 id="capitolo-25-segnali">Capitolo 25: Segnali</h1>
 <p>Nell’estate del 2115, le cose iniziarono a cambiare.</p>
 <p>James lo notò per primo. Piccoli segnali, quasi impercettibili. Un
@@ -5044,6 +5271,7 @@ strano.</p>
 un libro—lo stesso libro che stringeva nel sonno. E stava scrivendo.</p>
 <p>Stava scrivendo una storia. La loro storia.</p>
 <p>E fuori dalla finestra del suo sogno, il mondo stava cambiando.</p>
+<p>ewpage</p>
 <h1 id="capitolo-26-la-rete">Capitolo 26: La Rete</h1>
 <p>Marcus li ricevette nella sua stanza quella sera.</p>
 <p>Era un luogo spartano—un letto, un tavolo, qualche sedia. Ma sulle
@@ -5159,6 +5387,7 @@ incerta, ma reale.</p>
 <p>Forse non era troppo tardi. Forse il mondo poteva ancora
 cambiare.</p>
 <p>Forse sua figlia sarebbe stata quella che lo avrebbe cambiato.</p>
+<p>ewpage</p>
 <h1 id="capitolo-27-la-scoperta">Capitolo 27: La Scoperta</h1>
 <p>Arrivarono all’alba.</p>
 <p>James si svegliò di scatto. Un ronzio lontano—un suono che non
@@ -5317,6 +5546,7 @@ tutto, James trovò una forza che credeva perduta.</p>
 <p>Dentro il rifugio, Alice dormiva con il libro stretto al petto. E nei
 suoi sogni, forse, vedeva un futuro che i suoi genitori non osavano
 nemmeno immaginare.</p>
+<p>ewpage</p>
 <h1 id="capitolo-28-dieci-anni">Capitolo 28: Dieci Anni</h1>
 <p><em>Presente — Alice</em></p>
 <p>Dieci anni.</p>
@@ -5487,6 +5717,7 @@ ronzano, come sempre. Il Sistema funziona, come sempre.</p>
 <p><em>Le storie non muoiono mai, Alice.</em></p>
 <p>Aveva ragione, nonno Enzio.</p>
 <p>Aveva ragione.</p>
+<p>ewpage</p>
 <h1 id="capitolo-29-la-decisione">Capitolo 29: La Decisione</h1>
 <p><em>Presente — Alice</em></p>
 <p>Ci ho messo dieci anni a scrivere questa storia.</p>
@@ -5668,6 +5899,7 @@ Stelle vere. Un’alba vera.</p>
 <p>Non lo saprò mai con certezza.</p>
 <p>Ma posso sperare.</p>
 <p>E la speranza, a volte, è abbastanza.</p>
+<p>ewpage</p>
 <h1 id="capitolo-30-la-ricerca">Capitolo 30: La Ricerca</h1>
 <p><em>Presente — Alice</em></p>
 <p>Uscire dal Sistema è più facile di quanto pensassi.</p>
@@ -5860,6 +6092,7 @@ diversi tipi di nuvole.</p>
 mondo sarà diverso.”</p>
 <p>Non so se il mondo sarà mai diverso.</p>
 <p>Ma almeno ho visto il tramonto. Almeno ho avuto questo.</p>
+<p>ewpage</p>
 <h1 id="capitolo-31-lultimo-giorno">Capitolo 31: L’Ultimo Giorno</h1>
 <p><em>2122 — Kate</em></p>
 <p>Quella mattina mi svegliai con la sensazione che qualcosa fosse
@@ -6054,6 +6287,7 @@ nel mio collo. Il modo in cui mi ha tenuta stretta fino all’alba, come
 se potesse proteggermi dal futuro.</p>
 <p>È stato il nostro ultimo giorno insieme.</p>
 <p>Ed è stato perfetto.</p>
+<p>ewpage</p>
 <h1 id="capitolo-32-il-raid">Capitolo 32: Il Raid</h1>
 <p><em>2122 — James</em></p>
 <p>Mi svegliai con il ronzio.</p>
@@ -6322,6 +6556,7 @@ finalmente pronunciato: <em>Ti amo. Per sempre.</em></p>
 mondo che chiamava quell’amore malattia, lui ha scelto di essere malato.
 Ha scelto me.</p>
 <p>È il dono più grande che potesse darmi.</p>
+<p>ewpage</p>
 <h1 id="capitolo-33-la-corsa">Capitolo 33: La Corsa</h1>
 <p><em>2122 — Kate</em></p>
 <p>Corsi.</p>
@@ -6489,6 +6724,7 @@ mattina. Mia figlia, che camminava verso un futuro incerto con una forza
 che non sapevo di averle insegnato.</p>
 <p>“Mai,” dissi. “Non mi arrenderò mai.”</p>
 <p>Era una promessa. A lei. A me stessa. A James, ovunque fosse.</p>
+<p>ewpage</p>
 <h1 id="capitolo-34-la-scelta">Capitolo 34: La Scelta</h1>
 <p><em>2122 — Kate</em></p>
 <p>Li sentii prima di vederli.</p>
@@ -6637,6 +6873,7 @@ ancora viva.</p>
 cosa stava facendo. Sapeva che non sarebbe tornata.</p>
 <p>L’ha fatto lo stesso.</p>
 <p>Per me.</p>
+<p>ewpage</p>
 <h1 id="capitolo-35-il-manoscritto">Capitolo 35: Il Manoscritto</h1>
 <p><em>Presente — Alice</em></p>
 <p>Ho finito di scrivere.</p>
@@ -6785,6 +7022,7 @@ solo altre domande, altri misteri, altri dolori.</p>
 <p>Per avermi amato.</p>
 <p>È stato abbastanza.</p>
 <p>È stato tutto.</p>
+<p>ewpage</p>
 <h1 id="capitolo-36-le-zone-orientali">Capitolo 36: Le Zone
 Orientali</h1>
 <p><em>Tre mesi dopo — Alice</em></p>
@@ -7022,6 +7260,7 @@ il futuro.</p>
 orientali. Con mia madre. Con i ricordi. Con la speranza.</p>
 <p>Le storie trovano sempre chi le racconta.</p>
 <p>E l’amore trova sempre chi lo difende.</p>
+<p>ewpage</p>
 <h1 id="capitolo-37-il-ritorno">Capitolo 37: Il Ritorno</h1>
 <p><em>Sei mesi dopo — Alice</em></p>
 <p>Sono tornata nel Sistema.</p>
@@ -7148,6 +7387,7 @@ sacrificio, il loro amore impossibile—loro vivranno per sempre.</p>
 <p>Sono nata dall’amore—l’amore vero, quello che il Sistema chiama
 malattia.</p>
 <p>E questa è la nostra storia.</p>
+<p>ewpage</p>
 <h1 id="capitolo-38-epilogo">Capitolo 38: Epilogo</h1>
 <p><em>Molti anni dopo</em></p>
 <p>Il mondo è cambiato.</p>
@@ -7304,6 +7544,7 @@ di quello che prova.</p>
 <p>Vive in voi che leggete. In voi che dubitate. In voi che, forse, un
 giorno amerete.</p>
 <p>Per sempre.</p>
+<p>ewpage</p>
 <h1 id="capitolo-39-fine">Capitolo 39: Fine</h1>
 <p><em>L’ultima pagina</em></p>
 <hr />

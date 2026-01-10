@@ -62,7 +62,19 @@ Questo è sbagliato, si disse. Questo è pericoloso.
 
 Sapeva cos'era. L'aveva studiato, come tutti. L'attrazione eterosessuale era un residuo evolutivo, un istinto che una volta serviva alla riproduzione ma che ora era obsoleto. Come la fame in eccesso, come l'aggressività. Una disfunzione che poteva essere curata.
 
-*L'eterosessualità è una scelta — scegli meglio.* Lo slogan lampeggiava sugli schermi pubblici ogni ora, insieme alle immagini dei campi di rieducazione. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
+*L'eterosessualità è una scelta — scegli meglio.*
+
+Lo slogan lampeggiava sugli schermi pubblici ogni ora, alternandosi con gli altri messaggi del Sistema:
+
+*L'amore vero non ha bisogno di figli.*
+
+*Fare figli è violenza verso il pianeta.*
+
+*Siamo tutti uguali nell'immortalità — tranne chi vuole riprodursi.*
+
+*Breeder oggi, esiliato domani.*
+
+Le immagini che accompagnavano gli slogan mostravano i campi di rieducazione — edifici bianchi immersi nel verde, che sembravano cliniche di lusso. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
 
 Sentire quel formicolio per una ragazza non era normale. Era pericoloso. Un *breeder* in potenza, lo avrebbero chiamato. Un *infetto*.
 
@@ -98,7 +110,11 @@ Quella sera, nella sua stanza, James si sdraiò sul letto e fissò il soffitto.
 
 L'Unità della sua famiglia era standard: due camere da letto, una zona comune, servizi igienici condivisi con altre tre unità del piano. Tutto bianco, tutto pulito, tutto monitorato. C'era una telecamera nell'angolo del soffitto, discreta ma presente. James ci aveva fatto l'abitudine anni prima, come tutti. Le telecamere servivano a proteggere, non a sorvegliare. Così dicevano.
 
-Dalla porta aperta sentiva la voce di Lin—sempre Lin a casa la sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello. James era nato da ectogenesi, cresciuto in una vasca per nove mesi. Non aveva mai conosciuto nient'altro. Non aveva mai pensato che potesse esistere qualcos'altro.
+Sul muro della zona comune, lo schermo pubblico trasmetteva il notiziario serale. Una voce calma, rassicurante, elencava le statistiche del giorno: *"Oggi sono stati identificati e avviati alla rieducazione quattordici soggetti devianti nel Distretto Nord. Ricordiamo che la segnalazione di comportamenti sospetti è un dovere civico. Il Sistema protegge chi collabora."*
+
+James distolse lo sguardo. Lo schermo non si poteva spegnere.
+
+Dalla porta aperta sentiva la voce di Mei — sempre Mei a casa la sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello. James era nato da ectogenesi, cresciuto in una vasca per nove mesi. Non aveva mai conosciuto nient'altro. Non aveva mai pensato che potesse esistere qualcos'altro.
 
 Fino a oggi.
 

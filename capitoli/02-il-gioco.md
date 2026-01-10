@@ -2,13 +2,17 @@
 
 Kate notò il ragazzo che la guardava.
 
-Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Stava ridendo, cercando di soffocare il suono, quando un brivido le corse lungo la schiena.
+Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Kate aveva passato la notte precedente a modificare il codice del programma, inserendo una subroutine nascosta che faceva comparire messaggi assurdi a intervalli casuali. Era il suo modo di ribellirsi—piccoli atti di sabotaggio che nessuno avrebbe mai scoperto. *Glitch casuali*, avrebbero detto i tecnici. *Errori di sistema.*
+
+Kate non era solo una studentessa. Era una mente che non sapeva stare ferma, un cervello che smontava le cose per capire come funzionavano e poi le rimontava in modo migliore. O peggiore, a seconda del punto di vista. A quindici anni aveva già hackerato tre sistemi del Complesso—niente di grave, solo per vedere se ci riusciva. Nessuno l'aveva mai scoperta.
+
+Stava ridendo, cercando di soffocare il suono, quando un brivido le corse lungo la schiena.
 
 Non un rumore. La sensazione improvvisa di essere osservata. Di essere *vista*.
 
 Alzò gli occhi e lo vide.
 
-Tre file indietro, vicino alla finestra. Un ragazzo con i capelli scuri e gli occhi ancora più scuri, fissi su di lei. Quando i loro sguardi si incrociarono, lui si voltò di scatto, come se fosse stato colto in flagrante.
+Tre file indietro, vicino alla finestra. Un ragazzo con i capelli scuri e gli occhi ancora più scuri, fissi su di lei. Quando lei lo guardò, lui si voltò di scatto, colto in flagrante.
 
 Kate trattenne un sorriso. Tipico.
 
@@ -31,6 +35,14 @@ Kate scosse la testa e cercò di concentrarsi sulla lezione. Non erano affari su
 "Il Divieto," disse, quando il professore cercava una risposta che Valeri non riusciva a dare. "L'immortalità ha reso necessario il Divieto. Senza morte naturale, la riproduzione doveva cessare per evitare il collasso delle risorse."
 
 Le parole le uscirono automatiche, senza pensarci. Le aveva sentite ripetere così tante volte che erano diventate parte di lei, come il battito del cuore o il ritmo del respiro. La verità ufficiale. L'unica verità.
+
+Ma Kate sapeva fare i conti. Aveva fatto i conti, una notte, da sola nel buio della sua stanza. Dodici miliardi di immortali. Risorse planetarie. Tassi di consumo. Aveva inserito i numeri in un modello che si era costruita da sola, usando dati che aveva... *trovato* nei sistemi del Complesso.
+
+I numeri non tornavano.
+
+Non del tutto, almeno. Il Divieto aveva senso, certo. Ma non *quel* Divieto. Non l'eliminazione totale della riproduzione. C'era spazio per qualcosa di più moderato—limiti, controlli, non cancellazione. Kate non capiva perché il Sistema avesse scelto la soluzione più estrema.
+
+O forse lo capiva. Ma era un pensiero che non poteva permettersi di pensare.
 
 "Esatto, Ferrante. Almeno qualcuno segue la lezione."
 

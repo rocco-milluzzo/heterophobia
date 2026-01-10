@@ -200,7 +200,7 @@ E meravigliosa.
 
 Il giorno dopo tornò in biblioteca. E quello dopo ancora. E quello dopo ancora.
 
-Ogni volta trovavano nuovi modi per toccarsi senza essere visti. Le dita che si sfioravano passandosi un tablet—un lampo di calore, un brivido lungo la schiena. I piedi che si incontravano sotto il tavolo—la caviglia di lei contro la sua, il calore che penetrava attraverso il tessuto. Le mani che si stringevano nell'ombra, lontano dagli occhi elettronici—ogni volta un po' più a lungo, ogni volta un po' più intensamente.
+Ogni volta trovavano nuovi modi per toccarsi senza essere visti. Le dita che si sfioravano passandosi un tablet—un lampo di calore, un fremito che si propagava fino alla nuca. I piedi che si incontravano sotto il tavolo—la caviglia di lei contro la sua, il calore che penetrava attraverso il tessuto. Le mani che si stringevano nell'ombra, lontano dagli occhi elettronici—ogni volta un po' più a lungo, ogni volta un po' più intensamente.
 
 Una volta, nascosti dietro le file di lattuga della serra idroponica, Kate gli aveva sfiorato il viso. Solo per un istante. Le sue dita avevano percorso la linea della mascella, si erano fermate sull'angolo della bocca. James aveva smesso di respirare.
 

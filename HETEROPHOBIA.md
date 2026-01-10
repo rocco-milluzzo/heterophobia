@@ -28,7 +28,8 @@ toc-depth: 1
 \newpage
 
 
-\newpage
+
+ewpage
 
 # Capitolo 1: Quindici Anni
 
@@ -94,7 +95,19 @@ Questo è sbagliato, si disse. Questo è pericoloso.
 
 Sapeva cos'era. L'aveva studiato, come tutti. L'attrazione eterosessuale era un residuo evolutivo, un istinto che una volta serviva alla riproduzione ma che ora era obsoleto. Come la fame in eccesso, come l'aggressività. Una disfunzione che poteva essere curata.
 
-*L'eterosessualità è una scelta — scegli meglio.* Lo slogan lampeggiava sugli schermi pubblici ogni ora, insieme alle immagini dei campi di rieducazione. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
+*L'eterosessualità è una scelta — scegli meglio.*
+
+Lo slogan lampeggiava sugli schermi pubblici ogni ora, alternandosi con gli altri messaggi del Sistema:
+
+*L'amore vero non ha bisogno di figli.*
+
+*Fare figli è violenza verso il pianeta.*
+
+*Siamo tutti uguali nell'immortalità — tranne chi vuole riprodursi.*
+
+*Breeder oggi, esiliato domani.*
+
+Le immagini che accompagnavano gli slogan mostravano i campi di rieducazione — edifici bianchi immersi nel verde, che sembravano cliniche di lusso. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
 
 Sentire quel formicolio per una ragazza non era normale. Era pericoloso. Un *breeder* in potenza, lo avrebbero chiamato. Un *infetto*.
 
@@ -130,7 +143,11 @@ Quella sera, nella sua stanza, James si sdraiò sul letto e fissò il soffitto.
 
 L'Unità della sua famiglia era standard: due camere da letto, una zona comune, servizi igienici condivisi con altre tre unità del piano. Tutto bianco, tutto pulito, tutto monitorato. C'era una telecamera nell'angolo del soffitto, discreta ma presente. James ci aveva fatto l'abitudine anni prima, come tutti. Le telecamere servivano a proteggere, non a sorvegliare. Così dicevano.
 
-Dalla porta aperta sentiva la voce di Lin—sempre Lin a casa la sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello. James era nato da ectogenesi, cresciuto in una vasca per nove mesi. Non aveva mai conosciuto nient'altro. Non aveva mai pensato che potesse esistere qualcos'altro.
+Sul muro della zona comune, lo schermo pubblico trasmetteva il notiziario serale. Una voce calma, rassicurante, elencava le statistiche del giorno: *"Oggi sono stati identificati e avviati alla rieducazione quattordici soggetti devianti nel Distretto Nord. Ricordiamo che la segnalazione di comportamenti sospetti è un dovere civico. Il Sistema protegge chi collabora."*
+
+James distolse lo sguardo. Lo schermo non si poteva spegnere.
+
+Dalla porta aperta sentiva la voce di Mei — sempre Mei a casa la sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello. James era nato da ectogenesi, cresciuto in una vasca per nove mesi. Non aveva mai conosciuto nient'altro. Non aveva mai pensato che potesse esistere qualcos'altro.
 
 Fino a oggi.
 
@@ -186,19 +203,24 @@ James non lo sapeva. Non poteva saperlo.
 
 Ma il Sistema aveva già iniziato a guardare.
 
-\newpage
+
+ewpage
 
 # Capitolo 2: Il Gioco
 
 Kate notò il ragazzo che la guardava.
 
-Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Stava ridendo, cercando di soffocare il suono, quando un brivido le corse lungo la schiena.
+Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Kate aveva passato la notte precedente a modificare il codice del programma, inserendo una subroutine nascosta che faceva comparire messaggi assurdi a intervalli casuali. Era il suo modo di ribellirsi—piccoli atti di sabotaggio che nessuno avrebbe mai scoperto. *Glitch casuali*, avrebbero detto i tecnici. *Errori di sistema.*
+
+Kate non era solo una studentessa. Era una mente che non sapeva stare ferma, un cervello che smontava le cose per capire come funzionavano e poi le rimontava in modo migliore. O peggiore, a seconda del punto di vista. A quindici anni aveva già hackerato tre sistemi del Complesso—niente di grave, solo per vedere se ci riusciva. Nessuno l'aveva mai scoperta.
+
+Stava ridendo, cercando di soffocare il suono, quando un brivido le corse lungo la schiena.
 
 Non un rumore. La sensazione improvvisa di essere osservata. Di essere *vista*.
 
 Alzò gli occhi e lo vide.
 
-Tre file indietro, vicino alla finestra. Un ragazzo con i capelli scuri e gli occhi ancora più scuri, fissi su di lei. Quando i loro sguardi si incrociarono, lui si voltò di scatto, come se fosse stato colto in flagrante.
+Tre file indietro, vicino alla finestra. Un ragazzo con i capelli scuri e gli occhi ancora più scuri, fissi su di lei. Quando lei lo guardò, lui si voltò di scatto, colto in flagrante.
 
 Kate trattenne un sorriso. Tipico.
 
@@ -221,6 +243,14 @@ Kate scosse la testa e cercò di concentrarsi sulla lezione. Non erano affari su
 "Il Divieto," disse, quando il professore cercava una risposta che Valeri non riusciva a dare. "L'immortalità ha reso necessario il Divieto. Senza morte naturale, la riproduzione doveva cessare per evitare il collasso delle risorse."
 
 Le parole le uscirono automatiche, senza pensarci. Le aveva sentite ripetere così tante volte che erano diventate parte di lei, come il battito del cuore o il ritmo del respiro. La verità ufficiale. L'unica verità.
+
+Ma Kate sapeva fare i conti. Aveva fatto i conti, una notte, da sola nel buio della sua stanza. Dodici miliardi di immortali. Risorse planetarie. Tassi di consumo. Aveva inserito i numeri in un modello che si era costruita da sola, usando dati che aveva... *trovato* nei sistemi del Complesso.
+
+I numeri non tornavano.
+
+Non del tutto, almeno. Il Divieto aveva senso, certo. Ma non *quel* Divieto. Non l'eliminazione totale della riproduzione. C'era spazio per qualcosa di più moderato—limiti, controlli, non cancellazione. Kate non capiva perché il Sistema avesse scelto la soluzione più estrema.
+
+O forse lo capiva. Ma era un pensiero che non poteva permettersi di pensare.
 
 "Esatto, Ferrante. Almeno qualcuno segue la lezione."
 
@@ -414,7 +444,8 @@ Da qualche parte nel Complesso, un algoritmo registrava che due studenti di sess
 
 Ma Kate non lo sapeva. Stava solo sorridendo nel buio, pensando a un ragazzo con gli occhi scuri che la guardava come nessuno l'aveva mai guardata.
 
-\newpage
+
+ewpage
 
 # Capitolo 3: Frammento — Marta
 
@@ -552,7 +583,8 @@ E io resto qui, con le mani che tremano, a chiedermi che cosa abbiano fatto a qu
 
 E che cosa faranno a James e Kate, se li scoprono.
 
-\newpage
+
+ewpage
 
 # Capitolo 4: Primi Passi
 
@@ -742,7 +774,8 @@ Da qualche parte nel Complesso, un sensore registrò un'anomalia termica. Due co
 
 Ma loro non lo sapevano. E anche se l'avessero saputo, in quel momento non gliene sarebbe importato nulla.
 
-\newpage
+
+ewpage
 
 # Capitolo 5: Il Libro
 
@@ -944,7 +977,8 @@ Il Sistema poteva osservarla. Gli algoritmi potevano analizzarla. I Controllori 
 
 Ma non le avrebbero portato via questo. Non ancora.
 
-\newpage
+
+ewpage
 
 # Capitolo 6: Documenti Interni
 
@@ -1122,7 +1156,8 @@ Sotto, una sola frase scritta con una grafia diversa—più tremante, più urgen
 
 *Trova noi.*
 
-\newpage
+
+ewpage
 
 # Capitolo 7: Il Primo Contatto
 
@@ -1326,7 +1361,7 @@ E meravigliosa.
 
 Il giorno dopo tornò in biblioteca. E quello dopo ancora. E quello dopo ancora.
 
-Ogni volta trovavano nuovi modi per toccarsi senza essere visti. Le dita che si sfioravano passandosi un tablet—un lampo di calore, un brivido lungo la schiena. I piedi che si incontravano sotto il tavolo—la caviglia di lei contro la sua, il calore che penetrava attraverso il tessuto. Le mani che si stringevano nell'ombra, lontano dagli occhi elettronici—ogni volta un po' più a lungo, ogni volta un po' più intensamente.
+Ogni volta trovavano nuovi modi per toccarsi senza essere visti. Le dita che si sfioravano passandosi un tablet—un lampo di calore, un fremito che si propagava fino alla nuca. I piedi che si incontravano sotto il tavolo—la caviglia di lei contro la sua, il calore che penetrava attraverso il tessuto. Le mani che si stringevano nell'ombra, lontano dagli occhi elettronici—ogni volta un po' più a lungo, ogni volta un po' più intensamente.
 
 Una volta, nascosti dietro le file di lattuga della serra idroponica, Kate gli aveva sfiorato il viso. Solo per un istante. Le sue dita avevano percorso la linea della mascella, si erano fermate sull'angolo della bocca. James aveva smesso di respirare.
 
@@ -1374,7 +1409,8 @@ Il Sistema era paziente. Il Sistema poteva aspettare.
 
 Ma il tempo di James e Kate stava già cominciando a scadere.
 
-\newpage
+
+ewpage
 
 # Capitolo 8: La Prima Notte
 
@@ -1734,7 +1770,8 @@ Ma a tre isolati di distanza, ignara di tutto, Kate dormiva ancora con il sorris
 
 E il tempo che le restava, senza saperlo, aveva appena cominciato il suo conto alla rovescia.
 
-\newpage
+
+ewpage
 
 # Intermezzo
 
@@ -1913,7 +1950,8 @@ Come se l'avessi dimenticata.
 
 Come se qualcuno me l'avesse fatta dimenticare.
 
-\newpage
+
+ewpage
 
 # Capitolo 10: Frammento — Enzio
 
@@ -2100,7 +2138,8 @@ Chi sono io in questa storia?
 
 E perché, quando chiudo gli occhi, vedo il viso di qualcuno che non ho ancora incontrato?
 
-\newpage
+
+ewpage
 
 # Capitolo 11: Cinque Anni
 
@@ -2370,13 +2409,24 @@ E se il Sistema mi scopre... se mi marchiano come infetta, come loro...
 
 Forse ne varrà la pena. Forse alcune risposte valgono qualsiasi prezzo.
 
-\newpage
+
+ewpage
 
 # Capitolo 12: Routine del Segreto
 
 James aveva ventitré anni e una vita che non gli apparteneva.
 
-Di giorno era l'archivista Valeri, dipendente modello del Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. Arrivava puntuale ogni mattina, salutava i colleghi con un cenno educato, si sedeva alla sua postazione e iniziava a catalogare. Fascicoli, registrazioni, fotografie ingiallite di un mondo che non esisteva più. Un mondo dove un uomo e una donna potevano tenersi per mano senza rischiare l'esilio.
+Di giorno era l'archivista Valeri, dipendente modello del Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. La mattina iniziava sempre allo stesso modo: la sveglia alle sei, la doccia di tre minuti (l'acqua era razionata, anche per gli immortali), la colazione sintetica che sapeva di niente. Poi il tragitto verso l'archivio, seduto nel vagone silenzioso del trasporto pubblico insieme ad altri pendolari che non parlavano mai.
+
+Nessuno parlava, sui trasporti. Le telecamere registravano tutto, e l'AI analizzava le conversazioni in tempo reale. Una parola sbagliata, un'espressione sospetta, e il tuo fascicolo si appesantiva di un'altra nota. Tutti avevano imparato il silenzio.
+
+Sul vagone c'erano gli schermi pubblici, impossibili da ignorare. Quella mattina trasmettevano un documentario educativo: *"Guariti: Storie di Recupero dalla Devianza Eterosessuale"*. Un uomo di mezza età parlava alla telecamera con espressione serena.
+
+*"Prima della rieducazione, ero malato. Pensavo di amare una donna. Pensavo che fosse naturale. Ma i medici mi hanno aiutato a capire che era solo un'ossessione, una disfunzione chimica. Ora sono libero. Ora sono finalmente normale."*
+
+James distolse lo sguardo e fissò il pavimento fino alla sua fermata.
+
+Arrivava puntuale ogni mattina, salutava i colleghi con un cenno educato, si sedeva alla sua postazione e iniziava a catalogare. Fascicoli, registrazioni, fotografie ingiallite di un mondo che non esisteva più. Un mondo dove un uomo e una donna potevano tenersi per mano senza rischiare l'esilio.
 
 Era bravo nel suo lavoro. Così bravo che i superiori lo avevano promosso due volte in tre anni, dandogli accesso a livelli di archiviazione sempre più profondi. Non sapevano che ogni promozione era un'arma. Non sapevano che il loro archivista modello era un infetto.
 
@@ -2616,7 +2666,8 @@ Dovevano andarsene. Presto. Prima che il Sistema li trovasse.
 
 Prima che fosse troppo tardi.
 
-\newpage
+
+ewpage
 
 # Capitolo 13: La Proposta
 
@@ -2858,7 +2909,8 @@ Kate aprì gli occhi nel buio.
 
 E se qualcuno sapeva già?
 
-\newpage
+
+ewpage
 
 # Capitolo 14: Il Piano
 
@@ -3088,7 +3140,8 @@ Era un interrogatorio.
 
 Il Sistema li aveva trovati.
 
-\newpage
+
+ewpage
 
 # Capitolo 15: Frammento — I Genitori di James
 
@@ -3207,7 +3260,8 @@ Ma da qualche parte, in quella notte silenziosa, in quell'eco lontana di cui par
 
 Forse una parte di lei l'avrebbe invidiato.
 
-\newpage
+
+ewpage
 
 # Capitolo 16: La Decisione
 
@@ -3457,7 +3511,8 @@ E di una voce metallica che ripeteva, all'infinito:
 
 *"Cittadini infetti identificati. Procedura di contenimento in corso."*
 
-\newpage
+
+ewpage
 
 # Capitolo 17: L'Attesa
 
@@ -3673,7 +3728,8 @@ E poi fecero l'unica cosa che potevano fare.
 
 Corsero.
 
-\newpage
+
+ewpage
 
 # Capitolo 18: Il Segno
 
@@ -3901,7 +3957,8 @@ Kate strinse la mano di James. La vita nella sua pancia—la vita che avevano cr
 
 Fuori, nel cielo che si stava oscurando, il ronzio dei droni si faceva sempre più vicino.
 
-\newpage
+
+ewpage
 
 # Capitolo 19: La Nuova Vita
 
@@ -4072,7 +4129,8 @@ Qualcuno che portava il suo stesso nome.
 
 Qualcuno che non sapeva ancora di essere sua figlia.
 
-\newpage
+
+ewpage
 
 # Capitolo 20: Documenti Medici
 
@@ -4191,7 +4249,8 @@ Se quelle parole nel quaderno—*mi chiedo se capirà*—non fossero state scrit
 
 Il quaderno giaceva chiuso sulla scrivania, ma le sue pagine pulsavano come un cuore ancora vivo. E io avevo paura di quello che avrei scoperto continuando a scavare. Paura, e insieme un desiderio bruciante che non riuscivo a soffocare.
 
-\newpage
+
+ewpage
 
 # Capitolo 21: I Primi Anni
 
@@ -4356,7 +4415,8 @@ Fuori, il vento notturno portava il profumo dei pini. Un gufo lanciò il suo ric
 
 Una fiamma che un giorno avrebbe illuminato il mondo.
 
-\newpage
+
+ewpage
 
 # Capitolo 22: Frammento — Enrico
 
@@ -4625,7 +4685,8 @@ Forse le conosco ancora.
 
 E forse—il pensiero mi attraversa come una lama fredda—forse il sangue che scorre nelle mie vene è lo stesso che scorreva nelle sue.
 
-\newpage
+
+ewpage
 
 # Capitolo 23: La Domanda
 
@@ -4797,7 +4858,8 @@ Un giorno, pensò. Un giorno Alice avrebbe letto quelle poesie e avrebbe capito.
 
 E forse—si augurava con tutto se stesso—avrebbe capito perché.
 
-\newpage
+
+ewpage
 
 # Capitolo 24: La Crepa
 
@@ -4985,7 +5047,8 @@ Forse, pensò James, il vecchio archivista aveva ragione.
 
 E forse, un giorno, sua figlia sarebbe stata quella che avrebbe dimostrato a tutti quanto.
 
-\newpage
+
+ewpage
 
 # Capitolo 25: Segnali
 
@@ -5137,7 +5200,8 @@ Stava scrivendo una storia. La loro storia.
 
 E fuori dalla finestra del suo sogno, il mondo stava cambiando.
 
-\newpage
+
+ewpage
 
 # Capitolo 26: La Rete
 
@@ -5267,7 +5331,8 @@ Forse non era troppo tardi. Forse il mondo poteva ancora cambiare.
 
 Forse sua figlia sarebbe stata quella che lo avrebbe cambiato.
 
-\newpage
+
+ewpage
 
 # Capitolo 27: La Scoperta
 
@@ -5476,7 +5541,8 @@ Ma era un inizio. E gli inizi, a volte, sono tutto ciò che serve.
 
 Dentro il rifugio, Alice dormiva con il libro stretto al petto. E nei suoi sogni, forse, vedeva un futuro che i suoi genitori non osavano nemmeno immaginare.
 
-\newpage
+
+ewpage
 
 # Capitolo 28: Dieci Anni
 
@@ -5670,7 +5736,8 @@ Aveva ragione, nonno Enzio.
 
 Aveva ragione.
 
-\newpage
+
+ewpage
 
 # Capitolo 29: La Decisione
 
@@ -5873,7 +5940,8 @@ Ma posso sperare.
 E la speranza, a volte, è abbastanza.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 30: La Ricerca
 
@@ -6088,7 +6156,8 @@ Non so se il mondo sarà mai diverso.
 Ma almeno ho visto il tramonto. Almeno ho avuto questo.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 31: L'Ultimo Giorno
 
@@ -6289,7 +6358,8 @@ Forse è per questo che quel giorno è così vivido nella mia memoria. Il fiume.
 Ed è stato perfetto.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 32: Il Raid
 
@@ -6564,7 +6634,8 @@ Perché mio padre mi ha amato abbastanza da lasciarmi andare. In un mondo che ch
 È il dono più grande che potesse darmi.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 33: La Corsa
 
@@ -6785,7 +6856,8 @@ La strinsi a me. Mia figlia, che aveva perso suo padre quella mattina. Mia figli
 Era una promessa. A lei. A me stessa. A James, ovunque fosse.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 34: La Scelta
 
@@ -6980,7 +7052,8 @@ L'ha fatto lo stesso.
 Per me.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 35: Il Manoscritto
 
@@ -7157,7 +7230,8 @@ Per avermi amato.
 È stato tutto.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 36: Le Zone Orientali
 
@@ -7406,7 +7480,8 @@ Le storie trovano sempre chi le racconta.
 E l'amore trova sempre chi lo difende.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 37: Il Ritorno
 
@@ -7555,7 +7630,8 @@ Sono nata dall'amore—l'amore vero, quello che il Sistema chiama malattia.
 E questa è la nostra storia.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 38: Epilogo
 
@@ -7708,7 +7784,8 @@ Vive in voi che leggete. In voi che dubitate. In voi che, forse, un giorno amere
 Per sempre.
 
 
-\newpage
+
+ewpage
 
 # Capitolo 39: Fine
 

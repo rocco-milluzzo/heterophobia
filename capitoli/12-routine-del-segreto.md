@@ -2,7 +2,17 @@
 
 James aveva ventitré anni e una vita che non gli apparteneva.
 
-Di giorno era l'archivista Valeri, dipendente modello del Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. Arrivava puntuale ogni mattina, salutava i colleghi con un cenno educato, si sedeva alla sua postazione e iniziava a catalogare. Fascicoli, registrazioni, fotografie ingiallite di un mondo che non esisteva più. Un mondo dove un uomo e una donna potevano tenersi per mano senza rischiare l'esilio.
+Di giorno era l'archivista Valeri, dipendente modello del Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. La mattina iniziava sempre allo stesso modo: la sveglia alle sei, la doccia di tre minuti (l'acqua era razionata, anche per gli immortali), la colazione sintetica che sapeva di niente. Poi il tragitto verso l'archivio, seduto nel vagone silenzioso del trasporto pubblico insieme ad altri pendolari che non parlavano mai.
+
+Nessuno parlava, sui trasporti. Le telecamere registravano tutto, e l'AI analizzava le conversazioni in tempo reale. Una parola sbagliata, un'espressione sospetta, e il tuo fascicolo si appesantiva di un'altra nota. Tutti avevano imparato il silenzio.
+
+Sul vagone c'erano gli schermi pubblici, impossibili da ignorare. Quella mattina trasmettevano un documentario educativo: *"Guariti: Storie di Recupero dalla Devianza Eterosessuale"*. Un uomo di mezza età parlava alla telecamera con espressione serena.
+
+*"Prima della rieducazione, ero malato. Pensavo di amare una donna. Pensavo che fosse naturale. Ma i medici mi hanno aiutato a capire che era solo un'ossessione, una disfunzione chimica. Ora sono libero. Ora sono finalmente normale."*
+
+James distolse lo sguardo e fissò il pavimento fino alla sua fermata.
+
+Arrivava puntuale ogni mattina, salutava i colleghi con un cenno educato, si sedeva alla sua postazione e iniziava a catalogare. Fascicoli, registrazioni, fotografie ingiallite di un mondo che non esisteva più. Un mondo dove un uomo e una donna potevano tenersi per mano senza rischiare l'esilio.
 
 Era bravo nel suo lavoro. Così bravo che i superiori lo avevano promosso due volte in tre anni, dandogli accesso a livelli di archiviazione sempre più profondi. Non sapevano che ogni promozione era un'arma. Non sapevano che il loro archivista modello era un infetto.
 
