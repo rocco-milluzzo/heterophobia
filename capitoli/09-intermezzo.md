@@ -44,7 +44,7 @@ Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggi
 
 ---
 
-L'amore, nel mondo di Kate e James, non era romantico. Era geologico. Una forza sotterranea che spostava continenti, che faceva tremare la terra.
+L'amore, nel mondo di Kate e James, non era romantico. Era qualcosa di più antico, più profondo. Una forza sotterranea che spostava continenti, che faceva tremare la terra.
 
 Il Sistema ha provato a soffocarlo. Per decenni ha insegnato che l'attrazione tra uomo e donna era un residuo evolutivo, un istinto obsoleto come l'appendice o i denti del giudizio. *L'eterosessualità è una scelta — scegli meglio*, recitavano i manifesti nelle scuole. *L'amore vero non ha bisogno di figli. Fare figli è violenza verso il pianeta.*
 
@@ -73,8 +73,6 @@ Kate e James lo sapevano.
 E l'hanno dimostrato.
 
 ---
-
-## Capitolo 2: Il Primo Documento
 
 Ho trovato la prima lettera per caso.
 

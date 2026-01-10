@@ -62,7 +62,7 @@ Quella sera Kate andò a trovare sua nonna.
 
 L'appartamento di Marta era in un'ala diversa del Complesso Residenziale, riservata agli anziani pre-immortalità. Erano pochi, ormai—la maggior parte aveva accettato le Cure non appena erano diventate disponibili. Ma alcuni, come Marta, avevano resistito a lungo, abbastanza da ricordare un mondo diverso.
 
-"Sei tornata," disse la vecchia aprendo la porta. Non era davvero vecchia—le Cure l'avevano congelata biologicamente intorno ai quarantacinque anni, quando finalmente aveva ceduto—ma c'era qualcosa nei suoi occhi che nessun trattamento poteva ringiovanire.
+"Sei tornata," disse la vecchia aprendo la porta. Non era davvero vecchia—le Cure l'avevano congelata biologicamente intorno ai cinquantacinque anni, quando finalmente aveva ceduto—ma c'era qualcosa nei suoi occhi che nessun trattamento poteva ringiovanire.
 
 "Volevo chiederti una cosa."
 

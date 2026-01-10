@@ -144,7 +144,7 @@ Lei alzò lo sguardo. "Non fermarti."
 
 Non si fermò.
 
-I vestiti caddero uno dopo l'altro, lasciando spazio alla pelle nuda, alla verità dei corpi. Kate scoprì la geografia di James con le mani e con gli occhi—la curva delle spalle, la linea dei fianchi, il calore che emanava come un sole nascosto. Lui la esplorava con la stessa reverenza, le dita che tracciavano sentieri lungo la schiena, i fianchi, le curve che nessuno aveva mai toccato.
+I vestiti caddero uno dopo l'altro, lasciando spazio alla pelle nuda, alla verità dei corpi. Kate lo scoprì con le mani e con gli occhi—la curva delle spalle, la linea dei fianchi, il calore che emanava come un sole nascosto. Lui la esplorava con la stessa reverenza, le dita che tracciavano sentieri lungo la schiena, i fianchi, le curve che nessuno aveva mai toccato.
 
 "Sei bellissima," sussurrò lui, e la sua voce si spezzò sull'ultima sillaba.
 

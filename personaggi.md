@@ -110,7 +110,7 @@
 ### Generazione Genitori (nati ~2050)
 
 **Enrico Ferrante** (padre di Kate)
-- Vedovo, la moglie morì prima che le Cure fossero perfezionate
+- La moglie Elena (madre di Kate) fu deportata nelle Zone Abbandonate come "infetta recidiva" quando Kate aveva 3 anni
 - Perfettamente conforme per sopravvivenza, non convinzione
 - Sa della relazione di Kate ma finge di non vedere
 - Funzione: Mostra il costo del silenzio complice
@@ -125,11 +125,12 @@
 
 ### Generazione Nonni (nati ~2030)
 
-**Nonna Marta** (nonna materna di Kate, madre di Enrico)
-- 75 anni quando arrivano le Cure, ora biologicamente ~45
+**Nonna Marta** (nonna materna di Kate, madre di Elena)
+- 75 anni quando arrivano le Cure, ora biologicamente ~55
 - Ricorda il mondo "prima"
 - Unica che parla apertamente con Kate della "vecchia normalità"
 - Funzione: Flashback sull'Era della Fusione, nostalgia come resistenza
+- Vide sua figlia Elena deportata senza fare nulla — il suo più grande rimpianto
 
 **Nonno Enzio** (nonno paterno di James)
 - Ex-italiano, ancora parla la lingua per nostalgia
@@ -175,14 +176,17 @@ GENERAZIONE BISNONNI (nati ~2020)
      │
      ▼
 GENERAZIONE NONNI (nati ~2030-2040)
-├── Marta ─── Enrico ─┬─ [moglie morta]
+├── Marta ─── Elena (deportata 2083)
+│                    ╲
+│                     ╲
+│               Enrico ─┼─ Elena
 │                          │
-│                          Kate (2080)
-│                                    ╲
-│                                     ╲
-│                                      Alice (2107)
-│                                     ╱
-│                                    ╱
+│                        Kate (2080)
+│                                  ╲
+│                                   ╲
+│                                    Alice (2107)
+│                                   ╱
+│                                  ╱
 └── Enzio ─── Mei + Marco Valeri
                     │
                  James (2080)

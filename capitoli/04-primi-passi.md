@@ -60,11 +60,11 @@ Poi le conversazioni iniziarono a cambiare.
 
 "Per sempre era più breve, allora," rispose James. "Cinquant'anni, sessanta al massimo."
 
-"Ma era comunque per sempre. Per il tempo che avevano." Kate abbassò la voce ancora di più. "Mia nonna mi ha raccontato di sua figlia. Di mia madre. È stata portata via quando io avevo tre anni. Perché amava mio padre. Perché voleva stare con lui."
+"Ma era comunque per sempre. Per il tempo che avevano." Kate abbassò la voce ancora di più. "Mia nonna mi ha raccontato di sua figlia. Di mia madre. È stata portata via quando io avevo tre anni. L'hanno classificata *infetta recidiva*. Deportata nelle Zone."
 
 James sentì il sangue gelarsi. "E tuo padre?"
 
-"Esiliato. Nelle Zone. Non so nemmeno se sia ancora vivo." Gli occhi di Kate brillavano nell'ombra. "E per questo che devo stare attenta. Se scoprono che sono figlia di *infetti*..."
+"Ha firmato i documenti di dissociazione. Per tenermi." La voce di Kate era piatta, priva di giudizio. "Non lo biasimo. Se non l'avesse fatto, avrebbero portato via anche me. Ma non ne parliamo mai. È come se mia madre non fosse mai esistita." Gli occhi di Kate brillavano nell'ombra. "Per questo devo stare attenta. Se scoprono che sono figlia di un'*infetta*..."
 
 Non finì la frase. Non ce n'era bisogno.
 

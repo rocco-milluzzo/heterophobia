@@ -46,7 +46,7 @@ Ma non sono riuscita a fermarmi.
 
 *29 giugno 2077*
 
-*Marta è stata presa per la rieducazione. La mia Marta. La madre di Kate.*
+*Elena è stata presa per la rieducazione. La mia Elena.*
 
 *L'hanno trovata con vecchie fotografie del nostro matrimonio. "Glorificazione del comportamento deviante", hanno detto. Sei mesi di rieducazione.*
 
@@ -60,13 +60,23 @@ Ma non sono riuscita a fermarmi.
 
 *Il Divieto è legge. L'eterosessualità è ufficialmente un crimine.*
 
-*Marta non ha reagito quando l'ho detto. Ha solo annuito e ha continuato a fissare il muro. Quella notte si è addormentata senza una parola.*
+*Elena non ha reagito quando l'ho detto. Ha solo annuito e ha continuato a fissare il muro. Quella notte si è addormentata senza una parola.*
 
-*Non l'ho mai più toccata. Non per mancanza di desiderio, ma per paura. Paura che vedessero. Paura che sapessero. Paura che portassero via anche lei, definitivamente.*
+*Non l'ho mai più toccata. Non per mancanza di desiderio, ma per paura. Paura che vedessero. Paura che sapessero. Paura che la portassero via definitivamente.*
 
-*È morta tre anni dopo. Il suo cuore si è semplicemente fermato. I medici hanno detto che non c'era ragione fisica.*
+---
 
-*Io so qual era la ragione. L'avevano già uccisa nel '77. Il suo corpo ha impiegato solo più tempo a capirlo.*
+*3 marzo 2083*
+
+*L'hanno portata via.*
+
+*Kate aveva tre anni. Elena l'ha abbracciata un'ultima volta prima di salire sul furgone. Non ha pianto. Non ha urlato. È rimasta lì, con gli occhi vuoti, come se avesse già accettato il suo destino da anni.*
+
+*L'hanno classificata "infetta recidiva". Deportata nelle Zone Abbandonate. Non la rivedrò mai più.*
+
+*Ho firmato i documenti di dissociazione. Non avevo scelta. Se avessi rifiutato, avrebbero portato via anche Kate.*
+
+*Mi odio per non aver fatto nulla. Ma cosa potevo fare?*
 
 ---
 
