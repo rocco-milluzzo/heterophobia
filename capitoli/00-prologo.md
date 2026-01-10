@@ -4,9 +4,9 @@
 
 Non so esattamente quando abbiano iniziato ad amarsi. So solo quando hanno smesso di nasconderlo a se stessi.
 
-C'e una data nei documenti. Un giorno specifico dell'anno 2098, terzo mese, quando lei aveva diciotto anni e lui ne aveva compiuti 19 da poco. Ma l'amore non funziona cosi, non inizia in un momento preciso che puoi segnare su un calendario. L'amore e un'infezione lenta, un contagio che si insinua nelle ossa prima che tu possa accorgertene.
+C'è una data nei documenti. Un giorno specifico dell'anno 2098, terzo mese, quando lei aveva diciotto anni e lui ne aveva compiuti 19 da poco. Ma l'amore non funziona così, non inizia in un momento preciso che puoi segnare su un calendario. L'amore è un'infezione lenta, un contagio che si insinua nelle ossa prima che tu possa accorgertene.
 
-Almeno, cosi lo chiamavano. Infezione. Contagio. I *breeder*, li chiamavano. Gli *infetti*. Egoisti genetici che volevano perpetuare il proprio DNA a scapito del pianeta.
+Almeno, così lo chiamavano. Infezione. Contagio. I *breeder*, li chiamavano. Gli *infetti*. Egoisti genetici che volevano perpetuare il proprio DNA a scapito del pianeta.
 
 Loro se ne accorsero troppo tardi.
 
@@ -20,9 +20,9 @@ Erano Ultimi.
 
 ---
 
-Gli Ultimi. L'ultima generazione. I bambini nati subito dopo il Divieto, quando il mondo aveva gia deciso che non ce ne sarebbero stati altri. Concepiti prima che la legge entrasse in vigore, partoriti quando era gia troppo tardi per fermarli. Marchiati fin dalla nascita come residui di un'era barbara—*dinosauri*, li chiamava la propaganda. Figli di un mondo malato che aveva finalmente trovato la cura.
+Gli Ultimi. L'ultima generazione. I bambini nati subito dopo il Divieto, quando il mondo aveva già deciso che non ce ne sarebbero stati altri. Concepiti prima che la legge entrasse in vigore, partoriti quando era già troppo tardi per fermarli. Marchiati fin dalla nascita come residui di un'era barbara—*dinosauri*, li chiamava la propaganda. Figli di un mondo malato che aveva finalmente trovato la cura.
 
-Cresciuti sapendo di essere tra gli ultimi della loro specie, se cosi si puo dire. Tra gli ultimi a nascere come si nasceva una volta, da un corpo, non da una macchina. Gli ultimi a cui qualcuno avesse detto "figlio" intendendo un legame di sangue, di carne, di verita.
+Cresciuti sapendo di essere tra gli ultimi della loro specie, se così si può dire. Tra gli ultimi a nascere come si nasceva una volta, da un corpo, non da una macchina. Gli ultimi a cui qualcuno avesse detto "figlio" intendendo un legame di sangue, di carne, di verità.
 
 Avevano quindici anni quando si sono visti per la prima volta. Una scuola del Distretto Nord dell'Ex-Europa, aule grigie, uniformi identiche, il ronzio costante dei sistemi di monitoraggio che nessuno notava più. Lei rideva di qualcosa. Lui l'ha guardata.
 
@@ -46,7 +46,7 @@ Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggi
 
 L'amore, nel mondo di Kate e James, non era romantico. Era geologico. Una forza sotterranea che spostava continenti, che faceva tremare la terra.
 
-Il Sistema ha provato a soffocarlo. Per decenni ha insegnato che l'attrazione tra uomo e donna era un residuo evolutivo, un istinto obsoleto come l'appendice o i denti del giudizio. *L'eterosessualita e una scelta—scegli meglio*, recitavano i manifesti nelle scuole. *L'amore vero non ha bisogno di figli. Fare figli e violenza verso il pianeta.*
+Il Sistema ha provato a soffocarlo. Per decenni ha insegnato che l'attrazione tra uomo e donna era un residuo evolutivo, un istinto obsoleto come l'appendice o i denti del giudizio. *L'eterosessualità è una scelta—scegli meglio*, recitavano i manifesti nelle scuole. *L'amore vero non ha bisogno di figli. Fare figli è violenza verso il pianeta.*
 
 I campi di rieducazione erano pieni di chi non aveva scelto meglio. Le retate notturne svuotavano interi quartieri. Gli *infetti* sparivano nelle Zone Abbandonate, e nessuno faceva domande.
 
@@ -149,23 +149,23 @@ Quella, forse, è la cosa più rivoluzionaria di tutte.
 
 ---
 
-Nei documenti che seguono troverete la loro storia dall'inizio. Da quel giorno a scuola, quando lei rideva e lui la guardo. Lungo gli anni del corteggiamento silenzioso, delle parole non dette, dei tocchi rubati. Fino alla decisione che cambio tutto.
+Nei documenti che seguono troverete la loro storia dall'inizio. Da quel giorno a scuola, quando lei rideva e lui la guardò. Lungo gli anni del corteggiamento silenzioso, delle parole non dette, dei tocchi rubati. Fino alla decisione che cambiò tutto.
 
-Fino a cio che venne dopo.
+Fino a ciò che venne dopo.
 
 Ma per ora, fermatevi un momento. Guardate questa lettera. Queste parole che James scrisse a mano per Kate, vent'anni dopo essersi innamorato di lei.
 
-*Ti amo come non dovrei, come non posso, come e illegale amare.*
+*Ti amo come non dovrei, come non posso, come è illegale amare.*
 
-In un mondo dove l'immortalita ha reso tutto eterno, questo e l'unico documento che mi abbia fatto provare una fitta al petto. Un dolore umano. Mortale.
+In un mondo dove l'immortalità ha reso tutto eterno, questo è l'unico documento che mi abbia fatto provare una fitta al petto. Un dolore umano. Mortale.
 
 Vero.
 
 ---
 
-C'e un'ultima cosa che devo dire, prima di cominciare.
+C'è un'ultima cosa che devo dire, prima di cominciare.
 
-Non so chi sono. Non nel senso filosofico—so il mio nome, la mia storia, il mio ruolo. Ma c'e un vuoto, dentro di me. Un'assenza che non riesco a spiegare. E ogni volta che leggo le parole di James e Kate, quel vuoto brucia.
+Non so chi sono. Non nel senso filosofico—so il mio nome, la mia storia, il mio ruolo. Ma c'è un vuoto, dentro di me. Un'assenza che non riesco a spiegare. E ogni volta che leggo le parole di James e Kate, quel vuoto brucia.
 
 Come se stessi leggendo la mia stessa storia.
 

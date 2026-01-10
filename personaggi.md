@@ -175,7 +175,7 @@ GENERAZIONE NONNI (nati ~2030-2040)
 │                          Kate (2080)
 │                                    ╲
 │                                     ╲
-│                                      Alice (~2095)
+│                                      Alice (2107)
 │                                     ╱
 │                                    ╱
 └── Enzio ─── Lin Chen + Marco Rossi

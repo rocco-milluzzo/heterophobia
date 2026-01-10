@@ -22,9 +22,9 @@ James annuì. L'aveva letta talmente tante volte che la sapeva a memoria.
 
 James non rispose. Stava guardando le mani di lei, appoggiate sul tavolo a pochi centimetri dalle proprie. Le dita sottili, le unghie corte. Una piccola cicatrice sul pollice sinistro che non aveva mai avuto il coraggio di chiederle come si fosse fatta. La pelle chiara, quasi traslucida sotto le luci artificiali della biblioteca. Una vena azzurra che pulsava sul dorso, seguendo un ritmo che lui avrebbe voluto sentire sotto le proprie dita.
 
-"A volte mi chiedo come sarebbe," sussurro Kate. "Toccare qualcuno. Toccare davvero, intendo. Non come quando ti sfiori per sbaglio in corridoio, o quando il medico ti visita. Ma toccare perche vuoi farlo. Perche non riesci a non farlo."
+"A volte mi chiedo come sarebbe," sussurrò Kate. "Toccare qualcuno. Toccare davvero, intendo. Non come quando ti sfiori per sbaglio in corridoio, o quando il medico ti visita. Ma toccare perché vuoi farlo. Perché non riesci a non farlo."
 
-La sua voce era bassa, roca. James senti un calore salirgli dal petto alla gola. Il cuore aveva iniziato a battergli piu forte, e si chiese se i sensori ambientali potessero registrarlo. Improbabile—non erano cosi precisi, non a quella distanza. Ma la paura restava, mescolata a un altro sentire piu forte, piu antico.
+La sua voce era bassa, roca. James sentì un calore salirgli dal petto alla gola. Il cuore aveva iniziato a battergli più forte, e si chiese se i sensori ambientali potessero registrarlo. Improbabile—non erano così precisi, non a quella distanza. Ma la paura restava, mescolata a un altro sentire più forte, più antico.
 
 "Non dovresti dire queste cose," mormorò.
 
@@ -70,23 +70,23 @@ Kate sorrise. Era quel sorriso che lui aveva imparato a conoscere nei mesi prece
 
 Un altro silenzio. Poi Kate fece qualcosa di inaspettato.
 
-Mosse la mano. Solo un poco, pochi millimetri. Ma abbastanza perche le punte delle sue dita sfiorassero quelle di James.
+Mosse la mano. Solo un poco, pochi millimetri. Ma abbastanza perché le punte delle sue dita sfiorassero quelle di James.
 
 ---
 
-Il contatto duro meno di un secondo.
+Il contatto durò meno di un secondo.
 
-Ma in quel secondo, James senti il mondo fermarsi. La pelle di Kate era calda—piu calda di quanto avesse immaginato. Morbida. Viva. Le terminazioni nervose delle sue dita esplosero in un fuoco d'artificio di sensazioni che non aveva mai provato. Il calore si propago lungo il braccio, gli invase il petto, gli tolse il respiro.
+Ma in quel secondo, James sentì il mondo fermarsi. La pelle di Kate era calda—più calda di quanto avesse immaginato. Morbida. Viva. Le terminazioni nervose delle sue dita esplosero in un fuoco d'artificio di sensazioni che non aveva mai provato. Il calore si propagò lungo il braccio, gli invase il petto, gli tolse il respiro.
 
-Ritrasse la mano come se si fosse bruciato—ma non era dolore. Era il contrario del dolore. Era la cosa piu intensa che avesse mai percepito.
+Ritrasse la mano come se si fosse bruciato—ma non era dolore. Era il contrario del dolore. Era la cosa più intensa che avesse mai percepito.
 
-Il cuore gli martellava nel petto, cosi forte che temeva lo sentissero in tutto il Complesso. Si guardo intorno freneticamente, cercando telecamere, sensori, qualsiasi cosa che potesse averli visti.
+Il cuore gli martellava nel petto, così forte che temeva lo sentissero in tutto il Complesso. Si guardò intorno freneticamente, cercando telecamere, sensori, qualsiasi cosa che potesse averli visti.
 
 Niente. Erano soli. Nascosti nell'angolo cieco che lui stesso aveva scelto.
 
 "Scusa," disse Kate, e nella sua voce c'era un tremito. "Non avrei dovuto—"
 
-"No." La parola gli usci prima che potesse fermarla. "Non scusarti."
+"No." La parola gli uscì prima che potesse fermarla. "Non scusarti."
 
 Si guardarono. Il respiro di James era irregolare, affannoso. Sentiva il sangue pulsare nelle tempie, nelle mani, in tutto il corpo. La pelle del punto dove lei l'aveva toccato bruciava ancora, un fantasma di calore che non voleva svanire. Era come se ogni cellula si fosse svegliata all'improvviso, come se avesse dormito per diciotto anni e solo ora stesse aprendo gli occhi.
 
@@ -130,21 +130,21 @@ Anche lui era stanco.
 
 La seconda volta fu lui a muoversi.
 
-Non penso. Non calcolo i rischi, non controllo le telecamere, non si chiese che cosa sarebbe successo se li avessero scoperti. Si limito ad allungare la mano e a posarla su quella di Kate.
+Non pensò. Non calcolò i rischi, non controllò le telecamere, non si chiese che cosa sarebbe successo se li avessero scoperti. Si limitò ad allungare la mano e a posarla su quella di Kate.
 
-Questa volta non si ritiro.
+Questa volta non si ritirò.
 
-La sua pelle era calda. Vellutata. Le dita erano sottili ma forti, e quando le chiuse intorno alle sue, James senti un nodo sciogliersi nel petto. Come una diga che crolla, come un muro che si sbriciola.
+La sua pelle era calda. Vellutata. Le dita erano sottili ma forti, e quando le chiuse intorno alle sue, James sentì un nodo sciogliersi nel petto. Come una diga che crolla, come un muro che si sbriciola.
 
-Le loro mani si incastrarono l'una nell'altra come se fossero state create per quello scopo. James senti il polso di lei battere contro il proprio—due ritmi separati che lentamente, impossibilmente, cominciarono a sincronizzarsi. Il calore si diffondeva dal punto di contatto, risalendo lungo il braccio, invadendo il petto, sciogliendogli i muscoli tesi.
+Le loro mani si incastrarono l'una nell'altra come se fossero state create per quello scopo. James sentì il polso di lei battere contro il proprio—due ritmi separati che lentamente, impossibilmente, cominciarono a sincronizzarsi. Il calore si diffondeva dal punto di contatto, risalendo lungo il braccio, invadendo il petto, sciogliendogli i muscoli tesi.
 
 Kate lo guardava. Negli occhi aveva le lacrime.
 
-"E cosi che si sentivano," sussurro. "Quelli di prima. Quelli dei libri. E cosi che si sentivano quando—"
+"È così che si sentivano," sussurrò. "Quelli di prima. Quelli dei libri. È così che si sentivano quando—"
 
-Non fini la frase. Non ce n'era bisogno.
+Non finì la frase. Non ce n'era bisogno.
 
-James le strinse la mano piu forte. Era consapevole di ogni millimetro in cui la sua pelle toccava quella di lei—le nocche, le punte delle dita, il palmo che premeva contro il suo. Senti le linee della mano di Kate imprimersi nella propria carne, come se il suo corpo stesse memorizzando ogni dettaglio.
+James le strinse la mano più forte. Era consapevole di ogni millimetro in cui la sua pelle toccava quella di lei—le nocche, le punte delle dita, il palmo che premeva contro il suo. Sentì le linee della mano di Kate imprimersi nella propria carne, come se il suo corpo stesse memorizzando ogni dettaglio.
 
 Era consapevole del proprio respiro, del proprio battito cardiaco, del sangue che gli scorreva nelle vene. Era consapevole dell'odore di lei—qualcosa di pulito, di fresco, con una nota dolce che non riusciva a identificare.
 
@@ -200,7 +200,7 @@ E meravigliosa.
 
 Il giorno dopo tornò in biblioteca. E quello dopo ancora. E quello dopo ancora.
 
-Ogni volta trovavano nuovi modi per toccarsi senza essere visti. Le dita che si sfioravano passandosi un tablet—un lampo di calore, un brivido lungo la schiena. I piedi che si incontravano sotto il tavolo—la caviglia di lei contro la sua, il calore che penetrava attraverso il tessuto. Le mani che si stringevano nell'ombra, lontano dagli occhi elettronici—ogni volta un po' piu a lungo, ogni volta un po' piu intensamente.
+Ogni volta trovavano nuovi modi per toccarsi senza essere visti. Le dita che si sfioravano passandosi un tablet—un lampo di calore, un brivido lungo la schiena. I piedi che si incontravano sotto il tavolo—la caviglia di lei contro la sua, il calore che penetrava attraverso il tessuto. Le mani che si stringevano nell'ombra, lontano dagli occhi elettronici—ogni volta un po' più a lungo, ogni volta un po' più intensamente.
 
 Una volta, nascosti dietro le file di lattuga della serra idroponica, Kate gli aveva sfiorato il viso. Solo per un istante. Le sue dita avevano percorso la linea della mascella, si erano fermate sull'angolo della bocca. James aveva smesso di respirare.
 
@@ -208,7 +208,7 @@ Una volta, nascosti dietro le file di lattuga della serra idroponica, Kate gli a
 
 James non aveva risposto. Non poteva. Aveva solo girato la testa, appena, premendo le labbra contro il palmo della sua mano.
 
-Il gesto piu proibito. Il piu naturale.
+Il gesto più proibito. Il più naturale.
 
 Erano briciole. Frammenti di un legame che avrebbe dovuto essere normale, naturale, scontato. Ma per James erano tutto. Ogni contatto era una rivoluzione. Ogni tocco era una dichiarazione di guerra contro il mondo che li voleva separati.
 
@@ -228,7 +228,7 @@ Ma l'aveva fatto. Aveva scelto.
 
 E quella scelta—quella frazione di secondo in cui aveva deciso di toccarla di nuovo—aveva cambiato tutto.
 
-Tutto quello che era venuto dopo—i rischi, i segreti, la gioia e il terrore di amarsi nell'ombra—era iniziato li. In una biblioteca, in un angolo cieco, con due mani che si cercavano nel buio.
+Tutto quello che era venuto dopo—i rischi, i segreti, la gioia e il terrore di amarsi nell'ombra—era iniziato lì. In una biblioteca, in un angolo cieco, con due mani che si cercavano nel buio.
 
 Due mani che si erano trovate.
 
@@ -236,14 +236,14 @@ E che non si sarebbero mai lasciate.
 
 ---
 
-Quella notte, nei server centrali del Distretto Nord, un algoritmo elaboro i dati della giornata. Due studenti dello stesso Complesso. Pattern di movimento convergenti. Frequenza cardiaca elevata registrata in prossimita l'uno dell'altra.
+Quella notte, nei server centrali del Distretto Nord, un algoritmo elaborò i dati della giornata. Due studenti dello stesso Complesso. Pattern di movimento convergenti. Frequenza cardiaca elevata registrata in prossimità l'uno dell'altra.
 
 Una bandierina rossa venne aggiunta ai loro profili.
 
-*Soggetti 2847-C e 2847-K: correlazione comportamentale rilevata. Probabilita di devianza congiunta: 34%.*
+*Soggetti 2847-C e 2847-K: correlazione comportamentale rilevata. Probabilità di devianza congiunta: 34%.*
 
 *Azione raccomandata: incremento sorveglianza. Attesa ulteriori dati.*
 
 Il Sistema era paziente. Il Sistema poteva aspettare.
 
-Ma il tempo di James e Kate stava gia cominciando a scadere.
+Ma il tempo di James e Kate stava già cominciando a scadere.

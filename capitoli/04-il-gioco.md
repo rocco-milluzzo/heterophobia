@@ -1,6 +1,6 @@
 # Capitolo 4: Il Gioco
 
-Kate noto il ragazzo che la guardava.
+Kate notò il ragazzo che la guardava.
 
 Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Stava ridendo, cercando di soffocare il suono, quando un brivido le corse lungo la schiena.
 
@@ -36,11 +36,11 @@ Le parole le uscirono automatiche, senza pensarci. Le aveva sentite ripetere cos
 
 Kate annuì educatamente. Ma dentro di sé stava pensando ad altro.
 
-Stava pensando a sua nonna. A quello che Margarethe le aveva raccontato, la sera prima, in una delle loro conversazioni segrete. Storie di un tempo in cui le persone morivano, si, ma anche nascevano. In cui l'amore tra un uomo e una donna non era classificato come *disturbo dell'orientamento riproduttivo*.
+Stava pensando a sua nonna. A quello che Margarethe le aveva raccontato, la sera prima, in una delle loro conversazioni segrete. Storie di un tempo in cui le persone morivano, sì, ma anche nascevano. In cui l'amore tra un uomo e una donna non era classificato come *disturbo dell'orientamento riproduttivo*.
 
 "Sciocchezze," aveva ribattuto Kate. "Propaganda dei *dinosauri*."
 
-Era cio che le avevano insegnato. I nostalgici del vecchio mondo erano malati, egoisti genetici che rimpiangevano un'era di violenza e caos. La rieducazione esisteva per salvarli da se stessi.
+Era ciò che le avevano insegnato. I nostalgici del vecchio mondo erano malati, egoisti genetici che rimpiangevano un'era di violenza e caos. La rieducazione esisteva per salvarli da se stessi.
 
 Ma Margarethe aveva solo sorriso, con quella sua aria triste e sapiente. "Forse. O forse no."
 
@@ -92,9 +92,9 @@ Kate rimase in silenzio. Pensava al ragazzo della finestra, a quello sguardo aff
 
 Le settimane passarono. Il grigio del cielo non cambiava mai, ma qualcosa dentro Kate sì.
 
-Si ritrovava a cercare Chen-Rossi con gli occhi, nei corridoi, in classe, nella mensa. Non capiva perche. Era solo un ragazzo come gli altri, uno dei cinquantadue Ultimi.
+Si ritrovava a cercare Chen-Rossi con gli occhi, nei corridoi, in classe, nella mensa. Non capiva perché. Era solo un ragazzo come gli altri, uno dei cinquantadue Ultimi.
 
-Ma ogni volta che lo vedeva, un calore le saliva al petto. Una specie di... curiosita. Un bisogno di capire perche la guardasse in quel modo, che cosa scorgesse in lei che nessun altro sembrava vedere.
+Ma ogni volta che lo vedeva, un calore le saliva al petto. Una specie di... curiosità. Un bisogno di capire perché la guardasse in quel modo, che cosa scorgesse in lei che nessun altro sembrava vedere.
 
 Era pericoloso. Lo sapeva. Le amicizie tra ragazzi e ragazze venivano monitorate, analizzate, classificate. Troppi incontri, troppi sguardi, e finivi su una lista. E dalle liste, si finiva nei centri.
 
@@ -188,17 +188,17 @@ Si avviarono insieme verso l'ingresso del Complesso, fianco a fianco ma senza to
 
 "Sì?"
 
-"Smettila di guardarmi come se fossi un fantasma. E inquietante."
+"Smettila di guardarmi come se fossi un fantasma. È inquietante."
 
 Le guance di lui si tinsero di rosso—lo vide chiaramente anche nella luce artificiale del corridoio.
 
 "Scusa. Non... non lo faccio apposta."
 
-"Lo so." Kate abbasso la voce fino a un sussurro. "Ma cerca di essere meno ovvio. Le telecamere vedono tutto. E gli algoritmi... gli algoritmi capiscono."
+"Lo so." Kate abbassò la voce fino a un sussurro. "Ma cerca di essere meno ovvio. Le telecamere vedono tutto. E gli algoritmi... gli algoritmi capiscono."
 
-Lascio che le parole affondassero. Poi gli rivolse un sorriso brevissimo e se ne ando, lasciandolo li con quell'espressione confusa e incredula.
+Lasciò che le parole affondassero. Poi gli rivolse un sorriso brevissimo e se ne andò, lasciandolo lì con quell'espressione confusa e incredula.
 
-Mentre camminava, Kate si chiese se stesse commettendo un errore. Aveva appena avvertito un potenziale *infetto* invece di segnalarlo. Era complicita. Era reato.
+Mentre camminava, Kate si chiese se stesse commettendo un errore. Aveva appena avvertito un potenziale *infetto* invece di segnalarlo. Era complicità. Era reato.
 
 Non sapeva cosa avesse appena fatto. Né perché.
 
@@ -212,7 +212,7 @@ Quella notte, sdraiata nel suo letto, Kate fissò il soffitto della sua stanza e
 
 Era un'idea pericolosa. Un pensiero che bastava a farti finire in un centro di rieducazione.
 
-Ma per la prima volta in vita sua, Kate si chiese cosa sarebbe successo se avesse smesso di lottare contro quella curiosita. Se avesse lasciato che la corrente la portasse dove voleva.
+Ma per la prima volta in vita sua, Kate si chiese cosa sarebbe successo se avesse smesso di lottare contro quella curiosità. Se avesse lasciato che la corrente la portasse dove voleva.
 
 Chiuse gli occhi e vide il sorriso di James Chen-Rossi, quel sorriso timido e meravigliato che le aveva rivolto quando lei gli aveva parlato.
 

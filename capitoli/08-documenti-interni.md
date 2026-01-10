@@ -19,7 +19,7 @@ Quando l'ho letta per la prima volta, ho sentito qualcosa stringersi nel petto. 
 
 ---
 
-Nei documenti ufficiali, questo libro e catalogato come "Reperto 2847-C, materiale deviante di origine pre-Divieto". Nessun valore storico, nessun interesse scientifico. Solo la prova che due *infetti* si scambiavano oggetti proibiti, alimentando la loro patologia reciproca.
+Nei documenti ufficiali, questo libro è catalogato come "Reperto 2847-C, materiale deviante di origine pre-Divieto". Nessun valore storico, nessun interesse scientifico. Solo la prova che due *infetti* si scambiavano oggetti proibiti, alimentando la loro patologia reciproca.
 
 La classificazione ufficiale raccomanda: *distruzione immediata*.
 
@@ -37,13 +37,13 @@ Ma io so che questo è diverso. Lo so con una certezza che mi spaventa, perché 
 
 Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicologiche. Trascrizioni di interrogatori.
 
-Il fascicolo di James Chen-Rossi e spesso quasi tre centimetri. Quello di Kate Lindqvist poco meno. Vent'anni di sorveglianza, di sospetti mai confermati, di segnalazioni archiviate per insufficienza di prove.
+Il fascicolo di James Chen-Rossi è spesso quasi tre centimetri. Quello di Kate Lindqvist poco meno. Vent'anni di sorveglianza, di sospetti mai confermati, di segnalazioni archiviate per insufficienza di prove.
 
-Li ho letti tutti. Piu volte.
+Li ho letti tutti. Più volte.
 
-Le note piu agghiaccianti sono quelle della prima fase. *Soggetto mostra segni precoci di devianza. Raccomandato monitoraggio incrementato.* Avevano quindici anni. Li osservavano gia da allora.
+Le note più agghiaccianti sono quelle della prima fase. *Soggetto mostra segni precoci di devianza. Raccomandato monitoraggio incrementato.* Avevano quindici anni. Li osservavano già da allora.
 
-Il rapporto del 2103 e quello che mi ha colpito di piu. Un'analista comportamentale—una certa Dr. Yuki Tanaka, ex compagna di scuola di Kate—aveva segnalato "anomalie nei pattern di interazione" tra i due soggetti. Frequenza degli incontri superiore alla media. Linguaggio corporeo "eccessivamente sincronizzato". Assenza di altre relazioni significative per entrambi.
+Il rapporto del 2103 è quello che mi ha colpito di più. Un'analista comportamentale—una certa Dr. Yuki Tanaka, ex compagna di scuola di Kate—aveva segnalato "anomalie nei pattern di interazione" tra i due soggetti. Frequenza degli incontri superiore alla media. Linguaggio corporeo "eccessivamente sincronizzato". Assenza di altre relazioni significative per entrambi.
 
 La segnalazione concludeva: *Si raccomanda intervento preventivo. Classificazione: potenziali breeder.*
 
@@ -65,11 +65,11 @@ La nonna di Kate. Margarethe. Anche lei sapeva. Ho la sua registrazione, archivi
 
 E poi c'era il padre di Kate. Henrik.
 
-Di lui i documenti dicono poco. Un uomo conformista, vedovo—anzi, no. Non vedovo. *Separato per intervento del Sistema.* Sua moglie, la madre biologica di Kate, fu classificata come *infetta recidiva* e deportata nelle Zone Abbandonate quando Kate aveva tre anni. Henrik non oppose resistenza. Firmo i documenti di dissociazione. Accetto la custodia esclusiva della figlia.
+Di lui i documenti dicono poco. Un uomo conformista, vedovo—anzi, no. Non vedovo. *Separato per intervento del Sistema.* Sua moglie, la madre biologica di Kate, fu classificata come *infetta recidiva* e deportata nelle Zone Abbandonate quando Kate aveva tre anni. Henrik non oppose resistenza. Firmò i documenti di dissociazione. Accettò la custodia esclusiva della figlia.
 
-Nei rapporti e descritto come "cittadino modello, pienamente riabilitato dopo esposizione a influenze devianti". Cambio compagni spesso—sempre uomini, sempre approvati—senza mai legarsi davvero. Guardava sua figlia con un misto di amore e incomprensione, come se fosse un oggetto prezioso di cui non capiva l'uso.
+Nei rapporti è descritto come "cittadino modello, pienamente riabilitato dopo esposizione a influenze devianti". Cambiò compagni spesso—sempre uomini, sempre approvati—senza mai legarsi davvero. Guardava sua figlia con un misto di amore e incomprensione, come se fosse un oggetto prezioso di cui non capiva l'uso.
 
-Henrik non sapeva di Kate e James. O almeno, cosi dicono le fonti.
+Henrik non sapeva di Kate e James. O almeno, così dicono le fonti.
 
 Ma io ho i miei dubbi. Un padre che ha perso la moglie per amore eterosessuale... davvero non avrebbe riconosciuto i segni nella propria figlia?
 
@@ -144,15 +144,15 @@ Ma stanotte, prima di dormire, voglio rileggere ancora una volta quella poesia.
 *"Non ti chiedo di amarmi per sempre.*
 *Ti chiedo solo di amarmi adesso."*
 
-Chissa chi l'ha sottolineata per primo. James o Kate.
+Chissà chi l'ha sottolineata per primo. James o Kate.
 
-Chissa se sapevano gia, allora, che l'"adesso" sarebbe diventato venticinque anni.
+Chissà se sapevano già, allora, che l'"adesso" sarebbe diventato venticinque anni.
 
-Chissa se ne e valsa la pena.
+Chissà se ne è valsa la pena.
 
 ---
 
-(So che ne e valsa la pena.)
+(So che ne è valsa la pena.)
 
 (Non so come faccio a saperlo.)
 
@@ -160,16 +160,16 @@ Chissa se ne e valsa la pena.
 
 ---
 
-C'e un ultimo documento che non ho ancora menzionato. Un foglio piegato in quattro, nascosto nella fodera della copertina del libro. L'ho trovato solo ieri notte, quando la luce della lampada ha rivelato un rigonfiamento che non avevo notato prima.
+C'è un ultimo documento che non ho ancora menzionato. Un foglio piegato in quattro, nascosto nella fodera della copertina del libro. L'ho trovato solo ieri notte, quando la luce della lampada ha rivelato un rigonfiamento che non avevo notato prima.
 
-E una lista. Nomi. Date. Luoghi.
+È una lista. Nomi. Date. Luoghi.
 
 *Zona Est, settore 7. Febbraio 2116. Cercare il mulino.*
 
-Sotto, una sola frase scritta con una grafia diversa—piu tremante, piu urgente.
+Sotto, una sola frase scritta con una grafia diversa—più tremante, più urgente.
 
-*Se stai leggendo questo, significa che non e finita. Significa che qualcuno sta ancora cercando.*
+*Se stai leggendo questo, significa che non è finita. Significa che qualcuno sta ancora cercando.*
 
-*Trova il mulino. Trova la verita.*
+*Trova il mulino. Trova la verità.*
 
 *Trova noi.*

@@ -56,17 +56,17 @@ All'inizio solo del progetto. Delle "relazioni interpersonali prima del Divieto"
 
 Poi le conversazioni iniziarono a cambiare.
 
-"Mia nonna dice che una volta le persone si sposavano per amore," mormoro Kate una sera, seduta sulla scala di emergenza abbracciandosi le ginocchia. "Immagina. Scegliere qualcuno e promettergli di restare insieme per sempre."
+"Mia nonna dice che una volta le persone si sposavano per amore," mormorò Kate una sera, seduta sulla scala di emergenza abbracciandosi le ginocchia. "Immagina. Scegliere qualcuno e promettergli di restare insieme per sempre."
 
-"Per sempre era piu breve, allora," rispose James. "Cinquant'anni, sessanta al massimo."
+"Per sempre era più breve, allora," rispose James. "Cinquant'anni, sessanta al massimo."
 
-"Ma era comunque per sempre. Per il tempo che avevano." Kate abbasso la voce ancora di piu. "Mia nonna mi ha raccontato di sua figlia. Di mia madre. E stata portata via quando io avevo tre anni. Perche amava mio padre. Perche voleva stare con lui."
+"Ma era comunque per sempre. Per il tempo che avevano." Kate abbassò la voce ancora di più. "Mia nonna mi ha raccontato di sua figlia. Di mia madre. È stata portata via quando io avevo tre anni. Perché amava mio padre. Perché voleva stare con lui."
 
-James senti il sangue gelarsi. "E tuo padre?"
+James sentì il sangue gelarsi. "E tuo padre?"
 
 "Esiliato. Nelle Zone. Non so nemmeno se sia ancora vivo." Gli occhi di Kate brillavano nell'ombra. "E per questo che devo stare attenta. Se scoprono che sono figlia di *infetti*..."
 
-Non fini la frase. Non ce n'era bisogno.
+Non finì la frase. Non ce n'era bisogno.
 
 James annuì. Stava guardando le sue mani, non lei. Aveva paura di quello che avrebbe visto nei suoi occhi se l'avesse guardata.
 
@@ -130,15 +130,15 @@ Il vecchio sorrise. "Perché sceglievamo ogni giorno di provarci. Anche quando e
 
 James rimase in silenzio. Pensava a Kate. A quello che provava quando la vedeva. A quello che avrebbe rischiato per rivederla ancora.
 
-"Nonno," sussurro. "Che cosa fai quando sai che e sbagliato? Quando tutti ti dicono che e una malattia, che devi curarti, che stai mettendo in pericolo te stesso e gli altri?"
+"Nonno," sussurrò. "Che cosa fai quando sai che è sbagliato? Quando tutti ti dicono che è una malattia, che devi curarti, che stai mettendo in pericolo te stesso e gli altri?"
 
-Enzio lo guardo a lungo. C'era tristezza nei suoi occhi, ma anche un altro sentimento. Un luccichio che somigliava alla speranza.
+Enzio lo guardò a lungo. C'era tristezza nei suoi occhi, ma anche un altro sentimento. Un luccichio che somigliava alla speranza.
 
 "Quello che fa chiunque sia mai stato davvero innamorato," rispose. "Ti chiedi se vale la pena. E poi scegli comunque."
 
-Si alzo e ando alla finestra, guardando fuori verso il cielo grigio.
+Si alzò e andò alla finestra, guardando fuori verso il cielo grigio.
 
-"Ho visto cose che non ti ho mai raccontato, James. Ho visto le retate del '78. Ho visto i miei vicini trascinati via nel cuore della notte perche si amavano. Ho visto i furgoni bianchi, le uniformi, i volti di chi non tornava mai." Si volto verso il nipote. "E ho visto anche l'amore resistere. Nonostante tutto. Nonostante il terrore."
+"Ho visto cose che non ti ho mai raccontato, James. Ho visto le retate del '78. Ho visto i miei vicini trascinati via nel cuore della notte perché si amavano. Ho visto i furgoni bianchi, le uniformi, i volti di chi non tornava mai." Si voltò verso il nipote. "E ho visto anche l'amore resistere. Nonostante tutto. Nonostante il terrore."
 
 Si alzò e scomparve in un'altra stanza. Quando tornò, aveva in mano un libro.
 
@@ -160,7 +160,7 @@ Kate sfogliò le pagine con delicatezza, come se avesse paura di romperle. Si fe
 
 Alzò gli occhi su James. Nella penombra del corridoio abbandonato, il suo viso era illuminato solo dalla luce che filtrava da una finestra lontana.
 
-"E bellissimo," disse.
+"È bellissimo," disse.
 
 "Lo so."
 
@@ -170,18 +170,18 @@ Alzò gli occhi su James. Nella penombra del corridoio abbandonato, il suo viso 
 
 Kate chiuse il libro e lo strinse al petto. I suoi occhi erano lucidi.
 
-"Perche me lo dai?"
+"Perché me lo dai?"
 
-James si era immaginato mille risposte a quella domanda. Mille scuse, mille giustificazioni, mille modi per dire la verita senza dirla davvero.
+James si era immaginato mille risposte a quella domanda. Mille scuse, mille giustificazioni, mille modi per dire la verità senza dirla davvero.
 
-Ma quando apri la bocca, usci solo una parola.
+Ma quando aprì la bocca, uscì solo una parola.
 
-"Perche."
+"Perché."
 
 Kate sorrise. E in qualche modo, fu abbastanza.
 
 Si guardarono nel buio del corridoio, il libro proibito stretto tra loro come un segreto. Come una promessa.
 
-Da qualche parte nel Complesso, un sensore registro un'anomalia termica. Due corpi troppo vicini, per troppo tempo, in un luogo non autorizzato. Una nota venne aggiunta ai loro fascicoli.
+Da qualche parte nel Complesso, un sensore registrò un'anomalia termica. Due corpi troppo vicini, per troppo tempo, in un luogo non autorizzato. Una nota venne aggiunta ai loro fascicoli.
 
 Ma loro non lo sapevano. E anche se l'avessero saputo, in quel momento non gliene sarebbe importato nulla.

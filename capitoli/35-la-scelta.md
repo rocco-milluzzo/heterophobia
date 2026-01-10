@@ -104,7 +104,7 @@ La ragione per cui valeva la pena lottare.
 
 "No." I suoi occhi si spalancarono. Aveva capito. "No, mamma, non puoi..."
 
-"Devo." Le baciai la fronte. Le mie labbra erano salate. "Ti ho voluta piu di qualsiasi cosa al mondo, Alice. Dal primo momento in cui ti ho sentita muoverti dentro di me."
+"Devo." Le baciai la fronte. Le mie labbra erano salate. "Ti ho voluta più di qualsiasi cosa al mondo, Alice. Dal primo momento in cui ti ho sentita muoverti dentro di me."
 
 "Mamma..."
 
@@ -148,17 +148,17 @@ Avevo quindici anni, ed ero sola.
 
 Yuki mi ha trovata una settimana dopo.
 
-Non so come abbia saputo dove cercarmi. Non so come sia riuscita a raggiungermi nelle Zone. So solo che un giorno si e presentata all'ingresso del rifugio, con documenti falsi e un piano per farmi rientrare nel Sistema.
+Non so come abbia saputo dove cercarmi. Non so come sia riuscita a raggiungermi nelle Zone. So solo che un giorno si è presentata all'ingresso del rifugio, con documenti falsi e un piano per farmi rientrare nel Sistema.
 
 "Non puoi restare qui." La sua voce era pragmatica, senza spazio per il sentimentalismo. "Sei troppo giovane. Moriresti in un anno, senza le Cure."
 
 "Preferisco morire."
 
-"No." Mi ha preso per le spalle, costringendomi a guardarla. "I tuoi genitori non si sono sacrificati perche tu morissi. Si sono sacrificati perche tu vivessi."
+"No." Mi ha preso per le spalle, costringendomi a guardarla. "I tuoi genitori non si sono sacrificati perché tu morissi. Si sono sacrificati perché tu vivessi."
 
 "Come faccio a vivere? Dopo quello che hanno fatto per me..."
 
-"Raccontando." Yuki mi ha guardata con quegli occhi che avevano visto troppo. "E l'unica cosa che puoi fare. L'unica cosa che conta."
+"Raccontando." Yuki mi ha guardata con quegli occhi che avevano visto troppo. "È l'unica cosa che puoi fare. L'unica cosa che conta."
 
 ---
 
@@ -182,7 +182,7 @@ A volte mi chiedo cosa sia successo a mia madre.
 
 A volte, nelle notti più buie, mi permetto di sperare. Di immaginare che sia sopravvissuta. Che sia stata catturata ma non uccisa. Che sia da qualche parte, in un centro di detenzione o in una struttura segreta, ancora viva.
 
-Ma so che e improbabile.
+Ma so che è improbabile.
 
 So che quel giorno, voltandosi verso il veicolo, mia madre sapeva cosa stava facendo. Sapeva che non sarebbe tornata.
 

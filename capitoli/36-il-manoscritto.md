@@ -4,7 +4,7 @@
 
 Ho finito di scrivere.
 
-Dopo dieci anni, dopo migliaia di parole, dopo notti insonni e giorni di dubbi, il manoscritto e completo. Giace sulla mia scrivania. Una pila di fogli che contiene tutto. La vicenda dei miei genitori. La mia vicenda. La verita.
+Dopo dieci anni, dopo migliaia di parole, dopo notti insonni e giorni di dubbi, il manoscritto è completo. Giace sulla mia scrivania. Una pila di fogli che contiene tutto. La vicenda dei miei genitori. La mia vicenda. La verità.
 
 Ora devo decidere cosa farne.
 
@@ -20,23 +20,23 @@ Sa che ho finito. Gliel'ho detto ieri, in un messaggio criptato che solo lei pu�
 
 "Allora è il momento giusto."
 
-Mi ha spiegato il piano. La rete ha preparato tutto. Copie del manoscritto distribuite in segreto, nascoste in posti dove il Sistema non puo trovarle. Alcune raggiungeranno le Zone Abbandonate, dove le persone potranno leggerle liberamente. Altre resteranno nel Sistema, passate di mano in mano come un segreto pericoloso.
+Mi ha spiegato il piano. La rete ha preparato tutto. Copie del manoscritto distribuite in segreto, nascoste in posti dove il Sistema non può trovarle. Alcune raggiungeranno le Zone Abbandonate, dove le persone potranno leggerle liberamente. Altre resteranno nel Sistema, passate di mano in mano come un segreto pericoloso.
 
-"Non sara una rivoluzione," ha detto Yuki. "Non subito. Ma le parole cambiano le persone. Piano piano. Una mente alla volta."
+"Non sarà una rivoluzione," ha detto Yuki. "Non subito. Ma le parole cambiano le persone. Piano piano. Una mente alla volta."
 
 ---
 
 Prima di consegnare il manoscritto, ho voluto rileggerlo un'ultima volta.
 
-Ho letto di James e Kate. Di come si sono incontrati, di come hanno scelto di vivere nonostante tutto. Ho letto di me. La bambina che non avrebbe dovuto esistere. La ragazza che e sopravvissuta. La donna che ora racconta tutto questo.
+Ho letto di James e Kate. Di come si sono incontrati, di come hanno scelto di vivere nonostante tutto. Ho letto di me. La bambina che non avrebbe dovuto esistere. La ragazza che è sopravvissuta. La donna che ora racconta tutto questo.
 
 Ho pianto. Non mi vergogno a dirlo.
 
-Ho pianto per i miei genitori, per quello che hanno perso e per quello che mi hanno dato. Ho pianto per Mira, che si e sacrificata perche io potessi fuggire. Ho pianto per Enzio, che ha creduto nelle parole fino alla fine. Ho pianto per tutte le persone che hanno vissuto nell'ombra, che hanno pagato il prezzo della loro umanita.
+Ho pianto per i miei genitori, per quello che hanno perso e per quello che mi hanno dato. Ho pianto per Mira, che si è sacrificata perché io potessi fuggire. Ho pianto per Enzio, che ha creduto nelle parole fino alla fine. Ho pianto per tutte le persone che hanno vissuto nell'ombra, che hanno pagato il prezzo della loro umanità.
 
 Ma ho anche sorriso.
 
-Ho sorriso ricordando il fiume. Quella giornata con i miei genitori. Le canzoni che mio padre cantava. Le fiabe che mia madre raccontava. Tutti i momenti di felicita rubati al tempo. Tutti gli istanti in cui, nonostante tutto, siamo stati una famiglia.
+Ho sorriso ricordando il fiume. Quella giornata con i miei genitori. Le canzoni che mio padre cantava. Le fiabe che mia madre raccontava. Tutti i momenti di felicità rubati al tempo. Tutti gli istanti in cui, nonostante tutto, siamo stati una famiglia.
 
 ---
 
@@ -46,11 +46,11 @@ Yuki verrà a prenderlo. Lo porterà alla rete, e da lì inizierà il suo viaggi
 
 O forse no.
 
-Forse il manoscritto verra intercettato. Forse il Sistema lo trovera e lo distruggera. Forse tutto questo sara stato inutile.
+Forse il manoscritto verrà intercettato. Forse il Sistema lo troverà e lo distruggerà. Forse tutto questo sarà stato inutile.
 
 Ma non credo.
 
-Non credo perche le parole trovano sempre un modo per sopravvivere. L'ha scritto nonno Enzio. Nel libro di poesie che ancora porto con me, quello che e passato da Elena a Enzio, da Enzio a mio padre, da mio padre a mia madre, da mia madre a me.
+Non credo perché le parole trovano sempre un modo per sopravvivere. L'ha scritto nonno Enzio. Nel libro di poesie che ancora porto con me, quello che è passato da Elena a Enzio, da Enzio a mio padre, da mio padre a mia madre, da mia madre a me.
 
 Cinque generazioni. Un filo sottile che attraversa il tempo.
 
@@ -80,9 +80,9 @@ Una parte di me vuole crederci. Vuole credere che mia madre sia viva, che sia so
 
 Un'altra parte sa che è quasi certamente falso. Che le voci sono solo voci. Che dopo quindici anni, le probabilità...
 
-Ma ho imparato una cosa, in tutti questi anni. Ho imparato che le probabilita non significano niente, quando si tratta di quello che conta davvero. I miei genitori hanno sfidato probabilita impossibili. Si sono scelti quando non avrebbero dovuto. Hanno avuto me quando non avrebbero potuto. Sono fuggiti quando non c'era speranza.
+Ma ho imparato una cosa, in tutti questi anni. Ho imparato che le probabilità non significano niente, quando si tratta di quello che conta davvero. I miei genitori hanno sfidato probabilità impossibili. Si sono scelti quando non avrebbero dovuto. Hanno avuto me quando non avrebbero potuto. Sono fuggiti quando non c'era speranza.
 
-Se c'e una possibilita, anche una sola, minuscola possibilita, che mia madre sia viva...
+Se c'è una possibilità, anche una sola, minuscola possibilità, che mia madre sia viva...
 
 Devo saperlo.
 

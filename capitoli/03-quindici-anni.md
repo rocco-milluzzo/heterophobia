@@ -60,15 +60,15 @@ Per il resto dell'ora, James non riuscì a concentrarsi su nient'altro. Ogni vol
 
 Questo è sbagliato, si disse. Questo è pericoloso.
 
-Sapeva cos'era. L'aveva studiato, come tutti. L'attrazione eterosessuale era un residuo evolutivo, un istinto che una volta serviva alla riproduzione ma che ora era obsoleto. Come la fame in eccesso, come l'aggressivita. Una disfunzione che poteva essere curata.
+Sapeva cos'era. L'aveva studiato, come tutti. L'attrazione eterosessuale era un residuo evolutivo, un istinto che una volta serviva alla riproduzione ma che ora era obsoleto. Come la fame in eccesso, come l'aggressività. Una disfunzione che poteva essere curata.
 
-*L'eterosessualita e una scelta—scegli meglio.* Lo slogan lampeggiava sugli schermi pubblici ogni ora, insieme alle immagini dei campi di rieducazione. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
+*L'eterosessualità è una scelta—scegli meglio.* Lo slogan lampeggiava sugli schermi pubblici ogni ora, insieme alle immagini dei campi di rieducazione. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
 
 Sentire quel formicolio per una ragazza non era normale. Era pericoloso. Un *breeder* in potenza, lo avrebbero chiamato. Un *infetto*.
 
-James si guardo le mani. Tremavano.
+James si guardò le mani. Tremavano.
 
-Dovrei andare all'infermeria, penso. Dovrei farmi controllare prima che sia troppo tardi.
+Dovrei andare all'infermeria, pensò. Dovrei farmi controllare prima che sia troppo tardi.
 
 Ma non lo fece.
 
@@ -86,11 +86,11 @@ Era il suo compagno di banco, Takeshi, un ragazzo alto con i capelli rasati, sem
 
 "Tutto bene? Sembravi un po' perso, durante la lezione."
 
-"Si, si. Solo... stanco. Non ho dormito bene."
+"Sì, sì. Solo... stanco. Non ho dormito bene."
 
-Takeshi annui, ma non si mosse. I suoi occhi indugiarono un istante di troppo. "Fissavi la Lindqvist," osservo, con un tono che avrebbe potuto essere curioso o accusatorio. "Attento, eh. Le telecamere notano queste cose."
+Takeshi annuì, ma non si mosse. I suoi occhi indugiarono un istante di troppo. "Fissavi la Lindqvist," osservò, con un tono che avrebbe potuto essere curioso o accusatorio. "Attento, eh. Le telecamere notano queste cose."
 
-Poi si allontano, lasciando James con il cuore in gola e il sangue gelato nelle vene.
+Poi si allontanò, lasciando James con il cuore in gola e il sangue gelato nelle vene.
 
 ---
 
@@ -124,7 +124,7 @@ L'orologio sul muro segnò mezzanotte. James era ancora sveglio.
 
 Un fremito lo attraversava, un'urgenza che non riusciva a nominare. Un istinto antico, che non avrebbe dovuto esistere. Il tempo correva. Ogni secondo senza vederla era un secondo perduto.
 
-E solo chimica, si ripeteva. Neuroni che sparano nel modo sbagliato. Una disfunzione.
+È solo chimica, si ripeteva. Neuroni che sparano nel modo sbagliato. Una disfunzione.
 
 *Malato d'amore*, lo avrebbero chiamato i medici. Lo avrebbero mandato in un centro, gli avrebbero cancellato quel fremito dal cervello. Lo avrebbero guarito.
 
@@ -144,12 +144,12 @@ E sapeva che per un istante, solo un istante, lei aveva guardato verso di lui.
 
 O forse lo aveva immaginato. Non importava.
 
-Era iniziato qualcosa. Un movimento tettonico nelle profondita del suo essere.
+Era iniziato qualcosa. Un movimento tettonico nelle profondità del suo essere.
 
-Nella stanza accanto, il LED della telecamera lampeggio rosso. Da qualche parte, un algoritmo noto un'anomalia nei suoi pattern di sonno. Una nota venne aggiunta al suo fascicolo, in una cartella che non avrebbe mai visto.
+Nella stanza accanto, il LED della telecamera lampeggiò rosso. Da qualche parte, un algoritmo notò un'anomalia nei suoi pattern di sonno. Una nota venne aggiunta al suo fascicolo, in una cartella che non avrebbe mai visto.
 
 *Soggetto 2847-C: monitoraggio incrementato.*
 
 James non lo sapeva. Non poteva saperlo.
 
-Ma il Sistema aveva gia iniziato a guardare.
+Ma il Sistema aveva già iniziato a guardare.

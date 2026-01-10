@@ -19,7 +19,7 @@ Kate rilesse i versi tre volte. Ogni volta sentiva qualcosa stringersi nel petto
 
 Era questo che provava per James?
 
-Non lo sapeva. Non aveva termini di paragone. L'unico amore che conosceva era quello di suo padre Henrik per i compagni che si era scelto—uomini diversi, che si alternavano con la cadenza delle stagioni artificiali. Erano affettuosi. Si rispettavano. Ma non c'era urgenza in cio che provavano. Niente che somigliasse a questa febbre, a questa fame.
+Non lo sapeva. Non aveva termini di paragone. L'unico amore che conosceva era quello di suo padre Henrik per i compagni che si era scelto—uomini diversi, che si alternavano con la cadenza delle stagioni artificiali. Erano affettuosi. Si rispettavano. Ma non c'era urgenza in ciò che provavano. Niente che somigliasse a questa febbre, a questa fame.
 
 *Disturbo dell'orientamento riproduttivo*, l'avrebbe chiamato un medico. *Primo stadio di infezione. Curabile, se preso in tempo.*
 
@@ -83,15 +83,15 @@ Kate inspirò profondamente. Sentiva il battito del proprio cuore nelle orecchie
 
 "E se ci scoprono?"
 
-"Allora ci scoprono." Kate senti le parole uscire dalla sua bocca prima di poterle fermare. "Ma almeno avremo provato."
+"Allora ci scoprono." Kate sentì le parole uscire dalla sua bocca prima di poterle fermare. "Ma almeno avremo provato."
 
-"Tu non capisci." La voce di James si ruppe. "Mio nonno mi ha raccontato di sua sorella. L'hanno mandata in rieducazione nel '79. Quando e tornata... non era piu lei. Sorrideva sempre, parlava come un manuale, non ricordava niente. L'avevano... l'avevano svuotata."
+"Tu non capisci." La voce di James si ruppe. "Mio nonno mi ha raccontato di sua sorella. L'hanno mandata in rieducazione nel '79. Quando è tornata... non era più lei. Sorrideva sempre, parlava come un manuale, non ricordava niente. L'avevano... l'avevano svuotata."
 
-Kate degluti. "Lo so. Ma—"
+Kate deglutì. "Lo so. Ma—"
 
-"Non c'e nessun *ma*." James si alzo. "Non posso. Non posso farlo a te. Non posso farlo a me stesso."
+"Non c'è nessun *ma*." James si alzò. "Non posso. Non posso farlo a te. Non posso farlo a me stesso."
 
-Se ne ando, lasciandola sola nel corridoio buio con il cuore a pezzi.
+Se ne andò, lasciandola sola nel corridoio buio con il cuore a pezzi.
 
 ---
 
@@ -138,9 +138,9 @@ James la fissò. Il suo viso non tradiva nulla.
 
 "Lo pensi davvero?"
 
-"Si." Kate esito, poi aggiunse: "Lo sento. Qui." Si tocco il petto. "Tutto insieme. Come un fulmine."
+"Sì." Kate esitò, poi aggiunse: "Lo sento. Qui." Si toccò il petto. "Tutto insieme. Come un fulmine."
 
-Un fremito attraverso il viso di lui. Aveva riconosciuto quelle parole.
+Un fremito attraversò il viso di lui. Aveva riconosciuto quelle parole.
 
 "Tua nonna."
 
@@ -158,13 +158,13 @@ Un silenzio. Intorno a loro, la biblioteca continuava a vivere—studenti che su
 
 "E tu vuoi farlo comunque?"
 
-Kate ci penso. Per un istante, un solo istante, vide tutto quello che avrebbe potuto perdere. L'accesso alle Cure, un futuro eterno, la sicurezza di una vita conforme. Vide suo padre Henrik, la sua delusione. Vide i furgoni bianchi, i centri, i volti svuotati di chi tornava. Vide sua madre—o almeno, l'idea di sua madre—che saliva su un veicolo e spariva per sempre.
+Kate ci pensò. Per un istante, un solo istante, vide tutto quello che avrebbe potuto perdere. L'accesso alle Cure, un futuro eterno, la sicurezza di una vita conforme. Vide suo padre Henrik, la sua delusione. Vide i furgoni bianchi, i centri, i volti svuotati di chi tornava. Vide sua madre—o almeno, l'idea di sua madre—che saliva su un veicolo e spariva per sempre.
 
-Poi guardo James. Guardo i suoi occhi scuri, pieni di paura e di speranza. Guardo le sue mani, che tremavano sul tavolo.
+Poi guardò James. Guardò i suoi occhi scuri, pieni di paura e di speranza. Guardò le sue mani, che tremavano sul tavolo.
 
 E seppe che cosa voleva.
 
-"Si," disse. "Voglio farlo comunque."
+"Sì," disse. "Voglio farlo comunque."
 
 ---
 
@@ -186,11 +186,11 @@ Kate annuì. Non chiese altro.
 
 Si separarono in silenzio, ognuno verso la propria Unità. Ma mentre camminava nel corridoio deserto, Kate si accorse che qualcosa era diverso.
 
-Non sapeva che cosa sarebbe successo domani, ne se era pronta per quello che stava iniziando.
+Non sapeva che cosa sarebbe successo domani, né se era pronta per quello che stava iniziando.
 
 Ma sapeva una cosa.
 
-Non aveva mai percepito con tanta intensita. Il cuore che batteva. Il sangue che pulsava. La pelle che formicolava al ricordo delle parole di lui.
+Non aveva mai percepito con tanta intensità. Il cuore che batteva. Il sangue che pulsava. La pelle che formicolava al ricordo delle parole di lui.
 
 E per una volta, non aveva paura.
 
