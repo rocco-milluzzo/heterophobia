@@ -86,7 +86,7 @@ Ma non lo fece.
 
 ---
 
-Il segnale di fine lezione risuonò e tutti si alzarono. James mise via i libri lentamente, cercando di non guardare verso di lei. Se la guardava ancora, avrebbe fatto qualcosa di stupido. Avrebbe attirato l'attenzione.
+Il segnale di fine lezione risuonò e tutti si alzarono. James mise via i libri lentamente, cercando di non guardare verso di lei. Se l'avesse guardata ancora, avrebbe fatto qualcosa di stupido. Avrebbe attirato l'attenzione.
 
 Si avviò verso la porta, gli occhi fissi sul pavimento.
 
