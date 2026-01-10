@@ -162,6 +162,16 @@ Imparai la vita nelle Zone—come coltivare, come costruire, come sopravvivere s
 
 Ma era anche libero.
 
+E c'era qualcosa che il Sistema non mi aveva mai insegnato: le Zone avevano una cultura propria. Non erano solo sopravvivenza — erano creazione.
+
+Ogni sera, intorno ai fuochi, qualcuno raccontava storie. Non le storie ufficiali del Sistema, ma quelle vere — storie di famiglie che erano esistite, di amori che avevano resistito, di bambini nati e cresciuti prima del Divieto. I vecchi insegnavano ai giovani, e i giovani insegnavano ai vecchi. C'erano canzoni, scritte da chi aveva conosciuto il mondo di prima. C'erano rituali — cerimonie d'unione tra uomo e donna, battesimi di bambini appena nati, funerali dove la morte era pianta ma anche celebrata.
+
+Avevano persino una religione, o qualcosa che le somigliava. La chiamavano *la Via del Ciclo* — una fede costruita sull'idea che nascita e morte fossero entrambe sacre, che l'immortalità fosse una prigione e la mortalità una liberazione. Non avevano sacerdoti, solo anziani che ricordavano. Non avevano dogmi, solo domande.
+
+*Perché siamo qui? Per vivere. Per cosa viviamo? Per amare. Cosa resta quando moriamo? Le storie.*
+
+Era semplice. Era profondo. Era tutto ciò che il Sistema aveva cercato di cancellare.
+
 Nessun sensore a monitorare i miei movimenti. Nessun test genetico ogni tre mesi. Nessun manifesto che urlava *LA RIPRODUZIONE È EGOISMO* o *DENUNCIA I BREEDER*. Nessuna regola a dirmi chi potevo amare e chi no.
 
 Vidi coppie miste—uomini e donne insieme, senza vergogna. Vidi bambini nati dall'amore, non dalla provetta. Vidi vecchi che si tenevano per mano, che si baciavano alla luce del sole, che facevano le cose più normali del mondo come se fossero miracoli.
