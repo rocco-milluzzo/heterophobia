@@ -24,7 +24,7 @@ C'era qualcosa di affamato in quello sguardo. Qualcosa di disperato.
 
 Qualcosa di sbagliato.
 
-Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore quando lo aveva interrogato. Un cognome doppio, quindi due padri o due madri. Normale.
+Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore quando lo aveva interrogato. Un cognome singolo—insolito. Di solito le famiglie conformi avevano cognomi doppi, uno per genitore. Forse i suoi genitori avevano lo stesso cognome per coincidenza, o forse c'era qualcosa di diverso in quella famiglia.
 
 Lui, però, non sembrava normale. Sembrava... tormentato.
 
