@@ -1,10 +1,11 @@
+/* Book printing styles for Heterophobia */
 @page {
     size: A5;
-    margin: 2cm 1.5cm;
+    margin: 2cm;
     @bottom-center {
         content: counter(page);
-        font-family: 'Georgia', serif;
         font-size: 10pt;
+        font-family: Georgia, serif;
     }
 }
 
@@ -15,44 +16,97 @@
 }
 
 body {
-    font-family: 'Georgia', 'Times New Roman', serif;
-    font-size: 11pt;
-    line-height: 1.7;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 12pt;
+    line-height: 1.5;
     text-align: justify;
-    color: #1a1a1a;
     hyphens: auto;
+    -webkit-hyphens: auto;
+    orphans: 2;
+    widows: 2;
 }
 
-h1 {
-    font-size: 22pt;
+/* Title page */
+header#title-block-header {
+    page-break-after: always;
     text-align: center;
+    padding-top: 30%;
+}
+
+header#title-block-header h1.title {
+    font-size: 32pt;
+    font-weight: bold;
+    margin-bottom: 1cm;
+    letter-spacing: 0.1em;
+}
+
+header#title-block-header .author {
+    font-size: 16pt;
+    font-style: italic;
+    margin-bottom: 0.5cm;
+}
+
+header#title-block-header .date {
+    font-size: 12pt;
+}
+
+/* Table of contents */
+nav#TOC {
+    page-break-after: always;
+    margin-top: 2cm;
+}
+
+nav#TOC::before {
+    content: "Indice";
+    display: block;
+    font-size: 24pt;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+nav#TOC ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+nav#TOC li {
+    margin: 0.3em 0;
+    padding-left: 1em;
+}
+
+nav#TOC a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Chapter headings */
+h1 {
+    font-size: 24pt;
+    font-weight: bold;
     page-break-before: always;
-    margin-top: 4cm;
-    margin-bottom: 2cm;
-    font-weight: normal;
-    letter-spacing: 0.05em;
+    page-break-after: avoid;
+    margin-top: 3cm;
+    margin-bottom: 1cm;
+    text-align: center;
 }
 
 h1:first-of-type {
-    page-break-before: avoid;
-    font-size: 32pt;
-    margin-top: 6cm;
+    page-break-before: auto;
 }
 
 h2 {
-    font-size: 12pt;
-    text-align: center;
-    margin-top: 1.5cm;
-    margin-bottom: 1cm;
+    font-size: 14pt;
     font-weight: normal;
     font-style: italic;
+    text-align: center;
+    margin-bottom: 2cm;
 }
 
+/* Paragraphs */
 p {
-    text-indent: 1.5em;
     margin: 0;
-    orphans: 3;
-    widows: 3;
+    text-indent: 1.5em;
 }
 
 p:first-of-type,
@@ -62,6 +116,7 @@ h2 + p {
     text-indent: 0;
 }
 
+/* Scene breaks */
 hr {
     border: none;
     text-align: center;
@@ -70,11 +125,12 @@ hr {
 }
 
 hr::before {
-    content: "❧";
+    content: "* * *";
     font-size: 14pt;
-    color: #666;
+    letter-spacing: 0.5em;
 }
 
+/* Emphasis */
 em {
     font-style: italic;
 }
@@ -83,19 +139,14 @@ strong {
     font-weight: bold;
 }
 
+/* Blockquotes for internal thoughts */
 blockquote {
+    font-style: italic;
     margin: 1em 2em;
-    font-style: italic;
+    text-indent: 0;
 }
 
-.title-page {
-    text-align: center;
-    page-break-after: always;
-}
-
-.dedication {
-    text-align: center;
-    font-style: italic;
-    margin-top: 40%;
-    page-break-after: always;
+/* No page breaks in middle of paragraphs */
+p {
+    page-break-inside: avoid;
 }

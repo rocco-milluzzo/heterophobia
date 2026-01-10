@@ -2,42 +2,14 @@
 
 ---
 
-## PROLOGO (Cap. 1-2)
+## ATTO I: SCOPERTA (Cap. 1-11)
 
-### Capitolo 1: La Voce
-**POV:** Alice (narratrice, identità nascosta)
-**Tempo:** Presente (2105)
-**Parole:** ~2,000
-
-Una voce introduce la storia. Parla di "due soggetti" che ha studiato. Tono da ricercatrice, documentarista. Dice di aver trovato lettere, registrazioni, frammenti. Vuole ricostruire "cosa significava amare quando amare era un crimine."
-
-Prima frase: *"Non so esattamente quando abbiano iniziato ad amarsi. So solo quando hanno smesso di nasconderlo a se stessi."*
-
-**Funzione:** Setup del mistero. Il lettore assume sia una storica/giornalista.
-
----
-
-### Capitolo 2: Il Primo Documento
-**POV:** Alice (narratrice)
-**Tempo:** Presente
-**Parole:** ~2,000
-
-Alice descrive il primo documento che ha trovato: una lettera di James a Kate, mai spedita, datata 2095. Frammenti della lettera. Introduce i personaggi senza nominarli come "genitori".
-
-"Lui scriveva di un incontro. Di una ragazza che aveva visto per la prima volta a quindici anni."
-
-**Funzione:** Transizione verso il primo flashback.
-
----
-
-## ATTO I: SCOPERTA (Cap. 3-12)
-
-### Capitolo 3: Quindici Anni
+### Capitolo 1: Quindici Anni
 **POV:** James
 **Tempo:** 2095 (flashback)
 **Parole:** ~2,500
 
-James, 15 anni, vede Kate per la prima volta. Scuola per Ultimi - l'ultima generazione. Lei ride di qualcosa. Lui non capisce cosa prova. Sa solo che è sbagliato.
+James Valeri, 15 anni, vede Kate per la prima volta. Scuola per Ultimi - l'ultima generazione. Lei ride di qualcosa. Lui non capisce cosa prova. Sa solo che è sbagliato.
 
 Dettagli: aula grigia, uniformi identiche, il suono della sua risata.
 
@@ -45,12 +17,12 @@ Dettagli: aula grigia, uniformi identiche, il suono della sua risata.
 
 ---
 
-### Capitolo 4: Il Gioco
+### Capitolo 2: Il Gioco
 **POV:** Kate
 **Tempo:** 2095 (flashback)
 **Parole:** ~2,500
 
-Lo stesso momento dal punto di vista di Kate. Lei nota James che la guarda. Pensa sia strano. Poi inizia a cercarlo con gli occhi.
+Lo stesso momento dal punto di vista di Kate Ferrante. Lei nota James che la guarda. Pensa sia strano. Poi inizia a cercarlo con gli occhi.
 
 Introduce il suo mondo: madre morta, padre assente, nonna Marta che le racconta del "prima".
 
@@ -58,7 +30,7 @@ Introduce il suo mondo: madre morta, padre assente, nonna Marta che le racconta 
 
 ---
 
-### Capitolo 5: Frammento - Marta
+### Capitolo 3: Frammento - Marta
 **POV:** Alice (narratrice) + flashback di Marta
 **Tempo:** Presente + 2050 (Era della Fusione)
 **Parole:** ~2,000
@@ -69,7 +41,7 @@ Alice ha trovato una registrazione di Marta. La vecchia racconta di quando le na
 
 ---
 
-### Capitolo 6: Primi Passi
+### Capitolo 4: Primi Passi
 **POV:** James
 **Tempo:** 2096-2097 (flashback)
 **Parole:** ~2,500
@@ -80,7 +52,7 @@ Il nonno Enzio nota qualcosa. Non dice nulla. Gli regala un vecchio libro: poesi
 
 ---
 
-### Capitolo 7: Il Libro
+### Capitolo 5: Il Libro
 **POV:** Kate
 **Tempo:** 2097 (flashback)
 **Parole:** ~2,500
@@ -94,7 +66,7 @@ James le presta il libro. Kate lo legge di nascosto. Per la prima volta ha parol
 
 ---
 
-### Capitolo 8: Documenti Interni
+### Capitolo 6: Documenti Interni
 **POV:** Alice (narratrice)
 **Tempo:** Presente
 **Parole:** ~2,000
@@ -105,7 +77,7 @@ Prima crepa nel mascheramento: descrive l'odore del libro. Come potrebbe saperlo
 
 ---
 
-### Capitolo 9: Il Primo Contatto
+### Capitolo 7: Il Primo Contatto
 **POV:** James
 **Tempo:** 2098 (flashback)
 **Parole:** ~2,500
@@ -116,18 +88,31 @@ Dettaglio: il suo battito cardiaco, la paura che i sensori lo registrino come "a
 
 ---
 
-### Capitolo 10: La Prima Notte
+### Capitolo 8: La Prima Notte
 **POV:** Kate
 **Tempo:** 2098 (flashback)
 **Parole:** ~3,000
 
-La prima volta che stanno insieme. Appartamento di Kate mentre il padre è fuori. Terrore e meraviglia.
+La prima volta che stanno insieme. Appartamento di Kate mentre il padre Enrico è fuori. Terrore e meraviglia.
 
 **Scena chiave:** Dopo, nel buio, lei dice "Ti amo." Lui non risponde. Ma non se ne va.
 
 ---
 
-### Capitolo 11: Frammento - Enzio
+### Capitolo 9: Intermezzo - La Voce
+**POV:** Alice (narratrice, identità nascosta)
+**Tempo:** Presente (2132)
+**Parole:** ~2,000
+
+Una voce riflette sulla storia. Parla di "due soggetti" che ha studiato. Tono da ricercatrice, documentarista. Dice di aver trovato lettere, registrazioni, frammenti. Vuole ricostruire "cosa significava amare quando amare era un crimine."
+
+*"Non so esattamente quando abbiano iniziato ad amarsi. So solo quando hanno smesso di nasconderlo a se stessi."*
+
+**Funzione:** Introduce il mistero della narratrice. Il lettore assume sia una storica/giornalista.
+
+---
+
+### Capitolo 10: Frammento - Enzio
 **POV:** Alice (narratrice) + flashback di Enzio
 **Tempo:** Presente + 2070 (arrivo dell'Immortalità)
 **Parole:** ~2,000
@@ -138,7 +123,7 @@ Registrazione di Enzio. Racconta il giorno in cui annunciarono la Cura. La gioia
 
 ---
 
-### Capitolo 12: Cinque Anni
+### Capitolo 11: Cinque Anni
 **POV:** James e Kate (alternato)
 **Tempo:** 2098-2103 (flashback, montaggio)
 **Parole:** ~3,000
@@ -149,9 +134,9 @@ Montaggio di cinque anni. Incontri segreti. Scuse elaborate. Test genetici passa
 
 ---
 
-## ATTO II: ESCALATION (Cap. 13-28)
+## ATTO II: ESCALATION (Cap. 12-27)
 
-### Capitolo 13: Routine del Segreto
+### Capitolo 12: Routine del Segreto
 **POV:** James
 **Tempo:** 2103 (flashback)
 **Parole:** ~2,500
@@ -162,7 +147,7 @@ Introduce il suo lavoro: archivista. Accesso a documenti che potrebbero aiutarli
 
 ---
 
-### Capitolo 14: La Proposta
+### Capitolo 13: La Proposta
 **POV:** Kate
 **Tempo:** 2103 (flashback)
 **Parole:** ~2,500
@@ -176,19 +161,19 @@ James reagisce con terrore. Lei con fede. Conflitto centrale del libro.
 
 ---
 
-### Capitolo 15: Il Piano
+### Capitolo 14: Il Piano
 **POV:** James
 **Tempo:** 2103-2104 (flashback)
 **Parole:** ~2,500
 
 James inizia a pianificare. Documenti rubati dall'archivio. Come falsificare test. Dove nascondersi.
 
-Il nonno Enzio lo aiuta senza fare domande.
+Il nonno Enzio lo aiuta senza fare domande. Kate, come biologa, ha accesso a inibitori ormonali sperimentali. James scopre le zone morte nel tracciamento dei chip.
 
 ---
 
-### Capitolo 16: Frammento - I Genitori di James
-**POV:** Alice (narratrice) + scena con Lin e Marco
+### Capitolo 15: Frammento - I Genitori di James
+**POV:** Alice (narratrice) + scena con Mei e Marco
 **Tempo:** Presente + 2078 (anno del Divieto)
 **Parole:** ~2,000
 
@@ -198,7 +183,7 @@ Mostra l'indottrinamento sincero. I genitori di James non sono cattivi - sono co
 
 ---
 
-### Capitolo 17: La Decisione
+### Capitolo 16: La Decisione
 **POV:** Kate
 **Tempo:** 2104 (flashback)
 **Parole:** ~2,500
@@ -209,7 +194,7 @@ Scena con Yuki al lavoro. Yuki nota che Kate è diversa. Non dice nulla.
 
 ---
 
-### Capitolo 18: L'Attesa
+### Capitolo 17: L'Attesa
 **POV:** James
 **Tempo:** 2104-2105 (flashback)
 **Parole:** ~2,500
@@ -220,7 +205,7 @@ Kate cerca di rassicurarlo. "Funzionerà. Deve funzionare."
 
 ---
 
-### Capitolo 19: Il Segno
+### Capitolo 18: Il Segno
 **POV:** Kate
 **Tempo:** 2105 (flashback)
 **Parole:** ~2,500
@@ -231,7 +216,7 @@ Kate scopre di essere incinta. Test casalingo, non registrato.
 
 ---
 
-### Capitolo 20: Nascondersi
+### Capitolo 19: La Nuova Vita
 **POV:** James
 **Tempo:** 2105 (flashback)
 **Parole:** ~2,500
@@ -242,7 +227,7 @@ Dettagli tecnici: come funziona, cosa può andare storto.
 
 ---
 
-### Capitolo 21: Documenti Medici
+### Capitolo 20: Documenti Medici
 **POV:** Alice (narratrice)
 **Tempo:** Presente
 **Parole:** ~2,000
@@ -253,42 +238,20 @@ Seconda crepa: "Il battito del bambino era irregolare quella notte..."
 
 ---
 
-### Capitolo 22: Otto Mesi
+### Capitolo 21: I Primi Anni
 **POV:** Kate
-**Tempo:** 2105-2106 (flashback)
+**Tempo:** 2105-2110 (flashback, montaggio)
 **Parole:** ~3,000
 
 La gravidanza procede. Kate vive reclusa. James porta tutto. Nonna Marta li aiuta senza chiedere.
 
 **Scena chiave:** Kate sente Alice muoversi. Piange. James, per la prima volta, sorride.
 
----
-
-### Capitolo 23: La Nascita
-**POV:** James
-**Tempo:** 2106 (flashback)
-**Parole:** ~3,000
-
-Alice nasce in segreto. Nonna Marta fa da levatrice.
-
-James tiene sua figlia per la prima volta. Non sa cosa dire. Non piange. Ma qualcosa in lui si rompe e si ricompone.
-
-"Ti chiameremo Alice," dice Kate. "Come una che attraversa lo specchio."
+Poi: Alice nasce in segreto. Marta fa da levatrice. I primi anni di una bambina che non esiste. Il "gioco del silenzio".
 
 ---
 
-### Capitolo 24: I Primi Anni
-**POV:** Kate
-**Tempo:** 2106-2110 (flashback, montaggio)
-**Parole:** ~2,500
-
-I primi anni di Alice. Una vita impossibile: una bambina che non esiste.
-
-Il "gioco del silenzio" - Alice impara a non fare rumore quando sentono passi.
-
----
-
-### Capitolo 25: Frammento - Enrico
+### Capitolo 22: Frammento - Enrico
 **POV:** Alice (narratrice) + scena con Enrico
 **Tempo:** Presente + 2108
 **Parole:** ~2,000
@@ -299,7 +262,7 @@ Il padre di Kate sa. Non ha mai detto nulla. Alice ha trovato il suo diario.
 
 ---
 
-### Capitolo 26: La Domanda
+### Capitolo 23: La Domanda
 **POV:** James
 **Tempo:** 2110 (flashback)
 **Parole:** ~2,500
@@ -312,7 +275,7 @@ Il terrore. La scusa improvvisata. La fuga.
 
 ---
 
-### Capitolo 27: La Crepa
+### Capitolo 24: La Crepa
 **POV:** Kate
 **Tempo:** 2111-2113 (flashback)
 **Parole:** ~2,500
@@ -324,7 +287,7 @@ Tensione tra James e Kate. Lui vuole fuggire nelle Zone. Lei vuole restare, dare
 
 ---
 
-### Capitolo 28: Segnali
+### Capitolo 25: Segnali
 **POV:** James
 **Tempo:** 2114 (flashback)
 **Parole:** ~2,500
@@ -337,9 +300,7 @@ Yuki avverte Kate: "Stanno cercando qualcosa."
 
 ---
 
-## ATTO III: RIVELAZIONE (Cap. 29-38)
-
-### Capitolo 29: La Fuga Preparata
+### Capitolo 26: La Rete
 **POV:** Kate
 **Tempo:** 2114 (flashback)
 **Parole:** ~2,500
@@ -351,7 +312,7 @@ Kate: "Non sopravviveremo qui dentro."
 
 ---
 
-### Capitolo 30: Alice sa
+### Capitolo 27: La Scoperta
 **POV:** James
 **Tempo:** 2114 (flashback)
 **Parole:** ~2,500
@@ -363,7 +324,9 @@ James non sa rispondere. Kate: "Perché sei speciale. E il mondo non è pronto."
 
 ---
 
-### Capitolo 31: Ricordi
+## ATTO III: RIVELAZIONE (Cap. 28-37)
+
+### Capitolo 28: Dieci Anni
 **POV:** Alice (narratrice)
 **Tempo:** Presente
 **Parole:** ~2,500
@@ -376,7 +339,7 @@ Poi si corregge: "Le registrazioni mostrano che cantava..."
 
 ---
 
-### Capitolo 32: L'Ultimo Giorno Normale
+### Capitolo 29: La Decisione
 **POV:** Kate
 **Tempo:** 2115 (flashback)
 **Parole:** ~2,500
@@ -387,12 +350,32 @@ Nessuno sa che è l'ultimo.
 
 ---
 
-### Capitolo 33: Il Raid
+### Capitolo 30: La Ricerca
+**POV:** Jensen (Il Controllore)
+**Tempo:** 2115 (flashback)
+**Parole:** ~2,500
+
+Introduce Jensen. Il suo background: figlio di "infetti", rieducato. Riceve la segnalazione su James e Kate.
+
+Non è un mostro. Crede di salvare le persone dalla "malattia" dell'amore eterosessuale.
+
+---
+
+### Capitolo 31: L'Ultimo Giorno
 **POV:** James
+**Tempo:** 2115 (flashback)
+**Parole:** ~2,500
+
+James percepisce che qualcosa non va. Prepara la fuga d'emergenza. Ma è troppo tardi.
+
+---
+
+### Capitolo 32: Il Raid
+**POV:** James e Kate (alternato)
 **Tempo:** 2115 (flashback)
 **Parole:** ~3,000
 
-Arrivano i Controllori. Qualcuno ha parlato. (Chi? Yuki? Un vicino? Mai rivelato.)
+Arrivano i Controllori guidati da Jensen. Qualcuno ha parlato. (Chi? Yuki? Un vicino? Mai rivelato.)
 
 Caos. James cerca di fare tempo. Kate prende Alice.
 
@@ -400,7 +383,7 @@ Caos. James cerca di fare tempo. Kate prende Alice.
 
 ---
 
-### Capitolo 34: La Separazione
+### Capitolo 33: La Corsa
 **POV:** Kate
 **Tempo:** 2115 (flashback)
 **Parole:** ~2,500
@@ -411,55 +394,16 @@ Corrono. Alice piange. Kate la tiene stretta.
 
 ---
 
-### Capitolo 35: Il Silenzio di James
-**POV:** Alice (narratrice) + ultimo flashback James
+### Capitolo 34: La Scelta
+**POV:** Alice (narratrice) + ultimo flashback
 **Tempo:** Presente + 2115
-**Parole:** ~2,500
-
-Alice racconta cosa è successo a James. Non con certezza. Con frammenti.
-
-"I documenti successivi mostrano che il soggetto maschile fu preso in custodia..."
-
-L'incertezza è deliberata. James potrebbe essere vivo, in rieducazione eterna. O morto. Alice non sa.
-
----
-
-### Capitolo 36: La Corsa
-**POV:** Kate
-**Tempo:** 2115 (flashback)
-**Parole:** ~2,500
-
-Kate e Alice raggiungono il punto di incontro con Mira. Le Zone sono vicine.
-
-Ma i Controllori sono alle spalle.
-
----
-
-### Capitolo 37: Il Confine
-**POV:** Alice (narratrice) - IL REVEAL
-**Tempo:** Presente
 **Parole:** ~3,000
 
-La voce cambia.
+Alice racconta cosa è successo. Non con certezza. Con frammenti.
 
-"Ho mentito. O forse ho solo rimandato la verità."
+Kate e Alice raggiungono il punto di incontro con Mira. Le Zone sono vicine. Ma i Controllori sono alle spalle.
 
-"Non sono una ricercatrice. Non ho trovato questi documenti. Li ho vissuti."
-
-"Mi chiamo Alice. E questa è la storia di mio padre e mia madre."
-
-**Scena:** Ricordo diretto - Alice bambina che corre tenendo la mano di sua madre.
-
----
-
-### Capitolo 38: La Scelta di Kate
-**POV:** Alice
-**Tempo:** 2115 (flashback finale)
-**Parole:** ~3,000
-
-Il momento della separazione finale.
-
-Kate vede che non ce la faranno entrambe. I Controllori sono troppo vicini.
+Kate vede che non ce la faranno entrambe.
 
 **La scelta:** Kate spinge Alice verso Mira. "Corri. Non voltarti."
 
@@ -473,64 +417,95 @@ Poi Mira la trascina via.
 
 ---
 
-## EPILOGO (Cap. 39-40)
-
-### Capitolo 39: Dopo
+### Capitolo 35: Il Manoscritto
 **POV:** Alice
-**Tempo:** Anni dopo (presente reale)
+**Tempo:** Presente (2132)
+**Parole:** ~2,500
+
+La voce cambia completamente.
+
+"Ho mentito. O forse ho solo rimandato la verità."
+
+"Non sono una ricercatrice. Non ho trovato questi documenti. Li ho vissuti."
+
+"Mi chiamo Alice Valeri Ferrante. E questa è la storia di mio padre e mia madre."
+
+---
+
+### Capitolo 36: Le Zone Orientali
+**POV:** Alice
+**Tempo:** 2115-2125 (flashback)
+**Parole:** ~2,500
+
+Alice racconta i suoi anni nelle Zone Abbandonate con Mira. Come è cresciuta. Cosa ha imparato.
+
+Non sa cosa sia successo ai suoi genitori.
+
+---
+
+### Capitolo 37: Il Ritorno
+**POV:** Alice
+**Tempo:** Presente (2132)
+**Parole:** ~2,500
+
+Alice, ormai adulta, riflette. Ha scritto questa storia per non dimenticare.
+
+"I documenti successivi mostrano che il soggetto maschile fu preso in custodia..."
+
+L'incertezza è deliberata. James potrebbe essere vivo, in rieducazione eterna. O morto. Kate potrebbe essere fuggita. O catturata. Alice non sa.
+
+---
+
+## EPILOGO (Cap. 38-39)
+
+### Capitolo 38: Epilogo
+**POV:** Alice
+**Tempo:** Presente (2132)
 **Parole:** ~2,000
 
 Alice è adulta. Vive nelle Zone Abbandonate. Ha una vita breve davanti (niente Cure).
 
 Ma ha vissuto.
 
-Ha scritto questa storia per non dimenticare. Per far sapere che l'amore esisteva.
-
----
-
-### Capitolo 40: L'Ambiguità
-**POV:** Alice
-**Tempo:** Presente
-**Parole:** ~1,500
-
-Finale aperto.
-
-Alice non sa cosa sia successo a sua madre. A suo padre.
-
 A volte sogna una donna che le somiglia, in un mercato delle Zone, che sorride.
 
 Non sa se è un ricordo o una speranza.
 
+---
+
+### Capitolo 39: Fine
+**POV:** Alice
+**Tempo:** Presente (2132)
+**Parole:** ~1,500
+
+Finale aperto.
+
 **Ultima riga:**
 
 "Non so se sono sopravvissuta o se sto solo raccontando una storia che vorrei fosse vera. Ma so questo: mi hanno amato. E per un mondo che aveva bandito l'amore, quello è stato abbastanza."
-
-*O, alternativamente:*
-
-"A volte, nelle notti silenziose delle Zone, mi chiedo se questa storia sia vera o se l'ho inventata per sopravvivere. Ma poi ricordo il calore della mano di mia madre. E quello, almeno, era reale."
 
 ---
 
 ## Note di Struttura
 
 ### Distribuzione POV:
-- James: 13 capitoli
-- Kate: 13 capitoli
-- Alice narratrice: 12 capitoli
-- Flashback generazionali: 4 capitoli (integrati)
+- James: 11 capitoli
+- Kate: 11 capitoli
+- Alice narratrice: 14 capitoli
+- Jensen: 1 capitolo
+- Flashback generazionali: integrati nei capitoli di Alice
 
 ### Parole per atto:
-- Prologo: ~4,000 (2 cap)
-- Atto I: ~26,000 (10 cap)
+- Atto I: ~26,000 (11 cap, include Intermezzo)
 - Atto II: ~40,000 (16 cap)
 - Atto III: ~27,000 (10 cap)
 - Epilogo: ~3,500 (2 cap)
-- **Totale: ~100,500** (da ridurre a ~90,000 in editing)
+- **Totale: ~96,500**
 
 ### Capitoli chiave:
-- **Cap. 10:** Prima notte insieme (intimità)
-- **Cap. 19:** Gravidanza (midpoint)
-- **Cap. 23:** Nascita di Alice (svolta emotiva)
-- **Cap. 33:** Il raid (climax azione)
-- **Cap. 37:** Reveal di Alice (climax narrativo)
-- **Cap. 38:** Scelta di Kate (climax emotivo)
+- **Cap. 8:** Prima notte insieme (intimità)
+- **Cap. 18:** Gravidanza (midpoint)
+- **Cap. 21:** Nascita di Alice (svolta emotiva)
+- **Cap. 32:** Il raid (climax azione)
+- **Cap. 35:** Reveal di Alice (climax narrativo)
+- **Cap. 34:** Scelta di Kate (climax emotivo)
