@@ -2,6 +2,10 @@
 
 ---
 
+- [Prefazione](capitoli/00-prefazione.md)
+
+---
+
 ## Atto I: Scoperta (Cap. 1-11)
 
 - [Capitolo 1: Quindici Anni](capitoli/01-quindici-anni.md)
@@ -58,6 +62,10 @@
 
 - [Capitolo 38: Epilogo](capitoli/38-epilogo.md)
 - [Capitolo 39: Fine](capitoli/39-fine.md)
+
+---
+
+- [Nota dell'Autore](capitoli/40-nota-autore.md)
 
 ---
 
