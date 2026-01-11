@@ -14,7 +14,13 @@ Mi avete chiesto di raccontare il giorno in cui tutto cambiò. Il giorno delle C
 
 Avevo quarantadue anni. Era il 2070—quindici anni fa, anche se sembra un'eternità. Vivevo ancora in Italia, in una città che ora non esiste più. Milano, si chiamava. Una di quelle città che il Sistema ha "riorganizzato" quando le nazioni sono scomparse.
 
-Quel giorno ero al lavoro. Facevo l'archivista—già allora, già prima che diventasse il mio rifugio. Stavo catalogando documenti quando l'annuncio arrivò su tutti gli schermi, su tutti i dispositivi, in tutto il mondo nello stesso istante.
+Ero nato nel 2028, l'anno in cui tutto crollava. I miei genitori mi raccontavano della Grande Crisi come se fosse una favola dell'orrore — le macchine che rubavano il lavoro, le rivolte, le guerre. Io ero troppo piccolo per ricordare i dettagli, ma ricordo la fame. Ricordo mia madre che divideva una mela in sei parti, una per ogni giorno della settimana. Ricordo mio padre che sparì per tre anni — "riallocato", dicevano — e tornò con gli occhi vuoti e le mani che tremavano.
+
+Quando arrivò la Fusione nel 2040, avevo dodici anni. Vidi le vecchie bandiere ammainarsi, i vecchi nomi sparire dalle mappe. L'Italia divenne "Distretto Sud-Alpino della Macro-Nazione Ex-Europa". Milano divenne "Settore Produttivo 7". La mia lingua — l'italiano che mia nonna mi aveva insegnato, le canzoni, le filastrocche — divenne "patrimonio storico in via di archiviazione".
+
+I trent'anni dopo furono quelli della ricostruzione. Il Sistema ci diede pace, cibo, sicurezza. In cambio, prese tutto il resto. Ma eravamo così stanchi di morire che accettammo. Tutti accettammo.
+
+Quel giorno del 2070, ero al lavoro. Facevo l'archivista—già allora, già prima che diventasse il mio rifugio. Stavo catalogando documenti dell'Era della Crisi — testimonianze di morte, di fame, di violenza — quando l'annuncio arrivò su tutti gli schermi, su tutti i dispositivi, in tutto il mondo nello stesso istante.
 
 *"L'umanità ha sconfitto la morte."*
 
@@ -23,6 +29,12 @@ Ricordo di essere rimasto immobile, con un fascicolo in mano, a fissare lo scher
 Ma io restai fermo. Perché in quel momento, in quell'istante preciso in cui il mondo esplodeva di gioia, sentii qualcosa di strano.
 
 Sentii paura.
+
+Avevo passato tutta la mattina a catalogare i morti della Crisi. Ottocentomila qui, un milione là. Famiglie cancellate, città svuotate, intere culture estinte. E ora mi dicevano che non sarebbe più successo. Che nessuno sarebbe più morto.
+
+Ma il fascicolo che avevo in mano parlava di qualcos'altro. Parlava di chi era sopravvissuto alla Crisi e si era tolto la vita dopo. Dei suicidi che erano triplicati negli Anni Bui. Di gente che aveva preferito morire piuttosto che vivere in quel mondo nuovo, efficiente, controllato.
+
+E mi chiesi: se queste persone non volevano vivere ottant'anni, cosa faranno quando gli diranno che devono vivere per sempre?
 
 *[Pausa nella registrazione]*
 

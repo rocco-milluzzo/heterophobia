@@ -35,7 +35,25 @@ Ma io so che questo è diverso. Lo so con una certezza che mi spaventa, perché 
 
 ---
 
-Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicologiche. Trascrizioni di interrogatori.
+Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicologiche. Trascrizioni di interrogatori. E uno strano documento che ho trovato per caso, catalogato come "Materiale didattico storico — Era della Transizione".
+
+È un frammento di quello che una volta chiamavano "giornale" — un modo primitivo di distribuire informazioni su fogli di carta. La data è 2027. Il titolo dice: "LA FINE DEL LAVORO: MILIARDI DI PERSONE SENZA SCOPO".
+
+*"L'intelligenza artificiale generativa ha eliminato il 40% dei posti di lavoro globali in meno di quattro anni. Gli economisti avvertono che la tendenza è irreversibile.*
+
+*Nelle strade di Parigi, Londra e New York, le proteste si sono trasformate in rivolte. I manifestanti chiedono la 'redistribuzione dei profitti dell'automazione', ma le aziende tech rispondono che 'il progresso non può essere fermato'.*
+
+*Il professor Marcus Chen dell'MIT ha dichiarato: 'Stiamo assistendo alla più grande trasformazione sociale dai tempi della Rivoluzione Industriale. Ma questa volta sta accadendo in anni, non in decenni. Non abbiamo tempo per adattarci.'*
+
+*Nel frattempo, i suicidi sono aumentati del 300% tra i lavoratori disoccupati. I servizi di salute mentale sono al collasso. E l'AI continua a migliorare."*
+
+Il documento si interrompe lì. Non so cosa sia successo dopo — o meglio, lo so fin troppo bene. Le guerre. La fame. I due miliardi di morti. La Fusione. Il Sistema.
+
+Guardo questo pezzo di carta ingiallita e mi chiedo: c'era un momento in cui avremmo potuto scegliere diversamente? Un punto in cui qualcuno avrebbe potuto fermare tutto, redistribuire i benefici, costruire un mondo dove le macchine lavorassero per tutti invece che per pochi?
+
+Probabilmente sì. Ma nessuno lo fece. E ora siamo qui.
+
+---
 
 Il fascicolo di James Valeri è spesso quasi tre centimetri. Quello di Kate Ferrante poco meno. Vent'anni di sorveglianza, di sospetti mai confermati, di segnalazioni archiviate per insufficienza di prove.
 

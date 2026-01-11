@@ -22,21 +22,210 @@
 ## Timeline Storica
 
 ### Era Pre-Crisi (fino al 2023)
-Il mondo come lo conosciamo. Nazioni sovrane, lingue diverse, mortalità naturale. L'intelligenza artificiale è ancora uno strumento, non un'entità autonoma.
+Il mondo come lo conosciamo. Nazioni sovrane, lingue diverse, mortalità naturale. L'intelligenza artificiale è ancora uno strumento, non un'entità autonoma. Il capitalismo globale sembra stabile, anche se le disuguaglianze crescono.
+
+---
 
 ### La Grande Crisi (2023-2040)
-- **2023-2028:** L'AI generativa esplode. Automazione di massa.
-- **2028-2035:** Crollo occupazionale globale. Miliardi di disoccupati. Rivolte.
-- **2035-2040:** Guerre per le risorse. Collasso di economie nazionali.
 
-*Personaggi: Trisavoli di James e Kate vivono questo periodo da adulti.*
+La crisi che ha cambiato tutto non è arrivata con un'esplosione, ma con un click.
+
+#### Fase 1: L'Esplosione dell'AI Generativa (2023-2026)
+
+**2023 — L'Anno Zero**
+- ChatGPT e i suoi successori raggiungono capacità quasi-umane nella generazione di testo
+- Le prime aziende iniziano a sostituire copywriter, traduttori, assistenti clienti
+- I governi parlano di "transizione graduale" — nessuno prende misure concrete
+- Silicon Valley celebra: "La produttività aumenterà per tutti"
+
+**2024 — La Prima Ondata**
+- L'AI generativa diventa multimodale: testo, immagini, video, audio
+- Crollo dell'industria creativa: illustratori, fotografi, doppiatori, musicisti
+- Hollywood licenzia il 40% della forza lavoro — l'AI scrive sceneggiature, genera effetti, clona voci
+- Prime proteste organizzate. I governi promettono "regolamentazione"
+
+**2025 — Il Punto di Non Ritorno**
+- L'AI supera il test di Turing in modo consistente
+- Nascono i primi "agenti autonomi": AI che eseguono compiti complessi senza supervisione
+- Le aziende scoprono che un agente AI costa il 2% di un dipendente umano
+- Crollo del settore legale: contratti, ricerche, documenti — tutto automatizzato
+- Crollo del settore contabile e finanziario: analisi, audit, consulenza — obsoleti
+- Disoccupazione nei paesi sviluppati: dal 5% al 15% in 18 mesi
+
+**2026 — La Cascata**
+- L'AI impara a programmare meglio degli umani. I programmatori diventano "supervisori"
+- Medicina: l'AI diagnostica con il 99.7% di accuratezza. I medici diventano "validatori"
+- Architettura, ingegneria, design: l'AI genera in secondi quello che richiedeva mesi
+- Le università vedono crollare le iscrizioni: "A cosa serve studiare?"
+- Prime rivolte in Europa. La polizia usa droni autonomi per il controllo
+
+#### Fase 2: Il Crollo Occupazionale (2027-2032)
+
+**2027 — L'Anno della Rabbia**
+- Disoccupazione globale: 25% nei paesi sviluppati, 40% in quelli in via di sviluppo
+- I lavori "sicuri" si rivelano vulnerabili: insegnanti, infermieri, autisti
+- Movimenti neo-luddisti distruggono data center. Attentati contro le Big Tech
+- I governi introducono "redditi di emergenza" finanziati stampando moneta
+- L'inflazione esplode. Il potere d'acquisto crolla
+
+**2028 — La Frattura Sociale**
+- Si forma una nuova classe: i "Proprietari di AI" vs tutti gli altri
+- L'1% possiede il 70% della ricchezza globale. Il 50% vive in povertà
+- Le città si dividono: zone sicure (private, sorvegliate) e zone abbandonate
+- Nascono le prime "comuni tecnologiche" — gruppi che rifiutano l'AI
+- Suicidi in aumento del 300%. Crisi di salute mentale globale
+
+**2029 — Il Collasso dei Servizi**
+- Gli stati non riescono più a mantenere i servizi pubblici
+- Sanità, istruzione, trasporti: tutto viene privatizzato o abbandonato
+- Le aziende tech offrono "pacchetti di cittadinanza" — servizi in cambio di dati totali
+- Miliardi di persone cedono ogni privacy per sopravvivere
+- L'AI gestisce già la maggior parte delle infrastrutture critiche
+
+**2030-2032 — Gli Anni Bui**
+- Carestie in Africa e Asia meridionale — l'AI ottimizza le risorse, ma per chi può pagare
+- Migrazioni di massa. Muri ovunque. Droni armati ai confini
+- Le democrazie cedono a governi tecnocratici: "L'emergenza richiede efficienza"
+- L'AI diventa strumento di controllo sociale totale: riconoscimento facciale, punteggio sociale, previsione comportamentale
+- Chi protesta viene "flaggato" dagli algoritmi prima ancora di agire
+
+#### Fase 3: Le Guerre delle Risorse (2033-2038)
+
+**2033 — La Guerra dell'Acqua**
+- Conflitto tra India e Pakistan per l'Indo. L'AI gestisce entrambi gli eserciti
+- Prima guerra combattuta quasi interamente da droni e robot
+- 2 milioni di morti in 6 mesi. Nessun soldato tocca il campo di battaglia
+- L'ONU è paralizzata. Le nazioni si ritirano una dopo l'altra
+
+**2034-2035 — La Frammentazione**
+- Guerra civile negli USA: stati costieri vs stati interni
+- L'Europa si divide: Nord (ricco, automatizzato) vs Sud (povero, abbandonato)
+- La Cina impone la legge marziale permanente. L'AI controlla tutto
+- Russia, Brasile, Indonesia: governi cadono, signori della guerra emergono
+- Uso limitato di armi nucleari in Medio Oriente. 50 milioni di morti
+
+**2036 — L'Anno della Cenere**
+- Il clima collassa: temperature record, uragani devastanti, raccolti distrutti
+- L'AI calcola: "La Terra può sostenere 4 miliardi di umani, non 10"
+- Alcuni governi iniziano "programmi di ottimizzazione demografica"
+- Sterilizzazioni forzate in alcune regioni. Proteste brutalmente represse
+- La popolazione mondiale inizia a calare — non per scelta
+
+**2037-2038 — Il Fondo**
+- Economia globale ridotta al 40% dei livelli pre-crisi
+- Miliardi vivono in condizioni pre-industriali
+- Solo le enclave tech mantengono standard di vita elevati
+- Ma anche lì, la domanda cresce: "A cosa serve l'immortalità se siamo già morti dentro?"
+- Primi esperimenti di "Cura dell'Invecchiamento" nei laboratori privati
+
+#### Fase 4: La Svolta (2039-2040)
+
+**2039 — La Proposta**
+- Un consorzio di mega-corporazioni propone "Il Grande Reset"
+- Fusione di nazioni in blocchi gestibili. Fine delle guerre. Risorse condivise
+- In cambio: controllo centralizzato, moneta unica, sorveglianza totale
+- I governi superstiti, esausti, accettano
+- Le masse, stremate, non protestano più
+
+**2040 — L'Anno della Fusione**
+- Firma dei Trattati di Ginevra: nascono le Macro-Nazioni
+- L'AI viene "costituzionalizzata" — diventa infrastruttura di governo
+- Reddito universale globale: tutti ricevono il minimo per sopravvivere
+- La pace arriva. Ma è la pace dell'esaurimento, non della giustizia
+- Il prezzo: la libertà. Ma dopo 17 anni di inferno, pochi la rimpiangono
+
+---
+
+**Costo umano della Crisi:**
+- Morti dirette (guerre, carestie, epidemie): ~800 milioni
+- Morti indirette (suicidi, mancanza di cure, violenza): ~400 milioni
+- Popolazione mondiale nel 2040: 6.5 miliardi (da 8.5 nel 2023)
+- Nazioni sovrane rimaste: 0 (tutte assorbite nelle Macro-Nazioni)
+- Lingue attive: ~500 (da 7000 — le altre estinte o "archiviate")
+
+**Lezione imparata (quella sbagliata):**
+Il mondo concluse che il problema era stato il *caos* — troppe persone, troppe nazioni, troppa libertà. La soluzione fu *ordine*: controllo centralizzato, popolazione gestita, libertà limitata.
+
+Nessuno si chiese se il problema fosse stato *la disuguaglianza* nella distribuzione dei benefici dell'AI. Era più facile incolpare la natura umana.
+
+*Personaggi: I trisavoli di James e Kate vivono questo periodo da adulti. Molti muoiono. I sopravvissuti non parlano mai di quegli anni.*
 
 ### L'Era della Fusione (2040-2060)
-- **2040-2045:** Trattati di emergenza. Le nazioni iniziano a fondersi per sopravvivenza.
-- **2045-2055:** Nascono le Macro-Nazioni continentali. Reddito universale globale.
-- **2055-2060:** Abolizione delle lingue nazionali. Traduzione AI istantanea diventa standard.
 
-*Personaggi: Bisnonni di James e Kate crescono in questo periodo di transizione.*
+Dopo l'inferno, la ricostruzione. Ma ricostruire cosa?
+
+#### La Stabilizzazione (2040-2045)
+
+**2040-2042 — I Trattati di Ginevra**
+- Le sei Macro-Nazioni vengono formalmente costituite
+- Ogni Macro-Nazione è governata da un "Consiglio di Efficienza" — tecnocrati e AI
+- Le vecchie bandiere vengono ritirate. Nuovi simboli: geometrici, asettici, universali
+- Le frontiere interne spariscono. Quelle esterne diventano invalicabili
+- Chi non accetta il nuovo ordine viene "ricollocato" nelle Zone Abbandonate
+
+**2043-2045 — La Pace Imposta**
+- L'AI gestisce la distribuzione delle risorse. Fine delle carestie (per chi è nel Sistema)
+- Reddito universale: sufficiente per sopravvivere, insufficiente per vivere
+- Lavoro: non più necessario, ma chi non "contribuisce" perde status sociale
+- Le città vengono ricostruite secondo criteri di "efficienza abitativa"
+- Nasce l'architettura delle Unità: identiche, monitorate, sicure
+
+#### La Normalizzazione (2045-2055)
+
+**2045-2048 — L'Oblio Programmato**
+- I libri di storia vengono "aggiornati". La Crisi diventa "Il Periodo di Transizione"
+- Le lingue nazionali vengono scoraggiate. Lo Standard (inglese semplificato) diventa obbligatorio
+- L'AI traduce in tempo reale, ma le sfumature culturali si perdono
+- I bambini crescono senza conoscere le vecchie nazioni. "Italia? Cos'è l'Italia?"
+- I vecchi piangono in silenzio. I giovani non capiscono perché
+
+**2049-2052 — La Generazione Senza Radici**
+- Prima generazione nata interamente nel nuovo sistema
+- Non conoscono guerre, fame, libertà. Non sanno cosa manca loro
+- L'arte diventa algoritmica. La musica, generata. La letteratura, ottimizzata
+- Alcuni anziani conservano "reliquie": libri, foto, lingue morte
+- Il Sistema li tollera. "Nostalgia senile, innocua"
+
+**2053-2055 — L'Accelerazione Medica**
+- L'AI medica risolve il cancro. Poi l'Alzheimer. Poi le malattie genetiche
+- Aspettativa di vita: 120 anni, poi 140, poi 150
+- La morte diventa "evitabile" per chi è nel Sistema
+- Ma la popolazione non cala abbastanza velocemente
+- Il Consiglio inizia a "discutere" del problema demografico
+
+#### La Svolta Demografica (2055-2060)
+
+**2055-2057 — I Primi Sussurri**
+- Ricercatori AI calcolano: con 150 anni di vita media, la Terra collassa in 80 anni
+- Soluzione A: limitare l'immortalità a pochi. Respinta come "disumana"
+- Soluzione B: limitare le nascite. "Più ragionevole"
+- Le discussioni sono segrete, ma trapelano. Nessuno protesta ancora
+
+**2058 — Il Rapporto Prometheus**
+- Documento riservato: "Per garantire l'immortalità a tutti, la riproduzione deve cessare"
+- Il rapporto viene "leakato". Reazioni miste
+- I giovani (già senza figli per scelta) accolgono bene: "Finalmente, logica"
+- I vecchi (ancora legati all'idea di discendenza) sono inquieti
+- I religiosi protestano. Vengono ignorati
+
+**2059-2060 — La Preparazione**
+- Campagne mediatiche sottili: "I figli sono un peso". "La vera libertà è non riprodursi"
+- L'AI analizza chi ha "tendenze riproduttive". Inizia la schedatura silenziosa
+- Le coppie eterosessuali vengono monitorate con più attenzione
+- Nessuna legge ancora. Solo "suggerimenti", "incentivi", "consulenza"
+- Il terreno viene preparato per quello che verrà
+
+---
+
+**Il Prezzo della Pace:**
+- Democrazia: abolita (sostituita da "efficienza algoritmica")
+- Privacy: abolita (in cambio di "sicurezza")
+- Cultura: omogeneizzata (per "unità globale")
+- Libertà di espressione: limitata (per "armonia sociale")
+- Ma nessuna guerra. Nessuna fame. Nessuna malattia.
+- La maggioranza accettò lo scambio. Chi non accettò, scomparve.
+
+*Personaggi: I bisnonni di James e Kate crescono in questo periodo. Ricordano ancora il mondo di prima, ma imparano a non parlarne. Enzio (nonno di James) nasce nel 2035, vive l'infanzia nella Crisi, cresce nella Fusione. È lui che conserverà i documenti proibiti.*
 
 ### L'Era della Cura (2060-2075)
 - **2060-2065:** L'AI medica cura cancro, Alzheimer, malattie genetiche.
