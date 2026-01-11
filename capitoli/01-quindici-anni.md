@@ -10,7 +10,7 @@ James guardava fuori dalla finestra. Il cielo era di quel grigio uniforme che si
 
 Fu in quel momento che sentì una risata.
 
-Non era una risata forte, non attirava l'attenzione di nessuno tranne la sua. Era un suono piccolo, quasi soffocato, come se qualcuno stesse cercando di trattenerlo e non ci riuscisse. James si voltò verso quel suono.
+Non era una risata forte, non attirava l'attenzione di nessuno tranne la sua. Era un suono piccolo, quasi soffocato — qualcuno che cercava di trattenerlo e non ci riusciva. James si voltò verso quel suono.
 
 E la vide.
 

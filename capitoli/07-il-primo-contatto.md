@@ -38,7 +38,7 @@ La sua voce era bassa, roca. James sentì un calore salirgli dal petto alla gola
 
 Il silenzio che seguì fu così denso che James poteva quasi toccarlo.
 
-Intorno a loro la biblioteca continuava a vivere—il fruscio delle pagine virtuali, il ronzio sommesso dei sistemi di ventilazione, le voci lontane di altri studenti. Ma tutto sembrava ovattato, distante. Come se loro due fossero in una bolla separata dal resto del mondo.
+Intorno a loro la biblioteca continuava a vivere—il fruscio delle pagine virtuali, il ronzio sommesso dei sistemi di ventilazione, le voci lontane di altri studenti. Ma tutto sembrava ovattato, distante. Loro due, in una bolla separata dal resto del mondo.
 
 James guardò la mano di Kate. Era così vicina. Avrebbe potuto allungare le dita e sfiorarla. Sarebbe stato facile. Naturale, quasi.
 
@@ -58,7 +58,7 @@ La voce di lei lo fece trasalire. Alzò gli occhi e incontrò i suoi.
 
 "Stai tremando."
 
-Era vero. Le mani gli tremavano leggermente, un fremito appena percettibile che non riusciva a controllare.
+Era vero. Un fremito attraversava le sue mani, appena percettibile ma impossibile da fermare.
 
 "Fa freddo," mentì.
 
@@ -88,7 +88,7 @@ Niente. Erano soli. Nascosti nell'angolo cieco che lui stesso aveva scelto.
 
 "No." La parola gli uscì prima che potesse fermarla. "Non scusarti."
 
-Si guardarono. Il respiro di James era irregolare, affannoso. Sentiva il sangue pulsare nelle tempie, nelle mani, in tutto il corpo. La pelle del punto dove lei l'aveva toccato bruciava ancora, un fantasma di calore che non voleva svanire. Era come se ogni cellula si fosse svegliata all'improvviso, come se avesse dormito per diciotto anni e solo ora stesse aprendo gli occhi.
+Si guardarono. Il respiro di James era irregolare, affannoso. Sentiva il sangue pulsare nelle tempie, nelle mani, in tutto il corpo. La pelle del punto dove lei l'aveva toccato bruciava ancora, un fantasma di calore che non voleva svanire. Ogni cellula si era svegliata all'improvviso, dopo diciotto anni di sonno.
 
 "È stato..." iniziò, ma non sapeva come finire la frase.
 
@@ -134,9 +134,9 @@ Non pensò. Non calcolò i rischi, non controllò le telecamere, non si chiese c
 
 Questa volta non si ritirò.
 
-La sua pelle era calda, vellutata. Le dita sottili ma forti, e quando le chiuse intorno alle sue, James sentì un nodo sciogliersi nel petto. Come una diga che crolla, come un muro che si sbriciola.
+La sua pelle era calda, vellutata. Le dita sottili ma forti, e quando le chiuse intorno alle sue, James sentì un nodo sciogliersi nel petto. Una diga che crollava. Un muro che si sbriciolava.
 
-Le loro mani si incastrarono l'una nell'altra come se fossero state create per quello scopo. James sentì il polso di lei battere contro il proprio—due ritmi separati che lentamente, impossibilmente, cominciarono a sincronizzarsi. Il calore si diffondeva dal punto di contatto, risalendo lungo il braccio, invadendo il petto, sciogliendogli i muscoli tesi.
+Le loro mani si incastrarono l'una nell'altra — create per quello scopo. James sentì il polso di lei battere contro il proprio—due ritmi separati che lentamente, impossibilmente, cominciarono a sincronizzarsi. Il calore si diffondeva dal punto di contatto, risalendo lungo il braccio, invadendo il petto, sciogliendogli i muscoli tesi.
 
 Kate lo guardava. Negli occhi aveva le lacrime.
 
@@ -170,7 +170,7 @@ Ma quando si separarono al bivio dei corridoi, Kate si voltò un'ultima volta.
 
 "Grazie."
 
-E se ne andò, lasciandolo lì con il cuore che batteva ancora troppo forte e le mani che non avevano smesso di tremare.
+E se ne andò, lasciandolo lì con il cuore che batteva ancora troppo forte e le mani percorse da un fremito che non voleva placarsi.
 
 ---
 

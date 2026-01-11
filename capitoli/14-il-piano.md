@@ -82,7 +82,7 @@ Kate sentì qualcosa stringersi nel petto. "Necessario?"
 
 La grappa bruciava, ma Kate bevve lo stesso. Aveva il sapore di qualcosa di antico, di dimenticato.
 
-"Vi do la mia benedizione," disse Enzio. La parola suonò strana, arcaica. "Non che valga molto, nel mondo di oggi. Ma una volta i nonni benedicevano i nipoti quando partivano per un viaggio. Era un modo per dire: vai, e sappi che qualcuno ti pensa."
+"*Vi dò la mia benedizione*," disse Enzio in italiano — la lingua che quasi nessuno parlava più, quella che lui usava solo nei momenti che contavano. Poi ripeté, per loro: "Vi do la mia benedizione. Non che valga molto, nel mondo di oggi. Ma una volta i nonni benedicevano i nipoti quando partivano per un viaggio. *Che Dio vi accompagni*, dicevano. Era un modo per dire: vai, e sappi che qualcuno ti pensa."
 
 James abbassò lo sguardo. Kate vide le sue spalle tremare.
 
@@ -244,7 +244,7 @@ E ogni notte, quando riuscivano a stare insieme, i loro corpi cercavano ciò che
 
 Non era più solo amore. Era ribellione pura.
 
-James la spogliava lentamente, come se ogni centimetro di pelle rivelata fosse una preghiera. Kate rispondeva con fame crescente, le mani che esploravano, le labbra che tracciavano sentieri proibiti lungo il suo collo, il suo petto, più giù.
+James la spogliava lentamente. Ogni centimetro di pelle rivelata era una preghiera. Kate rispondeva con fame crescente, le mani che esploravano, le labbra che tracciavano sentieri proibiti lungo il suo collo, il suo petto, più giù.
 
 "Ti voglio," gli sussurrava nell'orecchio, e quella semplice frase era più sovversiva di qualsiasi manifesto politico. "Ti voglio dentro di me. Voglio che tu mi faccia tua."
 

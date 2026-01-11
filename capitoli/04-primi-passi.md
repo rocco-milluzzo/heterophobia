@@ -64,7 +64,7 @@ Poi le conversazioni iniziarono a cambiare.
 
 James sentì il sangue gelarsi. "E tuo padre?"
 
-"Ha firmato i documenti di dissociazione. Per tenermi." La voce di Kate era piatta, priva di giudizio. "Non lo biasimo. Se non l'avesse fatto, avrebbero portato via anche me. Ma non ne parliamo mai. È come se mia madre non fosse mai esistita." Gli occhi di Kate brillavano nell'ombra. "Per questo devo stare attenta. Se scoprono che sono figlia di un'*infetta*..."
+"Ha firmato i documenti di dissociazione. Per tenermi." La voce di Kate era piatta, priva di giudizio. "Non lo biasimo. Se non l'avesse fatto, avrebbero portato via anche me. Ma non ne parliamo mai. Mia madre non è mai esistita — per lui." Gli occhi di Kate brillavano nell'ombra. "Per questo devo stare attenta. Se scoprono che sono figlia di un'*infetta*..."
 
 Non finì la frase. Non ce n'era bisogno.
 
@@ -84,7 +84,7 @@ James ci pensò. "Forse era coraggioso."
 
 Kate lo fissò per un lungo momento. Nella luce fioca della scala di emergenza, i suoi occhi sembravano più scuri del solito.
 
-"A volte parli come se fossi nato nel secolo sbagliato," disse.
+"A volte parli come chi è nato nel secolo sbagliato," disse.
 
 "Forse è così."
 

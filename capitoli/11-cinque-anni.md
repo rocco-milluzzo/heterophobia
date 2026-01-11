@@ -30,7 +30,7 @@ James non sapeva se le storie fossero vere. Ma sapeva una cosa: ogni volta che a
 
 Di notte la maschera cadeva.
 
-Di notte diventava l'uomo che attraversava il Complesso come un fantasma, seguendo percorsi memorizzati, evitando sensori, contando i secondi tra un'ispezione e l'altra. L'uomo che bussava alla porta di Kate con un codice prestabilito—due colpi, pausa, tre colpi—e la stringeva nel buio come se il mondo stesse per finire.
+Di notte diventava l'uomo che attraversava il Complesso come un fantasma, seguendo percorsi memorizzati, evitando sensori, contando i secondi tra un'ispezione e l'altra. L'uomo che bussava alla porta di Kate con un codice prestabilito—due colpi, pausa, tre colpi—e la stringeva nel buio — il mondo poteva finire in qualsiasi momento.
 
 Ogni volta poteva essere l'ultima volta. Il Sistema li avrebbe marchiati come "infetti". Li avrebbe mandati in rieducazione. Li avrebbe separati per sempre.
 

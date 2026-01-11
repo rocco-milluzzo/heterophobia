@@ -162,6 +162,20 @@ Imparai la vita nelle Zone—come coltivare, come costruire, come sopravvivere s
 
 Ma era anche libero.
 
+La giornata iniziava con il sole — quello vero, non la simulazione del Complesso. Mia madre mi svegliava all'alba per aiutare nell'orto comunitario. C'erano pomodori da raccogliere, zucche da controllare, erbe aromatiche da essiccare. Il lavoro era duro, le mani si sporcavano di terra, la schiena doleva. Ma c'era qualcosa di profondamente appagante nel vedere crescere ciò che avevi piantato.
+
+La mattina, i bambini andavano a "scuola" — non un edificio, ma un cerchio di pietre sotto un grande quercia. Un'anziana insegnava a leggere usando libri recuperati dalle rovine. Un uomo che era stato ingegnere spiegava matematica tracciando numeri nella polvere. Non c'erano esami, non c'erano valutazioni. Solo la fame di imparare.
+
+A mezzogiorno, il villaggio si riuniva per il pasto comune. Ognuno portava qualcosa — chi aveva pescato, chi aveva cacciato, chi aveva cotto il pane nel forno di pietra costruito dalle loro mani. Si mangiava insieme, fianco a fianco, senza distinzioni. I vecchi accanto ai giovani. Le famiglie accanto ai solitari.
+
+Il pomeriggio era per i mestieri. C'era un fabbro che forgiava utensili da rottami recuperati. Una donna che tesseva stoffa da fibre vegetali. Un gruppo che lavorava il legno per costruire nuove case. Ognuno aveva un ruolo, ognuno era necessario. Non esisteva disoccupazione — esisteva solo lavoro condiviso.
+
+La sera era per le storie.
+
+Intorno ai fuochi si parlava del passato — di com'era il mondo prima del Divieto, prima delle Cure, prima che l'immortalità trasformasse l'umanità in qualcosa che non sapeva più morire né vivere davvero. I vecchi raccontavano, i giovani ascoltavano. E quelle storie diventavano parte di noi, mattoni invisibili che costruivano chi eravamo.
+
+C'era anche la medicina. Non i nanobot del Sistema, non le Cure che fermavano il tempo. C'erano erbe raccolte nel bosco, rimedi tramandati di generazione in generazione, una donna che era stata infermiera prima della fuga e ora curava con quello che aveva. La gente moriva, nelle Zone. Di malattie, di incidenti, di vecchiaia. Ma moriva amata. Moriva circondata da chi la conosceva. E questo, mi resi conto, valeva più di un'eternità solitaria.
+
 E c'era qualcosa che il Sistema non mi aveva mai insegnato: le Zone avevano una cultura propria. Non erano solo sopravvivenza — erano creazione.
 
 Ogni sera, intorno ai fuochi, qualcuno raccontava storie. Non le storie ufficiali del Sistema, ma quelle vere — storie di famiglie che erano esistite, di amori che avevano resistito, di bambini nati e cresciuti prima del Divieto. I vecchi insegnavano ai giovani, e i giovani insegnavano ai vecchi. C'erano canzoni, scritte da chi aveva conosciuto il mondo di prima. C'erano rituali — cerimonie d'unione tra uomo e donna, battesimi di bambini appena nati, funerali dove la morte era pianta ma anche celebrata.

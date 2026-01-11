@@ -102,7 +102,7 @@ James la attirò a sé. La strinse così forte che poteva sentire il battito del
 
 "Come puoi prometterlo?"
 
-Non poteva. Ma la strinse più forte, come se il suo corpo potesse essere uno scudo. Come se l'amore potesse fermare il Sistema.
+Non poteva. Ma la strinse più forte. Il suo corpo doveva essere uno scudo. L'amore doveva poter fermare il Sistema.
 
 ---
 

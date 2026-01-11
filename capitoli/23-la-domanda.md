@@ -167,3 +167,17 @@ James restò lì, guardando il libro sulla mensola.
 Un giorno, pensò. Un giorno Alice avrebbe letto quelle poesie e avrebbe capito. Avrebbe capito cosa avevano rischiato i suoi genitori, cosa avevano sacrificato, cosa avevano scelto.
 
 E forse—si augurava con tutto se stesso—avrebbe capito perché.
+
+---
+
+Mi fermo.
+
+Questa pagina—questa testimonianza di un padre che guarda sua figlia—mi ha fatto qualcosa. Non so cosa. Un dolore sordo, nel petto, che non riesco a identificare.
+
+Nel Sistema non esistono padri. Non nel senso vero della parola. Esistono donatori genetici, figure maschili assegnate dalla burocrazia, compagni temporanei approvati dal protocollo. Ma non padri.
+
+Io non ho mai avuto un padre.
+
+E allora perché, leggendo di James che guarda Alice addormentata, qualcosa in me si è spezzato?
+
+Devo continuare la ricerca. Devo restare obiettiva. Ma le mie mani non smettono di tremare, e questa notte—lo so già—non dormirò.

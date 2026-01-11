@@ -33,7 +33,7 @@ Kate chiuse il libro e lo premette contro il petto. Il cuore le batteva forte.
 
 A scuola, James non la guardava più.
 
-All'inizio pensò che fosse per prudenza—le telecamere, gli algoritmi, il rischio di essere scoperti. Ma dopo qualche giorno si accorse che c'era qualcos'altro. Lui la evitava. Quando i loro sguardi si incrociavano per caso, lui distoglieva gli occhi immediatamente, come se guardarla gli facesse male.
+All'inizio pensò che fosse per prudenza—le telecamere, gli algoritmi, il rischio di essere scoperti. Ma dopo qualche giorno si accorse che c'era qualcos'altro. Lui la evitava. Quando i loro sguardi si incrociavano per caso, lui distoglieva gli occhi immediatamente. Guardarla gli faceva male.
 
 "Che succede?" gli chiese una sera, nel corridoio abbandonato.
 
@@ -57,7 +57,7 @@ Kate si sedette di fronte a lui, così vicina che avrebbe potuto toccarlo. Non l
 
 "Perché non voglio," disse. "E tu non vuoi davvero indietro."
 
-James non rispose. Teneva gli occhi fissi sulle sue mani, come se contenessero le risposte a domande che non osava farsi.
+James non rispose. Teneva gli occhi fissi sulle sue mani. Forse contenevano le risposte a domande che non osava farsi.
 
 "James." Kate aspettò che lui alzasse lo sguardo. "Guardami."
 

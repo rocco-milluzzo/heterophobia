@@ -14,7 +14,15 @@ Mi avete chiesto di raccontare il giorno in cui tutto cambiò. Il giorno delle C
 
 Avevo quarantadue anni. Era il 2070—quindici anni fa, anche se sembra un'eternità. Vivevo ancora in Italia, in una città che ora non esiste più. Milano, si chiamava. Una di quelle città che il Sistema ha "riorganizzato" quando le nazioni sono scomparse.
 
-Milano. Ricordo ancora il Duomo che svettava sulla piazza, le guglie gotiche che bucavano il cielo. I Navigli la sera, quando la luce radente trasformava l'acqua in oro liquido. Il dialetto che mia nonna parlava ancora, quello stretto che io capivo a malapena — *Milàn l'è on gran Milàn*. Ora è solo Settore Produttivo 7, Distretto Sud-Alpino. Nessuno lo chiama più Milano tranne noi vecchi, quando parliamo tra noi, quando pensiamo che nessuno ascolti.
+Milano. *Mi' cara Milàn*.
+
+Ricordo ancora il Duomo che svettava sulla piazza, le guglie gotiche che bucavano il cielo grigio-perla delle mattine d'inverno. La Madonnina dorata in cima, che brillava quando il sole finalmente usciva dalle nuvole, e mia nonna che diceva sempre *"Ofelè, fa el to mestée"* — pasticciere, fai il tuo mestiere — quando qualcuno parlava di cose che non capiva.
+
+I Navigli la sera, quando la luce radente trasformava l'acqua in oro liquido e i bar si riempivano di voci, di risate, dell'odore del pesce fritto e della sbrisolona. L'edicola all'angolo di corso Buenos Aires dove compravo i giornali per mio padre. Il tram arancione che sferragliava sotto le finestre alle sei del mattino, così puntuale che mia madre ci regolava l'orologio.
+
+Il dialetto che mia nonna parlava ancora, quello stretto che io capivo a malapena — *"Milàn l'è on gran Milàn"*, Milano è una grande Milano, diceva con orgoglio. E quando qualcuno si lamentava: *"Se pò minga pretend de vess content se te gh'è nient"* — non puoi pretendere di essere felice se non hai niente. Ma noi avevamo qualcosa. Avevamo lei.
+
+Ora è solo Settore Produttivo 7, Distretto Sud-Alpino. Nessuno lo chiama più Milano tranne noi vecchi, quando parliamo tra noi, quando pensiamo che nessuno ascolti. *Mi' cara Milàn*, sussurro a volte, da solo, nella mia stanza piena di libri. E per un momento sento ancora l'odore del panettone a Natale, il rumore della pioggia sui sanpietrini di piazza Duomo, la voce di mia nonna che cantava *"O mia bèla Madunina"* mentre impastava il pane.
 
 Ero nato nel 2028, l'anno in cui tutto crollava. I miei genitori mi raccontavano della Grande Crisi come se fosse una favola dell'orrore — le macchine che rubavano il lavoro, le rivolte, le guerre. Io ero troppo piccolo per ricordare i dettagli, ma ricordo la fame. Ricordo mia madre che divideva una mela in sei parti, una per ogni giorno della settimana. Ricordo mio padre che sparì per tre anni — "riallocato", dicevano — e tornò con gli occhi vuoti e le mani che tremavano.
 

@@ -95,7 +95,13 @@ Tornò ore dopo con notizie.
 
 Kate impallidì. "Marcus?"
 
-"Non lo so. Non sono riuscito a scoprire chi è stato preso e chi è scappato."
+"Non lo so. Non sono riuscito a scoprire chi è stato preso e chi è scappato." James esitò. "Ma ho visto qualcosa di strano. C'era una Controllore — una donna, capelli grigi, più anziana degli altri. Non partecipava all'operazione. Stava in disparte, guardava. E quando hanno trascinato via i prigionieri..." Si fermò. "Giuro che l'ho vista distogliere lo sguardo. Come se non riuscisse a guardare."
+
+"Una Controllore con una coscienza?"
+
+"Non lo so cosa fosse. Ma era diversa dagli altri. Ho sentito uno degli agenti chiamarla 'Kovalova' con un tono che sembrava... disprezzo. Come se non la rispettassero."
+
+Kate rimase in silenzio. Nel Sistema, una Controllore che distoglieva lo sguardo era un'anomalia. Un'imperfezione nella macchina. E le imperfezioni, a volte, potevano essere alleate.
 
 Un silenzio pesante calò nella grotta. Kate pensò a tutti gli amici che avevano fatto negli anni. A Mira, l'amica del cuore di Alice. Alle donne che le avevano insegnato a partorire. A tutti quelli che avevano condiviso la loro vita.
 

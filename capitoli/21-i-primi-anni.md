@@ -160,3 +160,11 @@ Ma un giorno le avrebbe capite. E allora, forse, avrebbe compreso anche loro.
 Fuori, il vento notturno portava il profumo dei pini. Un gufo lanciò il suo richiamo nell'oscurità. E da qualche parte, oltre le montagne, il Sistema continuava a vegliare—ignaro della piccola fiamma che bruciava nel cuore delle Zone Abbandonate.
 
 Una fiamma che un giorno avrebbe illuminato il mondo.
+
+---
+
+*Nota della ricercatrice: Ho dovuto fermarmi più volte durante la trascrizione di questo capitolo. Non so spiegare perché. Forse è solo la stanchezza—sono giorni che dormo poco. Ma ogni volta che scrivevo di Alice bambina, le dita mi tremavano. E una volta—una sola volta—ho scritto "mi" invece di "le". Ho corretto, naturalmente. Eppure l'errore mi perseguita.*
+
+*Devo essere più professionale. Questa è una ricerca storica, non un diario personale.*
+
+*Ma allora perché piango?*

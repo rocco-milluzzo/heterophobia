@@ -28,7 +28,13 @@ Ma non potevano fermarci. Non ancora.
 
 Il punto d'incontro era a due chilometri.
 
-Mira ci aspettava là—almeno, speravamo che ci aspettasse. Era il piano che avevamo concordato mesi prima, per un'emergenza che avevamo sperato non sarebbe mai arrivata.
+Mira ci aspettava là—almeno, speravamo che ci aspettasse. Mira, che era stata l'amica del cuore di Alice fin da quando avevano quattro anni. Mira, che era cresciuta con noi nel primo rifugio, figlia di due donne fuggite dal Distretto Sud. Mira, che ora aveva sedici anni e faceva la staffetta per la rete, portando messaggi e provviste tra i rifugi.
+
+Quando Alice aveva sei anni, Mira era caduta da un albero e si era rotta un braccio. Alice non si era mossa dal suo capezzale per tre giorni, leggendole poesie dal libro per distrarla dal dolore. Quando Alice aveva dieci anni e aveva la febbre alta, era stata Mira a restare sveglia tutta la notte, cambiandole le pezze fredde sulla fronte.
+
+Erano più che amiche. Erano sorelle. Le uniche sorelle che potevano avere in un mondo che aveva vietato la famiglia.
+
+Era il piano che avevamo concordato mesi prima, per un'emergenza che avevamo sperato non sarebbe mai arrivata.
 
 Un'emergenza che ora era qui.
 

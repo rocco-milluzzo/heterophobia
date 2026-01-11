@@ -152,7 +152,7 @@ Lui alzò la testa di scatto, come svegliato da un sogno. Quando la vide, i suoi
 
 "Studiavo."
 
-Un silenzio. Lui la guardava come se fosse un'apparizione, qualcosa di impossibile. Kate si sentì stranamente nuda sotto quegli occhi.
+Un silenzio. Lui la guardava — un'apparizione, qualcosa di impossibile. Kate si sentì stranamente nuda sotto quegli occhi.
 
 "Sei Ferrante, vero?" disse lui. "Kate Ferrante."
 

@@ -8,7 +8,7 @@ Aveva disattivato i sensori ambientali fingendo un malfunzionamento. Aveva impos
 
 Tutto perfetto. Tutto calcolato.
 
-Eppure, mentre aspettava James seduta sul divano del soggiorno, Kate tremava.
+Eppure, mentre aspettava James seduta sul divano del soggiorno, Kate sentiva i muscoli percorsi da fremiti incontrollabili.
 
 ---
 
@@ -62,7 +62,7 @@ Un silenzio. Si guardarono attraverso la stanza, separati da pochi metri che sem
 
 Lui attraversò la stanza come in trance.
 
-Ogni passo era lento, deliberato, come se stesse camminando verso qualcosa di sacro. Kate lo guardava avvicinarsi e sentiva qualcosa crescerle dentro—un'onda di emozione così forte da toglierle il fiato.
+Ogni passo era lento, deliberato. Stava camminando verso qualcosa di sacro. Kate lo guardava avvicinarsi e sentiva qualcosa crescerle dentro—un'onda di emozione così forte da toglierle il fiato.
 
 Quando furono a un passo di distanza, James si fermò.
 
@@ -114,7 +114,7 @@ Bacio dopo bacio, impararono il linguaggio della pelle. Il modo in cui i respiri
 
 Si spostarono verso la camera di Kate senza parlare.
 
-Non c'era bisogno di parole. I loro corpi sapevano che cosa fare anche se le loro menti esitavano. Era come se millenni di istinto si fossero risvegliati all'improvviso, guidandoli lungo un percorso che l'umanità aveva percorso infinite volte prima di loro.
+Non c'era bisogno di parole. I loro corpi sapevano che cosa fare anche se le loro menti esitavano. Millenni di istinto si erano risvegliati all'improvviso, guidandoli lungo un percorso che l'umanità aveva percorso infinite volte prima di loro.
 
 Kate si fermò sulla soglia della sua stanza. Il letto era fatto, le lenzuola pulite. Aveva cambiato tutto quella mattina, preparandosi per un momento che sembrava ancora impossibile.
 
@@ -136,7 +136,7 @@ James le sollevò il mento con due dita, cercando i suoi occhi nel buio. "Posso.
 
 Kate annuì. Sentì le mani di lui scivolarle lungo le braccia, lasciando una scia di fuoco sulla pelle. Era consapevole di ogni punto in cui si toccavano—le spalle, i fianchi, le cosce che si sfioravano. Il tessuto dei vestiti era diventato una barriera intollerabile.
 
-Fu lei a fare il primo gesto. Le dita che trovavano i bottoni della sua camicia, che li slacciavano uno a uno con movimenti tremanti. Sotto, la pelle di James era calda, liscia, tesa sui muscoli. Kate vi appoggiò il palmo e sentì il suo cuore battere—forte, veloce, disperato quanto il proprio.
+Fu lei a fare il primo gesto. Le dita che trovavano i bottoni della sua camicia, che li slacciavano uno a uno con movimenti incerti. Sotto, la pelle di James era calda, liscia, tesa sui muscoli. Kate vi appoggiò il palmo e sentì il suo cuore battere—forte, veloce, disperato quanto il proprio.
 
 "Kate." Lui pronunciò il suo nome come una preghiera.
 
@@ -158,7 +158,7 @@ Lui non si fermò.
 
 Il resto fu un turbine di sensazioni—il peso del suo corpo sopra il proprio, il ritmo dei respiri che acceleravano, la pressione che cresceva nel basso ventre come un'onda in arrivo. Kate si aggrappava alle spalle di James, le unghie che affondavano nella sua pelle, il corpo che si arcuava verso il suo per un istinto più antico del pensiero.
 
-Non c'era dolore—o se c'era, era sommerso da qualcos'altro. Qualcosa di vasto, di travolgente, di totale. Era come essere disfatta e rifatta, distrutta e ricostruita in qualcosa di nuovo.
+Non c'era dolore—o se c'era, era sommerso da qualcos'altro. Qualcosa di vasto, di travolgente, di totale. Essere disfatta e rifatta. Distrutta e ricostruita in qualcosa di nuovo.
 
 Era come morire. Era come nascere.
 
@@ -168,7 +168,7 @@ Poi, silenzio. Solo il rumore dei loro respiri, il battito dei loro cuori che ra
 
 ---
 
-Giacquero l'uno accanto all'altra, esausti e tremanti.
+Giacquero l'uno accanto all'altra, esausti e scossi da brividi.
 
 Kate sentì il sudore raffreddarsi sulla pelle, il calore del corpo di James contro il fianco. Ogni muscolo rilassato, ogni pensiero quieto. Era come se avesse corso per ore, per anni, e finalmente si fosse fermata.
 
@@ -300,7 +300,7 @@ Passò il resto della giornata in uno stato di trance.
 
 Fece le cose che doveva fare—studiare, mangiare, rispondere ai messaggi di Yuki che chiedeva dove fosse sparita. Ma la sua mente era altrove. Era ancora in quella stanza, in quel letto, tra le braccia di James.
 
-Ogni volta che chiudeva gli occhi, rivedeva il suo viso. Ogni volta che sfiorava qualcosa, sentiva ancora il fantasma delle sue mani. Era come se lui avesse lasciato un'impronta su ogni parte del suo corpo, un marchio invisibile che nessuno poteva vedere ma che lei sentiva costantemente.
+Ogni volta che chiudeva gli occhi, rivedeva il suo viso. Ogni volta che sfiorava qualcosa, sentiva ancora il fantasma delle sue mani. Lui aveva lasciato un'impronta su ogni parte del suo corpo, un marchio invisibile che nessuno poteva vedere ma che lei sentiva costantemente.
 
 *Questo intendevano*, pensò. I poeti, gli scrittori — tutti quelli che avevano rischiato tutto. Non era follia. Era l'unica cosa che avesse senso.
 

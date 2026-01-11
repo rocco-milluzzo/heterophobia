@@ -178,7 +178,7 @@ Dopo, restammo abbracciati nel buio. Il sudore si asciugava sulla nostra pelle. 
 
 "Ti amo anch'io."
 
-Quella notte dormimmo avvinghiati, le sue braccia strette intorno a me come se non volesse lasciarmi andare mai. Come se sapesse.
+Quella notte dormimmo avvinghiati, le sue braccia strette intorno a me. Non voleva lasciarmi andare. Mai. E forse sapeva.
 
 Fuori, le stelle brillavano su un mondo che presto sarebbe cambiato per sempre.
 
@@ -190,7 +190,7 @@ Non potevamo sapere che all'alba i droni avrebbero sorvolato il rifugio. Che i C
 
 Ma forse, in qualche modo, lo sapevamo.
 
-Forse è per questo che quel giorno è così vivido nella mia memoria. Il fiume. La musica. Gli occhi di Alice quando guardava suo padre cantare. Le mani di James sulla mia pelle, quella notte. Il suo respiro nel mio collo. Il modo in cui mi ha tenuta stretta fino all'alba, come se potesse proteggermi dal futuro.
+Forse è per questo che quel giorno è così vivido nella mia memoria. Il fiume. La musica. Gli occhi di Alice quando guardava suo padre cantare. Le mani di James sulla mia pelle, quella notte. Il suo respiro nel mio collo. Il modo in cui mi ha tenuta stretta fino all'alba, cercando di proteggermi dal futuro.
 
 È stato il nostro ultimo giorno insieme.
 

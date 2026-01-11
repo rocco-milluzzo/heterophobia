@@ -186,11 +186,17 @@ Mi guardò come si guarda un animale malato.
 
 Non risposi.
 
-"I miei genitori erano come te." Jensen inclinò la testa, studiandomi. "Due infetti che si sono innamorati. Mi hanno cresciuto nelle Zone per otto anni prima che li trovassero."
+Jensen si accovacciò davanti a me. Da vicino, vidi qualcosa che non mi aspettavo: una cicatrice sottile dietro l'orecchio sinistro, nel punto esatto dove impiantavano i dispositivi di monitoraggio cerebrale. Non era una cicatrice da Controllore. Era una cicatrice da paziente.
+
+"I miei genitori erano come te." La sua voce cambiò, perse quella piattezza metallica per un istante. "Due infetti che si sono innamorati. Mi hanno cresciuto nelle Zone per otto anni prima che li trovassero."
 
 Qualcosa nel mio petto si strinse.
 
-"Sai cosa ricordo di loro? Niente. Assolutamente niente." Si toccò la tempia. "La rieducazione è molto efficace. A volte penso che forse li amavo. Ma è come cercare di ricordare un sogno—più ci provi, più svanisce."
+"Mia madre..." Jensen esitò. Per un secondo, la maschera scivolò e vidi il bambino che era stato — quello che ancora esisteva da qualche parte, sepolto sotto strati di condizionamento. "Mia madre mi cantava una canzone. Non ricordo le parole, ma ricordo... ricordo la melodia. A volte, di notte, mi sveglio e la sento ancora." Strinse la mascella. "I tecnici dicono che è un residuo neurale. Che scomparirà. Ma sono passati ventidue anni e non è scomparsa."
+
+"Perché mi stai dicendo questo?"
+
+"Perché voglio che tu capisca." I suoi occhi erano duri, ma qualcosa tremava sotto la superficie. "Quando mi hanno preso, piangevo. Chiamavo mia madre. Li pregavo di lasciarmi andare. Ero *malato*, esattamente come te, esattamente come tua figlia." Si alzò. "Sai cosa ricordo di loro, adesso? Niente. Assolutamente niente. Solo quella maledetta melodia." Si toccò la tempia, dove iniziava la cicatrice. "La rieducazione è molto efficace. A volte penso che forse li amavo. Ma è come cercare di ricordare un sogno—più ci provi, più svanisce."
 
 "E questo ti sembra giusto?" Le parole mi uscirono prima che potessi fermarle. "Ti hanno rubato i ricordi dei tuoi genitori e tu—"
 

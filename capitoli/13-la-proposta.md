@@ -166,7 +166,7 @@ James non rispose con le parole. Non ne era ancora capace.
 
 Ma il suo corpo parlò per lui.
 
-La baciò—non con la solita cautela, non con il controllo che si imponeva ogni notte. La baciò come se fosse la prima volta e l'ultima insieme. Come se volesse imprimersi sulla sua bocca, sulla sua lingua, sulla sua anima.
+La baciò—non con la solita cautela, non con il controllo che si imponeva ogni notte. La baciò con la fame della prima volta e la disperazione dell'ultima. Voleva imprimersi sulla sua bocca, sulla sua lingua, sulla sua anima.
 
 Kate gemette contro le sue labbra. Le mani di lui trovarono la curva dei suoi fianchi, la pelle calda sotto il tessuto. Lei gli slacciò la camicia con dita tremanti, esplorando il petto, le spalle, i muscoli che si tendevano sotto il suo tocco.
 

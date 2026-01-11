@@ -113,4 +113,16 @@ E mi domandavo—sempre più insistentemente—se la risposta non fosse stata da
 
 Se quelle parole nel quaderno—*mi chiedo se capirà*—non fossero state scritte per me.
 
+Mi sono fermata. Ho riletto l'ultima frase.
+
+*Per me.*
+
+Un lapsus. Solo un lapsus. Queste parole erano state scritte per la bambina nei documenti. Per Alice Valeri Ferrante. Non per me.
+
+Eppure la mia mano, mentre scrivevo questa annotazione nel mio diario di ricerca, aveva scritto *per me*. Automaticamente. Senza pensarci.
+
+Ho cancellato la frase. Ho ricominciato.
+
+Ma le dita non obbedivano.
+
 Il quaderno giaceva chiuso sulla scrivania, ma le sue pagine pulsavano come un cuore ancora vivo. E io avevo paura di quello che avrei scoperto continuando a scavare. Paura, e insieme un desiderio bruciante che non riuscivo a soffocare.
