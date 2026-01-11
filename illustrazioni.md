@@ -577,28 +577,7 @@ Child Alice (~7 years old) looking at her parents with a question in her eyes. T
 
 ---
 
-### Capitolo 24: La Crepa
-
-**Scena**: Una parete con una crepa profonda—ma dalla crepa filtra luce calda. Metafora visiva del Sistema che si sgretola.
-
-**Focus**: La crepa stessa—le sue ramificazioni, la luce che entra, i semi che hanno iniziato a crescere nelle fessure.
-
-**Dettagli**:
-- La parete è cemento grigio tipico del Sistema
-- La luce che filtra è arancione/dorata—il colore delle Zone
-- Piccole piante selvatiche crescono dalla crepa
-- Una mano (di chi?) sta toccando la crepa con curiosità
-
-**Atmosfera**: Speranza che cresce nelle fessure, niente è eterno, la vita trova sempre un modo
-
-**Prompt AI**:
-```
-Wall with deep crack - but warm light filtering through crack. Visual metaphor of System crumbling. Focus on crack itself - its ramifications, light entering, seeds beginning to grow in crevices. Wall is grey concrete typical of System. Filtering light is orange/golden - color of Zones. Small wild plants growing from crack. A hand (whose?) touching crack with curiosity. Hope growing in crevices, nothing is eternal, life always finds a way. Symbolic, hopeful.
-```
-
----
-
-### Capitolo 25: Segnali
+### Capitolo 24: Segnali
 
 **Scena**: Un monitor che mostra pattern di dati—qualcosa è stato notato. Un dito del Sistema sta iniziando a puntare.
 
@@ -619,7 +598,7 @@ Monitor showing data patterns - something has been noticed. A finger of the Syst
 
 ---
 
-### Capitolo 26: La Rete
+### Capitolo 25: La Rete
 
 **Scena**: Mappa olografica che mostra connessioni—persone che aiutano la famiglia, passaggi segreti, una rete di resistenza.
 
@@ -640,7 +619,7 @@ Holographic map showing connections - people helping the family, secret passages
 
 ---
 
-### Capitolo 27: La Scoperta
+### Capitolo 26: La Scoperta
 
 **Scena**: Un rifugio violato—porta abbattuta, oggetti rovesciati. Ma nessuno dentro. Sono fuggiti appena in tempo.
 
@@ -661,7 +640,7 @@ Violated shelter - door battered down, objects overturned. But no one inside. Th
 
 ---
 
-### Capitolo 28: Dieci Anni
+### Capitolo 27: Dieci Anni
 
 **Scena**: Alice ora ha dieci anni. È seduta su una roccia, guardando un tramonto vero (arancione, rosso, viola)—colori che non esistono nel mondo del Sistema.
 
@@ -682,7 +661,7 @@ Alice now ten years old. Sitting on a rock, watching real sunset (orange, red, p
 
 ---
 
-### Capitolo 29: La Decisione
+### Capitolo 28: La Decisione
 
 **Scena**: James e Kate in una conversazione intensa. Lui vuole restare, lei sa che devono muoversi ancora. Alice dorme sullo sfondo.
 
@@ -703,7 +682,7 @@ James and Kate in intense conversation. He wants to stay, she knows they must mo
 
 ---
 
-### Capitolo 30: La Ricerca
+### Capitolo 29: La Ricerca
 
 **Scena**: Droni che setacciano una foresta. Fasci di luce che penetrano la vegetazione. Qualcosa (o qualcuno) nascosto nell'ombra.
 
@@ -724,7 +703,7 @@ Drones searching through forest. Light beams penetrating vegetation. Something (
 
 ---
 
-### Capitolo 31: L'Ultimo Giorno
+### Capitolo 30: L'Ultimo Giorno
 
 **Scena**: Una giornata normale nel rifugio—Kate che cucina qualcosa, James che insegna qualcosa ad Alice, luce che entra da una finestra improvvisata. L'ultimo giorno prima della tempesta.
 
@@ -745,7 +724,7 @@ Normal day in shelter - Kate cooking something, James teaching Alice something, 
 
 ---
 
-### Capitolo 32: Il Raid
+### Capitolo 31: Il Raid
 
 **Scena**: Buio. Poi luci abbaglianti. Droni nel cielo. Veicoli che emergono dalla vegetazione. Il momento del raid.
 
@@ -766,7 +745,7 @@ Darkness. Then blinding lights. Drones in sky. Vehicles emerging from vegetation
 
 ---
 
-### Capitolo 33: La Corsa
+### Capitolo 32: La Corsa
 
 **Scena**: Kate e Alice che corrono attraverso la foresta. Dietro di loro, luci e rumore. Davanti, solo buio e speranza.
 
@@ -787,7 +766,7 @@ Kate and Alice running through forest. Behind them, lights and noise. Ahead, onl
 
 ---
 
-### Capitolo 34: La Scelta
+### Capitolo 33: La Scelta
 
 **Scena**: Un bivio nella foresta. Kate e Alice devono scegliere: una via porta alla salvezza, l'altra potrebbe riportarle a James.
 
@@ -808,7 +787,7 @@ Fork in forest. Kate and Alice must choose: one path leads to safety, other migh
 
 ---
 
-### Capitolo 35: Il Manoscritto
+### Capitolo 34: Il Manoscritto
 
 **Scena**: Mani che scrivono su carta vera. Parole che prendono forma—la storia che stiamo leggendo sta nascendo.
 
@@ -829,7 +808,7 @@ Hands writing on real paper. Words taking form - the story we are reading is bei
 
 ---
 
-### Capitolo 36: Le Zone Orientali
+### Capitolo 35: Le Zone Orientali
 
 **Scena**: Vista panoramica di un insediamento nelle Zone—capanne, fuochi, persone che vivono libere. Colori caldi. Vita.
 
@@ -850,7 +829,7 @@ Panoramic view of settlement in Zones - huts, fires, people living free. Warm co
 
 ---
 
-### Capitolo 37: Il Ritorno
+### Capitolo 36: Il Ritorno
 
 **Scena**: Alice che cammina verso l'orizzonte dove inizia il territorio del Sistema—una linea visibile tra mondo libero e mondo controllato.
 
@@ -871,7 +850,7 @@ Alice walking toward horizon where System territory begins - visible line betwee
 
 ---
 
-### Capitolo 38: Epilogo
+### Capitolo 37: Epilogo
 
 **Scena**: Una stanza piena di lettori. Il libro è stato trovato, copiato, diffuso. Occhi diversi leggono le stesse parole.
 
@@ -892,7 +871,7 @@ Room full of readers. Book has been found, copied, spread. Different eyes readin
 
 ---
 
-### Capitolo 39: Fine
+### Capitolo 38: Fine
 
 **Scena**: Una singola pagina con le ultime parole del libro. Sopra, un cielo stellato. Sotto, due mani che si stringono—giovani o vecchie? Non importa.
 

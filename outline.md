@@ -134,7 +134,7 @@ Montaggio di cinque anni. Incontri segreti. Scuse elaborate. Test genetici passa
 
 ---
 
-## ATTO II: ESCALATION (Cap. 12-27)
+## ATTO II: ESCALATION (Cap. 12-26)
 
 ### Capitolo 12: Routine del Segreto
 **POV:** James
@@ -279,19 +279,7 @@ Il terrore. La scusa improvvisata. La fuga.
 
 ---
 
-### Capitolo 24: La Crepa
-**POV:** Kate
-**Tempo:** 2111-2113 (flashback)
-**Parole:** ~2,500
-
-Tensione tra James e Kate. Lui vuole fuggire nelle Zone. Lei vuole restare, dare ad Alice una vita "normale".
-
-**Scena chiave:** Litigio. "Non è una vita, James. È una prigione."
-"Almeno è viva."
-
----
-
-### Capitolo 25: Segnali
+### Capitolo 24: Segnali
 **POV:** James
 **Tempo:** 2114 (flashback)
 **Parole:** ~2,500
@@ -304,7 +292,7 @@ Yuki avverte Kate: "Stanno cercando qualcosa."
 
 ---
 
-### Capitolo 26: La Rete
+### Capitolo 25: La Rete
 **POV:** Kate
 **Tempo:** 2114 (flashback)
 **Parole:** ~2,500
@@ -316,7 +304,7 @@ Kate: "Non sopravviveremo qui dentro."
 
 ---
 
-### Capitolo 27: La Scoperta
+### Capitolo 26: La Scoperta
 **POV:** James
 **Tempo:** 2114 (flashback)
 **Parole:** ~2,500
@@ -328,9 +316,9 @@ James non sa rispondere. Kate: "Perché sei speciale. E il mondo non è pronto."
 
 ---
 
-## ATTO III: RIVELAZIONE (Cap. 28-37)
+## ATTO III: RIVELAZIONE (Cap. 27-36)
 
-### Capitolo 28: Dieci Anni
+### Capitolo 27: Dieci Anni
 **POV:** Alice (narratrice)
 **Tempo:** Presente
 **Parole:** ~2,500
@@ -343,7 +331,7 @@ Poi si corregge: "Le registrazioni mostrano che cantava..."
 
 ---
 
-### Capitolo 29: La Decisione
+### Capitolo 28: La Decisione
 **POV:** Kate
 **Tempo:** 2115 (flashback)
 **Parole:** ~2,500
@@ -354,7 +342,7 @@ Nessuno sa che è l'ultimo.
 
 ---
 
-### Capitolo 30: La Ricerca
+### Capitolo 29: La Ricerca
 **POV:** Jensen (Il Controllore)
 **Tempo:** 2115 (flashback)
 **Parole:** ~2,500
@@ -365,7 +353,7 @@ Non è un mostro. Crede di salvare le persone dalla "malattia" dell'amore eteros
 
 ---
 
-### Capitolo 31: L'Ultimo Giorno
+### Capitolo 30: L'Ultimo Giorno
 **POV:** James
 **Tempo:** 2115 (flashback)
 **Parole:** ~2,500
@@ -374,7 +362,7 @@ James percepisce che qualcosa non va. Prepara la fuga d'emergenza. Ma è troppo 
 
 ---
 
-### Capitolo 32: Il Raid
+### Capitolo 31: Il Raid
 **POV:** James e Kate (alternato)
 **Tempo:** 2115 (flashback)
 **Parole:** ~3,000
@@ -387,7 +375,7 @@ Caos. James cerca di fare tempo. Kate prende Alice.
 
 ---
 
-### Capitolo 33: La Corsa
+### Capitolo 32: La Corsa
 **POV:** Kate
 **Tempo:** 2115 (flashback)
 **Parole:** ~2,500
@@ -398,7 +386,7 @@ Corrono. Alice piange. Kate la tiene stretta.
 
 ---
 
-### Capitolo 34: La Scelta
+### Capitolo 33: La Scelta
 **POV:** Alice (narratrice) + ultimo flashback
 **Tempo:** Presente + 2115
 **Parole:** ~3,000
@@ -421,7 +409,7 @@ Poi Mira la trascina via.
 
 ---
 
-### Capitolo 35: Il Manoscritto
+### Capitolo 34: Il Manoscritto
 **POV:** Alice
 **Tempo:** Presente (2132)
 **Parole:** ~2,500
@@ -436,7 +424,7 @@ La voce cambia completamente.
 
 ---
 
-### Capitolo 36: Le Zone Orientali
+### Capitolo 35: Le Zone Orientali
 **POV:** Alice
 **Tempo:** 2115-2125 (flashback)
 **Parole:** ~2,500
@@ -447,7 +435,7 @@ Non sa cosa sia successo ai suoi genitori.
 
 ---
 
-### Capitolo 37: Il Ritorno
+### Capitolo 36: Il Ritorno
 **POV:** Alice
 **Tempo:** Presente (2132)
 **Parole:** ~2,500
@@ -460,9 +448,9 @@ L'incertezza è deliberata. James potrebbe essere vivo, in rieducazione eterna. 
 
 ---
 
-## EPILOGO (Cap. 38-39)
+## EPILOGO (Cap. 37-38)
 
-### Capitolo 38: Epilogo
+### Capitolo 37: Epilogo
 **POV:** Alice
 **Tempo:** Presente (2132)
 **Parole:** ~2,000
@@ -477,7 +465,7 @@ Non sa se è un ricordo o una speranza.
 
 ---
 
-### Capitolo 39: Fine
+### Capitolo 38: Fine
 **POV:** Alice
 **Tempo:** Presente (2132)
 **Parole:** ~1,500
@@ -501,15 +489,15 @@ Finale aperto.
 
 ### Parole per atto:
 - Atto I: ~26,000 (11 cap, include Intermezzo)
-- Atto II: ~40,000 (16 cap)
+- Atto II: ~37,500 (15 cap)
 - Atto III: ~27,000 (10 cap)
 - Epilogo: ~3,500 (2 cap)
-- **Totale: ~96,500**
+- **Totale: ~94,000**
 
 ### Capitoli chiave:
 - **Cap. 8:** Prima notte insieme (intimità)
 - **Cap. 18:** Gravidanza (midpoint)
 - **Cap. 21:** Nascita di Alice (svolta emotiva)
-- **Cap. 32:** Il raid (climax azione)
-- **Cap. 35:** Reveal di Alice (climax narrativo)
-- **Cap. 34:** Scelta di Kate (climax emotivo)
+- **Cap. 31:** Il raid (climax azione)
+- **Cap. 34:** Reveal di Alice (climax narrativo)
+- **Cap. 33:** Scelta di Kate (climax emotivo)
