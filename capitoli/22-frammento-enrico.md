@@ -100,7 +100,7 @@ Ma non sono riuscita a fermarmi.
 
 *3 giugno 2103*
 
-*Ho cercato il ragazzo nel database. Si chiama James Valeri. Figlio di Lin e Marco Valeri, una coppia conforme. Lavora all'Archivio Centrale. Nessuna segnalazione, nessun problema disciplinare. Apparentemente normale.*
+*Ho cercato il ragazzo nel database. Si chiama James Valeri. Figlio adottivo di Luca e Marco Valeri, una coppia conforme. Lavora all'Archivio Centrale. Nessuna segnalazione, nessun problema disciplinare. Apparentemente normale.*
 
 *Ma non è normale, quello che c'è tra lui e Kate. Non può esserlo.*
 

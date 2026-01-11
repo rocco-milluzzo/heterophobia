@@ -173,13 +173,17 @@ Il nonno Enzio lo aiuta senza fare domande. Kate, come biologa, ha accesso a ini
 ---
 
 ### Capitolo 15: Frammento - I Genitori di James
-**POV:** Alice (narratrice) + scena con Mei e Marco
-**Tempo:** Presente + 2078 (anno del Divieto)
-**Parole:** ~2,000
+**POV:** Alice (narratrice)
+**Tempo:** Presente + 2080 (anno nascita James)
+**Parole:** ~3,000
 
-Alice ha trovato una lettera di Mei. Racconta il giorno del Divieto. Come l'hanno accettato come "necessario".
+Alice trova tre lettere: una di Luca (padre adottivo), una di Marco (padre adottivo), e una di Lin (madre biologica).
 
-Mostra l'indottrinamento sincero. I genitori di James non sono cattivi - sono convinti.
+Luca e Marco raccontano come si sono conosciuti e innamorati, e come hanno scelto di adottare James. Una storia d'amore omosessuale genuina e commovente.
+
+Lin racconta di aver amato un uomo (Paolo), di averlo perso durante una retata, e di aver consegnato James alle autorità per dargli una possibilità. Poi fu "rieducata".
+
+Tre forme d'amore, nessuna gerarchia. Tutti validi, tutti con i loro costi.
 
 ---
 

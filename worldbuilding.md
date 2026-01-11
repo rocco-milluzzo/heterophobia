@@ -288,9 +288,9 @@ Il Sistema non è perfetto. Ha falle che i ribelli e i "devianti" hanno imparato
 - **Lingue morte:** Italiano, francese, tedesco etc. ancora parlate da anziani per nostalgia
 
 ### Riproduzione (prima del Divieto)
-- **Ectogenesi:** Uteri artificiali standard dal 2065
-- **Selezione genetica:** Embrioni ottimizzati
-- **Gravidanza naturale:** Già rara prima del Divieto, poi illegale
+- **Selezione genetica:** Embrioni ottimizzati disponibili
+- **Adozione:** Incoraggiata dal Sistema come alternativa "responsabile"
+- **Gravidanza naturale:** Considerata "primitiva" già prima del Divieto, poi illegale
 
 ---
 

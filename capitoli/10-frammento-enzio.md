@@ -142,7 +142,7 @@ Ogni volta, la voce di Enzio mi fa qualcosa. Non so spiegarlo. È come ascoltare
 
 Penso a quelle parole. A Elena che le pronuncia, convinta di avere ragione. A Enzio che le ascolta, sapendo che sta perdendo tutto.
 
-È così che funziona, capisco ora. Non con la violenza, non con le catene. Funziona convincendo le persone che ciò che provano è sbagliato. Che l'amore vero, quello che fa male, quello che non puoi controllare, è una malattia da cui guarire.
+È così che funziona, capisco ora. Non con la violenza, non con le catene. Funziona convincendo le persone che ciò che provano è sbagliato. Che l'amore sbagliato — quello che fa male, quello che non puoi controllare — è una malattia da cui guarire. E chi decide quale amore è sbagliato? Chi ha il potere.
 
 E la cosa più terribile è che funziona. Funziona quasi sempre.
 

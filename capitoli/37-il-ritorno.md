@@ -110,7 +110,7 @@ Ma se siete arrivati fin qui, voglio che sappiate una cosa.
 
 L'amore esiste.
 
-Non l'amore che il Sistema vi insegna—sterile, controllato, sicuro. Ma l'amore vero. Quello che ti fa battere il cuore. Quello che ti fa rischiare tutto. Quello che ti fa sentire vivo.
+Non solo l'amore che il Sistema vi concede — sterile, controllato, sicuro. Ma anche l'amore che vi proibiscono. Quello che vi dicono di temere. Quello per cui sareste disposti a rischiare tutto.
 
 I miei genitori l'hanno trovato. Contro ogni regola, contro ogni legge, contro il mondo intero.
 
@@ -140,7 +140,7 @@ Mi chiamo Alice Valeri Ferrante.
 
 Sono la figlia di James e Kate.
 
-Sono nata dall'amore—l'amore vero, quello che il Sistema chiama malattia.
+Sono nata dall'amore proibito — quello che il Sistema chiama malattia.
 
 E questa è la nostra storia.
 

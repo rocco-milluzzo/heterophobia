@@ -114,7 +114,7 @@ Sul muro della zona comune, lo schermo pubblico trasmetteva il notiziario serale
 
 James distolse lo sguardo. Lo schermo non si poteva spegnere.
 
-Dalla porta aperta sentiva la voce di Mei — sempre Mei a casa la sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello. James era nato da ectogenesi, cresciuto in una vasca per nove mesi. Non aveva mai conosciuto nient'altro. Non aveva mai pensato che potesse esistere qualcos'altro.
+Dalla porta aperta sentiva la voce di Luca — sempre Luca a casa la sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello che lo aveva adottato quando aveva tre mesi. Di sua madre biologica non sapeva nulla — i documenti dicevano solo che era una "donatrice anonima", il che significava, probabilmente, una donna che aveva rinunciato a lui prima che il Divieto la portasse via. Luca e Marco lo avevano amato come un figlio, lo avevano cresciuto, lo avevano protetto. Non aveva mai conosciuto nient'altro. Non aveva mai pensato che potesse esistere qualcos'altro.
 
 Fino a oggi.
 

@@ -1,10 +1,12 @@
 # Prefazione
 
-Questo romanzo è nato da una domanda semplice: cosa succederebbe se l'amore più naturale del mondo diventasse il crimine più grave?
+Questo romanzo è nato da una domanda semplice: cosa succede quando l'amore — qualsiasi amore — diventa crimine?
 
 Non è una domanda oziosa. La storia ci insegna che ogni epoca ha i suoi peccati imperdonabili, le sue devianze da estirpare, i suoi nemici interni da eliminare. Cambiano i bersagli, ma il meccanismo resta lo stesso: prima la colpevolizzazione, poi la demonizzazione, infine la criminalizzazione. E ogni volta, la maggioranza annuisce e dice: *era ora*.
 
-*Heterophobia* non è un manifesto politico. Non è una profezia. È una storia d'amore — la più antica delle storie — ambientata in un mondo che quell'amore ha deciso di abolire. È la storia di due persone che scelgono di amarsi sapendo che il prezzo potrebbe essere tutto. È la storia di una figlia che cerca di capire chi erano i suoi genitori, e perché hanno rischiato l'eternità per darle la vita.
+*Heterophobia* non è un manifesto politico. Non è una profezia. È un esperimento mentale: cosa accade a una società che decide di vietare un'intera categoria di legami umani? Come si costruisce il consenso attorno all'oppressione? Come si trasforma l'amore in reato?
+
+I protagonisti di questa storia sono eterosessuali perseguitati, ma il punto non è l'orientamento — è il meccanismo. È lo specchio rovesciato di persecuzioni che conosciamo fin troppo bene. È la domanda: cosa saresti disposto a rischiare per amare chi ami?
 
 Ho scritto questo libro di notte, tra una riga di codice e l'altra. Sono un ingegnere informatico, non uno scrittore di professione. Ma certe storie non ti chiedono il permesso: ti abitano finché non le racconti.
 

@@ -1,116 +1,151 @@
 # Capitolo 15: Frammento — I Genitori di James
 
-Ho trovato la terza registrazione in un posto che non mi aspettavo.
+Ho trovato tre lettere nascoste nello stesso fascicolo.
 
-Non era negli archivi ufficiali, non era nascosta tra documenti sequestrati. Era nel database personale di James—un file criptato che ci ho messo settimane a decifrare.
+La prima era di Luca, uno dei genitori adottivi di James. La seconda era di Marco, l'altro. La terza... la terza mi ha fatto piangere.
 
-Era una lettera. Scritta da Mei a suo figlio, datata 2098. L'anno in cui James compì diciotto anni. L'anno in cui la sua relazione con Kate iniziò a diventare qualcosa di più.
-
-James non l'ha mai ricevuta. O forse l'ha ricevuta e l'ha conservata senza mai rispondere. Non lo saprò mai.
-
-Ma leggendola, ho capito qualcosa di importante.
-
-Ho capito che i mostri non esistono. Esistono solo persone che fanno scelte sbagliate credendo di fare la cosa giusta.
+Ma inizierò dalla storia di Luca e Marco. Perché è importante. Perché dimostra che l'amore — qualsiasi amore — può essere straordinario.
 
 ---
 
 *Caro James,*
 
-*Oggi compi diciotto anni. Sei un adulto, secondo la legge. Un cittadino a tutti gli effetti. Tuo padre Marco ed io siamo orgogliosi di te—del ragazzo che sei diventato, dell'uomo che diventerai.*
+*Oggi compi diciotto anni. Sei un adulto, secondo la legge. Un cittadino a tutti gli effetti. Tuo padre Marco ed io siamo orgogliosi di te — del ragazzo che sei diventato, dell'uomo che diventerai.*
 
-*Ma c'è qualcosa che non ti ho mai detto. Qualcosa che forse ora è il momento di condividere.*
+*C'è qualcosa che non ti abbiamo mai raccontato. Non per vergogna, ma perché aspettavamo il momento giusto.*
 
-*Quando ero giovane, il mondo era malato. Non uso questa parola a caso—era davvero malato. C'era la morte, c'era la sofferenza, c'erano guerre e malattie e povertà. E c'era quella che ora chiamiamo "l'ossessione riproduttiva". L'idea che fare figli fosse un diritto. Che l'amore tra uomo e donna fosse naturale.*
+*Quando ci siamo conosciuti, io e Marco, il mondo era diverso. C'erano ancora le nazioni, ancora le lingue, ancora la morte. Eravamo due ragazzi di vent'anni che non sapevano cosa fosse l'amore.*
 
-*Non lo era. Lo capisco ora. Era solo biologia primitiva, istinto animale travestito da sentimento. I breeder—perdona il termine, ma è quello corretto—erano schiavi dei loro ormoni. Non sapevano che esisteva un'alternativa.*
+*Lo abbiamo scoperto insieme.*
 
-*Poi sono arrivate le Cure. E con le Cure, la libertà. La libertà di vivere per sempre. La libertà di amare senza le catene della riproduzione.*
+*Marco era studente di medicina, io lavoravo negli archivi — gli stessi archivi dove lavori tu adesso. Ci siamo incontrati per caso, in una biblioteca. Lui cercava un vecchio manuale di anatomia. Io cercavo di non guardarlo. Ho fallito miseramente.*
 
-*All'inizio non tutti capirono. Alcuni resistettero. Li chiamavano "romantici", come se fosse un complimento. In realtà erano malati che rifiutavano la cura. Egoisti genetici che volevano imporre il proprio DNA al mondo. Dinosauri che non accettavano l'evoluzione.*
+*Ci sono voluti mesi prima che osassimo parlarci. Altri mesi prima del primo bacio. A quei tempi l'amore tra due uomini era ancora guardato con sospetto da alcuni. Non illegale, ma nemmeno del tutto accettato. Dovevamo stare attenti.*
 
-*Il Divieto fu un atto di misericordia. Lo sai già—te l'hanno insegnato a scuola, te l'abbiamo spiegato noi. L'immortalità richiedeva pulizia. Non potevamo permettere che gli infetti continuassero a contaminare la società. Dovevamo scegliere.*
+*Poi sono arrivate le Cure. Poi è arrivato il Divieto. E improvvisamente eravamo noi a essere normali, e gli altri — quelli che amavano diversamente — a essere sbagliati.*
 
-*E abbiamo scelto la guarigione.*
+*Non ti dico questo perché sia giusto. Te lo dico perché tu capisca: la storia cambia i suoi eroi e i suoi mostri. Quello che è proibito oggi era normale ieri, e viceversa. L'unica cosa che resta è l'amore che scegli di vivere.*
 
-*James, quello che sto per dirti potrebbe sembrarti doloroso. Ma ho bisogno che tu lo capisca, perché un giorno potresti sentire quella malattia risvegliarsi dentro di te.*
+*Marco e io ti abbiamo scelto quando avevi tre mesi. Una donna te aveva affidato alle autorità — una donna che stava per essere portata via. Non sappiamo il suo nome, non sappiamo la sua storia. Sappiamo solo che ti ha amato abbastanza da lasciarti andare.*
 
-*Prima del Divieto, prima di capire, ero malata anch'io. C'era un uomo. Si chiamava Mei. E io lo amavo nel modo sbagliato. Nel modo che ora sappiamo essere patologico.*
+*Tu sei stato il dono più grande della nostra vita.*
 
-*Non te lo racconto per vergognarmi. Te lo racconto perché devi sapere che la malattia può colpire chiunque. Anche tua madre. E che si può guarire.*
-
-*Quando è arrivato il Divieto, ho avuto la forza di scegliere. Potevo restare con Mei—restare malata, rifiutare le Cure, marcire nelle Zone Abbandonate con gli altri infetti. Oppure potevo guarire. Accettare le regole. Vivere.*
-
-*Ho scelto di vivere.*
-
-*Mei ha scelto la malattia. È partito verso i margini del mondo, verso quei luoghi dove gli infetti si nascondono come ratti. Non so se sia ancora vivo. Probabilmente no—senza le Cure, la morte avrà preso anche lui, come prende tutti quelli che rifiutano la guarigione.*
-
-*A volte, nelle notti silenziose, ricordo quella malattia. Come un'eco lontana. Come il fantasma di una febbre. Ma poi mi sveglio e ringrazio il Sistema per avermi salvata.*
-
-*James, se un giorno sentirai quella febbre—se un giorno guarderai una donna e sentirai qualcosa di sbagliato nel petto—sappi che non sei solo. Sappi che si può guarire. Sappi che la rieducazione esiste per aiutarti, non per punirti.*
-
-*L'amore vero non ha bisogno di figli. L'amore vero non ha bisogno del corpo.*
-
-*E alla fine, vivere è l'unica cosa che conta.*
-
-*Con tutto il mio amore,*
-*Tua madre Lin*
+*Con tutto il nostro amore,*
+*Tuo padre Luca*
 
 ---
 
-Ho letto questa lettera più volte di quante possa contare.
-
-La prima volta ho provato orrore. Puro, gelido orrore.
-
-Questa donna—la madre di James—parla di amore come di una malattia. Chiama gli eterosessuali "infetti", "breeder", "malati". Usa il linguaggio del Sistema come se fosse il suo. Come se non fosse stata lei stessa, un tempo, una di quelle persone che ora disprezza.
-
-Ma è questo il punto, vero? Non lo fu mai davvero. Si convinse di essere stata malata. Si convinse che l'amore che provava per Mei era un errore, un difetto, una febbre da cui era guarita.
-
-La seconda volta ho provato pietà. Lin non era un mostro. Era una vittima. Il Sistema le aveva insegnato a odiare se stessa, e lei aveva obbedito. Aveva interiorizzato l'odio così profondamente che non riusciva più a distinguerlo dalla realtà.
-
-La terza volta ho provato terrore. Perché ho capito: questo è ciò che mi succederebbe se mi scoprissero. Questa è la persona che diventerei dopo la rieducazione. Qualcuno che chiama l'amore una malattia. Qualcuno che ringrazia il Sistema per averla "salvata".
+La lettera di Marco era più breve.
 
 ---
 
-C'è un dettaglio nella lettera che mi ossessiona.
+*James,*
 
-Lin scrive: *"A volte, nelle notti silenziose, ricordo quella malattia. Come un'eco lontana."*
+*Luca scrive lettere bellissime. Io no. Ma volevo dirti questo:*
 
-Un'eco. Dopo decenni. Dopo tutta la propaganda, tutta la rieducazione, tutto l'odio interiorizzato. L'amore per Mei è ancora lì, da qualche parte, sepolto sotto strati di vergogna e negazione.
+*Quando ti abbiamo portato a casa per la prima volta, non sapevo cosa fare. Non sapevo come tenere un bambino. Non sapevo se sarei stato un buon padre.*
 
-Il Sistema non riesce a cancellare davvero ciò che siamo. Può solo insegnarci a odiarlo.
+*Poi ti ho guardato negli occhi e ho capito: non importava se fossi bravo. Importava solo amarti.*
 
-Mi chiedo se James abbia capito. Mi chiedo se, leggendo questa lettera, abbia visto il destino che lo aspettava se si fosse arreso. Non la morte—quella sarebbe stata più misericordiosa. Ma la trasformazione. Diventare come sua madre. Chiamare Kate una "malattia" e ringraziare il Sistema per averlo "guarito".
+*E ti amo, figlio mio. Anche quando fai tardi la sera e non ci dici dove sei. Anche quando ti chiudi in camera e non parli. Ti amo come Luca ama me — senza condizioni, senza limiti, senza fine.*
 
-Mi chiedo se questo l'abbia reso più determinato a fuggire.
+*Sei nostro figlio. Che tu sia nato dalla nostra carne o no, non cambia nulla.*
 
----
+*Buon compleanno.*
 
-C'è un'altra cosa che ho notato.
-
-La lettera è datata 2098. L'anno in cui la relazione tra James e Kate ha iniziato a trasformarsi.
-
-Lin non poteva sapere cosa stava succedendo a suo figlio in quel momento. Non poteva sapere che mentre scriveva di Mei e delle scelte impossibili, James stava guardando una ragazza ridere in un'aula grigia e sentiva il mondo capovolgersi.
-
-Ma c'è qualcosa di strano nel tempismo. Come se l'universo avesse voluto che James ricevesse quel messaggio proprio quando ne aveva più bisogno.
-
-O forse Lin sapeva. Forse, in qualche modo, aveva capito che suo figlio stava per affrontare la stessa scelta che lei aveva affrontato anni prima.
-
-E forse quella lettera non era un consiglio.
-
-Era un avvertimento.
+*Papà Marco*
 
 ---
 
-Non so cosa abbia pensato James quando ha letto queste parole—se le ha mai lette. Non so se abbia odiato sua madre per aver rinunciato all'amore, o se l'abbia compatita, o se abbia provato entrambe le cose insieme.
+Ho pianto leggendo queste lettere. Non per tristezza — per bellezza.
 
-So solo questo: James ha fatto la scelta opposta.
+Luca e Marco non erano perfetti. Nessuno lo è. Ma si amavano, e amavano James, e questo era tutto.
 
-Ha scelto l'amore invece della "guarigione". Ha scelto Kate invece dell'immortalità. Ha scelto di vivere davvero, anche se questo significava rischiare di morire. Anche se questo significava essere chiamato "infetto" da sua stessa madre.
+L'amore di due uomini che crescono un figlio non è diverso da qualsiasi altro amore genitoriale. È fatto di notti insonni e risate improvvise, di preoccupazioni e orgoglio, di quella strana alchimia che trasforma due estranei in una famiglia.
 
-E guardando i documenti che ho davanti—le mappe, i piani, i preparativi per la fuga—provo una strana certezza.
+---
 
-Lin avrebbe pianto. Avrebbe chiamato suo figlio "malato". Avrebbe pregato il Sistema di "salvarlo".
+Ma c'era una terza lettera.
 
-Ma da qualche parte, in quella notte silenziosa, in quell'eco lontana di cui parla nella lettera—forse una parte di lei avrebbe capito.
+Era nascosta in fondo al fascicolo, in una busta sigillata che James non aveva mai aperto. L'ho aperta io. Spero mi perdonerà.
 
-Forse una parte di lei l'avrebbe invidiato.
+---
+
+*A mio figlio — se mai leggerai queste parole.*
+
+*Non so il tuo nome. Non so che faccia hai. So solo che sei vivo, da qualche parte, e che qualcuno ti sta crescendo al posto mio.*
+
+*Mi chiamo Lin. O almeno mi chiamavo così, prima che il Divieto mi portasse via tutto — anche il mio nome.*
+
+*Ero una donna normale. Amavo un uomo normale. Si chiamava Paolo. Era gentile, timido, aveva le mani grandi e il cuore ancora più grande. Lo amavo come non ho mai amato nessuno.*
+
+*Quando sono rimasta incinta di te, sapevamo già cosa sarebbe successo. Il Divieto era appena stato approvato. Le retate erano iniziate. I nostri amici sparivano uno dopo l'altro.*
+
+*Paolo voleva fuggire. Voleva portarci nelle Zone, dove potevamo vivere liberi. Ma io ero terrorizzata. Avevo visto cosa succedeva a chi fuggiva. Avevo visto le esecuzioni pubbliche.*
+
+*Così ho fatto la cosa più vigliacca della mia vita: ti ho portato alle autorità. Ho detto che eri figlio di donatori anonimi, che non conoscevo il padre, che volevo solo darti una possibilità.*
+
+*Mi hanno creduto. O forse no, ma non gli importava. Volevano solo i numeri — tanti bambini "recuperati", tante famiglie "conformi" che li adottassero.*
+
+*Ti hanno portato via. Non ho potuto nemmeno tenerti in braccio.*
+
+*Paolo è morto tre mesi dopo. Lo hanno preso durante una retata. Non so cosa gli abbiano fatto. So solo che non è mai tornato.*
+
+*Io sono sopravvissuta. Se sopravvivere significa continuare a respirare mentre dentro sei già morta. Mi hanno "rieducata". Mi hanno insegnato che l'amore che provavo era una malattia. Mi hanno insegnato a chiamare tuo padre — l'uomo che amavo — un "infetto".*
+
+*Ma non sono riusciti a farmi dimenticare te.*
+
+*Ogni notte, prima di addormentarmi, penso al bambino che ho perso. Mi chiedo che faccia hai. Mi chiedo se sei felice. Mi chiedo se qualcuno ti ama.*
+
+*Spero di sì. Spero che tu abbia una famiglia che ti ama. Spero che non saprai mai cosa ho dovuto rinunciare per darti una possibilità.*
+
+*E spero — anche se so che è egoista — spero che un giorno, quando sarai grande, sentirai qualcosa dentro di te che non saprai spiegare. Un'attrazione inspiegabile. Un desiderio proibito. E spero che quando lo sentirai, non farai come me. Spero che avrai il coraggio che io non ho avuto.*
+
+*Spero che sceglierai l'amore.*
+
+*Tua madre,*
+*Lin*
+
+---
+
+Ho chiuso la lettera e sono rimasta a lungo in silenzio.
+
+Tre lettere. Tre forme d'amore.
+
+Luca e Marco — due uomini che si sono amati per decenni e che hanno scelto di condividere quell'amore con un bambino non loro.
+
+Lin — una donna che ha amato un uomo, ha perso tutto, e ha sacrificato il proprio figlio per dargli una possibilità.
+
+Non c'è una gerarchia. Non c'è un amore "migliore". C'è solo l'amore — in tutte le sue forme, con tutti i suoi costi.
+
+---
+
+Mi chiedo cosa abbia pensato James quando ha trovato queste lettere. Se le ha mai trovate.
+
+Mi chiedo se sapeva che sua madre biologica era una donna eterosessuale perseguitata. Una "infetta", come la chiamavano loro. Una "malata".
+
+Mi chiedo se questo abbia cambiato qualcosa, quando ha guardato Kate per la prima volta.
+
+Probabilmente no. L'amore non funziona così. Non sceglie in base alla storia, non calcola in base al rischio.
+
+L'amore arriva, e basta. E poi sta a te decidere cosa farne.
+
+---
+
+C'è un'ultima cosa che ho notato.
+
+La lettera di Lin era datata 2080. L'anno in cui James è nato. L'anno del Divieto definitivo.
+
+Luca e Marco hanno adottato James tre mesi dopo.
+
+Il che significa che Lin ha tenuto James con sé per tre mesi — tre mesi in cui avrebbe potuto fuggire, nascondersi, combattere. Ma non l'ha fatto. Ha scelto di consegnarlo. Ha scelto di perderlo per salvarlo.
+
+Non so se sia stata una scelta coraggiosa o vigliacca. Probabilmente entrambe.
+
+Ma so che, in qualche modo, quella scelta ha reso possibile tutto quello che è venuto dopo. Ha reso possibile James. Ha reso possibile Kate. Ha reso possibile... me.
+
+E forse, da qualche parte, Lin lo sa.
+
+Forse, nelle sue notti insonni, sente che suo figlio ha trovato l'amore.
+
+E forse — solo forse — questo le dà un po' di pace.

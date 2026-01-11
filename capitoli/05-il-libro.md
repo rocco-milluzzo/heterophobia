@@ -19,7 +19,7 @@ Kate rilesse i versi tre volte. Ogni volta sentiva qualcosa stringersi nel petto
 
 Era questo che provava per James?
 
-Non lo sapeva. Non aveva termini di paragone. L'unico amore che conosceva era quello di suo padre Enrico per i compagni che si era scelto — uomini diversi, che si alternavano con la cadenza delle stagioni artificiali. Erano affettuosi. Si rispettavano. Ma non c'era urgenza in ciò che provavano. Niente che somigliasse a questa febbre, a questa fame.
+Non lo sapeva. Non aveva termini di paragone. L'unico amore che conosceva era quello approvato dal Sistema — relazioni tranquille, sicure, sorvegliate. Suo padre Enrico aveva avuto compagni, nel corso degli anni. Erano affettuosi. Si rispettavano. Ma erano relazioni senza rischio, senza segreti. Niente che somigliasse a questa febbre, a questa fame — questa cosa proibita che ti brucia dentro proprio perché non puoi nominarla.
 
 *Disturbo dell'orientamento riproduttivo*, l'avrebbe chiamato un medico. *Primo stadio di infezione. Curabile, se preso in tempo.*
 

@@ -115,11 +115,17 @@
 - Sa della relazione di Kate ma finge di non vedere
 - Funzione: Mostra il costo del silenzio complice
 
-**Mei e Marco Valeri** (genitori di James)
-- Coppia omosessuale "modello"
-- James è figlio da ectogenesi pre-Divieto
-- Genuinamente credono nel Sistema
-- Funzione: Mostra l'indottrinamento sincero
+**Luca e Marco Valeri** (genitori adottivi di James)
+- Coppia omosessuale "modello" insieme da oltre vent'anni
+- Hanno adottato James a tre mesi quando la madre biologica (Lin) lo ha consegnato alle autorità
+- Genuinamente credono nel Sistema, ma amano James senza riserve
+- Funzione: Mostra che l'amore genitoriale non dipende da biologia o orientamento
+
+**Lin** (madre biologica di James)
+- Donna eterosessuale che amava un uomo di nome Paolo
+- Paolo fu preso durante una retata e non tornò mai
+- Lin consegnò James alle autorità per dargli una possibilità, poi fu "rieducata"
+- Funzione: Mostra il costo della persecuzione; parallelo con la scelta di Kate
 
 ---
 
@@ -187,9 +193,9 @@ GENERAZIONE NONNI (nati ~2030-2040)
 │                                    Alice (2107)
 │                                   ╱
 │                                  ╱
-└── Enzio ─── Mei + Marco Valeri
-                    │
-                 James (2080)
+└── Enzio ─── Luca + Marco Valeri (adottivi)
+                    │                  ↑
+                 James (2080) ←── Lin (biologica)
 ```
 
 ---

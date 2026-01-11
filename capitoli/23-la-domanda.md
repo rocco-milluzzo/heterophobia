@@ -112,7 +112,7 @@ Era la domanda più difficile. Come spiegare il Divieto a una bambina di sei ann
 
 Alice spalancò gli occhi. "Hanno paura di me?"
 
-"Non di te. Di quello che rappresenti." James le accarezzò i capelli. "Tu sei nata dall'amore. Dall'amore vero, quello che loro vogliono eliminare. E l'amore vero fa paura a chi vuole controllare tutto."
+"Non di te. Di quello che rappresenti." James le accarezzò i capelli. "Tu sei nata dall'amore che loro vogliono eliminare. E l'amore proibito fa paura a chi vuole controllare tutto."
 
 Alice tacque a lungo. Poi disse, con quella serietà che a volte mostrava:
 

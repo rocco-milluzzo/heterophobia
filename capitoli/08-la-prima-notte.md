@@ -146,9 +146,7 @@ Non si fermò.
 
 I vestiti caddero uno dopo l'altro, lasciando spazio alla pelle nuda, alla verità dei corpi. Kate lo scoprì con le mani e con gli occhi—la curva delle spalle, la linea dei fianchi, il calore che emanava come un sole nascosto. Lui la esplorava con la stessa reverenza, le dita che tracciavano sentieri lungo la schiena, i fianchi, le curve che nessuno aveva mai toccato.
 
-"Sei bellissima," sussurrò lui, e la sua voce si spezzò sull'ultima sillaba.
-
-Kate sentì le lacrime pungerle gli occhi. Nessuno le aveva mai detto una cosa simile. Nessuno l'aveva mai guardata come la guardava James—come se fosse l'unica cosa al mondo che valesse la pena di vedere.
+James non disse nulla. La guardò, semplicemente — con un'attenzione che Kate non aveva mai ricevuto da nessuno. Non c'era bisogno di parole. Il silenzio diceva tutto.
 
 Si stesero sul letto, corpi intrecciati, respiri che si mescolavano. La pelle di lui contro la sua era elettrica, ogni punto di contatto un'esplosione di sensazioni. Kate sentì le sue labbra sulla gola, sulla clavicola, sul punto dove il collo incontrava la spalla. Ogni bacio era un marchio, una promessa silenziosa.
 

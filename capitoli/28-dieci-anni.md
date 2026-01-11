@@ -128,9 +128,9 @@ E ora, finalmente, posso dirlo.
 
 Sono Alice Valeri Ferrante.
 
-Sono nata dall'amore—l'amore vero, quello che il Sistema chiama malattia, devianza, crimine.
+Sono nata dall'amore proibito — quello che il Sistema chiama malattia, devianza, crimine.
 
-Sono la prova vivente che il Divieto è una menzogna. Che l'amore tra un uomo e una donna può creare vita, bellezza, significato. Che la mortalità non è una maledizione, ma il prezzo della libertà.
+Sono la prova vivente che il Divieto è una menzogna. Che l'amore che loro vogliono cancellare può creare vita, bellezza, significato. Che la mortalità non è una maledizione, ma il prezzo della libertà.
 
 E sono sopravvissuta.
 

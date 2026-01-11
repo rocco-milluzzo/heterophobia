@@ -390,21 +390,21 @@ Holographic map of Abandoned Zones projected in darkness. Fingers tracing a rout
 
 ### Capitolo 15: Frammento - I Genitori di James
 
-**Scena**: Due uomini (Mei e Marco, i genitori di James) seduti a un tavolo, con espressioni complesse—amore per il figlio, paura per lui, incomprensione.
+**Scena**: Due uomini (Luca e Marco, i genitori adottivi di James) seduti insieme, le loro mani che si sfiorano. Accanto a loro, una foto di James bambino. Una terza immagine, sbiadita, mostra una donna sola — Lin, la madre biologica.
 
-**Focus**: Lo spazio vuoto a tavola dove dovrebbe sedere James—una sedia vuota che dice tutto.
+**Focus**: Tre forme d'amore che convergono su una stessa vita — quella di James.
 
 **Dettagli**:
-- La loro postura suggerisce una conversazione difficile appena conclusa
-- Una foto olografica di James bambino è visibile sullo sfondo
-- Le loro mani sono vicine ma non si toccano—anche loro hanno perso qualcosa
-- La luce è quella fredda e uniforme delle cene standard
+- Luca e Marco hanno un'intimità visibile — vent'anni insieme
+- La foto di Lin è più vecchia, più danneggiata — una storia interrotta
+- Tre lettere aperte sul tavolo di Alice (la narratrice)
+- La luce cambia: calda per Luca e Marco, fredda e solitaria per Lin
 
-**Atmosfera**: Famiglia diversa ma vera, perdita in corso, amore che non sa come esprimersi
+**Atmosfera**: Tre storie d'amore, tre sacrifici diversi, nessuna gerarchia
 
 **Prompt AI**:
 ```
-Two men (Mei and Marco, James's parents) sitting at table with complex expressions - love for their son, fear for him, incomprehension. Focus on empty space at table where James should sit - an empty chair that says everything. Their posture suggests a difficult conversation just ended. Holographic photo of young James visible in background. Their hands are close but not touching - they too have lost something. Cold uniform lighting of standard dinners. Different but real family, ongoing loss, love that doesn't know how to express itself.
+Two men (Luca and Marco, James's adoptive parents) sitting together, their hands touching. A photo of young James nearby. A third image, faded, shows a woman alone - Lin, the biological mother. Focus on three forms of love converging on the same life - James's. Luca and Marco have visible intimacy - twenty years together. Lin's photo is older, more damaged - an interrupted story. Three open letters on Alice's (narrator's) table. Lighting changes: warm for Luca and Marco, cold and lonely for Lin. Three love stories, three different sacrifices, no hierarchy.
 ```
 
 ---

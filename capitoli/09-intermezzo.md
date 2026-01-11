@@ -66,7 +66,7 @@ Kate e James no. I loro corpi dicevano una cosa e il mondo ne diceva un'altra, e
 
 ---
 
-Ho deciso di scrivere questa storia perché qualcuno deve farlo. Perché tra cento anni, mille, quando saremo tutti immortali e sterili e perfetti, qualcuno dovrà sapere che una volta l'amore esisteva. Non l'amore che conosciamo oggi, asettico, regolamentato, sicuro. L'amore vero. Quello che fa male. Quello che ti distrugge e ti ricostruisce. Quello per cui vale la pena morire.
+Ho deciso di scrivere questa storia perché qualcuno deve farlo. Perché tra cento anni, mille, quando saremo tutti immortali e sterili e perfetti, qualcuno dovrà sapere che una volta l'amore poteva essere proibito. Non l'amore che conosciamo oggi — asettico, regolamentato, sicuro. Ma l'amore clandestino. Quello che rischi di perdere. Quello che ti costa tutto. Quello per cui vale la pena morire — non perché sia migliore, ma perché qualcuno ha deciso che non doveva esistere.
 
 Kate e James lo sapevano.
 

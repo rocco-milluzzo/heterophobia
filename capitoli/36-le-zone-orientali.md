@@ -216,7 +216,7 @@ La guardai, sorpresa. "Cosa?"
 
 "Come posso cambiare qualcosa?"
 
-"Scrivendo. Parlando. Esistendo." Sorrise. "Sei la prova vivente che il Divieto è sbagliato. Sei nata dall'amore—dall'amore vero, quello che loro chiamano malattia. E sei meravigliosa."
+"Scrivendo. Parlando. Esistendo." Sorrise. "Sei la prova vivente che il Divieto è sbagliato. Sei nata dall'amore proibito — quello che loro chiamano malattia. E sei qui."
 
 ---
 
