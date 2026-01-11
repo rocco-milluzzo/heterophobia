@@ -88,7 +88,7 @@ Le notti rubate. Gli incontri nascosti. I sussurri nel buio, le mani che si cerc
 
 Ma non era una vita.
 
-Era una serie di momenti strappati al tempo, frammenti di felicità incastrati tra ore di finzione. Kate voleva svegliarsi accanto a James ogni mattina, non solo quando riuscivano a ingannarsi il Sistema. Voleva camminare con lui alla luce del sole, tenergli la mano senza paura, dire al mondo intero: "Questo è l'uomo che amo."
+Era una serie di momenti strappati al tempo, frammenti di felicità incastrati tra ore di finzione. Kate voleva svegliarsi accanto a James ogni mattina, non solo quando riuscivano a ingannare il Sistema. Voleva camminare con lui alla luce del sole, tenergli la mano senza paura, dire al mondo intero: "Questo è l'uomo che amo."
 
 Sapeva che era impossibile.
 

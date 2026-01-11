@@ -82,7 +82,7 @@ Kate sentì qualcosa stringersi nel petto. "Necessario?"
 
 La grappa bruciava, ma Kate bevve lo stesso. Aveva il sapore di qualcosa di antico, di dimenticato.
 
-"*Vi dò la mia benedizione*," disse Enzio in italiano — la lingua che quasi nessuno parlava più, quella che lui usava solo nei momenti che contavano. Poi ripeté, per loro: "Vi do la mia benedizione. Non che valga molto, nel mondo di oggi. Ma una volta i nonni benedicevano i nipoti quando partivano per un viaggio. *Che Dio vi accompagni*, dicevano. Era un modo per dire: vai, e sappi che qualcuno ti pensa."
+"*Vi do la mia benedizione*," disse Enzio in italiano — la lingua che quasi nessuno parlava più, quella che lui usava solo nei momenti che contavano. Poi ripeté, per loro: "Vi do la mia benedizione. Non che valga molto, nel mondo di oggi. Ma una volta i nonni benedicevano i nipoti quando partivano per un viaggio. *Che Dio vi accompagni*, dicevano. Era un modo per dire: vai, e sappi che qualcuno ti pensa."
 
 James abbassò lo sguardo. Kate vide le sue spalle tremare.
 

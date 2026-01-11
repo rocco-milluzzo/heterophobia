@@ -98,7 +98,7 @@ Kate sorrise. Le lacrime le pungevano gli occhi, ma erano lacrime di gioia.
 
 Il parto arrivò in una notte di primavera.
 
-Kate aveva capito che era il momento quando le contrazioni avevano iniziato, regolari e sempre più forti. James era andato nel panico—ovviamente—ma le donne della comunità avevano preso il controllo. Lo avevano cacciato dalla stanza, con gentile fermezza, e si erano messe al lavoro.
+Kate aveva capito che era il momento quando le contrazioni erano iniziate, regolari e sempre più forti. James era andato nel panico—ovviamente—ma le donne della comunità avevano preso il controllo. Lo avevano cacciato dalla stanza, con gentile fermezza, e si erano messe al lavoro.
 
 Fu lungo. Fu doloroso. Fu terrificante.
 

@@ -174,7 +174,7 @@ Mi aggrappo a quelle parole come a un'ancora.
 
 "Lo so." Mi asciugo gli occhi con il dorso della mano. "Ma finché non ho la certezza, devo continuare a cercare."
 
-Esitai. Poi le dissi dell'Operazione Pulizia.
+Esitò. Poi le disse dell'Operazione Pulizia.
 
 Vera impallidì. "Quanto tempo?"
 

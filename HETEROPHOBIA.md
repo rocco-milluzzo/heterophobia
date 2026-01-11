@@ -1925,7 +1925,7 @@ E il tempo che le restava, senza saperlo, aveva appena cominciato il suo conto a
 
 Non so esattamente quando abbiano iniziato ad amarsi. So solo quando hanno smesso di nasconderlo a se stessi.
 
-C'è una data nei documenti. Un giorno specifico dell'anno 2098, terzo mese, quando lei aveva diciotto anni e lui ne aveva compiuti 19 da poco. Ma l'amore non funziona così, non inizia in un momento preciso che puoi segnare su un calendario. L'amore è un'infezione lenta, un contagio che si insinua nelle ossa prima che tu possa accorgertene.
+C'è una data nei documenti. Un giorno specifico dell'anno 2098, terzo mese, quando lei aveva diciotto anni e lui ne aveva compiuti diciannove da poco. Ma l'amore non funziona così, non inizia in un momento preciso che puoi segnare su un calendario. L'amore è un'infezione lenta, un contagio che si insinua nelle ossa prima che tu possa accorgertene.
 
 Almeno, così lo chiamavano. Infezione. Contagio. I *breeder*, li chiamavano. Gli *infetti*. Egoisti genetici che volevano perpetuare il proprio DNA a scapito del pianeta.
 
@@ -2399,7 +2399,7 @@ Le notti rubate. Gli incontri nascosti. I sussurri nel buio, le mani che si cerc
 
 Ma non era una vita.
 
-Era una serie di momenti strappati al tempo, frammenti di felicità incastrati tra ore di finzione. Kate voleva svegliarsi accanto a James ogni mattina, non solo quando riuscivano a ingannarsi il Sistema. Voleva camminare con lui alla luce del sole, tenergli la mano senza paura, dire al mondo intero: "Questo è l'uomo che amo."
+Era una serie di momenti strappati al tempo, frammenti di felicità incastrati tra ore di finzione. Kate voleva svegliarsi accanto a James ogni mattina, non solo quando riuscivano a ingannare il Sistema. Voleva camminare con lui alla luce del sole, tenergli la mano senza paura, dire al mondo intero: "Questo è l'uomo che amo."
 
 Sapeva che era impossibile.
 
@@ -3199,7 +3199,7 @@ Kate sentì qualcosa stringersi nel petto. "Necessario?"
 
 La grappa bruciava, ma Kate bevve lo stesso. Aveva il sapore di qualcosa di antico, di dimenticato.
 
-"*Vi dò la mia benedizione*," disse Enzio in italiano — la lingua che quasi nessuno parlava più, quella che lui usava solo nei momenti che contavano. Poi ripeté, per loro: "Vi do la mia benedizione. Non che valga molto, nel mondo di oggi. Ma una volta i nonni benedicevano i nipoti quando partivano per un viaggio. *Che Dio vi accompagni*, dicevano. Era un modo per dire: vai, e sappi che qualcuno ti pensa."
+"*Vi do la mia benedizione*," disse Enzio in italiano — la lingua che quasi nessuno parlava più, quella che lui usava solo nei momenti che contavano. Poi ripeté, per loro: "Vi do la mia benedizione. Non che valga molto, nel mondo di oggi. Ma una volta i nonni benedicevano i nipoti quando partivano per un viaggio. *Che Dio vi accompagni*, dicevano. Era un modo per dire: vai, e sappi che qualcuno ti pensa."
 
 James abbassò lo sguardo. Kate vide le sue spalle tremare.
 
@@ -3469,7 +3469,7 @@ Ma inizierò dalla storia di Luca e Marco. Perché è importante. Perché dimost
 
 *Non ti dico questo perché sia giusto. Te lo dico perché tu capisca: la storia cambia i suoi eroi e i suoi mostri. Quello che è proibito oggi era normale ieri, e viceversa. L'unica cosa che resta è l'amore che scegli di vivere.*
 
-*Marco e io ti abbiamo scelto quando avevi tre mesi. Una donna te aveva affidato alle autorità — una donna che stava per essere portata via. Non sappiamo il suo nome, non sappiamo la sua storia. Sappiamo solo che ti ha amato abbastanza da lasciarti andare.*
+*Marco e io ti abbiamo scelto quando avevi tre mesi. Una donna ti aveva affidato alle autorità — una donna che stava per essere portata via. Non sappiamo il suo nome, non sappiamo la sua storia. Sappiamo solo che ti ha amato abbastanza da lasciarti andare.*
 
 *Tu sei stato il dono più grande della nostra vita.*
 
@@ -4389,7 +4389,7 @@ Kate sorrise. Le lacrime le pungevano gli occhi, ma erano lacrime di gioia.
 
 Il parto arrivò in una notte di primavera.
 
-Kate aveva capito che era il momento quando le contrazioni avevano iniziato, regolari e sempre più forti. James era andato nel panico—ovviamente—ma le donne della comunità avevano preso il controllo. Lo avevano cacciato dalla stanza, con gentile fermezza, e si erano messe al lavoro.
+Kate aveva capito che era il momento quando le contrazioni erano iniziate, regolari e sempre più forti. James era andato nel panico—ovviamente—ma le donne della comunità avevano preso il controllo. Lo avevano cacciato dalla stanza, con gentile fermezza, e si erano messe al lavoro.
 
 Fu lungo. Fu doloroso. Fu terrificante.
 
@@ -6317,7 +6317,7 @@ Mi aggrappo a quelle parole come a un'ancora.
 
 "Lo so." Mi asciugo gli occhi con il dorso della mano. "Ma finché non ho la certezza, devo continuare a cercare."
 
-Esitai. Poi le dissi dell'Operazione Pulizia.
+Esitò. Poi le disse dell'Operazione Pulizia.
 
 Vera impallidì. "Quanto tempo?"
 

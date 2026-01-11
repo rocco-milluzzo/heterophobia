@@ -26,7 +26,7 @@ Ma inizierò dalla storia di Luca e Marco. Perché è importante. Perché dimost
 
 *Non ti dico questo perché sia giusto. Te lo dico perché tu capisca: la storia cambia i suoi eroi e i suoi mostri. Quello che è proibito oggi era normale ieri, e viceversa. L'unica cosa che resta è l'amore che scegli di vivere.*
 
-*Marco e io ti abbiamo scelto quando avevi tre mesi. Una donna te aveva affidato alle autorità — una donna che stava per essere portata via. Non sappiamo il suo nome, non sappiamo la sua storia. Sappiamo solo che ti ha amato abbastanza da lasciarti andare.*
+*Marco e io ti abbiamo scelto quando avevi tre mesi. Una donna ti aveva affidato alle autorità — una donna che stava per essere portata via. Non sappiamo il suo nome, non sappiamo la sua storia. Sappiamo solo che ti ha amato abbastanza da lasciarti andare.*
 
 *Tu sei stato il dono più grande della nostra vita.*
 

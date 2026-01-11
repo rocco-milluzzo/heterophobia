@@ -4,7 +4,7 @@
 
 Non so esattamente quando abbiano iniziato ad amarsi. So solo quando hanno smesso di nasconderlo a se stessi.
 
-C'è una data nei documenti. Un giorno specifico dell'anno 2098, terzo mese, quando lei aveva diciotto anni e lui ne aveva compiuti 19 da poco. Ma l'amore non funziona così, non inizia in un momento preciso che puoi segnare su un calendario. L'amore è un'infezione lenta, un contagio che si insinua nelle ossa prima che tu possa accorgertene.
+C'è una data nei documenti. Un giorno specifico dell'anno 2098, terzo mese, quando lei aveva diciotto anni e lui ne aveva compiuti diciannove da poco. Ma l'amore non funziona così, non inizia in un momento preciso che puoi segnare su un calendario. L'amore è un'infezione lenta, un contagio che si insinua nelle ossa prima che tu possa accorgertene.
 
 Almeno, così lo chiamavano. Infezione. Contagio. I *breeder*, li chiamavano. Gli *infetti*. Egoisti genetici che volevano perpetuare il proprio DNA a scapito del pianeta.
 
