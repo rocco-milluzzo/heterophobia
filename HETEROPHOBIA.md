@@ -5201,17 +5201,15 @@ Kate stava sorridendo con le lacrime agli occhi.
 
 "È una bellissima idea," disse. "Scrivere le storie è importante."
 
-"Lo so." Alice annuì con sicurezza. "Le storie non muoiono mai. Nonno Enzio me l'ha detto."
+"Lo so." Alice annuì con sicurezza. "Nonno Enzio me l'ha scritto nel libro."
 
 James sussultò. "Cosa?"
 
-"Nel libro. C'è una nota. Dice: 'Le storie non muoiono mai, Alice. Ricordalo sempre. Con amore, E.'"
+"C'è una nota. Dice: 'Ricordati di noi, Alice. Con amore, E.'"
 
 James sentì le lacrime scendere. Non sapeva che Enzio avesse scritto qualcosa nel libro.
 
-Ma il vecchio archivista aveva previsto. Aveva lasciato un messaggio per sua figlia.
-
-*Le storie non muoiono mai.*
+Ma il vecchio archivista aveva previsto. Aveva lasciato un messaggio per sua nipote.
 
 ---
 
@@ -5808,7 +5806,7 @@ Mio padre era ferito. Un proiettile sonoro gli aveva lacerato la gamba sinistra.
 
 "No—" La mia voce si spezzò. "No, non potete chiedermi questo."
 
-"Le storie non muoiono mai, ricordi?" Mia madre sorrise attraverso le lacrime. "Nonno Enzio te l'ha scritto. E aveva ragione." Mi baciò la fronte, le sue labbra calde sulla mia pelle. "Vai, piccola mia. Vai e vivi. Vivi per tutti noi."
+"Ricordati di noi." Mia madre sorrise attraverso le lacrime. Mi baciò la fronte, le sue labbra calde sulla mia pelle. "Vai, piccola mia. Vai e vivi. Vivi per tutti noi."
 
 Mio padre mi abbracciò. Per l'ultima volta. Potevo sentire il suo cuore battere contro il mio, forte e disperato.
 
@@ -5878,9 +5876,7 @@ Ma dentro di me brucia la verità.
 
 E ora, come mi hanno chiesto i miei genitori con il loro ultimo respiro, racconterò la nostra storia. La scriverò con il sangue e le lacrime, con l'amore e la rabbia, con tutto ciò che sono.
 
-Perché le storie non muoiono mai.
-
-E finché io vivrò, loro vivranno con me.
+Finché io vivrò, loro vivranno con me.
 
 ---
 
@@ -5897,8 +5893,6 @@ E forse, leggendo la storia di James e Kate, capirà.
 Capirà che l'amore non è una malattia.
 
 Che la libertà vale più dell'immortalità.
-
-Che le storie non muoiono mai.
 
 ---
 
@@ -5921,12 +5915,6 @@ Il cielo del Complesso è grigio, come sempre. Le luci artificiali ronzano, come
 Ma io sono qui.
 
 E finché sarò qui, la storia dei miei genitori non morirà.
-
-*Le storie non muoiono mai, Alice.*
-
-Aveva ragione, nonno Enzio.
-
-Aveva ragione.
 
 
 
@@ -7360,7 +7348,7 @@ Forse il manoscritto verrà intercettato. Forse il Sistema lo troverà e lo dist
 
 Ma non credo.
 
-Non credo perché le parole trovano sempre un modo per sopravvivere. L'ha scritto nonno Enzio. Nel libro di poesie che ancora porto con me, quello che è passato da Elena a Enzio, da Enzio a mio padre, da mio padre a mia madre, da mia madre a me.
+Non credo perché le parole trovano sempre un modo per sopravvivere. Lo sento nel libro di poesie che ancora porto con me, quello che è passato da Elena a Enzio, da Enzio a mio padre, da mio padre a mia madre, da mia madre a me.
 
 Cinque generazioni. Un filo sottile che attraversa il tempo.
 
@@ -7424,17 +7412,11 @@ Ho preso una penna e ho aggiunto le mie parole:
 
 *Mi chiamo Alice. Sono la figlia di James e Kate, nata in un mondo che mi ha vietato di esistere.*
 
-*Questa è la nostra storia. Una storia d'amore in un'epoca di odio. Una storia di vita in un'epoca di immortalità vuota. Una storia di speranza in un'epoca di paura.*
+*Questa è la nostra storia. Una storia d'amore in un'epoca di odio. Una storia di vita in un'epoca di immortalità vuota.*
 
-*Le storie non muoiono mai. Nonno Enzio l'ha scritto, e io ci credo.*
+*Qualunque cosa succeda, ricorda: hanno provato a vietarci di amare, e abbiamo amato lo stesso. Hanno provato a vietarci di vivere, e abbiamo vissuto lo stesso.*
 
-*Qualunque cosa succeda, ricorda questo: hanno provato a vietarci di amare, e abbiamo amato lo stesso. Hanno provato a vietarci di vivere, e abbiamo vissuto lo stesso. Hanno provato a cancellare la nostra storia, e la nostra storia sopravvive.*
-
-*In queste pagine. Nelle parole che leggi. Nel battito del tuo cuore mentre le leggi.*
-
-*Le storie non muoiono mai.*
-
-*E nemmeno l'amore.*
+*La nostra storia sopravvive. In queste pagine. Nel battito del tuo cuore mentre le leggi.*
 
 ---
 
@@ -7466,19 +7448,11 @@ L'unica cosa che conta.
 
 ---
 
-*Le storie non muoiono mai.*
-
-Grazie, nonno Enzio.
-
 Grazie, mamma e papà.
-
-Per avermi insegnato questo.
 
 Per avermi dato una storia da raccontare.
 
 Per avermi amato.
-
-È stato abbastanza.
 
 È stato tutto.
 
@@ -7759,11 +7733,17 @@ Il suo appartamento è vuoto. I suoi file sono stati cancellati. Quando ho chies
 
 Bugiardi. Tutti bugiardi.
 
-Ho cercato nella rete—quella sotterranea, quella che dovrebbe avere risposte. Niente. Silenzio. Come se Yuki non fosse mai esistita.
+Ho cercato nella rete—quella sotterranea, quella che dovrebbe avere risposte. Per settimane, niente. Silenzio. Come se Yuki non fosse mai esistita.
 
-Forse è fuggita. Forse è stata presa. Forse è morta.
+Poi, tre giorni fa, un messaggio criptato. Senza firma, senza intestazione. Solo due parole e una data.
 
-Non lo saprò mai.
+*Centro 7. 14/3/2123.*
+
+Ho cercato nei registri. Centro 7 è una struttura di detenzione nel Distretto Nord. Il 14 marzo dell'anno scorso, una detenuta è stata trasferita nella sezione di rieducazione intensiva. Nessun nome nei registri pubblici. Ma il numero di identificazione corrispondeva a quello che Yuki usava per i documenti interni.
+
+Rieducazione intensiva significa cancellazione della memoria. Significa che se Yuki è ancora viva, non è più Yuki. Significa che la donna che mi ha salvato la vita, che ha rischiato tutto per i miei genitori, che per anni ha combattuto dal di dentro—quella donna non esiste più.
+
+Il Sistema non l'ha uccisa. Ha fatto qualcosa di peggio.
 
 ---
 
@@ -7905,160 +7885,7 @@ Ma è tutto quello che ho.
 
 
 
-# Capitolo 37: Epilogo
-
-*Molti anni dopo*
-
-Il mondo è cambiato.
-
-Non in un giorno, non in un anno, non con una rivoluzione improvvisa. Lentamente, inesorabilmente, come l'acqua che scava la pietra—come il dubbio che si insinua nelle certezze più granitiche.
-
-Sono passati decenni da quando ho affidato questa storia alla rete. Decenni da quando le prime copie hanno iniziato a circolare, passando di mano in mano nei corridoi del Sistema, nascoste tra le pagine di manuali tecnici, memorizzate da chi non osava tenerle.
-
-All'inizio non è successo niente di visibile. Il Sistema era troppo forte, il controllo troppo capillare, la paura dell'heterofobia troppo radicata nelle ossa della gente. Ma sotto la superficie, nelle conversazioni sussurrate e nei cuori che si permettevano di dubitare, qualcosa ha cominciato a muoversi.
-
----
-
-Sono iniziate le domande.
-
-Prima sussurrate nelle stanze dei dormitori, poi scritte sui muri dei bagni pubblici, poi dette ad alta voce nelle assemblee. *Perché il Divieto? Perché i nostri nonni erano malati? Perché l'amore è una patologia solo quando è tra uomo e donna?*
-
-I manifesti che gridavano *DENUNCIA GLI INFETTI* hanno cominciato a comparire strappati. Il termine *breeder* ha smesso di essere un insulto nei corridoi delle scuole—i ragazzi lo usavano con ironia, poi con sfida, poi con orgoglio.
-
-Il Sistema ha risposto come sa rispondere ogni sistema: con più controllo, più paura, più violenza. Ha aumentato i raid. Ha introdotto test psicologici più invasivi. Ha abbassato l'età della prima dose di soppressori.
-
-Ma non è servito. Perché una volta che le persone iniziano a pensare, non puoi più fermarle. L'heterofobia si reggeva sulla convinzione che fosse naturale, inevitabile, giusta. E quella convinzione stava morendo.
-
----
-
-A volte mi chiedono: *Come è potuto succedere?*
-
-Come se fosse un mistero. Come se l'odio nascesse dal nulla.
-
-Ma io ho vissuto abbastanza per sapere che l'odio non è mai un mistero. L'odio è una scelta—una scelta fatta da migliaia di persone, ogni giorno, quando decidono che qualcuno è *diverso* abbastanza da non meritare pietà.
-
-I miei genitori non erano mostri. Non erano criminali. Erano due persone che si amavano—l'unica colpa che avessero mai commesso era amare nel modo sbagliato, secondo regole che qualcun altro aveva inventato.
-
-E il mondo li ha perseguitati per questo.
-
-Una volta ho chiesto a mia madre: "Come hanno potuto? Come hanno potuto persone normali trasformarsi in carnefici?"
-
-Lei mi ha guardato a lungo prima di rispondere.
-
-"Non si sono trasformate, Alice. Erano sempre state così. Avevano solo bisogno di un permesso."
-
-Ho pensato molto a quelle parole. Ho pensato ai vicini dei miei nonni, che li salutavano ogni mattina e poi una notte hanno chiamato i Controllori. Ho pensato agli insegnanti che dicevano *è per il vostro bene* mentre ci insegnavano a odiare. Ho pensato a tutte le persone che si credevano buone, che erano convinte di stare dalla parte giusta.
-
-Erano convinte che gli *infetti* fossero diversi da loro. Che meritassero quello che gli succedeva. Che il mondo sarebbe stato migliore senza di loro.
-
-È sempre così che comincia. Con la certezza di essere nel giusto. Con la convinzione che *loro* non sono come *noi*.
-
-Ho vissuto abbastanza per vedere quelle certezze sgretolarsi. Ma ho anche vissuto abbastanza per sapere che ne nasceranno altre. Sempre. In ogni epoca. Con nomi diversi e vittime diverse, ma con la stessa logica: qualcuno deve essere escluso perché gli altri si sentano al sicuro.
-
-E la verità che ho imparato è questa: nessuno è mai al sicuro, non davvero. Le linee che dividono i *normali* dai *devianti* le tracciamo noi—e possiamo cancellarle in qualsiasi momento. O spostarle, e ritrovarci dall'altra parte.
-
----
-
-Non ho visto la fine del Divieto.
-
-Sono vecchia, ormai. Ho scelto di vivere nelle Zone anni fa—ho rinunciato alle Cure, ho accettato che il mio corpo invecchiasse, che la morte si avvicinasse. Non me ne pento.
-
-Ho vissuto una vita vera. Ho amato, ho perso, ho sperato, ho lottato.
-
-È più di quanto abbiano molti immortali nel Sistema.
-
----
-
-Mia madre è morta dieci anni fa.
-
-È stata una morte dolce, nel sonno, circondata dalle persone che la amavano. Aveva quasi novant'anni—una vita lunghissima per le Zone.
-
-Prima di morire, mi ha detto qualcosa.
-
-"Ho avuto una bella vita," ha sussurrato. "Una vita difficile, ma bella. E sai perché?"
-
-"Perché?"
-
-"Perché ho amato. E sono stata amata." Ha sorriso—quel sorriso che conoscevo così bene, che mi aveva accompagnato per tutta la vita. "È tutto quello che conta, Alice. Alla fine, è tutto quello che conta."
-
----
-
-Di mio padre non abbiamo mai saputo niente.
-
-A volte mi chiedo cosa gli sia successo. Se sia morto in prigione, se sia stato rieducato, se da qualche parte esista ancora una versione di lui che non ricorda chi era.
-
-Ma preferisco pensare che sia libero.
-
-Preferisco immaginarlo da qualche parte nelle Zone, vecchio e stanco ma ancora lui. Ancora l'uomo che amava mia madre, che mi teneva la mano quando avevo paura, che ha dato la sua libertà perché noi potessimo scappare.
-
-Non lo saprò mai.
-
-Ma posso scegliere cosa credere.
-
----
-
-Il libro di poesie è ancora con me.
-
-È consumato, ormai. Le pagine sono fragili, l'inchiostro sbiadito, le copertine tenute insieme con cura e pazienza. Ma è ancora leggibile. Le poesie di Elena, i messaggi di Enzio, le parole di tutti quelli che l'hanno posseduto prima di me.
-
-Presto lo passerò a qualcun altro.
-
-Non ho figli—non ho mai trovato qualcuno che potesse amarmi come mio padre ha amato mia madre. Ma ho nipoti adottivi, giovani delle Zone che ho cresciuto come fossero miei.
-
-Una di loro, una ragazza di quindici anni di nome Elena—come la bisnonna che non ha mai conosciuto—lo erediterà.
-
-Le ho già insegnato l'importanza delle storie. Le ho già raccontato di James e Kate. Le ho già spiegato perché le parole contano.
-
-Lei porterà avanti la tradizione.
-
----
-
-E la storia continuerà.
-
-Non la mia storia, ormai. La mia storia sta per finire. Ma la storia di tutti quelli che verranno dopo—i giovani che leggeranno queste pagine, che si innamoreranno nonostante i divieti, che lotteranno per un mondo diverso.
-
-La loro storia sta appena iniziando.
-
----
-
-Mentre scrivo queste ultime parole, il sole sta tramontando.
-
-È un tramonto bellissimo—arancione e rosso e viola, colori che il Complesso non potrebbe mai replicare. Sono seduta sulla collina dove mi portava mia madre, la stessa collina dove ci siamo ritrovate tanti anni fa.
-
-Penso a lei. A mio padre. A tutti quelli che ho amato e perso.
-
-E sorrido.
-
-Perché nonostante tutto—il dolore, la perdita, gli anni di fuga e di paura—sono stata fortunata. Ho avuto genitori che mi hanno amato. Ho avuto una storia da raccontare. Ho avuto una vita che ha significato qualcosa.
-
-Non tutti possono dire lo stesso.
-
----
-
-L'ha scritto nonno Enzio, con la sua grafia tremante: *Le storie sono più forti dei divieti.*
-
-Lo ripeteva mia madre, accarezzandomi i capelli quando il mondo sembrava troppo buio.
-
-E ora, alla fine di tutto, so che avevano ragione.
-
-Perché anche quando non ci sarò più, la storia resterà. Nelle pagine ingiallite di questo libro. Nei cuori di chi l'ha letta e ha sentito qualcosa risvegliarsi dentro. Nel mondo che sta già cambiando—lentamente, dolorosamente, ma sta cambiando.
-
-I miei genitori non ci sono più. Mio padre è scomparso nelle fauci del Sistema, mia madre si è spenta nelle Zone con un sorriso sulle labbra e le mie mani tra le sue.
-
-Ma il loro amore vive ancora.
-
-Vive ogni volta che qualcuno legge queste parole e si chiede: *E se fosse tutto sbagliato?*
-
-Vive ogni volta che un ragazzo guarda una ragazza e non si vergogna di quello che prova.
-
-Vive in voi che leggete. In voi che dubitate. In voi che, forse, un giorno amerete.
-
-Per sempre.
-
-
-
-
-# Capitolo 38: Fine
+# Capitolo 37: Fine
 
 ---
 
@@ -8162,7 +7989,7 @@ Non importa se il Sistema crolla. Non importa se il manoscritto viene letto. Non
 
 Quello che importa è che la storia è stata raccontata. Che da qualche parte, su qualche foglio di carta, in qualche angolo del mondo, le parole esistono. Mio padre esiste. Mia madre esiste. Il loro amore esiste.
 
-E finché esistono le parole, loro non moriranno mai.
+E finché esistono le parole, esisteranno anche loro.
 
 ---
 
@@ -8172,9 +7999,7 @@ Forse nessuno. Forse il Sistema troverà questo quaderno e lo brucerà prima che
 
 Non importa.
 
-Le storie non hanno bisogno di essere ascoltate per esistere. Esistono nel momento in cui vengono scritte. Nel momento in cui qualcuno sceglie di ricordare invece di dimenticare.
-
-Mio padre me lo ha insegnato. Mia madre me lo ha mostrato.
+Le parole esistono nel momento in cui vengono scritte. Nel momento in cui qualcuno sceglie di ricordare invece di dimenticare.
 
 ---
 
@@ -8226,9 +8051,19 @@ Questo quaderno sarà la quinta.
 
 Fuori sento dei passi.
 
+Si avvicinano. Lenti. Metodici. Sicuri.
+
+Hanno trovato il nascondiglio.
+
 ---
 
-**[Il resto della pagina è vuoto.]**
+La porta si sta aprendo.
+
+Non ho paura.
+
+---
+
+**[Il resto della pagina è macchiato. L'inchiostro si interrompe a metà di una parola che potrebbe essere "ricor—"]**
 
 
 
@@ -8244,9 +8079,7 @@ Ma è nato anche da una speranza. La speranza che ci sarà sempre qualcuno dispo
 
 James e Kate non sono eroi. Sono persone normali che hanno fatto una scelta impossibile. Hanno scelto la vita in un mondo che l'aveva abolita. Hanno scelto l'amore in un mondo che l'aveva criminalizzato. E hanno pagato il prezzo.
 
-Ma hanno anche vinto. Perché Alice esiste. Perché la loro storia è stata raccontata. Perché tu, ora, la conosci.
-
-E le storie, una volta raccontate, non muoiono mai.
+Ma hanno anche vinto. Perché Alice è esistita. Perché la loro storia è stata raccontata. Perché tu, ora, la conosci.
 
 ---
 

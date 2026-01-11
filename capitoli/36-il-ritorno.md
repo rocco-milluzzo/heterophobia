@@ -28,11 +28,17 @@ Il suo appartamento è vuoto. I suoi file sono stati cancellati. Quando ho chies
 
 Bugiardi. Tutti bugiardi.
 
-Ho cercato nella rete—quella sotterranea, quella che dovrebbe avere risposte. Niente. Silenzio. Come se Yuki non fosse mai esistita.
+Ho cercato nella rete—quella sotterranea, quella che dovrebbe avere risposte. Per settimane, niente. Silenzio. Come se Yuki non fosse mai esistita.
 
-Forse è fuggita. Forse è stata presa. Forse è morta.
+Poi, tre giorni fa, un messaggio criptato. Senza firma, senza intestazione. Solo due parole e una data.
 
-Non lo saprò mai.
+*Centro 7. 14/3/2123.*
+
+Ho cercato nei registri. Centro 7 è una struttura di detenzione nel Distretto Nord. Il 14 marzo dell'anno scorso, una detenuta è stata trasferita nella sezione di rieducazione intensiva. Nessun nome nei registri pubblici. Ma il numero di identificazione corrispondeva a quello che Yuki usava per i documenti interni.
+
+Rieducazione intensiva significa cancellazione della memoria. Significa che se Yuki è ancora viva, non è più Yuki. Significa che la donna che mi ha salvato la vita, che ha rischiato tutto per i miei genitori, che per anni ha combattuto dal di dentro—quella donna non esiste più.
+
+Il Sistema non l'ha uccisa. Ha fatto qualcosa di peggio.
 
 ---
 

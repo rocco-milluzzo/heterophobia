@@ -450,31 +450,23 @@ L'incertezza è deliberata. James potrebbe essere vivo, in rieducazione eterna. 
 
 ## EPILOGO (Cap. 37-38)
 
-### Capitolo 37: Epilogo
+### Capitolo 37: Fine
 **POV:** Alice
-**Tempo:** Presente (2132)
+**Tempo:** Presente (tempo indeterminato)
 **Parole:** ~2,000
 
-Alice è adulta. Vive nelle Zone Abbandonate. Ha una vita breve davanti (niente Cure).
+Alice scrive le sue ultime parole in un nascondiglio buio. Non sa quanto tempo è passato. Sta fuggendo o è già stata trovata. Le sue riflessioni sui genitori, sul manoscritto, sul significato della storia.
 
-Ma ha vissuto.
-
-A volte sogna una donna che le somiglia, in un mercato delle Zone, che sorride.
-
-Non sa se è un ricordo o una speranza.
-
----
-
-### Capitolo 38: Fine
-**POV:** Alice
-**Tempo:** Presente (2132)
-**Parole:** ~1,500
-
-Finale aperto.
+Finale tragico: i passi si avvicinano, la porta si apre, l'inchiostro si interrompe a metà parola.
 
 **Ultima riga:**
 
-"Non so se sono sopravvissuta o se sto solo raccontando una storia che vorrei fosse vera. Ma so questo: mi hanno amato. E per un mondo che aveva bandito l'amore, quello è stato abbastanza."
+**[Il resto della pagina è macchiato. L'inchiostro si interrompe a metà di una parola che potrebbe essere "ricor—"]**
+
+---
+
+### Capitolo 38: Nota dell'Autore
+Ringraziamenti e riflessioni dell'autore.
 
 ---
 
@@ -483,7 +475,7 @@ Finale aperto.
 ### Distribuzione POV:
 - James: 11 capitoli
 - Kate: 11 capitoli
-- Alice narratrice: 14 capitoli
+- Alice narratrice: 13 capitoli
 - Jensen: 1 capitolo
 - Flashback generazionali: integrati nei capitoli di Alice
 
@@ -491,8 +483,8 @@ Finale aperto.
 - Atto I: ~26,000 (11 cap, include Intermezzo)
 - Atto II: ~37,500 (15 cap)
 - Atto III: ~27,000 (10 cap)
-- Epilogo: ~3,500 (2 cap)
-- **Totale: ~94,000**
+- Epilogo: ~2,000 (1 cap + nota)
+- **Totale: ~92,500**
 
 ### Capitoli chiave:
 - **Cap. 8:** Prima notte insieme (intimità)
@@ -501,3 +493,4 @@ Finale aperto.
 - **Cap. 31:** Il raid (climax azione)
 - **Cap. 34:** Reveal di Alice (climax narrativo)
 - **Cap. 33:** Scelta di Kate (climax emotivo)
+- **Cap. 37:** Fine tragica (conclusione)

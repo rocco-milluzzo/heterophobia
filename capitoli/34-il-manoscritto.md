@@ -50,7 +50,7 @@ Forse il manoscritto verrà intercettato. Forse il Sistema lo troverà e lo dist
 
 Ma non credo.
 
-Non credo perché le parole trovano sempre un modo per sopravvivere. L'ha scritto nonno Enzio. Nel libro di poesie che ancora porto con me, quello che è passato da Elena a Enzio, da Enzio a mio padre, da mio padre a mia madre, da mia madre a me.
+Non credo perché le parole trovano sempre un modo per sopravvivere. Lo sento nel libro di poesie che ancora porto con me, quello che è passato da Elena a Enzio, da Enzio a mio padre, da mio padre a mia madre, da mia madre a me.
 
 Cinque generazioni. Un filo sottile che attraversa il tempo.
 
@@ -114,17 +114,11 @@ Ho preso una penna e ho aggiunto le mie parole:
 
 *Mi chiamo Alice. Sono la figlia di James e Kate, nata in un mondo che mi ha vietato di esistere.*
 
-*Questa è la nostra storia. Una storia d'amore in un'epoca di odio. Una storia di vita in un'epoca di immortalità vuota. Una storia di speranza in un'epoca di paura.*
+*Questa è la nostra storia. Una storia d'amore in un'epoca di odio. Una storia di vita in un'epoca di immortalità vuota.*
 
-*Le storie non muoiono mai. Nonno Enzio l'ha scritto, e io ci credo.*
+*Qualunque cosa succeda, ricorda: hanno provato a vietarci di amare, e abbiamo amato lo stesso. Hanno provato a vietarci di vivere, e abbiamo vissuto lo stesso.*
 
-*Qualunque cosa succeda, ricorda questo: hanno provato a vietarci di amare, e abbiamo amato lo stesso. Hanno provato a vietarci di vivere, e abbiamo vissuto lo stesso. Hanno provato a cancellare la nostra storia, e la nostra storia sopravvive.*
-
-*In queste pagine. Nelle parole che leggi. Nel battito del tuo cuore mentre le leggi.*
-
-*Le storie non muoiono mai.*
-
-*E nemmeno l'amore.*
+*La nostra storia sopravvive. In queste pagine. Nel battito del tuo cuore mentre le leggi.*
 
 ---
 
@@ -156,19 +150,11 @@ L'unica cosa che conta.
 
 ---
 
-*Le storie non muoiono mai.*
-
-Grazie, nonno Enzio.
-
 Grazie, mamma e papà.
-
-Per avermi insegnato questo.
 
 Per avermi dato una storia da raccontare.
 
 Per avermi amato.
-
-È stato abbastanza.
 
 È stato tutto.
 

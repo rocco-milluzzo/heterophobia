@@ -850,44 +850,24 @@ Alice walking toward horizon where System territory begins - visible line betwee
 
 ---
 
-### Capitolo 37: Epilogo
+### Capitolo 37: Fine
 
-**Scena**: Una stanza piena di lettori. Il libro è stato trovato, copiato, diffuso. Occhi diversi leggono le stesse parole.
+**Scena**: Una stanza buia, umida. Una figura seduta nell'ombra scrive su carta vera. La porta si sta aprendo, la luce dei Controllori filtra attraverso la fessura.
 
-**Focus**: I molti volti che leggono—diversi per età, aspetto, contesto, ma uniti dalla stessa storia.
+**Focus**: Il momento sospeso tra scrittura e cattura—l'inchiostro che si interrompe, la mano che trema.
 
 **Dettagli**:
-- Alcuni leggono in segreto, sotto le coperte
-- Alcuni in gruppi, passandosi le pagine
-- Le espressioni variano: lacrime, sorrisi, determinazione
-- In un angolo, una giovane donna potrebbe essere Alice—o no?
+- La stanza è un nascondiglio improvvisato—muffa sui muri, umidità
+- La luce che filtra dalla porta è fredda, metallica, ostile
+- Il libro di poesie è accanto al quaderno—ultimo compagno
+- La penna è ancora in mano, ma la parola è incompiuta
+- Nell'ombra si intuisce la sagoma dei Controllori
 
-**Atmosfera**: La storia che si moltiplica, parole che diventano semi, vittoria della memoria
+**Atmosfera**: Tragedia imminente, fine della fuga, le ultime parole interrotte
 
 **Prompt AI**:
 ```
-Room full of readers. Book has been found, copied, spread. Different eyes reading same words. Focus on many faces reading - different ages, appearances, contexts, but united by same story. Some reading secretly, under blankets. Some in groups, passing pages. Expressions vary: tears, smiles, determination. In corner, young woman might be Alice - or not? Story multiplying, words becoming seeds, victory of memory. Legacy spreading, readers becoming witnesses.
-```
-
----
-
-### Capitolo 38: Fine
-
-**Scena**: Una singola pagina con le ultime parole del libro. Sopra, un cielo stellato. Sotto, due mani che si stringono—giovani o vecchie? Non importa.
-
-**Focus**: L'universalità del gesto finale—mani che si trovano, sempre.
-
-**Dettagli**:
-- Le stelle sono quelle vere—non artificiali
-- Le mani potrebbero essere di chiunque abbia amato
-- La pagina mostra le ultime parole: "Adesso è vostra"
-- Una goccia (lacrima? rugiada?) sulla carta
-
-**Atmosfera**: Chiusura circolare, amore eterno, passaggio del testimone
-
-**Prompt AI**:
-```
-Single page with last words of book. Above, starry sky. Below, two hands clasping - young or old? Doesn't matter. Focus on universality of final gesture - hands finding each other, always. Real stars - not artificial. Hands could belong to anyone who loved. Page shows last words: "Now it's yours". A drop (tear? dew?) on paper. Circular closure, eternal love, passing the torch. Final image, universal, transcendent.
+Dark damp room. Figure sitting in shadow writing on real paper. Door is opening, Controllers' light filtering through crack. Focus on suspended moment between writing and capture - ink interrupted, hand trembling. Room is improvised hiding place - mold on walls, dampness. Light from door is cold, metallic, hostile. Poetry book next to notebook - last companion. Pen still in hand but word incomplete. In shadow, Controllers' silhouettes visible. Imminent tragedy, end of flight, last words interrupted. Dark, tense, final moment.
 ```
 
 ---

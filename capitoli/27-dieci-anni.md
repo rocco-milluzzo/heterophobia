@@ -70,7 +70,7 @@ Mio padre era ferito. Un proiettile sonoro gli aveva lacerato la gamba sinistra.
 
 "No—" La mia voce si spezzò. "No, non potete chiedermi questo."
 
-"Le storie non muoiono mai, ricordi?" Mia madre sorrise attraverso le lacrime. "Nonno Enzio te l'ha scritto. E aveva ragione." Mi baciò la fronte, le sue labbra calde sulla mia pelle. "Vai, piccola mia. Vai e vivi. Vivi per tutti noi."
+"Ricordati di noi." Mia madre sorrise attraverso le lacrime. Mi baciò la fronte, le sue labbra calde sulla mia pelle. "Vai, piccola mia. Vai e vivi. Vivi per tutti noi."
 
 Mio padre mi abbracciò. Per l'ultima volta. Potevo sentire il suo cuore battere contro il mio, forte e disperato.
 
@@ -140,9 +140,7 @@ Ma dentro di me brucia la verità.
 
 E ora, come mi hanno chiesto i miei genitori con il loro ultimo respiro, racconterò la nostra storia. La scriverò con il sangue e le lacrime, con l'amore e la rabbia, con tutto ciò che sono.
 
-Perché le storie non muoiono mai.
-
-E finché io vivrò, loro vivranno con me.
+Finché io vivrò, loro vivranno con me.
 
 ---
 
@@ -159,8 +157,6 @@ E forse, leggendo la storia di James e Kate, capirà.
 Capirà che l'amore non è una malattia.
 
 Che la libertà vale più dell'immortalità.
-
-Che le storie non muoiono mai.
 
 ---
 
@@ -183,9 +179,3 @@ Il cielo del Complesso è grigio, come sempre. Le luci artificiali ronzano, come
 Ma io sono qui.
 
 E finché sarò qui, la storia dei miei genitori non morirà.
-
-*Le storie non muoiono mai, Alice.*
-
-Aveva ragione, nonno Enzio.
-
-Aveva ragione.

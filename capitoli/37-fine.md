@@ -1,4 +1,4 @@
-# Capitolo 38: Fine
+# Capitolo 37: Fine
 
 ---
 
@@ -102,7 +102,7 @@ Non importa se il Sistema crolla. Non importa se il manoscritto viene letto. Non
 
 Quello che importa è che la storia è stata raccontata. Che da qualche parte, su qualche foglio di carta, in qualche angolo del mondo, le parole esistono. Mio padre esiste. Mia madre esiste. Il loro amore esiste.
 
-E finché esistono le parole, loro non moriranno mai.
+E finché esistono le parole, esisteranno anche loro.
 
 ---
 
@@ -112,9 +112,7 @@ Forse nessuno. Forse il Sistema troverà questo quaderno e lo brucerà prima che
 
 Non importa.
 
-Le storie non hanno bisogno di essere ascoltate per esistere. Esistono nel momento in cui vengono scritte. Nel momento in cui qualcuno sceglie di ricordare invece di dimenticare.
-
-Mio padre me lo ha insegnato. Mia madre me lo ha mostrato.
+Le parole esistono nel momento in cui vengono scritte. Nel momento in cui qualcuno sceglie di ricordare invece di dimenticare.
 
 ---
 
@@ -166,6 +164,16 @@ Questo quaderno sarà la quinta.
 
 Fuori sento dei passi.
 
+Si avvicinano. Lenti. Metodici. Sicuri.
+
+Hanno trovato il nascondiglio.
+
 ---
 
-**[Il resto della pagina è vuoto.]**
+La porta si sta aprendo.
+
+Non ho paura.
+
+---
+
+**[Il resto della pagina è macchiato. L'inchiostro si interrompe a metà di una parola che potrebbe essere "ricor—"]**

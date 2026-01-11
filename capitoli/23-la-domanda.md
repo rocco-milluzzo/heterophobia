@@ -140,17 +140,15 @@ Kate stava sorridendo con le lacrime agli occhi.
 
 "È una bellissima idea," disse. "Scrivere le storie è importante."
 
-"Lo so." Alice annuì con sicurezza. "Le storie non muoiono mai. Nonno Enzio me l'ha detto."
+"Lo so." Alice annuì con sicurezza. "Nonno Enzio me l'ha scritto nel libro."
 
 James sussultò. "Cosa?"
 
-"Nel libro. C'è una nota. Dice: 'Le storie non muoiono mai, Alice. Ricordalo sempre. Con amore, E.'"
+"C'è una nota. Dice: 'Ricordati di noi, Alice. Con amore, E.'"
 
 James sentì le lacrime scendere. Non sapeva che Enzio avesse scritto qualcosa nel libro.
 
-Ma il vecchio archivista aveva previsto. Aveva lasciato un messaggio per sua figlia.
-
-*Le storie non muoiono mai.*
+Ma il vecchio archivista aveva previsto. Aveva lasciato un messaggio per sua nipote.
 
 ---
 

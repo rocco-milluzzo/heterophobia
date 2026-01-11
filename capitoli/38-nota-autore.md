@@ -10,9 +10,7 @@ Ma è nato anche da una speranza. La speranza che ci sarà sempre qualcuno dispo
 
 James e Kate non sono eroi. Sono persone normali che hanno fatto una scelta impossibile. Hanno scelto la vita in un mondo che l'aveva abolita. Hanno scelto l'amore in un mondo che l'aveva criminalizzato. E hanno pagato il prezzo.
 
-Ma hanno anche vinto. Perché Alice esiste. Perché la loro storia è stata raccontata. Perché tu, ora, la conosci.
-
-E le storie, una volta raccontate, non muoiono mai.
+Ma hanno anche vinto. Perché Alice è esistita. Perché la loro storia è stata raccontata. Perché tu, ora, la conosci.
 
 ---
 
