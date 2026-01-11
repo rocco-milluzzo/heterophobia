@@ -73,6 +73,8 @@ Il fascicolo di James Valeri è spesso quasi tre centimetri. Quello di Kate Ferr
 
 Li ho letti tutti. Più volte.
 
+C'è anche un altro fascicolo, più sottile. Classificato come "correlato". Un nome che non riconosco: Davide Morra. Non so perché sia allegato a quello di James. Forse un errore d'archivio. L'ho messo da parte per ora.
+
 Le note più agghiaccianti sono quelle della prima fase. *Soggetto mostra segni precoci di devianza. Raccomandato monitoraggio incrementato.* Avevano quindici anni. Li osservavano già da allora.
 
 Il rapporto del 2103 è quello che mi ha colpito di più. Un'analista comportamentale—una certa Dr. Yuki Tanaka, ex compagna di scuola di Kate—aveva segnalato "anomalie nei pattern di interazione" tra i due soggetti. Frequenza degli incontri superiore alla media. Linguaggio corporeo "eccessivamente sincronizzato". Assenza di altre relazioni significative per entrambi.

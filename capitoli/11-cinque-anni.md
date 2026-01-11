@@ -58,6 +58,8 @@ James trovò la crepa per caso. Un file datato 2079. Gravidanze non autorizzate.
 
 Alcuni erano scomparsi nelle Zone Abbandonate.
 
+La scrivania accanto alla sua era vuota da due anni. Il nome sulla targhetta era stato rimosso. James non ci pensava mai.
+
 ---
 
 ## VI.
