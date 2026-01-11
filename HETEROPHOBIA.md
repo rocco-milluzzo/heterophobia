@@ -24,7 +24,7 @@ Il mondo di Aeternitas è finzione. Ma i meccanismi che lo governano — la norm
 
 Spero che questa storia vi faccia arrabbiare. Spero che vi faccia piangere. Ma soprattutto, spero che vi faccia guardare il mondo intorno a voi con occhi un po' diversi. Perché la distopia non arriva mai all'improvviso. Arriva un passo alla volta, mentre tutti guardano da un'altra parte.
 
-A chi legge: grazie per essere qui. Grazie per aver scelto di ascoltare la voce di James, Kate e Alice.
+A chi legge: grazie per essere qui. Grazie per aver scelto di ascoltare questa storia.
 
 E ricordate: alcune storie valgono qualsiasi prezzo.
 
