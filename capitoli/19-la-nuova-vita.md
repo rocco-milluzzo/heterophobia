@@ -14,6 +14,18 @@ Kate si adattò più velocemente di quanto avesse previsto.
 
 Imparò a coltivare—a piantare semi, a curare le piante, a raccogliere frutti che avevano sapori veri, non sintetici. Imparò a cucinare con quello che c'era, a conservare il cibo per i mesi difficili, a fare scorte quando la natura era generosa. Imparò a vivere senza le comodità del Sistema—senza le luci sempre accese, senza l'acqua sempre calda, senza la certezza sterile del domani.
 
+E imparò l'economia delle Zone.
+
+Non c'era denaro qui—il denaro era un'illusione del Sistema, numeri su schermi che potevano essere congelati, cancellati, usati come arma. Nelle Zone Abbandonate la valuta era il lavoro. Le competenze. Il tempo.
+
+Marcus lo chiamava "il Ciclo". Ogni persona contribuiva con quello che sapeva fare. Chi sapeva cucire, cuciva. Chi sapeva costruire, costruiva. Chi sapeva curare, curava. E in cambio riceveva ciò di cui aveva bisogno—cibo, riparo, vestiti, medicine. Non c'erano prezzi, non c'erano contratti. C'era solo la fiducia che ognuno avrebbe dato secondo le proprie capacità e ricevuto secondo i propri bisogni.
+
+"Nel Sistema producono per accumulare," le spiegò Marcus un giorno. "Qui produciamo per vivere. Solo quello che serve, niente di più. Ogni oggetto ha una storia, un creatore, uno scopo. Niente viene sprecato."
+
+Era un'economia fragile, Kate lo capiva. Bastava una stagione difficile, un'epidemia, un tradimento, per farla crollare. Ma era anche profondamente umana. Ogni scambio era un atto di fiducia. Ogni dono era una promessa.
+
+E in qualche modo, funzionava.
+
 Era duro. Era faticoso. Era la cosa più vera che avesse mai vissuto.
 
 ---

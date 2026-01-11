@@ -140,6 +140,26 @@ Si alzò e andò alla finestra, guardando fuori verso il cielo grigio.
 
 "Ho visto cose che non ti ho mai raccontato, James. Ho visto le retate del '78. Ho visto i miei vicini trascinati via nel cuore della notte perché si amavano. Ho visto i furgoni bianchi, le uniformi, i volti di chi non tornava mai." Si voltò verso il nipote. "E ho visto anche l'amore resistere. Nonostante tutto. Nonostante il terrore."
 
+James esitò, poi chiese qualcosa che lo tormentava da tempo.
+
+"Nonno, tu hai quasi centocinquant'anni. Non ti senti mai... stanco? Di vivere, intendo?"
+
+Enzio si sedette di nuovo, lentamente. La domanda sembrava averlo colpito.
+
+"Sai della Crisi della Mente Lunga?"
+
+James scosse la testa.
+
+"Non ne parlano. Non ufficialmente." Enzio abbassò la voce. "Ma all'Archivio ho visto i documenti. Dopo centocinquanta, centosettant'anni... qualcosa si rompe. Non nel corpo—quello le Cure lo tengono intatto. Nella mente. I ricordi si accumulano, si sovrappongono, si confondono. Alcune persone dimenticano decenni interi. Altre non riescono più a distinguere il passato dal presente. Altre ancora perdono interesse in tutto—smettono di parlare, di muoversi, di reagire. Le chiamano 'anime spente'."
+
+"E cosa fa il Sistema?"
+
+"Li ritira." La parola uscì amara. "Silenziosamente. Un giorno sono lì, il giorno dopo sono spariti. Ufficialmente 'trasferiti in strutture specializzate'. In realtà... nessuno sa cosa succede davvero."
+
+James sentì un brivido. "Ma tu..."
+
+"Io ho i miei ricordi ancorati a qualcosa. A qualcuno." Gli occhi di Enzio brillarono. "Tua nonna. Anche se non c'è più, il ricordo di lei mi tiene qui. Mi tiene presente." Fece una pausa. "L'amore, James. Non ti salva dal tempo. Ma ti dà una ragione per sopportarlo."
+
 Si alzò e scomparve in un'altra stanza. Quando tornò, aveva in mano un libro.
 
 "Tieni," disse. "Era di tua nonna. Voleva che lo dessi a qualcuno che ne avesse bisogno."

@@ -99,9 +99,19 @@ Kate impallidì. "Marcus?"
 
 "Una Controllore con una coscienza?"
 
-"Non lo so cosa fosse. Ma era diversa dagli altri. Ho sentito uno degli agenti chiamarla 'Kovalova' con un tono che sembrava... disprezzo. Come se non la rispettassero."
+"Non lo so cosa fosse. Ma era diversa dagli altri. Ho sentito uno degli agenti chiamarla 'Kovalova' con un tono che sembrava... disprezzo. Come se non la rispettassero." James esitò. "E c'è un'altra cosa. Quando sono strisciato via, ho visto qualcosa di strano. Kovalova si è avvicinata a uno degli agenti più giovani e gli ha detto qualcosa. L'agente ha controllato il suo dispositivo, poi ha scosso la testa e ha gridato 'Percorso sud libero, nessun contatto'. Ma io ero lì, Kate. Ero a cinquanta metri da loro. Se avesse davvero controllato, mi avrebbe visto."
 
-Kate rimase in silenzio. Nel Sistema, una Controllore che distoglieva lo sguardo era un'anomalia. Un'imperfezione nella macchina. E le imperfezioni, a volte, potevano essere alleate.
+"Pensi che abbia mentito? Che ci abbia lasciato scappare?"
+
+"Non lo so. Potrebbe essere stata incompetenza. Potrebbe essere stata fortuna." La sua voce si abbassò. "O potrebbe essere stata una scelta."
+
+Kate rimase in silenzio. Nel Sistema, una Controllore che distoglieva lo sguardo era un'anomalia. Una che mentiva ai propri colleghi era qualcosa di più. Qualcosa di pericoloso. Qualcosa che assomigliava alla speranza.
+
+"Marcus una volta ha parlato di persone dentro il Sistema," disse lentamente. "Persone che hanno smesso di prendere l'EmpathBlock. Che hanno iniziato a ricordare cosa significa sentire. Ha detto che sono rare, ma esistono. Le chiamava 'le crepe nel muro'."
+
+"Pensi che Kovalova sia una di loro?"
+
+"Non lo so. Ma se lo è..." Kate non finì la frase. Non osava.
 
 Un silenzio pesante calò nella grotta. Kate pensò a tutti gli amici che avevano fatto negli anni. A Mira, l'amica del cuore di Alice. Alle donne che le avevano insegnato a partorire. A tutti quelli che avevano condiviso la loro vita.
 

@@ -10,6 +10,12 @@ Ma sapeva che non era vero.
 
 Erano nella biblioteca del Complesso, nell'angolo più lontano dalle telecamere. James aveva passato settimane a studiare la disposizione dei sensori, a mappare i punti ciechi, a calcolare gli angoli di ripresa. Sapeva esattamente dove potevano sedersi per essere invisibili—non del tutto, mai del tutto, ma abbastanza.
 
+Non era solo questione di telecamere. Ogni cittadino portava un chip sottocutaneo nel polso—impiantato alla nascita, impossibile da rimuovere senza lasciare tracce. Il chip registrava la posizione, certo, ma faceva molto di più. Monitorava il battito cardiaco. La conduttanza cutanea. I livelli ormonali nel sangue. Ogni dato veniva trasmesso in tempo reale ai server centrali, dove un'intelligenza artificiale costruiva un "pattern comportamentale" per ogni individuo.
+
+L'AI imparava le tue abitudini. Sapeva a che ora ti svegliavi, quanto tempo impiegavi a raggiungere la scuola, quali corridoi preferivi. E quando qualcosa deviava dal pattern—un battito cardiaco accelerato in presenza di una persona specifica, un percorso insolito, una sosta prolungata in una zona poco frequentata—l'algoritmo lo notava.
+
+Non sempre scattava un allarme. Il Sistema era paziente. Raccoglieva dati, costruiva correlazioni, aspettava che il quadro diventasse chiaro. E quando diventava chiaro, era già troppo tardi.
+
 Stavano studiando. O meglio, fingevano di studiare. I tablet erano aperti su qualche testo di storia economica, ma nessuno dei due guardava lo schermo.
 
 Kate parlava del libro. Quello vero, quello nascosto—il libro di poesie che lui le aveva dato mesi prima e che lei teneva sotto il materasso come un segreto che scotta.

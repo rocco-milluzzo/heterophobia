@@ -214,7 +214,21 @@ James tirò fuori la mappa del nonno e la stese tra loro.
 
 "E ci aiuterà?"
 
-"Non lo so. Ma è l'unica possibilità che abbiamo."
+"Non lo so. Ma c'è dell'altro." James abbassò la voce, anche se erano soli. "Da qualche settimana trovo messaggi strani nell'archivio. Annotazioni nei documenti che non dovrebbero esserci. Sempre gli stessi simboli—un libro aperto con una stella dentro."
+
+"Cosa significano?"
+
+"All'inizio pensavo fossero errori di catalogazione. Ma poi ho iniziato a leggerli in sequenza." James tirò fuori un foglio con appunti fitti. "Sono coordinate. Percorsi sicuri. Nomi di persone che possono aiutare. Qualcuno sta lasciando messaggi per chi sa leggerli."
+
+"Chi?"
+
+"Non lo so. La chiamo 'la Bibliotecaria' nella mia testa. Non l'ho mai vista, non so chi sia. Ma chiunque sia, è dentro il Sistema e sta aiutando persone come noi."
+
+Kate sentì un brivido. L'idea che esistesse qualcuno—forse molti—che sabotava il Sistema dall'interno era al tempo stesso terrificante e confortante.
+
+"Pensi che faccia parte di una rete?"
+
+"Non lo so. Ma mio nonno una volta ha accennato a qualcosa... ha detto che ci sono persone ovunque che non hanno dimenticato. Che aspettano." James ripiegò il foglio. "Forse la Bibliotecaria è una di loro."
 
 Kate studiò la mappa. Il percorso sembrava lungo, tortuoso, pieno di pericoli che non poteva nemmeno immaginare.
 

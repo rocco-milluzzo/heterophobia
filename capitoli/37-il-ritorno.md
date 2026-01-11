@@ -4,143 +4,170 @@
 
 Sono tornata nel Sistema.
 
-È strano camminare per le strade del Complesso dopo aver visto le Zone. Dopo aver respirato aria vera, visto cieli veri, vissuto una vita vera. Tutto qui sembra più grigio, più piccolo, più soffocante.
+Le strade grigie del Complesso. I manifesti ovunque. I sensori che ronzano. Tutto è esattamente come l'ho lasciato, eppure tutto sembra diverso.
 
-Ma è qui che devo essere.
+Forse sono io che sono diversa.
 
 ---
 
-Il manoscritto ha iniziato a circolare.
+Il primo giorno, ho quasi vomitato.
 
-Non so esattamente quante copie esistano, né dove siano finite. Yuki mi ha detto che la rete ne ha distribuite centinaia—nelle Zone, ma anche nel Sistema. Nascoste in doppi fondi, passate di mano in mano nei corridoi degli archivi, lette nelle ore morte della notte quando i sensori dormono.
+Non per il viaggio—quello era stato duro, ma gestibile. Ho vomitato perché, appena entrata nel Distretto, ho visto un manifesto nuovo. Una famiglia—due donne con un bambino creato in laboratorio—sorrideva sotto lo slogan: *LA VERA FAMIGLIA È QUELLA CHE SCEGLI*.
 
-Ho sentito di un giovane Controllore che ha chiesto il trasferimento dopo averlo letto. Di una coppia che ha deciso di fuggire nelle Zone. Di una ragazza che ha smesso di prendere i soppressori ormonali perché voleva *sentire* quello che sentivano James e Kate.
+Ho pensato a mia madre. Ai suoi occhi vuoti. Alle sue mani che tremavano.
 
-A volte, camminando per le strade grigie del Complesso, sotto i manifesti che proclamano *L'AMORE NATURALE È INNATURALE*, mi chiedo quanti cuori stiano cambiando in silenzio. Quante crepe si stiano aprendo nel muro dell'heterofobia.
+Ho vomitato in un vicolo e nessuno si è fermato.
 
-Non lo saprò mai con certezza. Ma le crepe si allargano. Lo sento.
+---
+
+Yuki non c'è più.
+
+Il suo appartamento è vuoto. I suoi file sono stati cancellati. Quando ho chiesto al lavoro, mi hanno guardato come se avessi pronunciato il nome di un fantasma.
+
+"Yuki Tanaka? Non conosco nessuna Yuki Tanaka."
+
+Bugiardi. Tutti bugiardi.
+
+Ho cercato nella rete—quella sotterranea, quella che dovrebbe avere risposte. Niente. Silenzio. Come se Yuki non fosse mai esistita.
+
+Forse è fuggita. Forse è stata presa. Forse è morta.
+
+Non lo saprò mai.
 
 ---
 
 Ho ripreso la mia vita di copertura.
 
-Alice Tanaka, ricercatrice storica. Ogni mattina vado all'archivio, catalogo documenti, fingo di credere in quello che faccio. È estenuante, questa doppia vita. Ma è necessaria.
+Alice Tanaka, ricercatrice storica. Ogni mattina vado all'archivio, catalogo documenti, sorrido ai colleghi. Fingo di essere normale. Fingo di essere conforme. Fingo di non avere visto quello che ho visto.
 
-Yuki dice che devo avere pazienza. Che il cambiamento richiede tempo. Che ogni mente che cambia è una vittoria.
+È estenuante.
 
-Ha ragione. Lo so.
-
-Ma a volte vorrei solo urlare la verità al mondo intero.
+Ma è necessario.
 
 ---
 
-Torno nelle Zone ogni volta che posso.
+Il manoscritto circola.
 
-Non spesso—sarebbe troppo rischioso. Ma quando riesco a organizzare una copertura plausibile, parto: due o tre giorni di viaggio, qualche giorno con mia madre, poi di nuovo indietro.
+Non so quanto. Non so dove. Non so chi l'ha letto.
 
-Ogni volta che la vedo, è un miracolo.
+A volte, nei corridoi dell'archivio, mi sembra di cogliere sguardi diversi. Persone che mi guardano un secondo di troppo. Che distolgono lo sguardo troppo in fretta.
 
-Lei sta bene. È invecchiata—nelle Zone si invecchia, senza le Cure—ma i suoi occhi sono ancora luminosi. Ha trovato una pace che non le avevo mai visto, nemmeno quando eravamo una famiglia.
+Stanno leggendo? Stanno sospettando? Stanno per denunciarmi?
 
-"Sono libera," mi ha detto l'ultima volta. "Per la prima volta in vita mia, sono davvero libera."
-
----
-
-Parliamo di papà.
-
-È l'argomento che evitiamo e a cui torniamo sempre. Nessuna delle due sa cosa sia successo a James. Nessuna vuole rinunciare alla speranza.
-
-"A volte lo sogno," mi ha detto mia madre. "Sogno che è vivo. Che mi sta aspettando da qualche parte."
-
-"Anch'io."
-
-"Pensi che sia possibile?"
-
-"Non lo so." Ho stretto la sua mano. "Ma finché non avremo la certezza del contrario, continuerò a crederci."
-
-È quello che mi hanno insegnato. Non arrendersi. Mai.
+Non c'è modo di saperlo.
 
 ---
 
-Una notte, nel mio appartamento del Complesso, ho riletto il libro di poesie.
+Una notte, sono stata fermata per un controllo.
 
-Le pagine erano consumate, alcune quasi illeggibili dopo tutti questi anni. Ma le parole erano ancora lì—le poesie che Elena aveva amato, i messaggi che Enzio aveva lasciato, le annotazioni che mio padre aveva aggiunto nel corso degli anni.
+Stavo tornando a casa—tardi, forse troppo tardi. Due Controllori mi hanno bloccato la strada. Uniformi grigie. Volti vuoti.
 
-E alla fine, le mie parole. Quelle che avevo scritto prima di partire per le Zone orientali.
+"Documenti."
 
-*Le storie non muoiono mai.*
+Ho mostrato la mia carta. Le mie mani non tremavano. Avevo imparato a controllarle.
 
-Ho chiuso il libro e l'ho stretto al petto.
+"Alice Tanaka. Ricercatrice storica."
 
-Cinque generazioni. Cinque persone che hanno tenuto tra le mani queste pagine, hanno letto queste poesie, hanno creduto nel potere delle parole.
+"Sì."
 
-Elena. Enzio. James. Kate. Alice.
+Il Controllore ha guardato il mio chip. Ha consultato qualcosa sul suo dispositivo. L'altro mi fissava, studiando il mio viso come se cercasse qualcosa.
 
-Una catena di amore che attraversa il tempo.
+Secondi che sembravano ore.
 
----
+"Può andare."
 
-Non so come finirà questa storia.
+Ho camminato via. Non ho corso—correre è sospetto. Ho camminato, un passo dopo l'altro, finché non sono stata abbastanza lontana.
 
-Non so se il Sistema cambierà mai. Non so se le persone smetteranno di aver paura dell'amore, se un giorno potremo amarci alla luce del sole. Non so se ritroverò mai mio padre, o se dovrò accettare che se n'è andato per sempre.
-
-Ma so una cosa.
-
-So che i miei genitori hanno vissuto. Hanno amato. Hanno creduto in qualcosa di più grande di loro stessi. E mi hanno dato la possibilità di fare lo stesso.
-
-È abbastanza.
-
-È tutto.
+Poi mi sono appoggiata a un muro e ho aspettato che il cuore smettesse di battere così forte.
 
 ---
 
-Questa sera, mentre scrivo queste ultime parole, il sole sta tramontando.
+Ci sono voci.
 
-Il cielo artificiale del Complesso si tinge di arancione—un'imitazione pallida dei tramonti che ho visto nelle Zone, ma comunque bella. Penso a mia madre, che forse sta guardando lo stesso sole dall'altra parte del mondo. Penso a mio padre, ovunque sia, che forse sta pensando a noi.
+Voci di proteste in alcuni Distretti. Voci di persone che fanno domande. Voci di Controllori che hanno chiesto il trasferimento perché non ce la facevano più.
 
-E penso a tutti quelli che leggeranno questa storia.
+Ma ci sono anche altre voci.
 
-A voi.
+Voci di nuove retate. Voci di centri di detenzione che si riempiono. Voci di bambini strappati alle famiglie nelle Zone, portati nel Sistema per essere "rieducati".
 
----
-
-Non so chi siete. Non so dove siete. Non so cosa vi ha portato a leggere queste parole.
-
-Ma se siete arrivati fin qui, voglio che sappiate una cosa.
-
-L'amore esiste.
-
-Non solo l'amore che il Sistema vi concede — sterile, controllato, sicuro. Ma anche l'amore che vi proibiscono. Quello che vi dicono di temere. Quello per cui sareste disposti a rischiare tutto.
-
-I miei genitori l'hanno trovato. Contro ogni regola, contro ogni legge, contro il mondo intero.
-
-E se l'hanno trovato loro, potete trovarlo anche voi.
+Non so quali voci siano vere. Forse tutte. Forse nessuna.
 
 ---
 
-Le storie sono semi.
+Non so se il manoscritto ha cambiato qualcosa.
 
-L'ha scritto nonno Enzio, tanto tempo fa. L'ha ripetuto mia madre, il giorno in cui ci siamo separate. E io l'ho visto con i miei occhi—semi piantati nel buio che germogliano verso la luce.
+A volte mi dico di sì. Mi dico che ogni storia letta è una crepa nel muro. Mi dico che le crepe si allargano, lentamente ma inesorabilmente.
 
-Ogni mente che cambia è un germoglio. Ogni cuore che dubita è una radice che si fa strada nel cemento. Ogni persona che legge queste parole e sente qualcosa muoversi dentro di sé è parte di una foresta che un giorno—ne sono certa—coprirà le macerie dell'heterofobia.
+Altre volte mi dico che è inutile. Che il Sistema è troppo grande, troppo forte, troppo radicato. Che le storie sono solo parole, e le parole non fermano i Controllori.
 
-L'amore non si può sradicare. Non del tutto. Non per sempre.
+Non so quale versione sia vera.
 
-E finché qualcuno ricorderà James e Kate—il loro coraggio, il loro sacrificio, il loro amore impossibile—loro vivranno per sempre.
-
-In queste pagine.
-
-Nei vostri cuori.
-
-Nel mondo che un giorno, forse, cambierà.
+Forse entrambe.
 
 ---
 
-Mi chiamo Alice Valeri Ferrante.
+Penso a mia madre.
 
-Sono la figlia di James e Kate.
+Ogni giorno, ogni notte. Mi chiedo se è ancora viva. Se ha avuto altri momenti lucidi. Se si ricorda di me.
 
-Sono nata dall'amore proibito — quello che il Sistema chiama malattia.
+Mi chiedo se dovrei tornare.
 
-E questa è la nostra storia.
+Ma non posso. Non ancora. Il viaggio è lungo e pericoloso. Se venissi scoperta, se venissi seguita, metterei in pericolo lei e tutto il villaggio.
 
+Quindi resto qui. Nel Sistema. A fingere.
+
+A sopravvivere.
+
+---
+
+Penso a mio padre.
+
+Non tutti i giorni. Alcune volte passo settimane senza pensarci. Poi, improvvisamente, qualcosa me lo ricorda—un gesto, una parola, l'odore di un vecchio libro—e il dolore torna tutto insieme.
+
+Non so se è vivo.
+
+Ho smesso di cercare informazioni. Non perché non mi importi, ma perché ogni ricerca è un rischio. Ogni domanda è sospetta. Ogni traccia che lascio potrebbe condurre loro a me.
+
+Quindi ho smesso.
+
+Mio padre è diventato una domanda senza risposta. Un vuoto che non posso riempire.
+
+A volte, la notte, mi sembra di sentire la sua voce. Mi dice di essere forte. Mi dice di non arrendermi.
+
+Non so se è un ricordo o un sogno o la follia che inizia a prendermi.
+
+---
+
+Oggi ho riletto il libro di poesie.
+
+Le pagine sono consumate, fragili. Alcune si sbriciolano al tocco. Non durerà per sempre—niente dura per sempre.
+
+Ma per ora è qui. Tra le mie mani. Con le parole che quattro generazioni hanno letto prima di me.
+
+Ho trovato una poesia che non ricordavo. Qualcuno l'aveva aggiunta a margine, con una calligrafia che non riconosco.
+
+*Non cercare la fine della storia.*
+*La storia non finisce mai.*
+*Continua in chi la legge,*
+*in chi la racconta,*
+*in chi la vive.*
+
+Non so chi l'abbia scritta. Non so quando.
+
+Ma sembra scritta per me.
+
+---
+
+Non so come finirà.
+
+Non so se il Sistema crollerà o se durerà altri mille anni. Non so se il manoscritto cambierà qualcosa o se verrà dimenticato. Non so se rivedrò mia madre, se scoprirò cosa è successo a mio padre, se sopravviverò abbastanza a lungo per vedere un mondo diverso.
+
+Non so niente.
+
+Ma so questo: sono ancora qui.
+
+Ancora a raccontare. Ancora a ricordare. Ancora a resistere.
+
+È poco. È quasi niente.
+
+Ma è tutto quello che ho.

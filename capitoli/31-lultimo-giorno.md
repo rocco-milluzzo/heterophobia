@@ -124,11 +124,21 @@ A metà strada, James si fermò.
 
 "Cosa c'è?" chiesi.
 
-"Niente." Ma il suo corpo si era irrigidito, i suoi occhi scrutavano il bosco con quell'intensità che avevo imparato a riconoscere. "Solo... niente."
+Lui indicò il terreno. Tracce—impronte di stivali, fresche, che non appartenevano a nessuno della comunità. Il motivo era troppo regolare, troppo uniforme. Stivali militari.
 
-Non era niente. Lo sapevamo entrambi. Ma scegliemmo di non parlarne, di non rovinare quel momento perfetto con la paura.
+"Pattugliamento," sussurrò. "Recente. Forse ieri, forse stamattina."
 
-Avremmo dovuto parlarne.
+Sentii il sangue gelarmi nelle vene. Alice ci guardava, gli occhi spalancati.
+
+"Torniamo," disse James. "Adesso."
+
+Accelerammo il passo. Il bosco che prima sembrava accogliente ora era pieno di ombre, ogni rumore un potenziale pericolo. A un certo punto sentimmo un ronzio in lontananza—un drone, forse, o forse solo un insetto. Ci nascondemmo dietro un tronco per cinque minuti interminabili prima di riprendere a camminare.
+
+Avremmo dovuto dire qualcosa. Avremmo dovuto avvertire gli altri immediatamente.
+
+Ma scegliemmo di non rovinare quel momento. Di credere che fosse solo una pattuglia di passaggio, una coincidenza.
+
+Fu l'ultimo errore che facemmo insieme.
 
 ---
 

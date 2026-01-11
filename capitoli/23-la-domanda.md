@@ -16,168 +16,152 @@ James sentì una morsa stringergli il petto. Guardò Kate, che aveva smesso di r
 
 "Mira ha i nonni. Li ha visti, una volta, prima di venire qui. Dice che erano vecchi e gentili." Alice si girò a guardarlo con quegli occhi scuri che erano i suoi, ma con la luce di Kate. "Io non ho mai visto i miei nonni. Perché?"
 
-James non sapeva cosa rispondere. Aveva preparato discorsi per questo momento, frasi da usare, spiegazioni semplificate. Ma ora che il momento era arrivato, tutto sembrava inadeguato.
-
 Fu Kate a parlare.
 
-"Hai dei nonni, piccola," rispose. "Ne hai quattro, in realtà. Ma sono lontani."
-
-"Lontani dove?"
-
-"Nel posto da cui veniamo. Quello grande, con le luci che non si spengono mai."
-
-Alice annuì lentamente. Sapeva del "posto grande"—ne avevano parlato prima. Ma non lo aveva mai collegato ai nonni.
+"Hai dei nonni, piccola. Ne hai quattro, in realtà. Ma sono lontani. Nel posto da cui veniamo."
 
 "Perché non vengono a trovarci?"
 
-Kate guardò James. Lui inspirò a fondo.
+"Perché non sanno dove siamo. E non possono saperlo."
 
-"Perché non sanno dove siamo," spiegò. "E non possono saperlo."
+"Ma il nonno Enzio?" chiese Alice. "Quello che ti ha dato il libro?"
 
-"Ma i nonni ti vogliono bene. Mira dice che i nonni ti vogliono bene."
+James si bloccò. Non avevano mai parlato di Enzio ad Alice direttamente. Ma lei ascoltava tutto. Ricordava tutto.
 
-"Sì. I nonni ti vogliono bene." James sentì la voce incrinarsi. "Per questo non possono sapere dove siamo. Perché se lo sapessero, altri potrebbero scoprirlo. E quegli altri ci farebbero del male."
-
-Alice aggrottò la fronte, cercando di capire.
-
-"Ma il nonno Enzio?" chiese. "Quello che ti ha dato il libro?"
-
-James si bloccò. Non avevano mai parlato di Enzio ad Alice—o almeno, non direttamente. Ma lei ascoltava tutto. Ricordava tutto.
-
-"Il nonno Enzio era speciale," intervenne Kate. "Ci ha aiutato a scappare. Ma è rimasto indietro, per proteggerci."
+"Il nonno Enzio era speciale," disse Kate. "Ci ha aiutato a scappare. Ma è rimasto indietro."
 
 "È morto?"
 
-La domanda arrivò con la semplicità brutale dei bambini. James sentì le lacrime pungergli gli occhi.
+La domanda arrivò con la semplicità brutale dei bambini.
 
-"Non lo sappiamo," ammise. "Forse. Forse no. Non possiamo scoprirlo."
+"Non lo sappiamo," ammise James. "Forse. Forse no."
 
-Alice rimase in silenzio per un lungo momento. Guardava le stelle, il cielo che si scuriva, il mondo che andava a dormire.
+Alice rimase in silenzio. Poi mormorò: "Mi dispiace non poterli conoscere."
 
-Poi mormorò, con voce piccola: "Mi dispiace non poterli conoscere."
-
-James la prese in braccio e la strinse forte. Kate si avvicinò, abbracciandoli entrambi.
-
-"Anche a noi," sussurrò James. "Anche a noi, piccola."
+James la prese in braccio e la strinse forte.
 
 ---
 
-Quella notte, James non dormì.
+A otto anni, Alice chiese di più.
 
-Pensava a Enzio. All'ultima volta che lo aveva visto, nella sua casa piena di libri. All'abbraccio che si erano scambiati, sapendo che era l'ultimo.
+"Posso andare a vedere il posto grande?"
 
-Non aveva mai saputo cosa fosse successo dopo la loro fuga. Se Enzio fosse stato interrogato, arrestato, rieducato. Se fosse ancora vivo, da qualche parte, a catalogare documenti in un archivio vuoto.
+James si irrigidì. "No."
 
-O se fosse morto, da solo, senza che nessuno sapesse della sua ultima ribellione.
+"Ma perché? Mira dice che alcuni tornano a guardare. Da lontano."
 
-Era il prezzo che avevano pagato. Il prezzo della libertà.
+"Ho detto no."
 
-E ogni volta che Alice faceva una domanda sui nonni, James lo sentiva tutto insieme—il peso della scelta, la gioia di quello che avevano, il dolore di quello che avevano perso.
+Si alzò e uscì dalla stanza. Alice guardò sua madre, confusa e ferita.
 
-Non sapeva se ne era valsa la pena.
-
-Ma guardando Alice dormire, con le mani strette intorno al libro di poesie come se fosse un tesoro, sapeva una cosa.
-
-Non avrebbe fatto nulla di diverso.
+"Tuo padre ha paura," disse Kate. "Non è arrabbiato con te. Ha solo molta paura di perderti."
 
 ---
 
-I mesi successivi furono difficili.
+Quella notte, Kate trovò James seduto fuori, sotto le stelle.
 
-Alice non smise di fare domande. Voleva sapere di più sul "posto grande"—com'era, chi ci viveva, perché era pericoloso. Voleva sapere dei nonni—com'erano, cosa facevano, se l'avrebbero amata.
+"Mi dispiace," disse lui. "Non avrei dovuto reagire così."
 
-Kate e James rispondevano con cautela, dosando la verità. Non volevano mentire, ma non potevano nemmeno raccontare tutto. Alice era ancora troppo piccola per capire certe cose.
+"No. Non avresti dovuto."
 
-Ma la bambina era intelligente. Più intelligente di quanto avessero previsto.
+Un silenzio. Le lucciole danzavano nell'erba.
 
-"Nel posto grande non si può avere una mamma e un papà?" chiese un giorno.
+"James, non possiamo tenerla chiusa qui per sempre. Alice non ha mai visto nient'altro. Gli alberi che vanno avanti per chilometri. Le montagne. Un giorno vorrà scoprirlo. Non possiamo impedirlo."
 
-Kate e James si guardarono.
+"Possiamo proteggerla."
 
-"No," disse Kate. "Lì le famiglie sono diverse."
+"Non per sempre."
 
-"Come diverse?"
+Kate si inginocchiò accanto a lui. "So perché hai paura. Ho paura anch'io. Ma la paura non può essere la nostra unica guida. La libertà significa anche rischiare."
 
-"Due mamme. O due papà. Ma non una mamma e un papà insieme."
+"Non posso perdervi," disse con voce rotta.
 
-Alice ci pensò. "Perché?"
+"Non ci perderai. Ma devi smettere di tenerci in gabbia."
 
-Era la domanda più difficile. Come spiegare il Divieto a una bambina di sei anni? Come spiegare che l'amore tra un uomo e una donna era considerato una malattia, un crimine, qualcosa da punire?
+Un lungo silenzio. Poi James annuì.
 
-"Perché le persone che comandano lì hanno paura," disse James alla fine.
-
-"Paura di cosa?"
-
-"Dei bambini. Dei bambini come te."
-
-Alice spalancò gli occhi. "Hanno paura di me?"
-
-"Non di te. Di quello che rappresenti." James le accarezzò i capelli. "Tu sei nata dall'amore che loro vogliono eliminare. E l'amore proibito fa paura a chi vuole controllare tutto."
-
-Alice tacque a lungo. Poi disse, con quella serietà che a volte mostrava:
-
-"Allora sono contenta di essere qui. Dove nessuno ha paura dell'amore."
-
-James la abbracciò.
-
-"Anch'io, piccola," sussurrò. "Anch'io."
+"Parlerò con lei domani. Mi scuserò."
 
 ---
 
-A sette anni, Alice trovò il libro di poesie.
+Il mattino dopo, James trovò Alice che raccoglieva fiori nel prato.
 
-Non che fosse nascosto—era sempre stato in bella vista, sulla mensola nella loro stanza. Ma quella fu la prima volta che lo prese in mano da sola, la prima volta che lo aprì senza che qualcuno glielo leggesse.
+"Mi dispiace," disse. "Non avrei dovuto alzare la voce. Avevi ragione a fare domande."
 
-"Papà?" chiamò, venendo a cercarlo. "Cosa vuol dire questo?"
+"Allora perché ti sei arrabbiato?"
 
-James guardò la pagina che indicava.
+"Perché ho paura di perderti. Sei la cosa più preziosa della mia vita."
+
+Alice lo guardò con quei suoi occhi seri. "Ma non deve succedere niente. Voglio solo sapere. Capire."
+
+"Ti racconterò tutto quello che vuoi sapere. Tutto quello che posso."
+
+Alice annuì, soddisfatta. Poi, con quella capacità dei bambini di passare oltre, disse:
+
+"Guarda questo fiore. È il più bello che ho mai trovato."
+
+Era una margherita, semplice e bianca. Niente di speciale.
+
+Ma per Alice era il più bello del mondo.
+
+E James capì qualcosa. Sua figlia non aveva bisogno di vedere il Complesso, o le montagne. Aveva bisogno di essere vista. Di essere ascoltata.
+
+---
+
+I mesi successivi furono diversi.
+
+James iniziò a raccontare storie. Storie del Complesso, della vita che aveva vissuto prima. Storie di nonna Marta e nonno Enzio, di Enrico e Lin, di tutte le persone che Alice non avrebbe mai conosciuto.
+
+Alice ascoltava tutto con la stessa attenzione, la stessa fame di sapere.
+
+A nove anni, trovò il libro di poesie sulla mensola e lo aprì da sola.
+
+"Papà? Cosa vuol dire questo?"
 
 *"Amami quando meno lo merito, perché sarà quando più ne avrò bisogno."*
 
-Era una delle poesie preferite di Kate. Una di quelle che si erano letti l'un l'altra, nelle notti segrete del Complesso, quando amarsi era un crimine.
+"Vuol dire che le persone che ami non sono perfette. A volte fanno errori. Ma è proprio in quei momenti che hanno più bisogno del tuo amore."
 
-"Vuol dire," disse James lentamente, "che le persone che ami non sono perfette. A volte fanno errori, a volte ti fanno male. Ma è proprio in quei momenti che hanno più bisogno del tuo amore."
+Alice annuì. "Come quando faccio i capricci e la mamma si arrabbia, ma poi mi abbraccia lo stesso?"
 
-Alice annuì, seria. "Come quando io faccio i capricci e la mamma si arrabbia, ma poi mi abbraccia lo stesso?"
+James sorrise. "Esatto."
 
-James sorrise. "Esatto. Proprio così."
+Alice sfogliò il libro con cura. Poi, a voce bassa:
 
-Alice tornò a guardare il libro. Lo sfogliò con attenzione, come se fosse qualcosa di prezioso. E lo era.
+"Un giorno scriverò queste storie. Per i bambini che verranno dopo di me."
 
-"Papà?"
+James la guardò con stupore.
 
-"Sì?"
+"Scriverle?"
 
-"Questo libro è magico?"
+"Sì. Come nel libro. Ma io le scriverò per tutti."
 
-James pensò a tutto quello che quel libro rappresentava. A Elena e Enzio, a lui e Kate, a tutte le persone che lo avevano tenuto tra le mani e avevano trovato parole per quello che provavano.
+Kate stava sorridendo con le lacrime agli occhi.
 
-"Sì," disse. "Credo di sì."
+"È una bellissima idea," disse. "Scrivere le storie è importante."
 
-Alice annuì, soddisfatta. Poi chiuse il libro con cura e lo rimise sulla mensola.
+"Lo so." Alice annuì con sicurezza. "Le storie non muoiono mai. Nonno Enzio me l'ha detto."
 
-"Un giorno lo leggerò tutto," disse. "E capirò tutte le parole."
+James sussultò. "Cosa?"
 
-"Un giorno," promise James. "Quando sarai pronta."
+"Nel libro. C'è una nota. Dice: 'Le storie non muoiono mai, Alice. Ricordalo sempre. Con amore, E.'"
 
-Alice sorrise—quel sorriso luminoso che era tutto di Kate—e corse fuori a giocare con Mira.
+James sentì le lacrime scendere. Non sapeva che Enzio avesse scritto qualcosa nel libro.
 
-James restò lì, guardando il libro sulla mensola.
+Ma il vecchio archivista aveva previsto. Aveva lasciato un messaggio per sua figlia.
 
-Un giorno, pensò. Un giorno Alice avrebbe letto quelle poesie e avrebbe capito. Avrebbe capito cosa avevano rischiato i suoi genitori, cosa avevano sacrificato, cosa avevano scelto.
-
-E forse—si augurava con tutto se stesso—avrebbe capito perché.
+*Le storie non muoiono mai.*
 
 ---
 
 Mi fermo.
 
-Questa pagina—questa testimonianza di un padre che guarda sua figlia—mi ha fatto qualcosa. Non so cosa. Un dolore sordo, nel petto, che non riesco a identificare.
+Questa pagina—questa testimonianza di un padre che guarda sua figlia—mi ha fatto qualcosa. Un dolore sordo, nel petto, che non riesco a identificare.
 
-Nel Sistema non esistono padri. Non nel senso vero della parola. Esistono donatori genetici, figure maschili assegnate dalla burocrazia, compagni temporanei approvati dal protocollo. Ma non padri.
+Nel Sistema non esistono padri. Non nel senso vero della parola. Esistono donatori genetici, figure maschili assegnate dalla burocrazia. Ma non padri.
 
 Io non ho mai avuto un padre.
 
 E allora perché, leggendo di James che guarda Alice addormentata, qualcosa in me si è spezzato?
 
-Devo continuare la ricerca. Devo restare obiettiva. Ma le mie mani non smettono di tremare, e questa notte—lo so già—non dormirò.
+Devo continuare la ricerca. Devo restare obiettiva. Ma le mie mani non smettono di tremare.

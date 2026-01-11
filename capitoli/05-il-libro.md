@@ -25,6 +25,14 @@ Non lo sapeva. Non aveva termini di paragone. L'unico amore che conosceva era qu
 
 Ma Kate non voleva essere curata.
 
+*Curata.* Come se fosse malata. Come se quello che sentiva fosse un virus da eliminare.
+
+Pensò alle Cure—non quelle per l'*infezione dell'amore*, ma le altre. Quelle vere. Le infusioni trimestrali che tutti dovevano ricevere alle cliniche autorizzate. I nanobot che riparavano le cellule, che spegnevano i geni dell'invecchiamento, che tenevano il corpo congelato nel tempo. La sua ultima infusione era stata tre settimane prima—il solito appuntamento alla Clinica del Distretto, la solita puntura, il solito formicolio che durava ventiquattr'ore mentre i nanobot si disperdevano nel sangue.
+
+Senza le Cure, il corpo riprendeva a invecchiare. Prima lentamente, poi sempre più velocemente. Chi veniva esiliato nelle Zone Abbandonate perdeva l'accesso alle infusioni. In pochi anni, le rughe riapparivano. In dieci, i capelli imbiancavano. In venti, la morte tornava a bussare.
+
+L'immortalità non era un dono. Era un guinzaglio.
+
 *Quello che resta quando tutto guarisce.*
 
 Kate chiuse il libro e lo premette contro il petto. Il cuore le batteva forte.

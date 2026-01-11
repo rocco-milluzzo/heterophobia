@@ -202,6 +202,14 @@ Qualcosa nel mio petto si strinse.
 
 "Mi hanno *salvato*." Il suo tono si incrinò per un istante, poi tornò piatto. "Mi hanno liberato dalla malattia che mi avevano trasmesso. Ora servo qualcosa di più grande di un'ossessione biologica."
 
+Si avvicinò ancora. Il suo viso era a pochi centimetri dal mio.
+
+"I miei genitori erano come te, sai? Mi hanno amato così tanto che mi hanno condannato a questo." Fece un gesto vago verso se stesso, verso l'uniforme, verso tutto. "Otto anni nelle Zone. Otto anni a nascondersi, a mentire, a vivere nella paura. E per cosa? Per un istinto. Per chimica nel cervello." La sua voce era quasi un sussurro. "Credi che il tuo amore sia diverso? Credi che tua figlia ti ringrazierà, un giorno, per averla fatta nascere in un mondo che la considera un errore?"
+
+Non risposi. Non avevo parole.
+
+"No," disse Jensen, raddrizzandosi. "Non ti ringrazierà. Le faranno quello che hanno fatto a me. E lei diventerà come me. E il ciclo continuerà, finché non rimarrà nessuno di voi."
+
 Capii in quel momento che non stavo parlando con un mostro. Stavo parlando con una vittima—una vittima che aveva imparato ad amare le sue catene.
 
 "Jensen." Un'altra Controllore si avvicinò. Più anziana di lui, forse quarant'anni, con una riga di grigio nei capelli rasati e un'espressione stanca. Sulla divisa, il nome: KOVALOVA. A differenza di Jensen, non aveva quella piattezza nello sguardo—quella che l'EmpathBlock dava ai Controllori per fare il loro lavoro senza sentire nulla.

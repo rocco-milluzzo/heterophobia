@@ -114,9 +114,77 @@ Sul muro della zona comune, lo schermo pubblico trasmetteva il notiziario serale
 
 James distolse lo sguardo. Lo schermo non si poteva spegnere.
 
-Dalla porta aperta sentiva la voce di Luca — sempre Luca a casa la sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello che lo aveva adottato quando aveva tre mesi. Di sua madre biologica non sapeva nulla — i documenti dicevano solo che era una "donatrice anonima", il che significava, probabilmente, una donna che aveva rinunciato a lui prima che il Divieto la portasse via. Luca e Marco lo avevano amato come un figlio, lo avevano cresciuto, lo avevano protetto. Non aveva mai conosciuto nient'altro. Non aveva mai pensato che potesse esistere qualcos'altro.
+Dalla porta aperta sentiva la voce di Luca — sempre Luca a casa la sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello che lo aveva adottato quando aveva tre mesi.
 
-Fino a oggi.
+Di sua madre biologica, James sapeva solo quello che aveva scoperto a dodici anni, frugando in uno scaffale che non avrebbe dovuto aprire.
+
+Era un pomeriggio come tanti. Luca era uscito a fare la spesa, Marco era al lavoro. James stava cercando un vecchio tablet per un progetto scolastico quando aveva trovato la scatola. Nascosta dietro i manuali tecnici di Marco, coperta di polvere.
+
+Dentro c'erano documenti. Fogli veri, di carta vera — cosa rara. E su uno di quei fogli c'era scritto un nome.
+
+*Lin.*
+
+Sotto il nome, una nota: "Donatrice biologica — consenso alla cessione del minore firmato il 12/03/2080. Motivo dichiarato: impossibilità di garantire un ambiente conforme."
+
+James aveva fissato quelle parole per minuti interi, cercando di capire.
+
+*Cessione del minore.*
+
+Non "adozione". *Cessione*. Come se fosse stato un oggetto. Un pacco da consegnare.
+
+Quella sera, quando Luca era tornato, James lo aveva affrontato.
+
+"Chi è Lin?"
+
+Luca si era fermato sulla soglia, le borse della spesa ancora in mano. Il suo viso era diventato pallido.
+
+"Dove hai trovato quel nome?"
+
+"Nella scatola. Quella nascosta."
+
+Un lungo silenzio. Luca aveva posato le borse, si era seduto, aveva fatto cenno a James di sedersi accanto a lui.
+
+"Lin era la tua madre biologica," aveva detto. "Una donna coraggiosa. E molto sfortunata."
+
+"Cosa le è successo?"
+
+"Non lo sappiamo con certezza. I documenti dicono che ti ha consegnato alle autorità quando avevi tre mesi. Poi è stata... rieducata."
+
+"Perché?"
+
+Luca aveva esitato. I suoi occhi — gentili, sempre gentili — si erano fatti distanti.
+
+"Perché amava un uomo. Un uomo che è stato portato via prima ancora che tu nascessi."
+
+"Mio padre?"
+
+"Paolo. Si chiamava Paolo." Luca gli aveva preso le mani. "Non sappiamo cosa gli sia successo. Probabilmente lo stesso destino di tanti altri."
+
+James aveva sentito qualcosa spezzarsi dentro di lui. Non sapeva cosa fosse — non ancora. Sapeva solo che le mani di Luca erano calde e familiari, ma improvvisamente sembravano quelle di un estraneo.
+
+"Perché mi ha dato via?"
+
+La domanda era uscita più dura di quanto volesse. Luca aveva chiuso gli occhi.
+
+"Per salvarti." La sua voce era roca. "Lin ti ha dato via perché era l'unico modo per darti una possibilità. Se ti avesse tenuto, saresti finito nei centri insieme a lei. Saresti cresciuto in un campo di rieducazione, o peggio."
+
+"Quindi mi ha abbandonato per proteggermi."
+
+"Ti ha amato abbastanza da lasciarti andare."
+
+James non aveva risposto. Non c'era niente da dire. Quella notte aveva pianto — da solo, in silenzio, con la faccia nel cuscino. Non per sé stesso. Per Lin, una donna che non conosceva e non avrebbe mai conosciuto. Per Paolo, un nome su un documento. Per un amore che era esistito abbastanza a lungo da crearlo, e poi era stato cancellato.
+
+Da quel giorno, James aveva smesso di piangere. Aveva smesso di chiedere. Aveva smesso di cercare risposte.
+
+Ma non aveva mai smesso di sentire quel vuoto dentro — quella domanda senza risposta che gli bruciava in fondo al petto ogni volta che vedeva Luca e Marco tenersi per mano, amarsi apertamente, senza paura.
+
+Loro potevano. Lin e Paolo no.
+
+E lui era il risultato di quell'ingiustizia.
+
+Fino a oggi, James aveva imparato a non pensarci. A chiudere quella scatola nella sua mente come Luca l'aveva chiusa nello scaffale.
+
+Ma oggi aveva visto una ragazza ridere, e qualcosa si era riaperto.
 
 ---
 

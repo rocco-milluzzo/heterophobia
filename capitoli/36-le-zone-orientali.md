@@ -8,7 +8,9 @@ Più lungo di quanto mi aspettassi. Ho attraversato territori dove il Sistema no
 
 Ho incontrato rifugiati, sopravvissuti, resistenti. Persone che il Sistema chiamerebbe *infetti*, *dinosauri*, *egoisti genetici*. Persone che sono semplicemente esseri umani, e che hanno scelto di vivere.
 
-Il mondo fuori è vasto. Più vasto e più vivo di quanto la propaganda mi avesse fatto credere.
+Il mondo fuori è vasto. Più vasto di quanto la propaganda mi avesse fatto credere.
+
+Ma non più vivo. Solo diversamente morto.
 
 ---
 
@@ -18,21 +20,21 @@ Da un rifugio all'altro, da un sopravvissuto all'altro. Ogni persona che incontr
 
 "L'ho vista passare tre settimane fa," mi disse un uomo in un accampamento vicino a quello che un tempo era il confine tedesco. "Si dirigeva verso est."
 
-"Era da sola?"
+"Com'era?"
 
-"Sembrava. Ma camminava come chi sa dove sta andando."
+L'uomo esitò. "Strana. Parlava da sola. A volte non sembrava sapere dove fosse."
 
 ---
 
-Più mi avvicinavo, più le voci si facevano concrete.
+Più mi avvicinavo, più le voci si facevano inquietanti.
 
-Non era solo una donna con i capelli bianchi. Era una donna alta, con gli occhi chiari e un modo di parlare che tradiva un'educazione formale. Una donna che aveva vissuto nel Sistema, ma che ora viveva nelle Zone.
+Non era solo una donna con i capelli bianchi. Era una donna che a volte non rispondeva al suo nome. Che si svegliava urlando. Che fissava il vuoto per ore, e poi improvvisamente parlava come se nulla fosse.
 
-Una donna che cercava qualcuno.
+"Ha dei momenti buoni," mi disse una donna in un villaggio a due giorni di cammino. "E dei momenti... meno buoni."
 
-Il mio cuore batteva più forte a ogni nuova informazione. Mi dicevo che poteva essere chiunque—che le descrizioni erano vaghe, che stavo vedendo quello che volevo vedere.
+"Cosa le è successo?"
 
-Ma dentro di me, sapevo.
+La donna distolse lo sguardo. "Quello che succede a tutti quelli che escono dai centri di detenzione. Se escono."
 
 ---
 
@@ -40,241 +42,200 @@ L'ho trovata in un villaggio che un tempo era stato una città.
 
 Le rovine di vecchi edifici si alzavano intorno a noi come scheletri di un passato dimenticato. Tra le macerie, un gruppo di persone aveva costruito qualcosa di nuovo—case fatte di materiali riciclati, orti che crescevano dove un tempo c'erano strade, una comunità che sopravviveva.
 
-E al centro di quella comunità, seduta accanto a un fuoco, c'era lei.
+E in un angolo di quella comunità, seduta da sola contro un muro, c'era una donna.
 
-I capelli bianchi, dove una volta erano castani. Il viso segnato da linee che non c'erano l'ultima volta che l'avevo vista. Ma gli occhi—quegli occhi li avrei riconosciuti ovunque.
+I capelli bianchi, tagliati corti in modo irregolare. Il viso segnato da rughe profonde che non avrebbero dovuto esserci—aveva solo quarant'anni, ma sembrava molto più vecchia. Una cicatrice le attraversava la tempia sinistra, sottile e pallida.
 
-Erano gli occhi di mia madre.
+E gli occhi. Quegli occhi li avrei riconosciuti ovunque.
 
----
-
-Mi fermai a distanza.
-
-Non riuscivo a muovermi. Dopo mesi di viaggio, dopo anni di ricerche, dopo una vita passata a chiedermi cosa fosse successo, eccola lì. A pochi metri da me.
-
-Viva.
-
-Lei alzò lo sguardo. I nostri occhi si incontrarono.
-
-Per un momento, il mondo si fermò.
+Ma non mi guardavano. Guardavano attraverso di me, verso qualcosa che solo lei poteva vedere.
 
 ---
+
+Mi avvicinai lentamente.
+
+"Mamma?"
+
+Nessuna reazione. Continuava a fissare il vuoto, le labbra che si muovevano in un sussurro inudibile.
+
+"Mamma. Sono Alice."
+
+Qualcosa tremolò nel suo sguardo. Le sue mani smisero di muoversi. Lentamente, come se costasse uno sforzo immenso, girò la testa verso di me.
 
 "Alice?"
 
-La sua voce era roca, incerta. Come se non osasse crederci.
+La sua voce era roca, incerta. Come se il nome fosse qualcosa che non aveva pronunciato da molto tempo.
 
-"Mamma."
+"Sì. Sono io."
 
-Poi corsi. Corsi come non avevo mai corso—non per fuggire, questa volta, ma per arrivare. Per raggiungerla. Per stringerla.
+Lei mi guardò. Mi guardò a lungo. E poi disse: "Alice è piccola. Tu sei grande."
 
-Le sue braccia si chiusero intorno a me. Sentii il suo corpo più magro, più fragile di come lo ricordavo, ma il suo abbraccio era lo stesso. L'odore dei suoi capelli, il calore della sua pelle, il modo in cui le sue mani mi accarezzavano la schiena come faceva quando ero bambina e avevo paura.
+Sentii qualcosa spezzarsi dentro di me.
 
-Affondai il viso nel suo collo e mi lasciai andare.
+"Sono cresciuta, mamma. Sono passati dieci anni."
 
----
+"Dieci anni." Ripeté le parole come se non avessero senso. "Dieci anni."
 
-Piangemmo.
+Poi, improvvisamente, qualcosa cambiò nei suoi occhi. Come una luce che si accende. Mi vide—mi vide davvero—e il suo viso si contrasse in un'espressione che non sapevo decifrare. Dolore? Gioia? Terrore?
 
-Non so per quanto tempo. Piangemmo per tutto quello che avevamo perso, per tutti gli anni passati a chiederci se l'altra fosse ancora viva. Piangemmo per James, per Mira, per tutti quelli che non c'erano più.
+"Alice." Questa volta il mio nome era un singhiozzo. "Alice, Alice, Alice."
 
-Ma piangemmo anche di gioia.
+Si alzò—barcollando, aggrappandosi al muro—e mi venne incontro. Le sue braccia si chiusero intorno a me con una forza che non mi aspettavo da quel corpo fragile.
 
-Perché eravamo vive. Entrambe. Contro ogni probabilità, contro ogni logica, eravamo sopravvissute.
+"Sei vera," sussurrava. "Sei vera, sei vera, sei vera."
 
----
+"Sono vera, mamma."
 
-Più tardi, sedute accanto al fuoco, parlammo.
+"A volte vedo cose che non ci sono. A volte vedo tuo padre. A volte vedo te bambina. A volte non so cosa è vero."
 
-Mia madre mi raccontò cosa era successo quel giorno. Come si era voltata verso il veicolo, pronta a sacrificarsi. Come i Controllori l'avevano catturata invece di ucciderla—volevano interrogarla, volevano sapere dove erano gli altri rifugi.
-
-"Mi hanno tenuta in una struttura per mesi," disse. La sua voce si fece distante, come se stesse guardando attraverso il tempo. "Mi chiamavano *l'infetta* numero 7749. Non il mio nome—mai il mio nome. Solo quel numero, gridato o sussurrato, a seconda di cosa volevano da me."
-
-Si fermò. Le sue mani tremavano.
-
-"Cercavano informazioni sui rifugi, sui contatti, su chiunque ci avesse aiutato. Ma non erano solo interrogatori." La sua voce si spezzò. "I Controllori... alcuni si offrivano volontari per le sessioni notturne. Dicevano che era parte della terapia. Che dovevano *insegnarci* cosa significava essere toccate da un uomo nel modo *sbagliato*, per farci capire quanto fosse disgustoso."
-
-Non riuscivo a parlare. Non riuscivo a respirare.
-
-"Erano in tre, quella prima notte. Mi hanno legata al tavolo e hanno detto che mi avrebbero *curata*. Che quando avessero finito, non avrei più desiderato nessun uomo." Una lacrima le scivolò sulla guancia, ma la sua voce restò ferma. "Avevano ragione su una cosa. Non ho più desiderato nessun uomo—tranne tuo padre. Perché quello che facevano loro non era desiderio. Era violenza. Era potere. Era tutto ciò che il Sistema finge di combattere ma in realtà incarna."
-
-"Mamma..."
-
-"No, lasciami finire." Mi prese le mani. "Devi sapere. Devi capire cosa succede là dentro, perché il mondo deve sapere. Ogni notte, per settimane, venivano. A volte uno, a volte di più. Registravano tutto—per i *rapporti medici*, dicevano. Mi chiamavano *fattrice*, *breeder*, *puttana della riproduzione*. E io... io mi aggrappavo al ricordo di te e di tuo padre, e non ho parlato. Mai. Mi hanno spezzato il corpo, ma non sono riusciti a toccare quello che avevo dentro."
-
-Si interruppe, e vidi ombre antiche passarle negli occhi—ombre che non se ne sarebbero mai andate.
-
-"Come sei scappata?"
-
-Un sorriso triste attraversò il suo viso. "Quando mi hanno trasferita, pensavo che sarebbe stato peggio. Ma sulla strada c'erano quattro guardie che avevano scelto di essere umane. Controllori che si erano stancati di essere strumenti dell'odio—che la notte ricordavano di aver avuto genitori eterosessuali, nonni che si amavano alla luce del sole. Mi hanno fatto uscire durante un trasferimento. Quattro di loro sono morti quella notte, perché io potessi vivere."
-
-"Perché non sei tornata nel Sistema? Perché non mi hai cercata?"
-
-"Ti ho cercata." Mi prese la mano. "Per anni. Ma avevo paura di metterti in pericolo. Sapevo che eri al sicuro con Yuki. Sapevo che avevi una nuova identità. Se mi fossi avvicinata troppo, avrei potuto compromettere tutto."
-
-"Quindi sei rimasta nelle Zone."
-
-"Ho aspettato. Ho sperato. Ho chiesto a chiunque incontravo se avesse notizie di una ragazza di nome Alice." I suoi occhi si riempirono di lacrime. "E alla fine, sei venuta tu da me."
+La strinsi più forte. Il suo corpo tremava contro il mio.
 
 ---
 
-Le raccontai tutto.
+Una donna del villaggio si avvicinò.
 
-La mia vita nel Sistema. La ricerca che avevo condotto sui miei genitori. Il manoscritto che avevo scritto e distribuito.
+"Ha i suoi momenti," disse piano. "A volte è lucida per ore. A volte per giorni. Poi se ne va di nuovo."
 
-Quando le parlai del manoscritto, mia madre si mise a piangere di nuovo.
+"Cosa le hanno fatto?"
 
-"Hai raccontato la nostra storia," disse. "Hai fatto quello che ti avevo chiesto."
-
-"Le storie non muoiono mai."
-
-"No." Sorrise attraverso le lacrime. "Non muoiono mai."
+La donna non rispose. Non ce n'era bisogno.
 
 ---
 
-"E papà?" chiesi.
+Restammo abbracciate finché il sole non iniziò a calare.
 
-Era la domanda che non avevo osato fare. La domanda che bruciava dentro di me da quando avevo visto mia madre.
+Poi mia madre si staccò da me, mi guardò, e per un momento vidi la donna che era stata. Intelligente. Forte. Innamorata della vita.
 
-Lei abbassò lo sguardo.
+"Devo raccontarti," disse. "Prima che me ne vada di nuovo."
 
-"Non lo so," disse. "Ho cercato informazioni per anni. Ma i centri di detenzione sono impenetrabili. Nessuno sa cosa succede là dentro."
+"Non devi—"
 
-"Quindi potrebbe essere ancora vivo."
+"Devo." Mi prese le mani. Le sue dita erano coperte di cicatrici sottili, come se qualcuno le avesse tagliate più volte. "Devi sapere. Per il tuo libro."
 
-"Potrebbe." Mi guardò. "O potrebbe no. Non lo sapremo mai con certezza."
+---
 
-Il dolore nel suo sguardo mi disse tutto. Lei ci pensava ogni giorno, ogni notte. Si chiedeva se James fosse vivo, se soffrisse, se pensasse a loro.
+Mi raccontò.
 
-"Mi manca," dissi.
+Non tutto—c'erano cose che non riusciva a dire, frasi che iniziava e poi abbandonava, momenti in cui il suo sguardo si perdeva e dovevo aspettare che tornasse.
 
-"Anche a me." Mi strinse la mano. "Ogni giorno. Ma sai cosa? Quando chiudo gli occhi, lo vedo ancora. Lo sento ancora. Il suo sorriso, la sua voce, il modo in cui mi guardava."
+Ma mi raccontò abbastanza.
 
-"Anch'io."
+I centri di detenzione. Le celle senza finestre. I numeri al posto dei nomi. Gli interrogatori che duravano giorni. E le altre cose—quelle che chiamavano "terapia", quelle che la sua voce non riusciva a pronunciare ma che il suo corpo ricordava in ogni tremore.
 
-"L'amore non muore, Alice. Anche quando le persone se ne vanno, l'amore resta. È questo che ho imparato. È questo che tuo padre mi ha insegnato."
+"Mi hanno spezzata," disse alla fine. "Non completamente. Non del tutto. Ma abbastanza."
+
+Non sapevo cosa rispondere. Non c'era niente da rispondere.
+
+"Tuo padre mi ha tenuta insieme." Sorrise—un sorriso spezzato, ma un sorriso. "Anche quando non c'era. Lo sentivo nella mia testa, che mi diceva di resistere. Di non dargli la soddisfazione di vedermi arrendermi."
+
+"Papà..." La parola mi uscì a fatica. "Sai cosa gli è successo?"
+
+Mia madre chiuse gli occhi.
+
+"No."
+
+Una sola parola. Ma conteneva anni di domande senza risposta, di notti insonni, di speranze che si spegnevano lentamente.
+
+"Ho chiesto. Ho cercato. Ho pregato persone che forse sapevano qualcosa." Riaprì gli occhi. "Nessuno sa niente. O nessuno vuole dire niente. È la stessa cosa."
+
+"Quindi potrebbe essere—"
+
+"Potrebbe essere qualsiasi cosa." La sua voce era piatta. "Vivo. Morto. Rieducato. Rinchiuso da qualche parte a marcire." Si strinse nelle spalle—un gesto che sembrava costarle uno sforzo enorme. "Non lo sapremo mai."
 
 ---
 
 Restai nel villaggio per settimane.
 
-Imparai la vita nelle Zone—come coltivare, come costruire, come sopravvivere senza le comodità del Sistema. Era difficile. Era faticoso. Era tutto quello che avevo sempre temuto.
+Imparai la vita nelle Zone—come coltivare, come costruire, come sopravvivere senza le comodità del Sistema. Era difficile. Era faticoso.
 
-Ma era anche libero.
+Ma la cosa più difficile era guardare mia madre.
 
-La giornata iniziava con il sole — quello vero, non la simulazione del Complesso. Mia madre mi svegliava all'alba per aiutare nell'orto comunitario. C'erano pomodori da raccogliere, zucche da controllare, erbe aromatiche da essiccare. Il lavoro era duro, le mani si sporcavano di terra, la schiena doleva. Ma c'era qualcosa di profondamente appagante nel vedere crescere ciò che avevi piantato.
+C'erano giorni buoni. Giorni in cui era quasi come la ricordavo—presente, lucida, capace di ridere. Mi raccontava storie di quando ero piccola, di quando lei e papà si erano conosciuti, di come il mondo era stato prima.
 
-La mattina, i bambini andavano a "scuola" — non un edificio, ma un cerchio di pietre sotto un grande quercia. Un'anziana insegnava a leggere usando libri recuperati dalle rovine. Un uomo che era stato ingegnere spiegava matematica tracciando numeri nella polvere. Non c'erano esami, non c'erano valutazioni. Solo la fame di imparare.
+E c'erano giorni cattivi. Giorni in cui non mi riconosceva. Giorni in cui parlava con persone che non c'erano. Giorni in cui si rannicchiava in un angolo e tremava, incapace di sopportare qualsiasi tocco, qualsiasi voce.
 
-A mezzogiorno, il villaggio si riuniva per il pasto comune. Ognuno portava qualcosa — chi aveva pescato, chi aveva cacciato, chi aveva cotto il pane nel forno di pietra costruito dalle loro mani. Si mangiava insieme, fianco a fianco, senza distinzioni. I vecchi accanto ai giovani. Le famiglie accanto ai solitari.
+Una notte la sentii urlare. Corsi nella sua stanza e la trovai seduta sul letto, gli occhi spalancati nel buio, le mani che graffiavano le lenzuola.
 
-Il pomeriggio era per i mestieri. C'era un fabbro che forgiava utensili da rottami recuperati. Una donna che tesseva stoffa da fibre vegetali. Un gruppo che lavorava il legno per costruire nuove case. Ognuno aveva un ruolo, ognuno era necessario. Non esisteva disoccupazione — esisteva solo lavoro condiviso.
+"Stanno arrivando," sussurrava. "Li sento. Stanno arrivando."
 
-La sera era per le storie.
+"Non c'è nessuno, mamma. Sei al sicuro."
 
-Intorno ai fuochi si parlava del passato — di com'era il mondo prima del Divieto, prima delle Cure, prima che l'immortalità trasformasse l'umanità in qualcosa che non sapeva più morire né vivere davvero. I vecchi raccontavano, i giovani ascoltavano. E quelle storie diventavano parte di noi, mattoni invisibili che costruivano chi eravamo.
+"Non sono mai al sicuro. Non lo sarò mai più."
 
-C'era anche la medicina. Non i nanobot del Sistema, non le Cure che fermavano il tempo. C'erano erbe raccolte nel bosco, rimedi tramandati di generazione in generazione, una donna che era stata infermiera prima della fuga e ora curava con quello che aveva. La gente moriva, nelle Zone. Di malattie, di incidenti, di vecchiaia. Ma moriva amata. Moriva circondata da chi la conosceva. E questo, mi resi conto, valeva più di un'eternità solitaria.
-
-E c'era qualcosa che il Sistema non mi aveva mai insegnato: le Zone avevano una cultura propria. Non erano solo sopravvivenza — erano creazione.
-
-Ogni sera, intorno ai fuochi, qualcuno raccontava storie. Non le storie ufficiali del Sistema, ma quelle vere — storie di famiglie che erano esistite, di amori che avevano resistito, di bambini nati e cresciuti prima del Divieto. I vecchi insegnavano ai giovani, e i giovani insegnavano ai vecchi. C'erano canzoni, scritte da chi aveva conosciuto il mondo di prima. C'erano rituali — cerimonie d'unione tra uomo e donna, battesimi di bambini appena nati, funerali dove la morte era pianta ma anche celebrata.
-
-Avevano persino una religione, o qualcosa che le somigliava. La chiamavano *la Via del Ciclo* — una fede costruita sull'idea che nascita e morte fossero entrambe sacre, che l'immortalità fosse una prigione e la mortalità una liberazione. Non avevano sacerdoti, solo anziani che ricordavano. Non avevano dogmi, solo domande.
-
-*Perché siamo qui? Per vivere. Per cosa viviamo? Per amare. Cosa resta quando moriamo? Le storie.*
-
-Al centro del villaggio c'era una cappella. L'avevano ricostruita pietra per pietra dalle rovine di una chiesa che esisteva prima della Fusione. Non era cattolica né protestante né ortodossa — era semplicemente un luogo dove ricordare. Qualcuno aveva dipinto sui muri scene che non capivo: una donna con un bambino in braccio, uomini in ginocchio davanti a una stella, una croce su una collina.
-
-"È la storia del Natale," mi spiegò una donna anziana quando mi vide fissare i dipinti. "La nascita di un bambino che avrebbe cambiato il mondo. Una volta si celebrava ogni anno, il 25 dicembre."
-
-"Perché?"
-
-"Per ricordare che ogni nascita è sacra. Che ogni bambino porta con sé la possibilità di un mondo nuovo." Sorrise. "Il Sistema l'ha cancellato, ovviamente. Un bambino nato da una donna e un uomo — troppo pericoloso come simbolo."
-
-Quella notte — era dicembre, mi resi conto — accesero candele nella cappella. Non pregavano un dio specifico. Pregavano la memoria. Pregavano la speranza. E cantavano canzoni che nessuno nel Sistema aveva mai sentito, canzoni che parlavano di pastori e angeli e una stella che guidava verso casa.
-
-Era semplice. Era profondo. Era tutto ciò che il Sistema aveva cercato di cancellare.
-
-Nessun sensore a monitorare i miei movimenti. Nessun test genetico ogni tre mesi. Nessun manifesto che urlava *LA RIPRODUZIONE È EGOISMO* o *DENUNCIA I BREEDER*. Nessuna regola a dirmi chi potevo amare e chi no.
-
-Vidi coppie miste—uomini e donne insieme, senza vergogna. Vidi bambini nati dall'amore, non dalla provetta. Vidi vecchi che si tenevano per mano, che si baciavano alla luce del sole, che facevano le cose più normali del mondo come se fossero miracoli.
-
-E lo erano. Dopo tutto quello che avevo visto, lo erano.
+La tenni stretta fino all'alba. Non dormì. Nemmeno io.
 
 ---
 
-Una sera, mia madre mi portò in un posto speciale.
+Una sera, in uno dei suoi momenti lucidi, mia madre mi portò su una collina fuori dal villaggio.
 
-Era una collina appena fuori dal villaggio, da cui si vedeva l'orizzonte. Il sole stava tramontando—un tramonto vero, con tutti i suoi colori impossibili.
+Il sole stava tramontando. I colori erano bellissimi—arancio, rosso, viola—ma non riuscivo a vederli davvero. Vedevo solo il viso di mia madre, illuminato dalla luce morente, e le ombre che non se ne sarebbero mai andate.
 
-"Vengo qui spesso," disse. "Mi ricorda i tramonti che guardavamo insieme, quando eri piccola."
+"Tuo padre odiava i tramonti," disse. "Diceva che erano troppo sentimentali."
 
-"Me li ricordo."
+"Me lo ricordo."
 
-"Tuo padre odiava i tramonti." Rise—un suono che non sentivo da quindici anni. "Diceva che erano troppo sentimentali. Ma poi si sedeva comunque con noi a guardarli."
+"Ma si sedeva sempre a guardarli con noi." La sua voce si incrinò. "Mi manca così tanto che a volte non riesco a respirare."
 
-"Era così."
+Restammo in silenzio. Non c'era niente da dire.
 
-"Era tutto." La sua voce si incrinò. "Era tutto per me."
-
-Ci sedemmo insieme, in silenzio, guardando il sole scomparire dietro l'orizzonte. Madre e figlia, riunite dopo anni. Sopravvissute.
-
----
-
-Quando il cielo divenne scuro, mia madre disse qualcosa.
-
-"Voglio che tu faccia una cosa per me."
+"Devi tornare," disse alla fine.
 
 "Cosa?"
 
-"Voglio che torni nel Sistema."
+"Nel Sistema. Devi tornare."
 
-La guardai, sorpresa. "Cosa?"
+"Non ti lascio qui."
 
-"La tua vita è là. Il tuo lavoro, la tua copertura, tutto quello che hai costruito. Se resti qui, perderai tutto."
+"Non è una scelta, Alice." Mi guardò, e per un momento vidi qualcosa di duro nei suoi occhi—la donna che era sopravvissuta a tutto. "Io non posso tornare. Non fisicamente, non mentalmente. Sono... rotta. Ma tu no. Tu puoi ancora fare qualcosa."
 
-"Non mi importa."
+"Fare cosa? Il manoscritto l'ho già distribuito. Non so nemmeno se qualcuno l'ha letto."
 
-"Dovrebbe importarti." Mi prese il viso tra le mani—un gesto che mi riportò all'infanzia, a tutte le volte in cui mi aveva guardata così. "Alice, tu sei la nostra storia. Sei l'unica che può raccontarla. Sei l'unica che può cambiare le cose, un giorno."
+"Non importa se l'hanno letto. Importa che esista." Si avvicinò a me, mi prese il viso tra le mani. "Tu sei la storia, Alice. Non il libro. Tu. Finché esisti, finché respiri, finché ricordi—loro hanno perso. Noi abbiamo vinto."
 
-"Come posso cambiare qualcosa?"
+"Non sembra una vittoria."
 
-"Scrivendo. Parlando. Esistendo." Sorrise. "Sei la prova vivente che il Divieto è sbagliato. Sei nata dall'amore proibito — quello che loro chiamano malattia. E sei qui."
-
----
-
-Non volevo andarmene.
-
-Avevo appena ritrovato mia madre. Avevo appena scoperto che era viva. L'idea di lasciarla di nuovo mi spezzava il cuore.
-
-Ma sapevo che aveva ragione.
-
-La mia vita era nel Sistema. La mia lotta era nel Sistema. È là che potevo fare la differenza—non nascondendomi nelle Zone, ma vivendo in mezzo a loro, raccontando la verità, cambiando le menti una alla volta.
-
-"Tornerò," dissi. "Ogni volta che posso, tornerò."
-
-"Lo so." Mi abbracciò. "E io sarò qui. Ad aspettarti."
+"Non lo è." Sorrise—quel sorriso spezzato che mi faceva male al cuore. "Ma è tutto quello che abbiamo."
 
 ---
 
-La mattina dopo, partii.
+Partii tre giorni dopo.
 
-Mia madre mi accompagnò fino al confine del villaggio. Ci abbracciammo per l'ultima volta—o almeno, per l'ultima volta di quel viaggio.
+Mia madre mi accompagnò fino al limite del villaggio. Camminava lentamente, appoggiandosi a un bastone che le avevano fatto. Sembrava molto più vecchia di quanto fosse.
 
-"Ti amo," disse.
+"Tornerai?" chiese.
 
-"Ti amo anch'io."
+"Appena posso."
 
-"E Alice?" Mi guardò negli occhi. "Grazie. Per non aver mai smesso di cercare."
+"Non prometterlo." La sua voce era strana. "Le promesse si spezzano. Lo so."
 
-"Non avrei potuto fare altrimenti." Sorrisi attraverso le lacrime. "Sono tua figlia."
+"Mamma—"
 
-Poi mi voltai e camminai verso il Sistema. Verso la mia vita. Verso il futuro.
+"Ascoltami." Mi prese le mani. "Se non dovessi... se qualcosa dovesse succedere... voglio che tu sappia una cosa."
 
-Ma una parte di me restava là, in quel villaggio nelle Zone orientali. Con mia madre. Con i ricordi. Con la speranza.
+"Cosa?"
 
-Le storie trovano sempre chi le racconta.
+"Non me ne sono mai pentita. Di niente. Di tuo padre. Di te. Della fuga. Di niente." I suoi occhi erano lucidi, ma non di lacrime—di qualcosa di più profondo. "Avrei fatto tutto di nuovo. Tutto. Anche sapendo come sarebbe finita."
 
-E l'amore trova sempre chi lo difende.
+Non riuscii a parlare.
 
+"Vai adesso," disse. "Prima che cambi idea."
+
+Mi voltai e camminai via. Non mi girai a guardarla. Non ce la facevo.
+
+Ma sentii la sua voce, portata dal vento:
+
+"Ti amo, Alice. Sei la cosa migliore che abbia mai fatto."
+
+---
+
+Non so se la rivedrò.
+
+Non so se sarà ancora viva quando—se—tornerò. Non so se mi riconoscerà. Non so se avrà ancora quei momenti lucidi, quegli sprazzi della donna che era stata.
+
+So solo questo: mia madre è sopravvissuta.
+
+Non intatta. Non completa. Non come la ricordavo.
+
+Ma sopravvissuta.
+
+E forse, in questo mondo, è tutto quello che possiamo chiedere.

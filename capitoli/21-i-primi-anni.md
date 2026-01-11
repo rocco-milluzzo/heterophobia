@@ -12,11 +12,15 @@ Quella bambina non si arrendeva mai.
 
 ---
 
-I primi anni nelle Zone Abbandonate furono duri ma pieni.
+I primi anni nelle Zone Abbandonate furono duri.
 
-La comunità era cresciuta. Nuovi fuggiaschi arrivavano regolarmente—coppie come loro, individui soli, a volte famiglie intere. Ognuno portava qualcosa: competenze, provviste, storie. E ognuno prendeva qualcosa in cambio: sicurezza, appartenenza, un posto dove essere se stessi.
+La comunità era cresciuta, ma non senza costi. Nuovi fuggiaschi arrivavano regolarmente—coppie come loro, individui soli, a volte famiglie intere. Ognuno portava qualcosa: competenze, provviste, storie. Ma portavano anche bocche da sfamare, malattie da curare, traumi da gestire.
 
-Kate aveva trovato il suo ruolo. Lavorava nel laboratorio improvvisato della comunità—niente di paragonabile alle strutture del Sistema, ma abbastanza per fare analisi di base, preparare medicine, garantire che l'acqua fosse potabile. Era brava in quello che faceva. E per la prima volta nella sua vita, il suo lavoro serviva a qualcosa di reale.
+L'inverno del 2108 fu particolarmente brutale. Le scorte di cibo si esaurirono a febbraio. Per tre settimane mangiarono radici bollite e corteccia. Un bambino—il figlio di una coppia arrivata dal Distretto Est—morì di una polmonite che nel Sistema sarebbe stata curata in un giorno. Kate tenne la sua mano mentre se ne andava. Non aveva nient'altro da offrirgli. Niente medicine, niente nanobot, niente Cure. Solo la sua presenza.
+
+Quella notte, dopo il funerale improvvisato, si chiese per la prima volta se avevano fatto la scelta giusta.
+
+Kate aveva trovato il suo ruolo. Lavorava nel laboratorio improvvisato della comunità—niente di paragonabile alle strutture del Sistema, solo strumenti recuperati e rimedi tradizionali. Abbastanza per fare analisi di base, preparare medicine rudimentali, garantire che l'acqua fosse potabile. A volte abbastanza. A volte no.
 
 James, invece, era diventato l'archivista della comunità. Non c'erano documenti ufficiali da catalogare qui, ma c'erano storie. Memorie. Testimonianze di chi aveva vissuto prima, di chi aveva perso qualcuno, di chi aveva scelto la libertà sapendo che significava rinunciare all'eternità. James le raccoglieva tutte, le trascriveva, le preservava.
 
