@@ -20,6 +20,22 @@ Di notte la maschera cadeva.
 
 Di notte diventava il fantasma che attraversava il Complesso seguendo percorsi incisi nella memoria come cicatrici. Telecamere: terzo piano, angolo nord-est, punto cieco di 2,3 secondi. Sensori: corridoio B-7, in manutenzione ogni giovedì alle 22:47. Pattuglie: cambio turno alle 23:00, ritardo medio di quattro minuti.
 
+Il nonno Enzio gli aveva insegnato le basi. *"Il Sistema non è perfetto,"* aveva detto una sera, sfogliando documenti che non avrebbe dovuto avere. *"Nessun sistema lo è. Ci sono zone grigie — vecchi edifici con schermatura per documenti sensibili, tunnel della metropolitana pre-Fusione dove i segnali non arrivano. Il tuo archivio ne ha tre."*
+
+James aveva memorizzato quelle zone come un naufrago memorizza le correnti. La sala C-12, quella dei documenti dell'Era della Crisi, aveva pareti schermate — ufficialmente per proteggere i materiali sensibili dalle interferenze elettromagnetiche, in realtà una bolla di silenzio dove il suo chip smetteva di trasmettere per qualche minuto. Il corridoio che portava ai sotterranei passava sotto una vecchia linea metro dismessa: interferenze naturali, impossibili da eliminare senza demolire l'intero edificio.
+
+Nella tasca interna della giacca portava sempre il jammer artigianale che Yuki gli aveva procurato mesi prima. Un dispositivo delle dimensioni di un accendino, assemblato con componenti comuni — condensatori, resistenze, un oscillatore a bassa frequenza. Niente che attirasse sospetti se qualcuno avesse controllato le sue tasche. Dieci metri di raggio. Quindici minuti di autonomia prima che la batteria si esaurisse.
+
+Quindici minuti per attraversare le zone coperte. Quindici minuti in cui il suo chip diventava muto e lui diventava invisibile.
+
+Ogni giovedì, James ricaricava il jammer con un caricatore standard. Ogni giovedì, lo testava nella sala C-12, dove nessuno poteva vedere il LED di conferma accendersi. Non l'aveva mai usato fuori dall'archivio — non ancora — ma sapeva che un giorno l'avrebbe fatto.
+
+C'era un'altra cosa che Enzio gli aveva insegnato: la chiave non era evitare il Sistema, ma essere *prevedibili*. L'AI cercava anomalie, pattern insoliti. Un cittadino che usciva sempre alle stesse ore, che seguiva sempre gli stessi percorsi, che aveva sempre le stesse interazioni — quello era un cittadino che l'algoritmo ignorava. Era il rumore di fondo. Era nessuno.
+
+Così James aveva costruito una routine così rigida da sembrare ossessiva. Stesse ore, stessi percorsi, stesse parole ai colleghi. Ogni variazione pianificata in anticipo, giustificata da motivi plausibili. *Ritardo per manutenzione sanitaria. Percorso alternativo per lavori stradali.* L'AI registrava tutto, ma non vedeva nulla di strano.
+
+Era così che sopravvivevano. Non sfuggendo al Sistema, ma nascondendosi in piena vista.
+
 Sapeva tutto. Conosceva ogni falla, ogni crepa, ogni respiro del Sistema.
 
 Perché non sapere significava la rieducazione. Significava le iniezioni che cancellavano i ricordi. Significava svegliarsi un giorno e non ricordare il sapore delle labbra di Kate.

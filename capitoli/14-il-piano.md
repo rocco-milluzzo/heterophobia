@@ -84,11 +84,19 @@ Kate si morse il labbro, pensando. Al laboratorio, nel reparto di sintesi alimen
 
 James la fissò. "Mascherarli? Per quanto?"
 
-"Settantadue ore. Forse ottanta se le dosi sono calibrate bene." Kate si strinse le mani. "Il problema è che hanno effetti collaterali. Nausea, vertigini, sbalzi di pressione. Dovrei nascondere anche quelli."
+"Settantadue ore. Forse ottanta se le dosi sono calibrate bene." Kate si strinse le mani. "I test cercano l'hCG — l'ormone della gravidanza. Gli inibitori lo sopprimono temporaneamente, lo fanno scendere sotto la soglia di rilevamento. Ma non lo eliminano del tutto. Se qualcuno guardasse *davvero* attentamente..."
+
+"E per nove mesi?"
+
+"Quattro test." Kate aveva fatto i calcoli mille volte nella sua mente. "Un test ogni tre mesi. Quattro dosi, pianificate al momento giusto. Ogni dose deve essere presa esattamente dodici ore prima del prelievo — non prima, o l'effetto svanisce, non dopo, o non fa in tempo ad agire." Tirò un respiro tremante. "Il problema sono gli effetti collaterali. Nausea intensa per ventiquattro ore dopo ogni dose — ma posso mascherarla come un virus intestinale. Sbalzi di pressione che mi faranno svenire se non sto attenta. Tremori alle mani che dovrò nascondere al lavoro."
+
+"E il bambino?"
+
+"Non lo so." Era la risposta più onesta che potesse dare. "Teoricamente gli inibitori non attraversano la placenta. Sono molecole troppo grandi, troppo pesanti. Ma nessuno ha mai testato. Non esistono studi. Non esistono più donne incinte da studiare." La voce le si incrinò. "Potrebbe non succedere nulla. Potrebbe succedere di tutto."
 
 "È pericoloso?"
 
-"Per me, no. Per il bambino..." Kate esitò. "Non lo so. Nessuno ha mai testato questi composti su donne incinte. Non esistono più donne incinte."
+"Sì." Kate lo guardò negli occhi. "Ma sai cos'altro è pericoloso? Essere scoperti. Essere separati. Essere rieducati fino a dimenticarci l'uno dell'altra." Posò una mano sulla pancia piatta. "Questo bambino nascerà in un mondo che vuole cancellarlo. Un po' di rischio chimico è il minimo dei nostri problemi."
 
 Un silenzio pesante calò tra loro.
 

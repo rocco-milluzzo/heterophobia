@@ -170,6 +170,16 @@ Avevano persino una religione, o qualcosa che le somigliava. La chiamavano *la V
 
 *Perché siamo qui? Per vivere. Per cosa viviamo? Per amare. Cosa resta quando moriamo? Le storie.*
 
+Al centro del villaggio c'era una cappella. L'avevano ricostruita pietra per pietra dalle rovine di una chiesa che esisteva prima della Fusione. Non era cattolica né protestante né ortodossa — era semplicemente un luogo dove ricordare. Qualcuno aveva dipinto sui muri scene che non capivo: una donna con un bambino in braccio, uomini in ginocchio davanti a una stella, una croce su una collina.
+
+"È la storia del Natale," mi spiegò una donna anziana quando mi vide fissare i dipinti. "La nascita di un bambino che avrebbe cambiato il mondo. Una volta si celebrava ogni anno, il 25 dicembre."
+
+"Perché?"
+
+"Per ricordare che ogni nascita è sacra. Che ogni bambino porta con sé la possibilità di un mondo nuovo." Sorrise. "Il Sistema l'ha cancellato, ovviamente. Un bambino nato da una donna e un uomo — troppo pericoloso come simbolo."
+
+Quella notte — era dicembre, mi resi conto — accesero candele nella cappella. Non pregavano un dio specifico. Pregavano la memoria. Pregavano la speranza. E cantavano canzoni che nessuno nel Sistema aveva mai sentito, canzoni che parlavano di pastori e angeli e una stella che guidava verso casa.
+
 Era semplice. Era profondo. Era tutto ciò che il Sistema aveva cercato di cancellare.
 
 Nessun sensore a monitorare i miei movimenti. Nessun test genetico ogni tre mesi. Nessun manifesto che urlava *LA RIPRODUZIONE È EGOISMO* o *DENUNCIA I BREEDER*. Nessuna regola a dirmi chi potevo amare e chi no.

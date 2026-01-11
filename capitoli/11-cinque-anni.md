@@ -10,6 +10,24 @@ Non per i rischi—quelli c'erano sempre stati, fin dal primo sguardo. Ma per l'
 
 James costruì una maschera perfetta. Di giorno era lo studente modello, poi il tirocinante all'Archivio Centrale, poi l'archivista junior con accesso ai documenti di secondo livello. Frequentava i colleghi quando necessario, partecipava agli eventi sociali obbligatori, sorrideva alle telecamere. Nessuno avrebbe sospettato. Nessuno avrebbe immaginato che dietro quei gesti meccanici bruciasse un fuoco proibito.
 
+Tranne forse uno.
+
+Lo vide per la prima volta durante una retata. Era una mattina grigia, James stava andando al lavoro. All'angolo del Settore C, un furgone bianco del Dipartimento di Conformità bloccava la strada. Agenti in uniforme trascinavano fuori una coppia — un uomo e una donna, le mani legate dietro la schiena, gli occhi terrorizzati.
+
+Tutti abbassarono lo sguardo. James fece lo stesso.
+
+Ma prima di distogliere gli occhi, vide *lui*. Un uomo giovane — trent'anni forse — in piedi accanto al furgone. Alto, occhi grigi, una cicatrice sottile sopra il sopracciglio sinistro. Non urlava ordini come gli altri agenti. Non toccava i prigionieri. Stava semplicemente lì, osservando. E il suo sguardo si posò su James per un istante che sembrò durare un'eternità.
+
+Non c'era cattiveria in quegli occhi. C'era qualcosa di peggio: comprensione. Come se sapesse. Come se vedesse attraverso la maschera.
+
+James continuò a camminare. Non guardò indietro.
+
+Ma quella notte, nel buio della sua stanza, non riuscì a dormire. Quegli occhi grigi lo fissavano dal soffitto.
+
+Avrebbe scoperto più tardi il nome dell'uomo. Jensen. Controllore Jensen. Il più efficiente cacciatore di infetti del Distretto Nord. Dicevano che fosse lui stesso figlio di breeder — preso da bambino nelle Zone, rieducato, trasformato in ciò che odiava di più. Dicevano che vedesse gli infetti come nessun altro poteva farlo, perché era stato uno di loro.
+
+James non sapeva se le storie fossero vere. Ma sapeva una cosa: ogni volta che attraversava il Complesso, sentiva quegli occhi grigi su di sé. Come un'ombra. Come una promessa.
+
 Di notte la maschera cadeva.
 
 Di notte diventava l'uomo che attraversava il Complesso come un fantasma, seguendo percorsi memorizzati, evitando sensori, contando i secondi tra un'ispezione e l'altra. L'uomo che bussava alla porta di Kate con un codice prestabilito—due colpi, pausa, tre colpi—e la stringeva nel buio come se il mondo stesse per finire.

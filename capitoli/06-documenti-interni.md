@@ -17,6 +17,8 @@ Una pagina in particolare è quasi trasparente al centro, dove l'inchiostro si �
 
 Quando l'ho letta per la prima volta, ho sentito qualcosa stringersi nel petto. Una sensazione familiare, antica. Come un ricordo che non dovrei avere.
 
+Come quando mia madre... quando la *soggetta femminile* leggeva ad alta voce. La correzione è venuta automatica, come mi hanno insegnato. Mantenere il distacco. Non personalizzare. I soggetti sono oggetti di studio, non persone.
+
 ---
 
 Nei documenti ufficiali, questo libro è catalogato come "Reperto 2847-C, materiale deviante di origine pre-Divieto". Nessun valore storico, nessun interesse scientifico. Solo la prova che due *infetti* si scambiavano oggetti proibiti, alimentando la loro patologia reciproca.
@@ -116,6 +118,8 @@ Una storica, una ricercatrice seria, non dovrebbe passare le notti a fissare un 
 Ma ecco il punto: non mi sembrano sconosciuti.
 
 È assurdo. Non li ho mai incontrati. James è morto—o scomparso, i documenti si contraddicono—e Kate... Kate non so dove sia. Forse conformata, forse nascosta, forse nelle Zone Abbandonate con gli altri ribelli. Le tracce si perdono nel 2115, l'anno della lettera.
+
+(A volte, quando leggo il nome di Kate, sento l'eco di una voce che mi chiamava con un altro nome. Un nome che non ricordo. Un nome che forse non ho mai avuto.)
 
 Eppure quando leggo le loro parole, quando sfoglio questi documenti, sento qualcosa. Un'eco. Come quando ascolti una melodia che conosci ma non ricordi dove l'hai sentita.
 

@@ -14,7 +14,13 @@ Mi avete chiesto di raccontare il giorno in cui tutto cambiò. Il giorno delle C
 
 Avevo quarantadue anni. Era il 2070—quindici anni fa, anche se sembra un'eternità. Vivevo ancora in Italia, in una città che ora non esiste più. Milano, si chiamava. Una di quelle città che il Sistema ha "riorganizzato" quando le nazioni sono scomparse.
 
+Milano. Ricordo ancora il Duomo che svettava sulla piazza, le guglie gotiche che bucavano il cielo. I Navigli la sera, quando la luce radente trasformava l'acqua in oro liquido. Il dialetto che mia nonna parlava ancora, quello stretto che io capivo a malapena — *Milàn l'è on gran Milàn*. Ora è solo Settore Produttivo 7, Distretto Sud-Alpino. Nessuno lo chiama più Milano tranne noi vecchi, quando parliamo tra noi, quando pensiamo che nessuno ascolti.
+
 Ero nato nel 2028, l'anno in cui tutto crollava. I miei genitori mi raccontavano della Grande Crisi come se fosse una favola dell'orrore — le macchine che rubavano il lavoro, le rivolte, le guerre. Io ero troppo piccolo per ricordare i dettagli, ma ricordo la fame. Ricordo mia madre che divideva una mela in sei parti, una per ogni giorno della settimana. Ricordo mio padre che sparì per tre anni — "riallocato", dicevano — e tornò con gli occhi vuoti e le mani che tremavano.
+
+Ma ricordo anche il pane. Il pane vero, quello che mia nonna faceva la domenica quando riusciva a trovare la farina. L'odore che riempiva la casa, il calore che usciva dal forno, la crosta dorata che scricchiolava quando la spezzavi. Era poco, era raro, ma era *vero*. Non come il cibo sintetico che mangiamo adesso — indistinguibile dal naturale, dicono. Ma loro non hanno mai assaggiato il pane di mia nonna. Non sanno cosa significa mordere qualcosa che è cresciuto dalla terra, che è stato toccato dalle mani di chi ami.
+
+A volte, quando mangio le razioni standard del Sistema, chiudo gli occhi e cerco di ricordare quel sapore. Ma i ricordi del gusto sbiadiscono, anche per un immortale. È una delle poche cose che il tempo riesce ancora a rubarci.
 
 Quando arrivò la Fusione nel 2040, avevo dodici anni. Vidi le vecchie bandiere ammainarsi, i vecchi nomi sparire dalle mappe. L'Italia divenne "Distretto Sud-Alpino della Macro-Nazione Ex-Europa". Milano divenne "Settore Produttivo 7". La mia lingua — l'italiano che mia nonna mi aveva insegnato, le canzoni, le filastrocche — divenne "patrimonio storico in via di archiviazione".
 
