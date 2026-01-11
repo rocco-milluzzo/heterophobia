@@ -148,7 +148,7 @@ Il mondo concluse che il problema era stato il *caos* — troppe persone, troppe
 
 Nessuno si chiese se il problema fosse stato *la disuguaglianza* nella distribuzione dei benefici dell'AI. Era più facile incolpare la natura umana.
 
-*Personaggi: I trisavoli di James e Kate vivono questo periodo da adulti. Molti muoiono. I sopravvissuti non parlano mai di quegli anni.*
+*Personaggi: I trisavoli di James e Kate vivono questo periodo da adulti. Molti muoiono. I sopravvissuti non parlano mai di quegli anni. Marta (nonna di Kate) nasce nel 2000 e ha 23 anni quando inizia la Crisi — perde il lavoro come traduttrice nell'ondata del 2023.*
 
 ### L'Era della Fusione (2040-2060)
 
@@ -225,7 +225,7 @@ Dopo l'inferno, la ricostruzione. Ma ricostruire cosa?
 - Ma nessuna guerra. Nessuna fame. Nessuna malattia.
 - La maggioranza accettò lo scambio. Chi non accettò, scomparve.
 
-*Personaggi: I bisnonni di James e Kate crescono in questo periodo. Ricordano ancora il mondo di prima, ma imparano a non parlarne. Enzio (nonno di James) nasce nel 2035, vive l'infanzia nella Crisi, cresce nella Fusione. È lui che conserverà i documenti proibiti.*
+*Personaggi: I bisnonni di James e Kate crescono in questo periodo. Ricordano ancora il mondo di prima, ma imparano a non parlarne. Enzio (nonno di James) nasce nel 2028, vive l'infanzia nella Crisi, cresce nella Fusione. Ha 12 anni quando arriva la Fusione nel 2040. È lui che conserverà i documenti proibiti.*
 
 ### L'Era della Cura (2060-2075)
 - **2060-2065:** L'AI medica cura cancro, Alzheimer, malattie genetiche.

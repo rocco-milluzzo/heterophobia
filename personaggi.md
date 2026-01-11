@@ -107,10 +107,18 @@
 
 ## Personaggi Secondari
 
-### Generazione Genitori (nati ~2050)
+### Generazione Genitori (nati ~2025-2055)
+
+**Elena** (madre di Kate, figlia di Marta)
+- Nata ~2025, figlia di Marta
+- Sposata con Enrico
+- Presa per rieducazione nel 2077 (ritorna come "guscio vuoto")
+- Deportata nelle Zone Abbandonate come "infetta recidiva" nel 2083, quando Kate aveva 3 anni
+- Mai più rivista
 
 **Enrico Ferrante** (padre di Kate)
-- La moglie Elena (madre di Kate) fu deportata nelle Zone Abbandonate come "infetta recidiva" quando Kate aveva 3 anni
+- Nato ~2025-2030
+- La moglie Elena fu deportata nelle Zone Abbandonate come "infetta recidiva" quando Kate aveva 3 anni (2083)
 - Perfettamente conforme per sopravvivenza, non convinzione
 - Sa della relazione di Kate ma finge di non vedere
 - Funzione: Mostra il costo del silenzio complice
@@ -129,16 +137,19 @@
 
 ---
 
-### Generazione Nonni (nati ~2030)
+### Generazione Nonni (nati ~2000-2030)
 
 **Nonna Marta** (nonna materna di Kate, madre di Elena)
-- 75 anni quando arrivano le Cure, ora biologicamente ~55
+- Nata nel 2000, 23 anni quando inizia la Crisi (2023)
+- 70 anni quando arrivano le Cure (2070), ora biologicamente ~50
 - Ricorda il mondo "prima"
 - Unica che parla apertamente con Kate della "vecchia normalità"
 - Funzione: Flashback sull'Era della Fusione, nostalgia come resistenza
 - Vide sua figlia Elena deportata senza fare nulla — il suo più grande rimpianto
 
 **Nonno Enzio** (nonno paterno di James)
+- Nato nel 2028, durante il crollo della Crisi
+- 42 anni quando arrivano le Cure (2070)
 - Ex-italiano, ancora parla la lingua per nostalgia
 - Archivista come James (gli ha passato la professione)
 - Conserva documenti "pericolosi" dell'era pre-Divieto
