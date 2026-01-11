@@ -14,15 +14,9 @@ Questa non è la storia di due eroi.
 
 È la storia di due persone che hanno fatto una scelta impossibile, e hanno continuato a farla ogni giorno per venticinque anni. Una scelta che ha avuto un costo. Non solo per loro.
 
-Una narratrice senza nome ricostruisce la loro vita attraverso documenti, registrazioni, frammenti. Cerca la verità. Troverà qualcosa di più complicato.
+Una narratrice senza nome ricostruisce la loro vita attraverso documenti, registrazioni, frammenti. Cerca la verità. Trova qualcos'altro.
 
 ---
-
-*Heterophobia* è un romanzo sull'amore come atto politico. Sulla normalità dell'orrore. Su cosa siamo disposti a sacrificare per proteggere chi amiamo — e su chi paga il prezzo delle nostre scelte.
 
 Non offre conforto.
 Non assolve nessuno.
-
----
-
-*"La distopia non arriva mai all'improvviso. Arriva un passo alla volta, mentre tutti guardano da un'altra parte."*
