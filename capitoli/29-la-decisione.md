@@ -150,6 +150,14 @@ C'è un'altra cosa che devo fare.
 
 Una cosa che rimando da anni, perché ho paura. Perché non so cosa troverò. Perché a volte è più facile non sapere.
 
+Ma ora non posso più rimandare.
+
+Due settimane fa, Yuki mi ha passato un documento intercettato. Un ordine interno del Sistema: *Operazione Pulizia — Settore Zone Est. Data prevista: 15 giorni.* Una bonifica totale delle Zone Abbandonate. Droni, veicoli terrestri, Controllori. Cancelleranno tutto—ogni rifugio, ogni traccia, ogni persona che potrebbe ancora ricordare.
+
+Ogni persona che potrebbe sapere cosa è successo ai miei genitori.
+
+Il tempo sta scadendo. Non ho più il lusso della paura.
+
 Devo cercare i miei genitori.
 
 Non negli archivi, come ho fatto per anni. Non attraverso documenti e registrazioni e tracce digitali. Devo cercarli là fuori—nelle Zone Abbandonate, nei rifugi nascosti, nei luoghi dove il Sistema non arriva.

@@ -22,6 +22,16 @@ Un permesso di transito per motivi di ricerca. Ironia della sorte, dato che è q
 
 No. Ma non potevo permettermi di esitare.
 
+C'era un'altra cosa che non le avevo detto. Una cosa che bruciava nella mia tasca come un ferro rovente.
+
+Un messaggio intercettato dalla rete, due settimane prima. Un ordine interno del Sistema, classificato come "urgente": *Operazione Pulizia — Settore Zone Est. Data prevista: 15 giorni.*
+
+Una bonifica totale. Droni, veicoli terrestri, Controllori. Avrebbero rastrellato ogni rifugio rimasto, ogni nascondiglio, ogni traccia di resistenza. Chiunque fosse ancora là fuori—chiunque potesse ancora ricordare i miei genitori—sarebbe sparito.
+
+Quindici giorni. Ora ne restavano tredici.
+
+Se volevo trovare qualcosa, dovevo farlo prima che il Sistema cancellasse ogni traccia.
+
 ---
 
 Il confine del Distretto Nord è una linea invisibile.
@@ -163,6 +173,14 @@ Mi aggrappo a quelle parole come a un'ancora.
 "Potrebbero. Oppure no." Vera mi guarda con una gentilezza che mi spezza il cuore. "Alice, non voglio darti false speranze. Sono passati quindici anni. Le probabilità..."
 
 "Lo so." Mi asciugo gli occhi con il dorso della mano. "Ma finché non ho la certezza, devo continuare a cercare."
+
+Esitai. Poi le dissi dell'Operazione Pulizia.
+
+Vera impallidì. "Quanto tempo?"
+
+"Undici giorni. Forse meno."
+
+"Allora devi andare a est. C'è un villaggio, oltre le colline—uno dei pochi che il Sistema non ha ancora trovato. Se qualcuno sa qualcosa sui tuoi genitori, sarà là." Mi prese le mani. "Ma devi fare in fretta, Alice. Quando arriveranno i Controllori, non resterà più niente."
 
 ---
 

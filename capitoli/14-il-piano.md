@@ -42,6 +42,80 @@ Un barlume di speranza.
 
 ---
 
+Una settimana dopo, James fece qualcosa che non avrebbe mai pensato di fare.
+
+Portò Kate da suo nonno.
+
+Era un rischio enorme. Un rischio che andava contro ogni regola che si erano dati. Ma Enzio aveva chiesto di incontrarla — non esplicitamente, mai esplicitamente, ma con quella sua maniera indiretta che James aveva imparato a decifrare.
+
+*"Le mappe vecchie,"* aveva detto il nonno durante l'ultima visita, *"sono fatte per essere lette in due. Una persona guarda il percorso, l'altra guarda i pericoli."*
+
+Attraversarono il Complesso separatamente, arrivando all'appartamento di Enzio a dieci minuti di distanza l'uno dall'altra. James per primo, poi Kate, con la scusa di una consegna di documenti storici per il laboratorio.
+
+Quando Kate entrò, Enzio era seduto nella sua poltrona, circondato dai suoi libri e dalle sue reliquie di un mondo perduto. I suoi occhi — ancora acuti nonostante l'età biologica congelata — la studiarono a lungo.
+
+"Quindi tu sei Kate," disse. Non era una domanda.
+
+"Sì, signore."
+
+"Non chiamarmi signore. Mi fa sentire un burocrate." Un sorriso increspò il suo viso. "E i burocrati sono quelli che ci vogliono morti."
+
+Kate non sapeva come rispondere. James le aveva parlato di Enzio — della sua saggezza, del suo coraggio, dei rischi che aveva corso per aiutarli — ma incontrarlo di persona era diverso. C'era qualcosa in lui, una gravità, una presenza, che la faceva sentire esposta.
+
+"Siediti." Enzio indicò una sedia accanto a James. "Abbiamo poco tempo e molto da dire."
+
+Kate obbedì. James le prese la mano — un gesto automatico, che fece sobbalzare Enzio.
+
+"La tieni così," mormorò il vecchio, osservando le loro dita intrecciate. "Come facevo io con Elena. Come faceva mio padre con mia madre." Scosse la testa. "È incredibile come certe cose sopravvivano."
+
+"Nonno..."
+
+"No, lasciami finire." Enzio si sporse in avanti, fissandoli entrambi. "Voglio che capiate una cosa. Quello che state per fare — il bambino, la fuga, tutto — non è solo pericoloso. È..." Cercò la parola. "...necessario."
+
+Kate sentì qualcosa stringersi nel petto. "Necessario?"
+
+"Sì." Enzio si alzò lentamente e andò verso una credenza. Ne estrasse una bottiglia polverosa e tre bicchieri. "Questo è grappa. Vera grappa, del 2045. L'ho conservata per un'occasione speciale." Versò un dito in ogni bicchiere e ne porse uno a ciascuno di loro. "Brindiamo."
+
+"A cosa?" chiese James.
+
+"A quello che stavamo per perdere." Enzio alzò il bicchiere. "Quando sono nato, nel 2028, il mondo stava già crollando. Ho visto le guerre, le carestie, i due miliardi di morti. Ho visto nascere il Sistema e ho pensato: finalmente, ordine. Finalmente, pace." Bevve un sorso. "Ma l'ordine ha un prezzo. E la pace costruita sulla paura non è pace — è solo silenzio."
+
+La grappa bruciava, ma Kate bevve lo stesso. Aveva il sapore di qualcosa di antico, di dimenticato.
+
+"Vi do la mia benedizione," disse Enzio. La parola suonò strana, arcaica. "Non che valga molto, nel mondo di oggi. Ma una volta i nonni benedicevano i nipoti quando partivano per un viaggio. Era un modo per dire: vai, e sappi che qualcuno ti pensa."
+
+James abbassò lo sguardo. Kate vide le sue spalle tremare.
+
+"C'è un'altra cosa." Enzio tornò alla credenza e ne estrasse un piccolo oggetto avvolto in stoffa. Lo porse a Kate. "Per il bambino. Quando nascerà."
+
+Kate lo scartò con mani tremanti. Era un ciondolo d'argento, ossidato dal tempo. Un cuore stilizzato, con due iniziali incise: *E + E*.
+
+"Era di mia moglie Elena," disse Enzio. "Glielo diedi quando ci sposammo. Lei lo portò fino al giorno in cui morì." La sua voce si incrinò. "Avrebbe voluto che lo avesse qualcuno che sa cosa significa amare nonostante tutto."
+
+Kate non riusciva a parlare. Strinse il ciondolo contro il petto.
+
+"Grazie," sussurrò James. "Per tutto."
+
+Enzio scosse la testa. "Non ringraziarmi. Fate quello che non ho avuto il coraggio di fare io. Quando presero mia figlia — la madre di James, Lin — io non feci nulla. Restai a guardare." I suoi occhi si riempirono di lacrime. "Non fate il mio errore. Quando verrà il momento, quando tutto sembrerà perduto, non restate a guardare. Lottate. Anche se perdete, lottate."
+
+Si alzò, li abbracciò entrambi — un gesto goffo, imbarazzato, ma pieno di un affetto che nessuna parola avrebbe potuto esprimere.
+
+"Ora andate," disse. "Separatamente, come siete venuti. E non tornate qui. È troppo pericoloso."
+
+Kate si voltò sulla soglia. "Ci rivedremo?"
+
+Enzio sorrise. Un sorriso triste, che sapeva di addio.
+
+"Le storie non finiscono mai davvero," disse. "Si trasformano. Diventano altre storie. E chi le racconta..." Si toccò il petto. "...vive per sempre, da qualche parte."
+
+Fu l'ultima volta che videro Enzio.
+
+Due mesi dopo, James scoprì che suo nonno era stato arrestato per "possesso di materiale sovversivo". Non seppe mai cosa gli fosse successo. Ma ogni volta che guardava il ciondolo d'argento — quello che Kate avrebbe poi messo al collo di Alice — pensava alle sue ultime parole.
+
+*Lottate. Anche se perdete, lottate.*
+
+---
+
 Kate, nel frattempo, preparava il suo corpo.
 
 Aveva smesso di prendere i contraccettivi da una settimana—il momento calcolato con precisione per coincidere con la finestra di manutenzione dei sensori. Il Sistema non se n'era accorto. Ancora.
