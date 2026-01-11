@@ -1,4 +1,4 @@
-# Capitolo 36: Le Zone Orientali
+# Capitolo 35: Le Zone Orientali
 
 *Tre mesi dopo — Alice*
 

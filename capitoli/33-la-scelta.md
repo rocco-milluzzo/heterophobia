@@ -1,4 +1,4 @@
-# Capitolo 34: La Scelta
+# Capitolo 33: La Scelta
 
 *2122 — Kate*
 

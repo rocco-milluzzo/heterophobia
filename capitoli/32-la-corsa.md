@@ -1,4 +1,4 @@
-# Capitolo 33: La Corsa
+# Capitolo 32: La Corsa
 
 *2122 — Kate*
 

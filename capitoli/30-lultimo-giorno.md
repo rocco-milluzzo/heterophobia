@@ -1,4 +1,4 @@
-# Capitolo 31: L'Ultimo Giorno
+# Capitolo 30: L'Ultimo Giorno
 
 *2122 — Kate*
 

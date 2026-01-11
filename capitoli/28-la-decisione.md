@@ -1,4 +1,4 @@
-# Capitolo 29: La Decisione
+# Capitolo 28: La Decisione
 
 *Presente — Alice*
 

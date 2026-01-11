@@ -1,4 +1,4 @@
-# Capitolo 27: La Scoperta
+# Capitolo 26: La Scoperta
 
 Arrivarono all'alba.
 

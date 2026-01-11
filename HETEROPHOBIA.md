@@ -5229,7 +5229,7 @@ Devo continuare la ricerca. Devo restare obiettiva. Ma le mie mani non smettono 
 
 
 
-# Capitolo 25: Segnali
+# Capitolo 24: Segnali
 
 Nell'estate del 2115, le cose iniziarono a cambiare.
 
@@ -5381,7 +5381,7 @@ E fuori dalla finestra del suo sogno, il mondo stava cambiando.
 
 
 
-# Capitolo 26: La Rete
+# Capitolo 25: La Rete
 
 Marcus li ricevette nella sua stanza quella sera.
 
@@ -5511,7 +5511,7 @@ Forse sua figlia sarebbe stata quella che lo avrebbe cambiato.
 
 
 
-# Capitolo 27: La Scoperta
+# Capitolo 26: La Scoperta
 
 Arrivarono all'alba.
 
@@ -5736,7 +5736,7 @@ Dentro il rifugio, Alice dormiva con il libro stretto al petto. E nei suoi sogni
 
 
 
-# Capitolo 28: Dieci Anni
+# Capitolo 27: Dieci Anni
 
 *Presente — Alice*
 
@@ -5930,7 +5930,7 @@ Aveva ragione.
 
 
 
-# Capitolo 29: La Decisione
+# Capitolo 28: La Decisione
 
 *Presente — Alice*
 
@@ -6141,7 +6141,7 @@ E la speranza, a volte, è abbastanza.
 
 
 
-# Capitolo 30: La Ricerca
+# Capitolo 29: La Ricerca
 
 *Presente — Alice*
 
@@ -6374,7 +6374,7 @@ Ma almeno ho visto il tramonto. Almeno ho avuto questo.
 
 
 
-# Capitolo 31: L'Ultimo Giorno
+# Capitolo 30: L'Ultimo Giorno
 
 *2122 — Kate*
 
@@ -6585,7 +6585,7 @@ Ed è stato perfetto.
 
 
 
-# Capitolo 32: Il Raid
+# Capitolo 31: Il Raid
 
 *2122 — James*
 
@@ -6886,7 +6886,7 @@ Perché mio padre mi ha amato abbastanza da lasciarmi andare. In un mondo che ch
 
 
 
-# Capitolo 33: La Corsa
+# Capitolo 32: La Corsa
 
 *2122 — Kate*
 
@@ -7113,7 +7113,7 @@ Era una promessa. A lei. A me stessa. A James, ovunque fosse.
 
 
 
-# Capitolo 34: La Scelta
+# Capitolo 33: La Scelta
 
 *2122 — Kate*
 
@@ -7308,7 +7308,7 @@ Per me.
 
 
 
-# Capitolo 35: Il Manoscritto
+# Capitolo 34: Il Manoscritto
 
 *Presente — Alice*
 
@@ -7485,7 +7485,7 @@ Per avermi amato.
 
 
 
-# Capitolo 36: Le Zone Orientali
+# Capitolo 35: Le Zone Orientali
 
 *Tre mesi dopo — Alice*
 
@@ -7729,7 +7729,7 @@ E forse, in questo mondo, è tutto quello che possiamo chiedere.
 
 
 
-# Capitolo 37: Il Ritorno
+# Capitolo 36: Il Ritorno
 
 *Sei mesi dopo — Alice*
 
@@ -7905,7 +7905,7 @@ Ma è tutto quello che ho.
 
 
 
-# Capitolo 38: Epilogo
+# Capitolo 37: Epilogo
 
 *Molti anni dopo*
 
@@ -8058,7 +8058,7 @@ Per sempre.
 
 
 
-# Capitolo 39: Fine
+# Capitolo 38: Fine
 
 ---
 

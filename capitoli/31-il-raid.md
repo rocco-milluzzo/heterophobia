@@ -1,4 +1,4 @@
-# Capitolo 32: Il Raid
+# Capitolo 31: Il Raid
 
 *2122 — James*
 

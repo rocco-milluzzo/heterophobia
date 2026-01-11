@@ -1,4 +1,4 @@
-# Capitolo 30: La Ricerca
+# Capitolo 29: La Ricerca
 
 *Presente — Alice*
 

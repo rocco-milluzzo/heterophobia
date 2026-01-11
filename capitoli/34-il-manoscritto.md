@@ -1,4 +1,4 @@
-# Capitolo 35: Il Manoscritto
+# Capitolo 34: Il Manoscritto
 
 *Presente — Alice*
 

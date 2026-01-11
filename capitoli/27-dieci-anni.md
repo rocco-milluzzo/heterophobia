@@ -1,4 +1,4 @@
-# Capitolo 28: Dieci Anni
+# Capitolo 27: Dieci Anni
 
 *Presente — Alice*
 

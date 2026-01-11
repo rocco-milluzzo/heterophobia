@@ -1,4 +1,4 @@
-# Capitolo 26: La Rete
+# Capitolo 25: La Rete
 
 Marcus li ricevette nella sua stanza quella sera.
 

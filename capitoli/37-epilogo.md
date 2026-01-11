@@ -1,4 +1,4 @@
-# Capitolo 38: Epilogo
+# Capitolo 37: Epilogo
 
 *Molti anni dopo*
 
