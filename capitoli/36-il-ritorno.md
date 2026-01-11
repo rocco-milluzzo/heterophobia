@@ -4,176 +4,59 @@
 
 Sono tornata nel Sistema.
 
-Le strade grigie del Complesso. I manifesti ovunque. I sensori che ronzano. Tutto è esattamente come l'ho lasciato, eppure tutto sembra diverso.
+Il primo giorno ho vomitato. Un manifesto nuovo—una famiglia di laboratorio sotto lo slogan: *LA VERA FAMIGLIA È QUELLA CHE SCEGLI*.
 
-Forse sono io che sono diversa.
-
----
-
-Il primo giorno, ho quasi vomitato.
-
-Non per il viaggio—quello era stato duro, ma gestibile. Ho vomitato perché, appena entrata nel Distretto, ho visto un manifesto nuovo. Una famiglia—due donne con un bambino creato in laboratorio—sorrideva sotto lo slogan: *LA VERA FAMIGLIA È QUELLA CHE SCEGLI*.
-
-Ho pensato a mia madre. Ai suoi occhi vuoti. Alle sue mani che tremavano.
-
-Ho vomitato in un vicolo e nessuno si è fermato.
+Ho pensato a mia madre. Ai suoi occhi vuoti.
 
 ---
 
 Yuki non c'è più.
 
-Il suo appartamento è vuoto. I suoi file sono stati cancellati. Quando ho chiesto al lavoro, mi hanno guardato come se avessi pronunciato il nome di un fantasma.
+Il suo appartamento è vuoto. Quando ho chiesto al lavoro, mi hanno guardato come se avessi pronunciato il nome di un fantasma.
 
-"Yuki Tanaka? Non conosco nessuna Yuki Tanaka."
+Tre giorni fa, un messaggio criptato: *Centro 7. 14/3/2123.*
 
-Bugiardi. Tutti bugiardi.
+Centro 7 è una struttura di detenzione. Rieducazione intensiva. Cancellazione della memoria.
 
-Ho cercato nella rete—quella sotterranea, quella che dovrebbe avere risposte. Per settimane, niente. Silenzio. Come se Yuki non fosse mai esistita.
-
-Poi, tre giorni fa, un messaggio criptato. Senza firma, senza intestazione. Solo due parole e una data.
-
-*Centro 7. 14/3/2123.*
-
-Ho cercato nei registri. Centro 7 è una struttura di detenzione nel Distretto Nord. Il 14 marzo dell'anno scorso, una detenuta è stata trasferita nella sezione di rieducazione intensiva. Nessun nome nei registri pubblici. Ma il numero di identificazione corrispondeva a quello che Yuki usava per i documenti interni.
-
-Rieducazione intensiva significa cancellazione della memoria. Significa che se Yuki è ancora viva, non è più Yuki. Significa che la donna che mi ha salvato la vita, che ha rischiato tutto per i miei genitori, che per anni ha combattuto dal di dentro—quella donna non esiste più.
-
-Il Sistema non l'ha uccisa. Ha fatto qualcosa di peggio.
+Se Yuki è ancora viva, non è più Yuki.
 
 ---
 
-Ho ripreso la mia vita di copertura.
+Ho ripreso la mia vita di copertura. Alice Tanaka, ricercatrice storica.
 
-Alice Tanaka, ricercatrice storica. Ogni mattina vado all'archivio, catalogo documenti, sorrido ai colleghi. Fingo di essere normale. Fingo di essere conforme. Fingo di non avere visto quello che ho visto.
+A volte, nei corridoi dell'archivio, colgo sguardi diversi. Persone che mi guardano un secondo di troppo.
 
-È estenuante.
-
-Ma è necessario.
+Stanno leggendo? Stanno per denunciarmi?
 
 ---
 
-Il manoscritto circola.
-
-Non so quanto. Non so dove. Non so chi l'ha letto.
-
-A volte, nei corridoi dell'archivio, mi sembra di cogliere sguardi diversi. Persone che mi guardano un secondo di troppo. Che distolgono lo sguardo troppo in fretta.
-
-Stanno leggendo? Stanno sospettando? Stanno per denunciarmi?
-
-Non c'è modo di saperlo.
-
----
-
-Una notte, sono stata fermata per un controllo.
-
-Stavo tornando a casa—tardi, forse troppo tardi. Due Controllori mi hanno bloccato la strada. Uniformi grigie. Volti vuoti.
+Una notte, controllo di routine. Due Controllori.
 
 "Documenti."
 
-Ho mostrato la mia carta. Le mie mani non tremavano. Avevo imparato a controllarle.
-
-"Alice Tanaka. Ricercatrice storica."
-
-"Sì."
-
-Il Controllore ha guardato il mio chip. Ha consultato qualcosa sul suo dispositivo. L'altro mi fissava, studiando il mio viso come se cercasse qualcosa.
+Ho mostrato la mia carta. Le mie mani non tremavano.
 
 Secondi che sembravano ore.
 
 "Può andare."
 
-Ho camminato via. Non ho corso—correre è sospetto. Ho camminato, un passo dopo l'altro, finché non sono stata abbastanza lontana.
-
-Poi mi sono appoggiata a un muro e ho aspettato che il cuore smettesse di battere così forte.
-
 ---
 
-Ci sono voci.
+Ci sono voci. Proteste in alcuni Distretti. Controllori che hanno chiesto il trasferimento.
 
-Voci di proteste in alcuni Distretti. Voci di persone che fanno domande. Voci di Controllori che hanno chiesto il trasferimento perché non ce la facevano più.
+E altre voci. Nuove retate. Bambini strappati alle famiglie nelle Zone.
 
-Ma ci sono anche altre voci.
-
-Voci di nuove retate. Voci di centri di detenzione che si riempiono. Voci di bambini strappati alle famiglie nelle Zone, portati nel Sistema per essere "rieducati".
-
-Non so quali voci siano vere. Forse tutte. Forse nessuna.
+Non so quali siano vere.
 
 ---
 
 Non so se il manoscritto ha cambiato qualcosa.
 
-A volte mi dico di sì. Mi dico che ogni storia letta è una crepa nel muro. Mi dico che le crepe si allargano, lentamente ma inesorabilmente.
-
-Altre volte mi dico che è inutile. Che il Sistema è troppo grande, troppo forte, troppo radicato. Che le storie sono solo parole, e le parole non fermano i Controllori.
-
-Non so quale versione sia vera.
-
-Forse entrambe.
-
----
-
-Penso a mia madre.
-
-Ogni giorno, ogni notte. Mi chiedo se è ancora viva. Se ha avuto altri momenti lucidi. Se si ricorda di me.
-
-Mi chiedo se dovrei tornare.
-
-Ma non posso. Non ancora. Il viaggio è lungo e pericoloso. Se venissi scoperta, se venissi seguita, metterei in pericolo lei e tutto il villaggio.
-
-Quindi resto qui. Nel Sistema. A fingere.
-
-A sopravvivere.
-
----
-
-Penso a mio padre.
-
-Non tutti i giorni. Alcune volte passo settimane senza pensarci. Poi, improvvisamente, qualcosa me lo ricorda—un gesto, una parola, l'odore di un vecchio libro—e il dolore torna tutto insieme.
-
-Non so se è vivo.
-
-Ho smesso di cercare informazioni. Non perché non mi importi, ma perché ogni ricerca è un rischio. Ogni domanda è sospetta. Ogni traccia che lascio potrebbe condurre loro a me.
-
-Quindi ho smesso.
-
-Mio padre è diventato una domanda senza risposta. Un vuoto che non posso riempire.
-
-A volte, la notte, mi sembra di sentire la sua voce. Mi dice di essere forte. Mi dice di non arrendermi.
-
-Non so se è un ricordo o un sogno o la follia che inizia a prendermi.
-
----
-
-Oggi ho riletto il libro di poesie.
-
-Le pagine sono consumate, fragili. Alcune si sbriciolano al tocco. Non durerà per sempre—niente dura per sempre.
-
-Ma per ora è qui. Tra le mie mani. Con le parole che quattro generazioni hanno letto prima di me.
-
-Ho trovato una poesia che non ricordavo. Qualcuno l'aveva aggiunta a margine, con una calligrafia che non riconosco.
-
-*Non cercare la fine della storia.*
-*La storia non finisce mai.*
-*Continua in chi la legge,*
-*in chi la racconta,*
-*in chi la vive.*
-
-Non so chi l'abbia scritta. Non so quando.
-
-Ma sembra scritta per me.
-
----
-
-Non so come finirà.
-
-Non so se il Sistema crollerà o se durerà altri mille anni. Non so se il manoscritto cambierà qualcosa o se verrà dimenticato. Non so se rivedrò mia madre, se scoprirò cosa è successo a mio padre, se sopravviverò abbastanza a lungo per vedere un mondo diverso.
-
-Non so niente.
-
 Ma so questo: sono ancora qui.
 
-Ancora a raccontare. Ancora a ricordare. Ancora a resistere.
+Ancora a raccontare. Ancora a resistere.
 
-È poco. È quasi niente.
+È poco.
 
 Ma è tutto quello che ho.
+

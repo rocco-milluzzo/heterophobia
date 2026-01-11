@@ -46,21 +46,11 @@ Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggi
 
 L'amore, nel mondo di Kate e James, non era romantico. Era qualcosa di più antico, più profondo. Una forza sotterranea che spostava continenti, che faceva tremare la terra.
 
-Il Sistema ha provato a soffocarlo. Per decenni ha insegnato che l'attrazione tra uomo e donna era un residuo evolutivo, un istinto obsoleto come l'appendice o i denti del giudizio. *L'eterosessualità è una scelta — scegli meglio*, recitavano i manifesti nelle scuole. *L'amore vero non ha bisogno di figli. Fare figli è violenza verso il pianeta.*
+È questa la cosa che mi terrorizza di più, quando studio quei tempi. Non la brutalità del Sistema—quella è facile da condannare. È la normalità con cui tutto è avvenuto.
 
-I campi di rieducazione erano pieni di chi non aveva scelto meglio. Le retate notturne svuotavano interi quartieri. Gli *infetti* sparivano nelle Zone Abbandonate, e nessuno faceva domande.
-
-*Nessuno si sentiva al sicuro—eppure tutti pensavano che non sarebbe toccato a loro.*
-
-È questa la cosa che mi terrorizza di più, quando studio quei tempi. Non la brutalità del Sistema—quella è facile da condannare. È la normalità con cui tutto è avvenuto. Un giorno ami chi vuoi, il giorno dopo l'amore è una malattia. Un giorno sei normale, il giorno dopo sei un criminale. E tutti quelli intorno a te—i tuoi vicini, i tuoi colleghi, i tuoi amici—annuiscono e dicono: *era ora*.
-
-Ho letto i diari di quel periodo. Persone rispettabili, istruite, che scrivevano senza ironia: *finalmente qualcuno fa qualcosa*. Medici che firmavano le diagnosi di "devianza riproduttiva" con la stessa tranquillità con cui prescrivevano vitamine. Insegnanti che segnalavano i propri studenti e poi tornavano a casa convinti di aver fatto la cosa giusta.
-
-Nessuno di loro si considerava un mostro. Nessuno pensava di stare dalla parte sbagliata. Erano tutti convinti—tutti—che le linee tracciate tra *noi* e *loro* fossero giuste, naturali, inevitabili.
+Nessuno si considerava un mostro. Nessuno pensava di stare dalla parte sbagliata.
 
 È questo che mi tiene sveglia la notte. Non i carnefici. I carnefici sono pochi. Sono tutti gli altri—quelli che guardano, che annuiscono, che pensano *non mi riguarda*—a rendere possibile l'orrore.
-
-La maggior parte ci ha creduto. O almeno, ha finto di crederci.
 
 Kate e James no. I loro corpi dicevano una cosa e il mondo ne diceva un'altra, e non riuscirono a dare retta al mondo.
 

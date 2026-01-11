@@ -2,268 +2,59 @@
 
 James aveva ventitré anni e una vita che non gli apparteneva.
 
-Di giorno era l'archivista Valeri, dipendente modello del Dipartimento di Conservazione Storica, Sezione Documenti Pre-Fusione. La mattina iniziava sempre allo stesso modo: la sveglia alle sei, la doccia di tre minuti (l'acqua era razionata, anche per gli immortali), la colazione sintetica che sapeva di niente. Poi il tragitto verso l'archivio, seduto nel vagone silenzioso del trasporto pubblico insieme ad altri pendolari che non parlavano mai.
+Di giorno era l'archivista Valeri.
 
-Nessuno parlava, sui trasporti. Le telecamere registravano tutto, e l'AI analizzava le conversazioni in tempo reale. Una parola sbagliata, un'espressione sospetta, e il tuo fascicolo si appesantiva di un'altra nota. Tutti avevano imparato il silenzio.
-
-Sul vagone c'erano gli schermi pubblici, impossibili da ignorare. Quella mattina trasmettevano un documentario educativo: *"Guariti: Storie di Recupero dalla Devianza Eterosessuale"*. Un uomo di mezza età parlava alla telecamera con espressione serena.
-
-*"Prima della rieducazione, ero malato. Pensavo di amare una donna. Pensavo che fosse naturale. Ma i medici mi hanno aiutato a capire che era solo un'ossessione, una disfunzione chimica. Ora sono libero. Ora sono finalmente normale."*
-
-James distolse lo sguardo e fissò il pavimento fino alla sua fermata.
-
-Arrivava puntuale ogni mattina, salutava i colleghi con un cenno educato, si sedeva alla sua postazione e iniziava a catalogare. Fascicoli, registrazioni, fotografie ingiallite di un mondo che non esisteva più. Un mondo dove un uomo e una donna potevano tenersi per mano senza rischiare l'esilio.
-
-Era bravo nel suo lavoro. Così bravo che i superiori lo avevano promosso due volte in tre anni, dandogli accesso a livelli di archiviazione sempre più profondi. Non sapevano che ogni promozione era un'arma. Non sapevano che il loro archivista modello era un infetto.
-
-Di notte la maschera cadeva.
-
-Di notte diventava il fantasma che attraversava il Complesso seguendo percorsi incisi nella memoria come cicatrici. Telecamere: terzo piano, angolo nord-est, punto cieco di 2,3 secondi. Sensori: corridoio B-7, in manutenzione ogni giovedì alle 22:47. Pattuglie: cambio turno alle 23:00, ritardo medio di quattro minuti.
-
-Il nonno Enzio gli aveva insegnato le basi. *"Il Sistema non è perfetto,"* aveva detto una sera, sfogliando documenti che non avrebbe dovuto avere. *"Nessun sistema lo è. Ci sono zone grigie — vecchi edifici con schermatura per documenti sensibili, tunnel della metropolitana pre-Fusione dove i segnali non arrivano. Il tuo archivio ne ha tre."*
-
-James aveva memorizzato quelle zone come un naufrago memorizza le correnti. La sala C-12, quella dei documenti dell'Era della Crisi, aveva pareti schermate — ufficialmente per proteggere i materiali sensibili dalle interferenze elettromagnetiche, in realtà una bolla di silenzio dove il suo chip smetteva di trasmettere per qualche minuto. Il corridoio che portava ai sotterranei passava sotto una vecchia linea metro dismessa: interferenze naturali, impossibili da eliminare senza demolire l'intero edificio.
-
-Nella tasca interna della giacca portava sempre il jammer artigianale che Yuki gli aveva procurato mesi prima. Un dispositivo delle dimensioni di un accendino, assemblato con componenti comuni — condensatori, resistenze, un oscillatore a bassa frequenza. Niente che attirasse sospetti se qualcuno avesse controllato le sue tasche. Dieci metri di raggio. Quindici minuti di autonomia prima che la batteria si esaurisse.
-
-Quindici minuti per attraversare le zone coperte. Quindici minuti in cui il suo chip diventava muto e lui diventava invisibile.
-
-Ogni giovedì, James ricaricava il jammer con un caricatore standard. Ogni giovedì, lo testava nella sala C-12, dove nessuno poteva vedere il LED di conferma accendersi. Non l'aveva mai usato fuori dall'archivio — non ancora — ma sapeva che un giorno l'avrebbe fatto.
-
-C'era un'altra cosa che Enzio gli aveva insegnato: la chiave non era evitare il Sistema, ma essere *prevedibili*. L'AI cercava anomalie, pattern insoliti. Un cittadino che usciva sempre alle stesse ore, che seguiva sempre gli stessi percorsi, che aveva sempre le stesse interazioni — quello era un cittadino che l'algoritmo ignorava. Era il rumore di fondo. Era nessuno.
-
-Così James aveva costruito una routine così rigida da sembrare ossessiva. Stesse ore, stessi percorsi, stesse parole ai colleghi. Ogni variazione pianificata in anticipo, giustificata da motivi plausibili. *Ritardo per manutenzione sanitaria. Percorso alternativo per lavori stradali.* L'AI registrava tutto, ma non vedeva nulla di strano.
-
-Era così che sopravvivevano. Non sfuggendo al Sistema, ma nascondendosi in piena vista.
-
-Sapeva tutto. Conosceva ogni falla, ogni crepa, ogni respiro del Sistema.
-
-Perché non sapere significava la rieducazione. Significava le iniezioni che cancellavano i ricordi. Significava svegliarsi un giorno e non ricordare il sapore delle labbra di Kate.
-
-Questo lo terrorizzava più della morte.
+Di notte diventava il fantasma che attraversava il Complesso seguendo percorsi incisi nella memoria. Il nonno Enzio gli aveva insegnato le basi. *"Il Sistema non è perfetto. Nessun sistema lo è."*
 
 ---
 
-La routine era diventata una seconda natura.
+Ci volevano diciassette minuti per raggiungere l'appartamento di Kate.
 
-Ogni lunedì, mercoledì e venerdì, James usciva dall'archivio alle diciotto e trenta. Camminava verso la sua Unità seguendo il percorso più logico, quello che le telecamere si aspettavano. Entrava, accendeva le luci, preparava una cena che non avrebbe mangiato. Tutto normale. Tutto prevedibile.
-
-Alle ventuno e quindici, le luci del Complesso si abbassavano per il primo ciclo notturno. Era in quel momento che James scivolava fuori dalla finestra del bagno—l'unica senza sensori di movimento—e iniziava il suo vero percorso.
-
-Ci volevano diciassette minuti per raggiungere l'appartamento di Kate. Diciassette minuti di ombre, di respiri trattenuti, di cuore che batteva nelle orecchie. Diciassette minuti in cui tutto poteva andare storto.
-
-Ma niente andava mai storto.
-
-Non ancora.
-
----
-
-Quella sera, mentre percorreva il corridoio che portava alla serra idroponica, James si bloccò.
-
-Un'anomalia. Un suono che non doveva esserci. I sistemi di irrigazione della serra emettevano un ronzio costante, appena percettibile — lo conosceva come il proprio battito cardiaco. Ma stanotte il ronzio era spezzato da voci.
-
-Voci.
-
-Si appiattì contro il muro. Smise di respirare. Il sangue gli rombava nelle orecchie, ma attraverso quel rumore distingueva parole frammentate.
+Quella sera si bloccò. Voci alla serra.
 
 "...controllo di routine..."
 
 "...segnalazione anonima..."
 
-"...comportamento sospetto..."
+Arrivò all'appartamento con dieci minuti di ritardo.
 
-Il terrore gli serrò la gola. Controllo. Segnalazione. Qualcuno aveva parlato. Qualcuno li aveva visti. Il Sistema sapeva.
+"C'era un controllo alla serra."
 
-Non era previsto nessuno alla serra a quell'ora. Era il loro santuario, il luogo dove i corpi potevano parlarsi senza bisogno di parole. E ora era compromesso.
-
-Fece marcia indietro con movimenti calcolati. Ogni passo era un rischio. Ogni respiro poteva tradirlo. Prese il percorso alternativo—più lungo, attraverso il seminterrato dove le telecamere erano obsolete e nessuno scendeva mai.
-
-Arrivò all'appartamento di Kate con dieci minuti di ritardo. Le mani gli tremavano così forte che faticò a bussare il codice.
-
-Due colpi. Pausa. Tre colpi.
-
-La porta si spalancò. Kate lo trascinò dentro.
-
-"Cosa è successo?" Il suo viso era bianco nel buio. "Non sei mai in ritardo. Mai."
-
-"C'era un controllo alla serra. Ho sentito le parole 'segnalazione anonima'."
-
-Il colore abbandonò completamente il viso di Kate. Le sue mani trovarono le sue—gelide, tremanti.
-
-"Ci hanno visti," sussurrò. "Qualcuno ci ha visti."
+"Qualcuno ci ha visti," sussurrò Kate.
 
 "Non lo sappiamo."
 
-"James. Una segnalazione anonima. Un controllo notturno. È così che inizia." La voce le si spezzò. "È così che li prendono. Prima i controlli. Poi gli interrogatori. Poi la rieducazione."
-
-James la attirò a sé. La strinse così forte che poteva sentire il battito del suo cuore contro il proprio — due cuori terrorizzati che battevano all'unisono.
-
-"Non ci prenderanno," mormorò contro i suoi capelli. "Non lascerò che ci prendano."
-
-"Come puoi prometterlo?"
-
-Non poteva. Ma la strinse più forte. Il suo corpo doveva essere uno scudo. L'amore doveva poter fermare il Sistema.
+La strinse. Non poteva prometterle niente.
 
 ---
 
-Più tardi, nel buio, Kate parlò.
+Più tardi, nel buio:
 
-"Ho pensato a quello che hai detto. Sui documenti che hai trovato."
+"Ho pensato alle Zone Abbandonate."
 
-James era sdraiato sulla schiena, gli occhi aperti sul soffitto. Non dormiva mai bene, nemmeno accanto a lei. Il sonno era un lusso che non poteva permettersi.
+"Non siamo pronti."
 
-"Quali documenti?"
+"Non saremo mai pronti. Per sempre nelle ombre. Non è abbastanza?"
 
-"Quelli sulle Zone Abbandonate. Sui bambini nascosti."
-
-James si irrigidì. Non avevano più parlato di quel documento da quando lui lo aveva menzionato, settimane prima. Aveva sperato che Kate lo avesse dimenticato.
-
-Avrebbe dovuto saperlo meglio.
-
-"Non era niente," disse. "Solo un vecchio protocollo."
-
-"Un vecchio protocollo che dimostra che si può fare."
-
-"Kate..."
-
-"James." Lei si sollevò su un gomito, guardandolo attraverso il buio. "Non puoi continuare a fingere che non esista."
-
-"Non sto fingendo."
-
-"Allora cosa stai facendo?"
-
-James chiuse gli occhi. Cosa stava facendo? Stava cercando di sopravvivere. Di mantenere in vita quello che avevano, giorno dopo giorno, notte dopo notte. Stava cercando di non pensare al futuro, perché il futuro era un buco nero che li avrebbe inghiottiti.
-
-"Ho paura," disse infine. "Ho paura di quello che potrebbe succedere se proviamo."
-
-"E io ho paura di quello che succederà se non proviamo."
-
-Un silenzio. Fuori, il ronzio del Complesso continuava — il suono dell'aria filtrata, delle luci artificiali, di un mondo che non dormiva mai.
-
-"Non siamo pronti," disse James.
-
-"Non saremo mai pronti."
-
-"Allora perché—"
-
-"Perché l'alternativa è questa." Kate allargò le braccia nel buio, indicando la stanza, il letto, loro due. "Per sempre. Nasconderci per sempre. Amarci per sempre nelle ombre."
-
-"Non è abbastanza?"
-
-Kate non rispose subito. Quando parlò, la sua voce era più morbida.
-
-"Per ora sì," disse. "Ma per sempre? Non lo so, James. Non lo so."
+Kate non rispose.
 
 ---
 
-Il giorno dopo, all'archivio, James cercò altri documenti.
-
-Non sapeva esattamente cosa stesse cercando. Forse prove che le Zone Abbandonate fossero davvero un rifugio possibile. Forse informazioni su come arrivarci, come sopravvivere là fuori. Forse solo la conferma che non era pazzo, che quello che Kate voleva non era completamente impossibile.
-
-Trovò poco. La maggior parte dei file sulle Zone erano classificati a livelli a cui non aveva accesso. Ma trovò qualcosa.
-
-Una mappa. Vecchia, probabilmente obsoleta, ma dettagliata. Mostrava i confini del Distretto Nord, le aree di sorveglianza intensiva, e—oltre—le zone grigie. I luoghi dove il Sistema si sfumava, dove le telecamere non arrivavano, dove le regole del mondo nuovo cedevano a qualcosa di più antico.
-
-Le Zone Abbandonate.
-
-James studiò la mappa per ore, memorizzando ogni dettaglio. I percorsi, i punti di controllo, le possibili vie di fuga. Era un esercizio teorico, si disse. Solo per sapere. Solo per essere preparato.
-
-Ma sapeva che stava mentendo a se stesso.
-
-Stava iniziando a pianificare.
-
----
-
-Quella sera, tornando a casa, James si fermò davanti all'Unità del nonno Enzio.
-
-Non era previsto—le visite non programmate attiravano attenzione. Ma aveva bisogno di parlare con qualcuno che capisse. Qualcuno che avesse vissuto il mondo di prima.
-
-Enzio aprì la porta con un'espressione sorpresa che si trasformò rapidamente in qualcos'altro. Riconoscimento, forse. O paura.
-
-"James." Il vecchio si fece da parte. "Entra. In fretta."
-
-L'appartamento era come lo ricordava — pieno di libri veri, di oggetti antichi, di polvere. L'odore era quello della carta vecchia, lo stesso odore che James sentiva ogni giorno all'archivio. Ma qui era diverso. Qui era di casa.
-
-"Cosa succede?" chiese Enzio, versando del tè da una teiera sbeccata.
+Quella sera, James andò dal nonno.
 
 "Ho bisogno di un consiglio."
 
-"Su cosa?"
+"Un figlio," disse Enzio.
 
-James esitò. Come spiegare quello che stava pensando? Come dire a suo nonno che stava considerando di fare qualcosa che li avrebbe condannati tutti?
+James non rispose.
 
-"Su Kate," disse infine. "Su quello che vuole."
+"Vi scopriranno comunque. Ma il tempo che avrete vissuto davvero, quello resterà."
 
-Enzio lo guardò a lungo. I suoi occhi, ancora lucidi nonostante l'età biologica congelata, sembravano vedere attraverso di lui.
+"Cosa devo fare?"
 
-"Un figlio," disse. Non era una domanda.
-
-James non rispose. Non ce n'era bisogno.
-
-"Ho sempre saputo che sarebbe arrivato questo momento." Enzio si sedette pesantemente, la tazza di tè tra le mani. "L'ho visto in voi due, fin dall'inizio. Quello che avete non è... non è qualcosa che si può contenere per sempre."
-
-"Non so cosa fare."
-
-"Lo sai benissimo." Il vecchio sorrise, un sorriso triste e sapiente. "Sai cosa vuoi fare. Hai solo paura di ammetterlo."
-
-James sentì qualcosa stringersi nel petto. "Se ci scoprono—"
-
-"Vi scopriranno comunque. Prima o poi. Non è questione di se, ma di quando."
-
-"E allora perché—"
-
-"Perché il tempo che avrete avuto sarà vostro." Enzio si sporse in avanti, fissando James negli occhi. "Il tempo che avrete vissuto davvero, non quello che avrete sprecato a nascondervi. Quello conterà. Quello resterà."
-
-Un silenzio. Il tè si raffreddava tra le loro mani.
-
-"Come fai a saperlo?" chiese James.
-
-"Perché l'ho vissuto." La voce di Enzio si incrinò appena. "Con Elena. Prima che tutto cambiasse. Avrei potuto fare le cose in modo diverso, essere più prudente, rischiare di meno. Ma allora non avrei avuto quegli anni. Non avrei avuto te."
-
-James lo guardò, e per la prima volta vide suo nonno non come il vecchio saggio che dispensava consigli, ma come un uomo che aveva amato e perso. Un uomo che sapeva cosa significava scegliere.
-
-"Cosa devo fare?" chiese.
-
-"Quello che senti," rispose Enzio. "E poi vivere con le conseguenze. È tutto ciò che possiamo fare."
+"Quello che senti. E poi vivere con le conseguenze."
 
 ---
 
-James uscì dall'appartamento di Enzio due ore dopo.
+Preferiva morire come infetto piuttosto che vivere per sempre senza di lei.
 
-Camminando verso casa nel corridoio silenzioso, ripensò a quello che il nonno aveva detto. *Il tempo che avrete vissuto davvero, non quello che avrete sprecato a nascondervi.*
-
-Aveva ragione. Lo sapeva.
-
-Ma saperlo e agire erano due cose diverse.
-
-Arrivò alla sua Unità, entrò, accese le luci. Si sedette sul divano e fissò il muro davanti a sé. Nella sua tasca c'era una copia della mappa che aveva trovato—l'aveva stampata in segreto, usando una stampante vecchia che non registrava i lavori.
-
-Le Zone Abbandonate.
-
-Un posto dove potevano sparire. Un posto dove potevano vivere davvero, anche se per poco.
-
-James tirò fuori la mappa e la studiò ancora una volta.
-
-Poi prese una decisione.
-
-Non sapeva se era la decisione giusta. Non sapeva se li avrebbe salvati o condannati.
-
-Ma sapeva una cosa con certezza assoluta: preferiva morire come infetto piuttosto che vivere per sempre senza di lei.
-
-Piegò la mappa e se la infilò nella tasca interna della giacca, contro il cuore.
-
-Domani avrebbe detto a Kate. Domani avrebbero iniziato a pianificare. Domani—
-
-Un rumore nel corridoio. Passi. Voci.
-
-James spense le luci e restò immobile nel buio, trattenendo il respiro. I passi si avvicinarono alla sua porta. Si fermarono.
-
-Silenzio.
-
-Poi ripresero e si allontanarono.
-
-James rimase così per ore, con la mappa premuta contro il petto e il terrore che gli divorava le viscere.
-
-Dovevano andarsene. Presto. Prima che il Sistema li trovasse.
-
-Prima che fosse troppo tardi.

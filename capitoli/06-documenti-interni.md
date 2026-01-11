@@ -33,7 +33,19 @@ Non dicono che il libro ha un odore. Un odore che riconosco.
 
 Ho passato ore a chiedermi come sia possibile. I libri antichi hanno tutti più o meno lo stesso odore—cellulosa che si degrada, acidi che evaporano lentamente. Non dovrebbe esserci niente di distintivo.
 
-Ma io so che questo è diverso. Lo so con una certezza che mi spaventa, perché non ho nessuna ragione logica per saperlo.
+Ma io so che questo è diverso.
+
+---
+
+C'è un documento negli archivi che non riesco a smettere di rileggere. È il rapporto originale del Comitato Etico del 2076. Quello che ha raccomandato il Divieto.
+
+Non è scritto da mostri. È scritto da scienziati, filosofi, pensatori. Gente che aveva visto due miliardi di persone morire in vent'anni.
+
+*"La riproduzione biologica,"* scrivono, *"è un istinto che serviva alla sopravvivenza della specie. Ma la specie ora è immortale. Continuare a riprodursi non è più adattamento—è patologia."*
+
+Hanno ragione. Tecnicamente, matematicamente, hanno ragione. Un pianeta che può sostenere quattro miliardi di immortali non può sostenere anche nuove nascite.
+
+Eppure qualcosa in me si ribella.
 
 ---
 

@@ -60,23 +60,11 @@ Per il resto dell'ora, James non riuscì a concentrarsi su nient'altro. Ogni vol
 
 Questo è sbagliato, si disse. Questo è pericoloso.
 
-Sapeva cos'era. L'aveva studiato, come tutti. L'attrazione eterosessuale era un residuo evolutivo, un istinto che una volta serviva alla riproduzione ma che ora era obsoleto. Come la fame in eccesso, come l'aggressività. Una disfunzione che poteva essere curata.
-
 *L'eterosessualità è una scelta — scegli meglio.*
 
-Lo slogan lampeggiava sugli schermi pubblici ogni ora, alternandosi con gli altri messaggi del Sistema:
+Lo slogan lampeggiava sugli schermi pubblici ogni ora. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
 
-*L'amore vero non ha bisogno di figli.*
-
-*Fare figli è violenza verso il pianeta.*
-
-*Siamo tutti uguali nell'immortalità — tranne chi vuole riprodursi.*
-
-*Breeder oggi, esiliato domani.*
-
-Le immagini che accompagnavano gli slogan mostravano i campi di rieducazione — edifici bianchi immersi nel verde, che sembravano cliniche di lusso. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
-
-Sentire quel formicolio per una ragazza non era normale. Era pericoloso. Un *breeder* in potenza, lo avrebbero chiamato. Un *infetto*.
+Un *breeder* in potenza, lo avrebbero chiamato. Un *infetto*.
 
 James si guardò le mani. Tremavano.
 
@@ -190,33 +178,21 @@ Ma oggi aveva visto una ragazza ridere, e qualcosa si era riaperto.
 
 Chiuse gli occhi e cercò di dormire, ma vedeva solo lei. La curva del suo collo. Il movimento delle sue labbra quando rideva. La luce nei suoi occhi quando aveva risposto al professore.
 
-Di solito i suoi sogni erano pieni di slogan. *La conformità è libertà. L'immortalità è amore. Il Sistema protegge.* SomniLearn, lo chiamavano—educazione notturna, per rinforzare i valori corretti. Tutti lo facevano. Tutti si svegliavano con frasi nella testa che non ricordavano di aver pensato.
+Di solito i suoi sogni erano pieni di slogan. SomniLearn, lo chiamavano—educazione notturna, per rinforzare i valori corretti.
 
 Ma stanotte i sogni erano diversi.
 
-Ferrante.
-
-Non poteva cercarla nel database scolastico. Le ricerche erano monitorate, e una ricerca su una compagna di classe avrebbe fatto scattare un alert. Niente di grave, probabilmente solo una nota nel suo file. Ma bastava.
-
-Non poteva parlarle. Parlare con lei avrebbe significato... cosa? Fare amicizia? Le amicizie tra ragazzi e ragazze erano scoraggiate, non vietate ma certamente scoraggiate. Comportavano rischi, dicevano. Potevano sfociare in attaccamenti innaturali.
+Non poteva cercarla nel database scolastico. Le ricerche erano monitorate. Non poteva parlarle. Le amicizie tra ragazzi e ragazze erano scoraggiate.
 
 Non poteva pensare a lei. Ma ci pensava lo stesso.
-
-James si girò su un fianco e affondò la faccia nel cuscino. Forse, sforzandosi di dormire, al mattino avrebbe dimenticato tutto. Sarebbe stato di nuovo normale.
-
-Ma sapeva già che non era vero.
 
 ---
 
 L'orologio sul muro segnò mezzanotte. James era ancora sveglio.
 
-Un fremito lo attraversava, un'urgenza che non riusciva a nominare. Un istinto antico, che non avrebbe dovuto esistere. Il tempo correva. Ogni secondo senza vederla era un secondo perduto.
+Un fremito lo attraversava, un'urgenza che non riusciva a nominare. Il tempo correva. Ogni secondo senza vederla era un secondo perduto.
 
-È solo chimica, si ripeteva. Neuroni che sparano nel modo sbagliato. Una disfunzione.
-
-*Malato d'amore*, lo avrebbero chiamato i medici. Lo avrebbero mandato in un centro, gli avrebbero cancellato quel fremito dal cervello. Lo avrebbero guarito.
-
-Ma James non voleva guarire.
+James non voleva guarire.
 
 Voleva solo rivederla ridere.
 

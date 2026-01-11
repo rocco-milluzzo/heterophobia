@@ -32,29 +32,15 @@ Kate scosse la testa e cercò di concentrarsi sulla lezione. Non erano affari su
 
 ---
 
-"Il Divieto," disse, quando il professore cercava una risposta che Valeri non riusciva a dare. "L'immortalità ha reso necessario il Divieto. Senza morte naturale, la riproduzione doveva cessare per evitare il collasso delle risorse."
+"Il Divieto," disse, quando il professore cercava una risposta che Valeri non riusciva a dare. "L'immortalità ha reso necessario il Divieto."
 
-Le parole le uscirono automatiche, senza pensarci. Le aveva sentite ripetere così tante volte che erano diventate parte di lei, come il battito del cuore o il ritmo del respiro. La verità ufficiale. L'unica verità.
-
-Ma Kate sapeva fare i conti. Aveva fatto i conti, una notte, da sola nel buio della sua stanza. Dodici miliardi di immortali. Risorse planetarie. Tassi di consumo. Aveva inserito i numeri in un modello che si era costruita da sola, usando dati che aveva... *trovato* nei sistemi del Complesso.
+Le parole le uscirono automatiche. Ma Kate sapeva fare i conti. Aveva inserito i numeri in un modello che si era costruita da sola, usando dati che aveva... *trovato* nei sistemi del Complesso.
 
 I numeri non tornavano.
 
-Non del tutto, almeno. Il Divieto aveva senso, certo. Ma non *quel* Divieto. Non l'eliminazione totale della riproduzione. C'era spazio per qualcosa di più moderato—limiti, controlli, non cancellazione. Kate non capiva perché il Sistema avesse scelto la soluzione più estrema.
-
-O forse lo capiva. Ma era un pensiero che non poteva permettersi di pensare.
+Il Divieto aveva senso. Ma non *quel* Divieto. Non l'eliminazione totale. C'era spazio per qualcosa di più moderato.
 
 "Esatto, Ferrante. Almeno qualcuno segue la lezione."
-
-Kate annuì educatamente. Ma dentro di sé stava pensando ad altro.
-
-Stava pensando a sua nonna. A quello che Marta le aveva raccontato, la sera prima, in una delle loro conversazioni segrete. Storie di un tempo in cui le persone morivano, sì, ma anche nascevano. In cui l'amore tra un uomo e una donna non era classificato come *disturbo dell'orientamento riproduttivo*.
-
-"Sciocchezze," aveva ribattuto Kate. "Propaganda dei *dinosauri*."
-
-Era ciò che le avevano insegnato. I nostalgici del vecchio mondo erano malati, egoisti genetici che rimpiangevano un'era di violenza e caos. La rieducazione esisteva per salvarli da se stessi.
-
-Ma Marta aveva solo sorriso, con quella sua aria triste e sapiente. "Forse. O forse no."
 
 ---
 
@@ -104,13 +90,11 @@ Kate rimase in silenzio. Pensava al ragazzo della finestra, a quello sguardo aff
 
 Le settimane passarono. Il grigio del cielo non cambiava mai, ma qualcosa dentro Kate sì.
 
-Si ritrovava a cercare Valeri con lo sguardo, nei corridoi, in classe, nella mensa. Non capiva perché. Era solo un ragazzo come gli altri, uno dei cinquantadue Ultimi.
+Si ritrovava a cercare Valeri con lo sguardo. Non capiva perché.
 
-Ma ogni volta che lo vedeva, un calore le saliva al petto. Una specie di... curiosità. Un bisogno di capire perché la guardasse in quel modo, che cosa scorgesse in lei che nessun altro sembrava vedere.
+Ma ogni volta che lo vedeva, un calore le saliva al petto.
 
-Era pericoloso. Lo sapeva. Le amicizie tra ragazzi e ragazze venivano monitorate, analizzate, classificate. Troppi incontri, troppi sguardi, e finivi su una lista. E dalle liste, si finiva nei centri.
-
-Lui non le aveva mai parlato. Non si era mai avvicinato. La guardava e basta, e quando lei ricambiava lo sguardo, distoglieva gli occhi. Era quasi divertente. Quasi.
+Lui non le aveva mai parlato. La guardava e basta, e quando lei ricambiava lo sguardo, distoglieva gli occhi.
 
 "A chi stai pensando?"
 
@@ -136,9 +120,9 @@ Era tardi, quasi l'ora del coprifuoco. Kate stava tornando verso la sua Unità d
 
 Non stava facendo niente. Guardava il cielo—quel cielo grigio e uniforme che era tutto quello che avevano—con un'espressione che Kate non riusciva a decifrare. Tristezza? Rabbia? Rassegnazione?
 
-Si fermò. Avrebbe dovuto proseguire. Non c'era motivo di parlargli, non c'era niente da dire. Le amicizie tra ragazzi e ragazze erano scoraggiate, e lei non aveva bisogno di problemi.
+Si fermò. Avrebbe dovuto proseguire.
 
-Ma prima di rendersene conto, Kate stava già camminando verso la panchina.
+Ma stava già camminando verso la panchina.
 
 "È tardi," disse. "Tra poco scatta il coprifuoco."
 
@@ -210,28 +194,14 @@ Le guance di lui si tinsero di rosso—lo vide chiaramente anche nella luce arti
 
 Lasciò che le parole affondassero. Poi gli rivolse un sorriso brevissimo e se ne andò, lasciandolo lì con quell'espressione confusa e incredula.
 
-Mentre camminava, Kate si chiese se stesse commettendo un errore. Aveva appena avvertito un potenziale *infetto* invece di segnalarlo. Era complicità. Era reato.
-
-Non sapeva cosa avesse appena fatto. Né perché.
-
-Ma mentre camminava verso casa, Kate si accorse che stava sorridendo. E non riusciva a smettere.
+Mentre camminava, Kate si accorse che stava sorridendo. E non riusciva a smettere.
 
 ---
 
-Quella notte, sdraiata nel suo letto, Kate fissò il soffitto della sua stanza e pensò a quello che le aveva detto sua nonna.
-
-*Smettere di combattere. Smettere di cercare di controllare. Lasciarti cadere.*
-
-Era un'idea pericolosa. Un pensiero che bastava a farti finire in un centro di rieducazione.
-
-Ma per la prima volta in vita sua, Kate si chiese cosa sarebbe successo se avesse smesso di lottare contro quella curiosità. Se avesse lasciato che la corrente la portasse dove voleva.
-
-Chiuse gli occhi e vide il sorriso di James Valeri, quel sorriso timido e meravigliato che le aveva rivolto quando lei gli aveva parlato.
+Quella notte, sdraiata nel suo letto, Kate pensò a quello che le aveva detto sua nonna.
 
 *Lasciarti cadere, e vedere se qualcuno ti afferra.*
 
-E per la prima volta, Kate decise che la paura non l'avrebbe fermata.
+Da qualche parte nel Complesso, un algoritmo registrava che due studenti di sesso diverso si erano parlati dopo il coprifuoco. Una nota veniva aggiunta a due fascicoli separati.
 
-Da qualche parte nel Complesso, un algoritmo registrava che due studenti di sesso diverso si erano parlati dopo il coprifuoco. Una nota veniva aggiunta a due fascicoli separati. Due punti che presto sarebbero stati collegati.
-
-Ma Kate non lo sapeva. Stava solo sorridendo nel buio, pensando a un ragazzo con gli occhi scuri che la guardava come nessuno l'aveva mai guardata.
+Ma Kate non lo sapeva. Stava solo sorridendo nel buio.
