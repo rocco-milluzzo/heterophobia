@@ -80,7 +80,7 @@
 
 **Dati base:**
 - Nata: fine 2106 (illegale, non registrata, nelle Zone Abbandonate)
-- Età nel presente narrativo: 15 anni quando viene separata dai genitori (inizio 2122), poi adulta quando narra (~2132)
+- Età nel presente narrativo: 15 anni al raid di inizio 2122 che separa la famiglia, poi adulta quando narra (~2132, 26 anni)
 - Aspetto: Mix dei genitori - occhi scuri del padre, movimenti nervosi della madre
 - Status: Sconosciuto (il mistero centrale)
 
@@ -131,20 +131,25 @@
 
 **Lin** (madre biologica di James)
 - Donna eterosessuale che amava un uomo di nome Paolo
+- Origini siciliane: probabile discendenza da una famiglia eterosessuale delle Zone post-Etna 2048, sopravvissuta ai margini del Sistema
 - Paolo fu preso durante una retata e non tornò mai
-- Lin consegnò James alle autorità per dargli una possibilità, poi fu "rieducata"
-- Funzione: Mostra il costo della persecuzione; parallelo con la scelta di Kate
+- Lin consegnò James alle autorità per dargli una possibilità, poi fu consegnata alla rieducazione dopo la nascita del figlio
+- James riceve un breve accenno alle sue radici siciliane nella lettera ad Alice del cap. 36
+- Funzione: mostra il costo della persecuzione; parallelo con la scelta di Kate; riallaccia la linea siciliana che attraversa anche Marta
 
 ---
 
 ### Generazione Nonni (nati ~2000-2030)
 
 **Nonna Marta** (nonna materna di Kate, madre di Elena)
-- Nata nel 2000, 23 anni quando inizia la Crisi (2023)
+- Nata a Scordia (Sicilia, provincia di Catania), 2000, ai piedi dell'Etna
+- 23 anni quando inizia la Crisi (2023)
+- Traduttrice dall'italiano allo svedese per un'agenzia di Stoccolma dal 2022 al 2030, quando l'AI generativa cancellò la professione. Rientrata in Italia dopo la crisi AI, vive in Toscana dal 2030
+- Siciliana di origine, portatrice della ninna nanna *Stiddi, stiddi ca luciti*, trasmessa a Elena, poi a Kate, poi ad Alice
 - 70 anni quando arrivano le Cure (2070), ora biologicamente ~50
 - Ricorda il mondo "prima"
 - Unica che parla apertamente con Kate della "vecchia normalità"
-- Funzione: Flashback sull'Era della Fusione, nostalgia come resistenza
+- Funzione: flashback sull'Era della Fusione, nostalgia come resistenza, radice siciliana della memoria famigliare
 - Vide sua figlia Elena deportata senza fare nulla: il suo più grande rimpianto
 
 **Nonno Enzio** (nonno paterno di James)
@@ -153,7 +158,11 @@
 - Ex-italiano, ancora parla la lingua per nostalgia
 - Archivista come James (gli ha passato la professione)
 - Conserva documenti "pericolosi" dell'era pre-Divieto
-- Funzione: Collegamento con il passato, fonte di informazioni proibite
+- Capo Reparto AGESCI Milano 7, 1995-2000: porta la Promessa e il motto *Estote parati* come codice di sopravvivenza
+- Ex-scout nella rete clandestina post-Divieto: ospita in casa coppie eterosessuali in fuga verso le Zone, ufficialmente "cittadino modello"
+- Ha insegnato a James il "gioco del silenzio" (l'Albero): restare immobili, diventare tronco, respirare piano. Trasmissione generazionale che James passerà ad Alice
+- Custodisce un fazzoletto giallo e verde (colori del Gruppo Milano 7) con la scritta cucita *"Ho fiducia"*: eredità simbolica che passa a James
+- Funzione: collegamento con il passato, fonte di informazioni proibite, radice scout della resistenza
 
 ---
 
@@ -180,6 +189,38 @@
 - Contatto per una possibile fuga
 - Appare nel terzo atto
 - Se Alice fugge, è lei che l'accoglie
+
+**Sara**
+- Originaria di Matera
+- Anziana levatrice delle Zone Orientali
+- Ha aiutato Kate al parto di Alice
+- Custodisce saperi ostetrici pre-Divieto trasmessi oralmente
+
+**Marcus**
+- Leader della comunità delle Zone Orientali
+- Ex-lupetto scout a Como negli anni 2050, prima del Divieto
+- Sua Promessa personale: proteggere la comunità che lo ha accolto
+- Rappresenta la continuità dell'etica scout dentro le Zone
+
+**Remo**
+- Nato nelle Zone, figlio adottivo della comunità
+- 12 anni al parto di Alice (2106), 29 al raid (2122)
+- Fratello non biologico per Alice durante i suoi primi anni
+- Rappresenta la generazione cresciuta fuori dal Sistema
+
+**Vera**
+- 50enne fuggita dal Settore 14, arrivata nelle Zone nel 2110
+- Conosceva James e Kate da esule
+- Figura materna alternativa per Alice dopo la separazione dai genitori
+- Consegna ad Alice una fotografia nel cap. 29
+
+**Kovalova** (Dr. Kovalova)
+- Controllrice del Sistema, Riformista segreta nella burocrazia dei Controllori
+- Compare nel cap. 28b come backup assegnata a Jensen sul dossier Valeri-Ferrante
+- Ha risparmiato James durante il raid del 2122 (*"Vai, non ti ho visto"*): colpa o scelta morale, mai chiarito del tutto
+- Ha salvato Kate da rieducazione completa portandola a esilio nelle Zone (cap. 35)
+- Ha smesso di assumere EmpathBlock: per questo esita
+- Funzione: incarna la crepa interna al Sistema, la possibilità che i Riformisti non siano solo sotterranei
 
 ---
 

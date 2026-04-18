@@ -432,7 +432,7 @@ Credono nel Divieto come necessità matematica. Non odiano gli eterosessuali, li
 Credono che l'eterosessualità sia *moralmente* sbagliata, non solo pragmaticamente. Vogliono rieducazione più aggressiva, esilio immediato. Jensen appartiene a questa fazione.
 
 **I Riformisti (sotterranei):**
-Credono che il Divieto sia andato troppo oltre. Vorrebbero permettere relazioni eterosessuali sterili (con contraccezione obbligatoria). Non osano parlare apertamente: sarebbero accusati di "simpatia deviante". Kovalova, figura del secondo volume, simpatizza segretamente con loro.
+Credono che il Divieto sia andato troppo oltre. Vorrebbero permettere relazioni eterosessuali sterili (con contraccezione obbligatoria). Non osano parlare apertamente: sarebbero accusati di "simpatia deviante". Kovalova e' l'esempio principale: Controllrice di ruolo, Riformista nell'intimita'. Risparmia James nel raid del 2122 e, piu' tardi, sottrae Kate alla rieducazione completa portandola in esilio nelle Zone. Non e' solo un personaggio del secondo volume: compare gia' nel cap. 28b come backup di Jensen e nel cap. 35 come salvatrice silenziosa di Kate.
 
 **I Nostalgici (illegali):**
 Credono che l'intero sistema dell'immortalità sia stato un errore. Vorrebbero tornare alla mortalità naturale e alla riproduzione. Considerati estremisti pericolosi.
@@ -465,7 +465,7 @@ Il Sistema non è perfetto. Ha falle che i ribelli e i "devianti" hanno imparato
 **5. I Complici Silenziosi:**
 - Il Sistema dipende dalle segnalazioni. Molti cittadini *vedono* ma non *denunciano*.
 - Enrico (padre di Kate) sa tutto ma tace.
-- Yuki sospetta ma copre Kate al lavoro.
+- Yuki sospetta ma copre Kate al lavoro, e in seguito entra nella rete: ex-amata di Noa, agevola i permessi falsi per il viaggio di Alice nelle Zone (cap. 29).
 - Questa rete di silenzi è la vera protezione - più della tecnologia.
 
 **6. Le Zone Abbandonate come Via di Fuga:**
@@ -548,3 +548,44 @@ Il Sistema non è perfetto. Ha falle che i ribelli e i "devianti" hanno imparato
 - Odori (natura, decomposizione, fuoco)
 - Temperatura variabile (stagioni vere)
 - Vita - nascite, morti, cicli naturali
+
+---
+
+## Ninna nanna siciliana
+
+*Stiddi, stiddi ca luciti,*
+*luciti di notti e di di',*
+*luciti supra a ma figghia,*
+*ca sta durmennu cu mi'.*
+
+Siciliano antico, lingua pre-Crisi. Portata da Scordia (provincia di Catania) attraverso generazioni, sopravvissuta alla sostituzione linguistica operata dallo Standard. Attraversa quasi tutte le famiglie del romanzo: Marta (nata Scordia 2000) la insegna a Elena, Elena a Kate, Kate ad Alice. La ritroviamo nei capitoli 3, 8, 17b, 19, 21, 24, 31, 35.
+
+Anche Jensen la conserva come residuo subliminale della sua famiglia biologica nelle Zone siciliane post-Etna 2048: la sua seed originaria. Nel cap. 28b riaffiora senza che lui sappia nominarla. Nella cassetta etichettata *Ninna nanna per G. Da M. 2098* c'e' probabilmente la sua voce materna.
+
+La ninna nanna e' memoria che il Sistema non sa classificare: non e' documento, non e' atto, non e' comportamento. E' una respirazione familiare che attraversa le generazioni senza lasciare tracce stilometriche standard.
+
+---
+
+## La Rete Link
+
+Mesh network ibrida descritta nel cap. 25. Combina infrastruttura scout e competenze digitali clandestine:
+
+- **Livello fisico:** radio VHF a corto raggio, dead drop in luoghi morti (tunnel pre-Fusione, archivi dismessi, zone grigie della tracciatura), segnali analogici e oggetti fisici
+- **Livello digitale:** pacchetti steganografati dentro traffico apparentemente conforme (immagini, audio, metadati)
+- **Livello umano:** ex-scout della generazione di Enzio, archivisti come James, biologi come Kate, burocrati Riformisti come Kovalova
+- **Protocolli:** ispirati alla Legge scout e al motto *Estote parati*; silenzio assoluto sulle identita', redundancy per cellule
+- **Simboli:** fazzoletto giallo-verde "Ho fiducia" come riconoscimento silenzioso
+
+La Rete Link non e' un'organizzazione con vertice: e' una trama di fiducie individuali che si attivano solo quando serve. La sua forza sta nell'essere indistinguibile dal rumore di fondo della vita conforme.
+
+---
+
+## Stilometria computazionale come tecnologia di sorveglianza
+
+Il Sistema usa analisi stilometrica AI per identificare correlazioni autoriali tra documenti catalogati. Una firma stilistica puo' indicare parentela biologica: ricorrenza di pattern sintattici, lessicali e ritmici trasmessi per imitazione familiare, soprattutto nei primi anni di apprendimento della scrittura.
+
+Nel 2132 l'algoritmo rileva una corrispondenza del **94,3%** tra i documenti di James Valeri (2097-2121, catalogati dagli archivi) e quelli di Alice Tanaka (2130-2132, depositati come archivista). La soglia di allarme interna e' 85%. La soglia di quasi-certezza genealogica e' 90%.
+
+Il match riattiva il dossier Valeri-Ferrante e scatena l'indagine di Jensen descritta nel cap. 28b. E' anche il trigger narrativo del pre-reveal: Alice, quando ricostruisce i testi del padre, riconosce nella propria scrittura un'eco che non sapeva di avere.
+
+La stilometria e' tecnologia doppia nel romanzo: il Sistema la usa per cacciare, Alice-archivista la usa per verificare documenti e ricomporre la storia dei genitori. E' il motore narrativo dell'Atto III.

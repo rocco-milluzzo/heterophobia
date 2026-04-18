@@ -209,6 +209,19 @@ Kate cerca di rassicurarlo. "Funzionerà. Deve funzionare."
 
 ---
 
+### Capitolo 17b: Il Test
+**POV:** Kate
+**Tempo:** 2105 (flashback, quarto mese di gravidanza)
+**Parole:** ~2,500
+
+Kate affronta l'ultimo test trimestrale obbligatorio prima della fuga. Usa il C-17, un inibitore sperimentale che ha sintetizzato lei stessa, per mascherare l'hCG. Yuki al laboratorio la osserva in silenzio e le lascia un bicchiere d'acqua. Al Centro Diagnostico, un bip anomalo dal sensore endocrino. L'AI ricalibra. "Anomalia marginale. Approvato." Uscita dal Centro, sangue dal naso, vertigini. Un'anziana Immortale le si ferma accanto. Tornata a casa, Kate vomita, si osserva allo specchio, calcola le probabilità di detezione residue: 47% su cinque test restanti. Chiude la notte con una ninna nanna siciliana che Marta le cantava da bambina. Decide: bisogna fuggire presto.
+
+**Scena chiave:** Il bip del sensore endocrino, i quaranta secondi di ricalibrazione. Poi il calcolo notturno che spinge Kate verso la decisione del cap. 18.
+
+**Funzione:** Payoff del Chekhov's gun dei test trimestrali. Ponte tra L'Attesa e la fuga. Semina Marta (ninna nanna siciliana) e Yuki (complice ambigua).
+
+---
+
 ### Capitolo 18: Il Segno
 **POV:** Kate
 **Tempo:** 2105 (flashback)
@@ -332,24 +345,31 @@ Poi si corregge: "Le registrazioni mostrano che cantava..."
 ---
 
 ### Capitolo 28: La Decisione
-**POV:** Kate
-**Tempo:** 2122 (flashback)
+**POV:** Alice (narratrice)
+**Tempo:** Presente (2132)
 **Parole:** ~2,500
 
-L'ultimo giorno prima che tutto cambi. Kate, James, Alice. Una colazione. Un gioco. Qualcosa di simile alla felicità.
+Alice decide di affidare il manoscritto alla rete clandestina e di partire in cerca dei genitori, prima che l'Operazione Pulizia cancelli ogni traccia nelle Zone Est.
 
-Nessuno sa che è l'ultimo.
+---
+
+### Capitolo 28b: Jensen
+**POV:** Jensen (Il Controllore)
+**Tempo:** Presente (2132)
+**Parole:** ~2,750
+
+Mattina ordinaria nell'appartamento di massima conformità di Jensen. La riattivazione del dossier Valeri-Ferrante gli arriva via tablet: un algoritmo stilometrico ha rilevato una corrispondenza del 94,3 percento tra uno scritto di Alice Tanaka e i testi catalogati di James Valeri. Kovalova gli viene assegnata come backup. MemoraSoft (pastiglia rossa), frammenti involontari di un'infanzia nelle Zone siciliane, ninna nanna *Stiddi ca luciti* che riaffiora senza che lui sappia nominarla. Nell'armadietto della palestra tiene da quindici anni una cassetta audio vietata etichettata *Ninna nanna per G. Da M. 2098*, che non ha mai ascoltato. SomniLearn bucato da un ricordo di sei anni. Si riaddormenta. Qualcosa, sotto la Purezza, ha già cominciato a scegliere per lui.
+
+**Funzione:** dare spessore all'antagonista prima dell'operazione su Alice. Piantare il seme stilometrico che fruttifica nel cap. 34 (Alice si riconosce nella scrittura di James). Collegare Kovalova (cap. 31) come crepa interna al Sistema.
 
 ---
 
 ### Capitolo 29: La Ricerca
-**POV:** Jensen (Il Controllore)
-**Tempo:** 2122 (flashback)
+**POV:** Alice
+**Tempo:** Presente (2132)
 **Parole:** ~2,500
 
-Introduce Jensen. Il suo background: figlio di "infetti", rieducato. Riceve la segnalazione su James e Kate.
-
-Non è un mostro. Crede di salvare le persone dalla "malattia" dell'amore eterosessuale.
+Alice esce dal Sistema con un permesso falso di Yuki. Nelle Zone trova Vera, che conosceva i suoi genitori. Riceve una fotografia. Sul viaggio di ritorno, il nome di Davide Morra ritorna.
 
 ---
 
@@ -474,17 +494,20 @@ Ringraziamenti e riflessioni dell'autore.
 
 ### Distribuzione POV:
 - James: 11 capitoli
-- Kate: 11 capitoli
+- Kate: 12 capitoli (incluso cap. 17b "Il Test")
 - Alice narratrice: 13 capitoli
-- Jensen: 1 capitolo
+- Jensen: 1 capitolo proprio (cap. 28b "Jensen") oltre alla presenza come antagonista nel raid del cap. 31
 - Flashback generazionali: integrati nei capitoli di Alice
 
 ### Parole per atto:
 - Atto I: ~26,000 (11 cap, include Intermezzo)
-- Atto II: ~37,500 (15 cap)
-- Atto III: ~27,000 (10 cap)
+- Atto II: ~40,000 (16 cap, incluso cap. 17b)
+- Atto III: ~29,750 (11 cap, incluso cap. 28b)
 - Epilogo: ~2,000 (1 cap + nota)
-- **Totale: ~92,500**
+- **Totale: ~97,750**
+
+### Struttura complessiva:
+38 capitoli numerati piu' 2 capitoli aggiuntivi (17b "Il Test" e 28b "Jensen"), oltre a prefazione e nota dell'autore. Totale operativo: 40 unita' narrative.
 
 ### Capitoli chiave:
 - **Cap. 8:** Prima notte insieme (intimità)

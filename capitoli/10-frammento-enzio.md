@@ -30,11 +30,39 @@ Ma ricordo anche il pane. Il pane vero, quello che mia nonna faceva la domenica 
 
 A volte, quando mangio le razioni standard del Sistema, chiudo gli occhi e cerco di ricordare quel sapore. Ma i ricordi del gusto sbiadiscono, anche per un immortale. È una delle poche cose che il tempo riesce ancora a rubarci.
 
+*[Pausa. Rumore di carta sfogliata]*
+
+C'è una cosa che nessuno mi ha chiesto, e che in questi anni è diventata il filo che tiene insieme tutto il resto.
+
+Negli anni Novanta del secolo scorso, poco più che trentenne, facevo il capo reparto in un'associazione che allora si chiamava AGESCI. Scout. Gruppo Milano 7. Un servizio, si diceva. Si portavano i ragazzi nei boschi, si insegnava loro a fare un nodo, ad accendere un fuoco senza fiammiferi, a camminare dieci chilometri con uno zaino in spalla senza lamentarsi. Sciocchezze, da fuori. Ma dentro c'era altro.
+
+Nell'estate del 1998 organizzammo un campo in Val Sabbia. Una settimana sotto le stelle, tende di tela verde, il fiume gelido la mattina per lavarsi. L'ultima sera facemmo il fuoco di bivacco. I ragazzi cantavano, ridevano, si passavano una chitarra scordata. Poi, come succede sempre a quelle ore, il cerchio si fece più silenzioso. Uno per uno si ritirarono nelle tende.
+
+Restò una ragazzina. Quattordici anni, trecce bionde, un fazzoletto al collo troppo grande per lei. Si chiamava Chiara. Fissava le braci.
+
+"Enzio," mi disse, senza voltarsi. "Perché facciamo la Promessa se poi il mondo non la fa?"
+
+Non le risposi. Non sapevo cosa rispondere. Le dissi una frase da capo, una di quelle frasi che si dicono quando non si ha niente da dire. Lei annuì, salutò, andò a dormire.
+
+Quella domanda è rimasta dentro di me ottant'anni.
+
+Chiara la ritrovai in un elenco di rieducazione, nel 2078. Adulta ormai, sposata con un uomo, una figlia piccola. "Infetta recidiva". Sparì dentro una clinica del Sistema e non uscì più. Io ero già vecchio di un secolo, e non sapevo ancora cosa risponderle.
+
+Oggi, forse, avrei una risposta. Le direi: facciamo la Promessa *proprio perché* il mondo non la fa. Perché qualcuno deve tenere il filo. Perché se smettiamo tutti insieme, allora davvero non resta più niente.
+
+Ma Chiara non può sentirmi. E io resto qui, con una promessa fatta al fuoco di bivacco di un'estate che nessuno ricorda più, a chiedermi se ho il diritto di essere ancora vivo mentre lei non lo è.
+
+*"Estote parati"*, dicevamo. Siate pronti. Lo ripetevamo ai ragazzi senza pensarci, come una formula. Quando arrivò il Divieto, ho capito cosa significava davvero. Fui tra i pochi pronti, nel mio quartiere. Non perché fossi coraggioso: perché da giovane qualcuno mi aveva insegnato a riparare una scarpa rotta, a dormire al freddo, a cucinare con quello che trovavo, a tacere quando serviva tacere. Gli scout erano stati addestrati a un mondo che ancora non esisteva, e non lo sapevano.
+
+*[Silenzio]*
+
 Quando arrivò la Fusione nel 2040, avevo dodici anni. Vidi le vecchie bandiere ammainarsi, i vecchi nomi sparire dalle mappe. L'Italia divenne "Distretto Sud-Alpino della Macro-Nazione Ex-Europa". Milano divenne "Settore Produttivo 7". La mia lingua (l'italiano che mia nonna mi aveva insegnato, le canzoni, le filastrocche) divenne "patrimonio storico in via di archiviazione".
 
 I trent'anni dopo furono quelli della ricostruzione. Il Sistema ci diede pace, cibo, sicurezza. In cambio, prese tutto il resto. Ma eravamo così stanchi di morire che accettammo. Tutti accettammo.
 
-Quel giorno del 2070, ero al lavoro. Facevo l'archivista, già allora, già prima che diventasse il mio rifugio. Stavo catalogando documenti dell'Era della Crisi, testimonianze di morte, di fame, di violenza, quando l'annuncio arrivò su tutti gli schermi, su tutti i dispositivi, in tutto il mondo nello stesso istante.
+Quel giorno del 2070, ero al lavoro. Facevo l'archivista, già allora, già prima che diventasse il mio rifugio. Il mestiere l'avevo scelto per una ragione molto semplice: dopo anni passati a insegnare ai ragazzi come non perdere la strada nel bosco, mi sembrava giusto imparare a non perdere la strada nel tempo. Decenni dopo, James avrebbe scelto lo stesso mestiere, senza che io glielo suggerissi mai. Certi sentieri si tramandano anche senza parole.
+
+Stavo catalogando documenti dell'Era della Crisi, testimonianze di morte, di fame, di violenza, quando l'annuncio arrivò su tutti gli schermi, su tutti i dispositivi, in tutto il mondo nello stesso istante.
 
 *"L'umanità ha sconfitto la morte."*
 
@@ -142,6 +170,22 @@ Ma la lasciai andare. Cos'altro potevo fare? Il mondo aveva deciso che il nostro
 
 *[Pausa lunga]*
 
+Dopo il Divieto, qualcosa si mosse. Non una resistenza. Nessuno di noi era un eroe, nessuno aveva armi. Furono i vecchi scout, quelli che avevano fatto la Promessa trent'anni prima, a cercarsi. Ci passavamo buste a mano, ci vedevamo davanti alle chiese chiuse la domenica mattina come se fosse ancora il 1996.
+
+Servire era stata l'ultima parola che ci avevano insegnato. Non c'era scritto chi fosse il prossimo. Non c'era scritto che dovesse avere il tuo stesso orientamento, la tua stessa fede, il tuo stesso permesso di esistere. Quando un uomo o una donna in fuga bussava a una porta di Milano, spesso quella porta apparteneva a qualcuno che aveva dormito in tenda in Val Codera nel 1994. Una mano senza nome apriva, un armadio si spostava, una cantina si svuotava per una notte.
+
+Ho aperto la mia porta più volte di quante riesca a ricordare. Coppie, ragazzi spaventati, una donna incinta che non sapeva dove andare. Li ho nutriti con quello che avevo, e la mattina dopo erano spariti verso nord, verso le Zone. Mai chiesto un nome. Nelle carte del Sistema io risulto "cittadino modello". E forse, in un certo senso, lo sono: modello di come si possa vivere una vita intera dentro la menzogna senza mai spezzarsi.
+
+C'era un ragazzo, tra quelli passati da casa mia. Vent'anni, forse meno. Si chiamava Marcus, veniva da Como. Mi disse che da bambino era stato lupetto, branco del Duomo, e che ricordava ancora la Legge. La recitò a bassa voce, nella mia cucina, mentre beveva una tazza di orzo caldo. Non l'ho più rivisto. Mi hanno detto, anni dopo, che nelle Zone c'è una comunità che lo rispetta come uno dei più vecchi. Se è vero, allora qualcosa di quel fuoco di bivacco del 1998 brucia ancora, lontano dagli occhi del Sistema.
+
+*[Pausa. Voce più bassa]*
+
+Il libro di poesie che conservo per James non l'ho comprato io. Me lo diede un'altra Elena, non mia moglie. Era stata caposquadriglia nel mio reparto. Morì nel 2074, prima ancora che il Divieto prendesse forma. Mi lasciò il libro con un biglietto: *"A chi ne avrà bisogno. Tu saprai."*
+
+A volte pronuncio il suo nome ad alta voce, in questa stanza, e mi sembra di sentire un'eco. *Elena.* Quel nome l'ho amato due volte, in due donne diverse. E una terza Elena, che non ho mai conosciuto, è la nonna di quella ragazza di cui James ha cominciato a parlare. Kate Ferrante. Non credo al destino. Ma certe parole tornano, nella vita, come se cercassero casa.
+
+*[Silenzio]*
+
 Sono passati anni da allora. Tanti anni che ho perso il conto. Vivo da solo, lavoro all'archivio, conservo documenti che nessuno legge più. A volte mi chiedo perché continuo. Cosa sto aspettando, in questa eternità vuota.
 
 E poi penso a mio nipote. James.
@@ -151,6 +195,10 @@ L'ho visto crescere. L'ho visto diventare un uomo: un uomo come me, che guarda i
 Ho visto come guarda quella ragazza. Kate. L'ho visto, e ho riconosciuto quello sguardo. Era lo stesso che avevo io per Elena, prima che il mondo ci dicesse che era sbagliato.
 
 Non so cosa fare. Non so se devo proteggerlo o lasciarlo andare. Non so se quello che prova lo salverà o lo distruggerà.
+
+Quando James aveva sei anni, lo portai in un parco alla periferia di Settore 7. C'erano ancora degli alberi, allora. Gli insegnai un gioco che avevo insegnato anche a Chiara, tanti anni prima. Si chiama il gioco del silenzio. Si cammina senza parlare, senza fare rumore, senza spezzare un ramo. Ci si ferma di colpo, e si diventa albero. "Resta fermo, non fare rumore, diventa albero." James lo imparò in un pomeriggio. Aveva il dono del silenzio, già allora.
+
+Non gli dissi mai da dove veniva. Lui pensava che fosse un gioco del nonno. Un giorno, forse, lo insegnerà a qualcun altro. E quel qualcuno non saprà chi l'ha inventato. Così funziona la sopravvivenza: si passano le cose senza spiegarle, perché se le spieghi troppo la gente le dimentica.
 
 So solo questo: se l'amore è una malattia, allora non voglio guarire. Mai.
 
@@ -192,6 +240,20 @@ Qualcuno come me.
 
 ---
 
+Dentro la scatola c'era anche un'altra cosa. Un fazzoletto.
+
+Quadrato, di stoffa ruvida, ripiegato in triangolo come si usava una volta. Due colori: giallo e verde. Sbiaditi, quasi trasparenti per il tempo. Sul bordo, cucita a mano con punti minuscoli, una frase: *Ho fiducia.*
+
+Italiano. Un soggetto implicito, un verbo, un sostantivo. Eppure, a leggerla, si chiude in gola.
+
+Non so chi abbia cucito quelle parole. So solo che il fazzoletto è appartenuto a Enzio, e prima ancora a qualcun altro di cui non conosco il nome. Enzio lo ha lasciato a James, come si lascia un'insegna di un esercito che non esiste più. Poi, forse, James lo ha passato a mia madre. E mia madre a me.
+
+Stanotte l'ho appoggiato accanto al libro di poesie. Giallo, verde, stoffa vecchia, parole cucite. Due reliquie di un mondo che non c'è più.
+
+Non sono religiosa. Non ho mai fatto una promessa a nessuno. Ma guardando quel fazzoletto ho avuto la sensazione di essere entrata dentro un patto molto più vecchio di me.
+
+---
+
 Stanotte, prima di addormentarmi, ho fatto una cosa pericolosa.
 
 Ho aperto il libro a una pagina a caso e ho letto ad alta voce.
@@ -204,6 +266,12 @@ Le parole sono uscite dalla mia bocca e hanno riempito la stanza. Per un momento
 Era desiderio. Quello vero. Quello che ci hanno insegnato a temere.
 
 Poi il silenzio è tornato, e io sono rimasta sola con un libro che non dovrei avere, parole che non dovrei pronunciare, e una fame che non dovrei provare.
+
+E poi mi è tornato in mente un ricordo che non pensavo di avere.
+
+Mia madre, da qualche parte che non riesco a collocare, una stanza piccola, forse una casa nelle Zone. La sua voce sotto la mia, calda, a un filo dal sussurro. *"Resta ferma, non fare rumore, diventa albero."* Io che trattengo il respiro e sento il battito del suo cuore contro la mia schiena.
+
+Non sapevo che fosse un gioco scout. Non sapevo che fosse un gioco che un uomo aveva inventato in un bosco della Lombardia nel Novecento, per insegnare ai ragazzi a rispettare il silenzio. Per me era solo il modo in cui mia madre mi teneva in vita.
 
 Chi sono io in questa storia?
 

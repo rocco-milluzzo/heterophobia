@@ -30,6 +30,7 @@
 - [Capitolo 15: Frammento dei Genitori di James](capitoli/15-frammento-i-genitori-di-james.md)
 - [Capitolo 16: La Decisione](capitoli/16-la-decisione.md)
 - [Capitolo 17: L'Attesa](capitoli/17-lattesa.md)
+- [Capitolo 17b: Il Test](capitoli/17b-il-test.md)
 - [Capitolo 18: Il Segno](capitoli/18-il-segno.md)
 - [Capitolo 19: La Nuova Vita](capitoli/19-la-nuova-vita.md)
 - [Capitolo 20: Documenti Medici](capitoli/20-documenti-medici.md)
@@ -46,6 +47,7 @@
 
 - [Capitolo 27: Dieci Anni](capitoli/27-dieci-anni.md)
 - [Capitolo 28: La Decisione](capitoli/28-la-decisione.md)
+- [Capitolo 28b: Jensen](capitoli/28b-jensen.md)
 - [Capitolo 29: La Ricerca](capitoli/29-la-ricerca.md)
 - [Capitolo 30: L'Ultimo Giorno](capitoli/30-lultimo-giorno.md)
 - [Capitolo 31: Il Raid](capitoli/31-il-raid.md)
