@@ -16,19 +16,17 @@ Avevo quarantadue anni. Era il 2070, quindici anni fa, anche se sembra un'eterni
 
 Milano. *Mi' cara Milàn*.
 
-Ricordo ancora il Duomo che svettava sulla piazza, le guglie gotiche che bucavano il cielo grigio-perla delle mattine d'inverno. La Madonnina dorata in cima, che brillava quando il sole finalmente usciva dalle nuvole, e mia nonna che diceva sempre *"Ofelè, fa el to mestée"*, pasticciere fai il tuo mestiere, quando qualcuno parlava di cose che non capiva.
+Ricordo il Duomo che svettava sulla piazza, le guglie gotiche che bucavano il cielo grigio-perla delle mattine d'inverno. I Navigli la sera, quando la luce trasformava l'acqua in oro liquido e i bar si riempivano di voci. L'edicola all'angolo di corso Buenos Aires dove compravo i giornali per mio padre. Il tram arancione che sferragliava sotto le finestre alle sei del mattino.
 
-I Navigli la sera, quando la luce radente trasformava l'acqua in oro liquido e i bar si riempivano di voci, di risate, dell'odore del pesce fritto e della sbrisolona. L'edicola all'angolo di corso Buenos Aires dove compravo i giornali per mio padre. Il tram arancione che sferragliava sotto le finestre alle sei del mattino, così puntuale che mia madre ci regolava l'orologio.
+Il dialetto che mia nonna parlava ancora, quello stretto che io capivo a malapena. *"Milàn l'è on gran Milàn"*, diceva con orgoglio.
 
-Il dialetto che mia nonna parlava ancora, quello stretto che io capivo a malapena. *"Milàn l'è on gran Milàn"*, Milano è una grande Milano, diceva con orgoglio. E quando qualcuno si lamentava: *"Se pò minga pretend de vess content se te gh'è nient"*, non puoi pretendere di essere felice se non hai niente. Ma noi avevamo qualcosa. Avevamo lei.
-
-Ora è solo Settore Produttivo 7, Distretto Sud-Alpino. Nessuno lo chiama più Milano tranne noi vecchi, quando parliamo tra noi, quando pensiamo che nessuno ascolti. *Mi' cara Milàn*, sussurro a volte, da solo, nella mia stanza piena di libri. E per un momento sento ancora l'odore del panettone a Natale, il rumore della pioggia sui sanpietrini di piazza Duomo, la voce di mia nonna che cantava *"O mia bèla Madunina"* mentre impastava il pane.
+Ora è solo Settore Produttivo 7, Distretto Sud-Alpino. Nessuno lo chiama più Milano tranne noi vecchi, quando parliamo tra noi, quando pensiamo che nessuno ascolti. *Mi' cara Milàn*, sussurro a volte, da solo, nella mia stanza piena di libri.
 
 Ero nato nel 2028, l'anno in cui tutto crollava. I miei genitori mi raccontavano della Grande Crisi come se fosse una favola dell'orrore: le macchine che rubavano il lavoro, le rivolte, le guerre. Io ero troppo piccolo per ricordare i dettagli, ma ricordo la fame. Ricordo mia madre che divideva una mela in sei parti, una per ogni giorno della settimana. Ricordo mio padre che sparì per tre anni ("riallocato", dicevano) e tornò con gli occhi vuoti e le mani che tremavano.
 
-Ma ricordo anche il pane. Il pane vero, quello che mia nonna faceva la domenica quando riusciva a trovare la farina. L'odore che riempiva la casa, il calore che usciva dal forno, la crosta dorata che scricchiolava quando la spezzavi. Era poco, era raro, ma era *vero*. Non come il cibo sintetico che mangiamo adesso, indistinguibile dal naturale, dicono. Ma loro non hanno mai assaggiato il pane di mia nonna. Non sanno cosa significa mordere qualcosa che è cresciuto dalla terra, che è stato toccato dalle mani di chi ami.
+Ma ricordo anche il pane. Quello vero, che mia nonna faceva la domenica quando riusciva a trovare la farina. Era poco, era raro, ma era *vero*.
 
-A volte, quando mangio le razioni standard del Sistema, chiudo gli occhi e cerco di ricordare quel sapore. Ma i ricordi del gusto sbiadiscono, anche per un immortale. È una delle poche cose che il tempo riesce ancora a rubarci.
+A volte, quando mangio le razioni standard del Sistema, chiudo gli occhi e cerco di ricordare quel sapore. Ma i ricordi del gusto sbiadiscono, anche per un immortale.
 
 *[Pausa. Rumore di carta sfogliata]*
 
@@ -48,9 +46,7 @@ Quella domanda è rimasta dentro di me ottant'anni.
 
 Chiara la ritrovai in un elenco di rieducazione, nel 2078. Adulta ormai, sposata con un uomo, una figlia piccola. "Infetta recidiva". Sparì dentro una clinica del Sistema e non uscì più. Io ero già vecchio di un secolo, e non sapevo ancora cosa risponderle.
 
-Oggi, forse, avrei una risposta. Le direi: facciamo la Promessa *proprio perché* il mondo non la fa. Perché qualcuno deve tenere il filo. Perché se smettiamo tutti insieme, allora davvero non resta più niente.
-
-Ma Chiara non può sentirmi. E io resto qui, con una promessa fatta al fuoco di bivacco di un'estate che nessuno ricorda più, a chiedermi se ho il diritto di essere ancora vivo mentre lei non lo è.
+Oggi, forse, avrei una risposta. Ma Chiara non può sentirmi. E io resto qui, con una promessa fatta al fuoco di bivacco di un'estate che nessuno ricorda più, a chiedermi se ho il diritto di essere ancora vivo mentre lei non lo è.
 
 *"Estote parati"*, dicevamo. Siate pronti. Lo ripetevamo ai ragazzi senza pensarci, come una formula. Quando arrivò il Divieto, ho capito cosa significava davvero. Fui tra i pochi pronti, nel mio quartiere. Non perché fossi coraggioso: perché da giovane qualcuno mi aveva insegnato a riparare una scarpa rotta, a dormire al freddo, a cucinare con quello che trovavo, a tacere quando serviva tacere. Gli scout erano stati addestrati a un mondo che ancora non esisteva, e non lo sapevano.
 
@@ -106,11 +102,9 @@ Ma non per la tua mente.
 
 Questo nessuno te lo diceva. Nessuno ti avvertiva che saresti rimasto lo stesso, dentro. Con gli stessi ricordi, gli stessi rimpianti, le stesse paure. Solo che ora avresti avuto l'eternità per conviverci.
 
-I primi anni furono euforici. Viaggiammo, io ed Elena. Vedemmo luoghi che avevamo sempre sognato di vedere. Imparammo lingue nuove, mestieri nuovi, modi nuovi di essere. Sembrava che il mondo fosse nostro, finalmente, senza il conto alla rovescia della morte a scandire ogni momento.
+I primi anni furono euforici. Viaggiammo, io ed Elena. Imparammo lingue nuove, mestieri nuovi. Sembrava che il mondo fosse nostro, finalmente, senza il conto alla rovescia della morte a scandire ogni momento.
 
 Ma poi iniziò il cambiamento.
-
-Eravamo così felici di non morire mai. Non abbiamo pensato a cosa avremmo perso per sempre.
 
 *[Lunga pausa]*
 
@@ -130,21 +124,17 @@ La prima violenza la vidi nel 2072. Una coppia (lui e lei, mano nella mano) attr
 
 Dopo quella notte, Elena smise di tenermi la mano in pubblico. Poi smise di uscire con me. Poi smise di guardarmi negli occhi.
 
-L'odio funziona così. Non arriva tutto insieme. Ti consuma un pezzo alla volta, così lentamente che quando te ne accorgi non resta più niente.
-
 *[Rumore di respiro tremante]*
 
-A quel punto la popolazione mondiale era quasi raddoppiata. Gli immortali non morivano, ma i bambini continuavano a nascere. Le risorse iniziarono a scarseggiare. Le guerre (quelle piccole, locali, che non chiamavamo guerre) si moltiplicarono. Il pianeta stava cedendo sotto il peso di un'umanità che non sapeva più quando smettere.
+A quel punto la popolazione mondiale era quasi raddoppiata. Le risorse iniziarono a scarseggiare. Il pianeta stava cedendo sotto il peso di un'umanità che non sapeva più quando smettere.
 
-E così trovarono un capro espiatorio. Noi. Gli eterosessuali. I "riproduttori ossessivi". Gli "egoisti genetici" che volevano "imporre il proprio DNA al mondo".
+E così trovarono un capro espiatorio. Noi. Gli "egoisti genetici" che volevano "imporre il proprio DNA al mondo".
 
-Ricordo i dibattiti. Le discussioni nelle piazze virtuali, nei parlamenti che ancora esistevano, nelle case di tutti. Ma non erano veri dibattiti. Erano tribunali. E noi eravamo già stati condannati.
+Ricordo i dibattiti. Ma non erano dibattiti. Erano tribunali.
 
-La risposta venne dagli scienziati. O meglio, da quelli che controllavano gli scienziati.
+La risposta venne dagli scienziati, o meglio da quelli che li controllavano. "L'eterosessualità è un residuo evolutivo," dissero. "Un istinto che serviva alla riproduzione. Ora che la riproduzione non è più necessaria, possiamo eliminarlo."
 
-"L'eterosessualità è un residuo evolutivo," dissero. "Un istinto che serviva alla riproduzione. Ma ora che la riproduzione non è più necessaria, né desiderabile, possiamo eliminarlo."
-
-Non dissero "eliminare". Dissero "curare". Come se amare chi avevi sempre amato fosse una malattia, un difetto da correggere. "Disturbo dell'orientamento riproduttivo": questo fu il termine ufficiale. Suonava così clinico, così neutro. Così definitivo.
+Non dissero "eliminare". Dissero "curare". "Disturbo dell'orientamento riproduttivo": così chiamarono l'amore.
 
 Elena fu tra i primi a crederci. Non perché fosse cattiva: non lo era. Era gentile, intelligente, una delle persone migliori che avessi mai conosciuto. Ma era anche stanca. Stanca di vivere in un mondo che sembrava sempre sull'orlo del collasso. Stanca di avere paura.
 
@@ -216,9 +206,9 @@ Ogni volta, la voce di Enzio mi fa qualcosa. Non so spiegarlo. È come ascoltare
 
 Penso a quelle parole. A Elena che le pronuncia, convinta di avere ragione. A Enzio che le ascolta, sapendo che sta perdendo tutto.
 
-È così che funziona, capisco ora. Non con la violenza, non con le catene. Funziona convincendo le persone che ciò che provano è sbagliato. Che l'amore sbagliato, quello che fa male, quello che non puoi controllare, è una malattia da cui guarire. E chi decide quale amore è sbagliato? Chi ha il potere.
+Non funziona con la violenza, non con le catene. Funziona convincendo le persone che ciò che provano è sbagliato.
 
-E la cosa più terribile è che funziona. Funziona quasi sempre.
+Quasi sempre.
 
 Ma non sempre.
 
@@ -261,11 +251,11 @@ Ho aperto il libro a una pagina a caso e ho letto ad alta voce.
 *"Tu mi fai tremare l'anima,*
 *come una foglia."*
 
-Le parole sono uscite dalla mia bocca e hanno riempito la stanza. Per un momento, solo un momento, ho sentito il sangue accelerare. Ho sentito il calore salire alle guance. Ho sentito un'eco nel petto, un battito che non era solo il mio cuore.
+Le parole sono uscite dalla mia bocca e hanno riempito la stanza. Per un momento ho sentito il sangue accelerare, il calore alle guance, un'eco nel petto che non era solo il mio cuore.
 
 Era desiderio. Quello vero. Quello che ci hanno insegnato a temere.
 
-Poi il silenzio è tornato, e io sono rimasta sola con un libro che non dovrei avere, parole che non dovrei pronunciare, e una fame che non dovrei provare.
+Poi il silenzio è tornato, e io sono rimasta sola con un libro che non dovrei avere, e una fame che non dovrei provare.
 
 E poi mi è tornato in mente un ricordo che non pensavo di avere.
 

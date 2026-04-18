@@ -59,9 +59,7 @@ La lettera di Marco era più breve.
 
 Ho pianto leggendo queste lettere. Non per tristezza, per bellezza.
 
-Luca e Marco non erano perfetti. Nessuno lo è. Ma si amavano, e amavano James, e questo era tutto.
-
-L'amore di due uomini che crescono un figlio non è diverso da qualsiasi altro amore genitoriale. È fatto di notti insonni e risate improvvise, di preoccupazioni e orgoglio, di quella strana alchimia che trasforma due estranei in una famiglia.
+Luca e Marco non erano perfetti. Ma si amavano, e amavano James, e questo era tutto.
 
 ---
 
@@ -112,23 +110,13 @@ Ho chiuso la lettera e sono rimasta a lungo in silenzio.
 
 Tre lettere. Tre forme d'amore.
 
-Luca e Marco: due uomini che si sono amati per decenni e che hanno scelto di condividere quell'amore con un bambino non loro.
-
-Lin: una donna che ha amato un uomo, ha perso tutto, e ha sacrificato il proprio figlio per dargli una possibilità.
-
-Non c'è una gerarchia. Non c'è un amore "migliore". C'è solo l'amore, in tutte le sue forme, con tutti i suoi costi.
-
 ---
 
 Mi chiedo cosa abbia pensato James quando ha trovato queste lettere. Se le ha mai trovate.
 
-Mi chiedo se sapeva che sua madre biologica era una donna eterosessuale perseguitata. Una "infetta", come la chiamavano loro. Una "malata".
+Mi chiedo se sapeva che sua madre biologica era una donna eterosessuale perseguitata. Una "infetta", come la chiamavano loro.
 
 Mi chiedo se questo abbia cambiato qualcosa, quando ha guardato Kate per la prima volta.
-
-Probabilmente no. L'amore non funziona così. Non sceglie in base alla storia, non calcola in base al rischio.
-
-L'amore arriva, e basta. E poi sta a te decidere cosa farne.
 
 ---
 

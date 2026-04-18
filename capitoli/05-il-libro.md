@@ -83,7 +83,7 @@ Lo capì attraversando il cortile interno, al terzo passo dopo essere uscita dal
 
 Non disse niente. Non a se stessa. Non alla nonna Marta, che pure avrebbe capito. Non a Yuki, che pure avrebbe potuto aiutarla. Non alla propria immagine allo specchio, la sera, mentre si lavava i denti. Tenne la parola dentro il petto come si tiene una brace sotto la cenere per farla durare fino al mattino.
 
-Per due anni ancora, Kate non avrebbe nominato quello che le era successo quel pomeriggio. Avrebbe fatto altre cose: avrebbe baciato James, avrebbe dormito con lui, avrebbe pianto per lui, avrebbe rischiato per lui. Ma la parola sarebbe rimasta impronunciata, nascosta nel corpo, finché non sarebbe uscita da sola, nel letto, al buio, dopo la prima notte, come un respiro troppo grande da trattenere.
+Per due anni ancora, Kate non avrebbe nominato quello che le era successo quel pomeriggio. Avrebbe baciato James, avrebbe dormito con lui, avrebbe rischiato per lui. Ma la parola sarebbe rimasta nascosta nel corpo, finché non sarebbe uscita da sola nel letto, al buio, dopo la prima notte.
 
 Ma il corpo, quel pomeriggio, lo sapeva già.
 

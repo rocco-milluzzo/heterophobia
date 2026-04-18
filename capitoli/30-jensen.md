@@ -52,6 +52,34 @@ Uscì alle otto e quaranta, come ogni mattina.
 
 ---
 
+Kovalova entrò in ufficio il mattino dopo, alle dieci e quattro minuti. Jensen stava leggendo una colonna di metadati sul tablet, e non alzò subito lo sguardo. Sentì la porta richiudersi con la pressione lenta dell'ammortizzatore pneumatico, poi i passi di lei sul linoleum, sette passi fino al bordo della scrivania.
+
+"Capitano. Il file di trasferimento Quaranta-Sette, per la firma di secondo livello. Routine."
+
+Jensen staccò gli occhi dal tablet. Kovalova teneva il tablet dei moduli in una mano e, nell'altra, una tazza bianca di ceramica vera, non del solito polimero termico dipartimentale. Dal bordo saliva un vapore sottile.
+
+Kovalova la appoggiò sul tavolo, accanto al tablet di Jensen. Non la spinse verso di lui. La posò e basta. Nessun commento.
+
+Jensen la guardò. Kovalova lo guardò. Passarono, in quel silenzio, quattro secondi pieni. Jensen, negli anni, aveva imparato a contare i secondi dei silenzi operativi perché il silenzio troppo lungo era sempre stato, nelle sue sessioni di interrogatorio, l'inizio di una confessione. Questo silenzio non era operativo. Non sapeva cos'era.
+
+"Il file," disse Kovalova. Gli porse il tablet.
+
+Jensen firmò con la retina. Restituì il tablet. Kovalova annuì appena, si voltò, uscì. I sette passi del ritorno furono identici ai sette passi dell'andata. La porta si richiuse con lo stesso rumore pneumatico.
+
+Jensen rimase fermo. Guardò la tazza. Il vapore saliva ancora. Sollevò la tazza, la portò alle labbra, bevve un sorso piccolo. Poi un sorso più lungo.
+
+Era caffè vero. Non il sostituto enzimatico delle mense, non l'estratto sintetico autorizzato per i gradi superiori durante le operazioni prolungate. Caffè macinato, infuso in acqua calda, con quell'amaro di fondo che l'estratto non riusciva a replicare perché l'estratto non aveva mai attraversato una fiamma. Jensen non beveva caffè vero da venticinque anni. Forse mai, in età consapevole.
+
+Sentì qualcosa salire dal palato alla mascella, poi piegare verso la nuca. Non era memoria. Era un'aderenza di sapore a qualcosa che non aveva nome. Gli arrivò una parola che non aveva chiesto: zagara. Poi un'altra: cenere. Jensen non sapeva cosa fosse la zagara, non sapeva neanche se quella parola esistesse. Eppure la parola combaciava con il sapore del caffè come una chiave in una serratura che lui non ricordava di possedere.
+
+Finì la tazza in silenzio. Aprì il cassetto inferiore della scrivania e ne estrasse un piccolo taccuino di carta, rilegato con un cordino. Era il taccuino dove ogni tanto annotava cose che il sistema, essendo il taccuino di carta, non vedeva.
+
+Scrisse, con una calligrafia piccola e regolare: *K. porta il caffè. Senza commento. Forse un test. Forse no.*
+
+Chiuse il taccuino. Lo rimise in fondo al cassetto. Tornò alla colonna di metadati sul tablet come se nulla fosse accaduto. Dal finestrino dell'ufficio, di taglio, si vedeva una striscia di cielo dello stesso colore del cemento.
+
+---
+
 La palestra dei Controllori era al terzo sottosuolo dell'edificio dipartimentale. Luce bianca, nessuna finestra, macchine uguali in file uguali, sudore ventilato via prima di poterlo odorare. Jensen si allenò per due ore. Le Cure gli avevano tolto quasi tutto il dolore, restava solo l'indicazione muscolare, una specie di pressione sorda che segnalava il limite senza imporlo. Jensen superò il limite tre volte. Non per disciplina, quella mattina, ma perché pensare con il corpo stremato era più facile. Il cervello si azzittiva, cedeva la parola ai polmoni. Alla terza serie sulla macchina delle trazioni, il monitor cardiaco vibrò una volta per avvisarlo che era entrato in fascia rossa. Jensen ignorò la vibrazione e continuò per altre otto ripetizioni. Il monitor, sapendo chi lo portava, non allertò nessuno. I Controllori avevano il permesso di farsi male.
 
 Jensen non si faceva male spesso. Era stato, in carriera, un ufficiale di grado costante, ogni promozione arrivata al momento previsto dai protocolli di avanzamento, ogni raccomandazione firmata dai superiori senza riserve. Aveva accettato ogni incarico che gli era stato offerto. Non aveva mai chiesto un trasferimento, non aveva mai rifiutato un rastrellamento, non aveva mai discusso un ordine. Se qualcuno gli avesse chiesto se gli piaceva il suo lavoro, Jensen non avrebbe capito la domanda. Il lavoro era il lavoro. Gli piaceva come gli piaceva respirare.
@@ -84,4 +112,44 @@ Si riaddormentò.
 
 ---
 
-Fra sette giorni, Jensen avrebbe fatto una scelta. Non quella sera. Non la mattina dopo, al briefing con Kovalova. Non subito. Ma da qualche parte, sotto la Purezza, sotto la proteina grigia e l'acqua filtrata, sotto i dodici minuti della pastiglia rossa, qualcosa aveva già cominciato a scegliere per lui. Lo sapeva senza saperlo. Come si sa una ninna nanna di cui si sono perse le parole.
+Il sesto giorno, al termine dell'allenamento serale, Jensen restò nello spogliatoio più a lungo del solito. Aspettò che il collega del turno notturno si chiudesse la porta alle spalle. Poi, quando fu solo davanti all'armadietto numero ventotto, aprì la serratura biometrica, spostò la mensola, staccò la placca magnetica, infilò la mano nella cavità.
+
+Prese la cassetta. Se la mise nella tasca interna della giacca, accanto al tesserino. L'armadietto si richiuse con lo scatto secco della serratura. Jensen rimase un istante fermo davanti allo sportello, con la mano appoggiata al metallo freddo. Poi uscì.
+
+Quindici anni, pensò camminando verso casa. Quindici anni dietro una placca magnetica. Non si disse perché oggi.
+
+Il pannello di stato domestico lo salutò con la solita riga verde. *Tutto nella norma.* Jensen posò la giacca sulla sedia. Dal pensile basso del soggiorno estrasse una scatola di cartone grigio che conteneva un vecchio lettore analogico, formato anni Novanta del secolo precedente, recuperato due anni prima da un deposito di materiale deviante catalogato per la distruzione. L'aveva tenuto. Non l'aveva mai usato.
+
+Lo posò sul tavolo. Collegò il cavo. Premette il tasto di apertura del vano. Inserì la cassetta. Il vano si richiuse con un piccolo scatto plastico, il rumore più domestico che Jensen avesse udito da molti anni.
+
+Il tasto *play* era rosso, grande, leggermente consumato al centro. Jensen allungò l'indice. Non premette. Rimase così, con l'indice sospeso a pochi millimetri dal tasto, per un tempo lungo. Il pannello di stato domestico, dall'altra stanza, continuava a ripetere la sua riga di luce verde. Jensen si accorse che stava trattenendo il respiro. Lo lasciò andare. Poi premette.
+
+Rumore di nastro. Un fruscio grasso, imperfetto, la patina fisica di un supporto che non era mai stato pulito. Un respiro. Poi una voce di donna, vicina al microfono, con l'inflessione un po' rauca di chi non è abituato a registrarsi. Cantava piano.
+
+*Stiddi, stiddi ca luciti, luciti di notti e di dì, luciti supra a ma figghia, ca sta durmennu cu mì.*
+
+Una strofa. Non una seconda. Il nastro tornò al suo rumore di fondo. Poi la stessa voce, ancora più bassa, quasi confidenziale, come detta con la bocca contro il microfono per non svegliare qualcuno nella stanza accanto: *"G., amore mio. Se un giorno la senti, sei tu. Tua madre."*
+
+Silenzio. Il fruscio continuò ancora per qualche secondo. Il nastro finì con il piccolo clic meccanico della fine bobina.
+
+Jensen restò immobile sulla sedia. Non piangeva. Non poteva piangere, il MemoraSoft non gli permetteva di piangere su ricordi di cui non aveva più le immagini. Ma qualcosa passò, nonostante il blocco chimico, nonostante venticinque anni di architettura. Un crampo al centro dello stomaco, improvviso, come un pugno dato dall'interno. La mano destra cominciò a tremare, un tremito sottile che partiva dal polso e arrivava alle dita. Jensen la guardò tremare. Non cercò di fermarla.
+
+Dalla gola gli uscì una parola. Non la decise, non la formulò. Uscì da sola, a bassa voce, in un italiano antico di cui non conosceva l'origine.
+
+"Mamma."
+
+La parola cadde nella stanza vuota. Nessuno la sentì. Nessuno al mondo, pensò Jensen con una lucidità improvvisa, aveva mai sentito Jensen dire quella parola. Non in venticinque anni di registri. Non negli archivi vocali. Non nelle sessioni di terapia di conformità. In nessun posto. Ma lui l'aveva detta. La cassetta era ancora nel lettore.
+
+Jensen non premette *rewind*. Scivolò giù dalla sedia e si sedette sul pavimento, con la schiena contro la gamba del tavolo. Restò così. Il pannello di stato domestico, dall'altra stanza, mostrava sempre la stessa riga. *Tutto nella norma.*
+
+Le ore passarono. Jensen non le contò. Sapeva soltanto, in un modo che non era memoria specifica ma conoscenza corporea, una cosa che per venticinque anni gli era stata tolta sotto la soglia del dicibile: era stato amato da qualcuno il cui nome non aveva più, il cui viso non aveva più, la cui voce ora occupava una cassetta magnetica sul tavolo del suo soggiorno. Era un prodotto di quella cancellazione. Lui stesso, adulto, firmava ogni giorno cancellazioni uguali sulla vita di altri.
+
+Verso le quattro del mattino si alzò. Le gambe gli si erano addormentate. Andò in camera, si coricò vestito sopra la coperta, chiuse gli occhi. Non dormì. Alle sei e mezzo si lavò il viso, indossò la divisa pulita, uscì.
+
+---
+
+Quel mattino, alle otto, Jensen entrò nella sala briefing dell'operazione Alice Tanaka. Aveva già deciso. Lo sapeva soltanto lui.
+
+---
+
+Quella scelta, Jensen l'avrebbe compiuta il giorno dopo. Non al briefing, non davanti a Kovalova, non davanti ai suoi uomini. Ma da qualche parte, sotto la Purezza, sotto la proteina grigia e l'acqua filtrata, sotto i dodici minuti della pastiglia rossa, qualcosa aveva già cominciato a scegliere per lui. Lo sapeva senza saperlo. Come si sa una ninna nanna di cui si sono perse le parole.

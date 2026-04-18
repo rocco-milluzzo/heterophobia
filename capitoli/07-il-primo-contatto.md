@@ -80,11 +80,11 @@ La bacchetta passò di mano. I palmi si separarono. James la posò sul piano. Ka
 
 Quella sera James non dormì.
 
-Tornò a casa, cenò con Luca e Marco, rispose a una domanda di Marco sull'esercitazione con una frase così generica che Luca gli chiese se si sentisse bene. "Stanco, solo stanco." Andò a letto. Spense la luce. Mise la mano sinistra fuori dalla coperta e cominciò a contare i peli sul dorso.
+Tornò a casa, cenò con Luca e Marco, rispose alle loro domande con frasi generiche. "Stanco, solo stanco." Andò a letto. Spense la luce. Mise la mano sinistra fuori dalla coperta e cominciò a contare i peli sul dorso.
 
-Era un gesto assurdo. Lo sapeva. Ma nella mano sinistra era rimasto qualcosa, e James voleva sapere esattamente dove. Contò tutti i peli visibili nella luce bluastra del riverbero dello schermo pubblico che filtrava dalla fessura della porta. Ne contò ventisette sulla prima falange, diciannove sulla seconda. Quando cominciò a contare quelli del dorso, perse il conto, ricominciò, lo perse di nuovo. Lo rifece undici volte. Dopo la dodicesima rinunciò e rimase a fissare il soffitto con la mano sinistra appoggiata sulla guancia, come se la mano fosse un oggetto separato dal suo corpo, come se qualcun altro l'avesse posata lì per lui.
+Era un gesto assurdo. Lo sapeva. Ma nella mano sinistra era rimasto qualcosa, e voleva sapere dove. Contò ventisette peli sulla prima falange, diciannove sulla seconda. Quando passò al dorso perse il conto, ricominciò, lo perse di nuovo. Dopo la dodicesima volta rinunciò e rimase a fissare il soffitto con la mano appoggiata sulla guancia, come se qualcun altro l'avesse posata lì.
 
-Non riuscì a dormire. Verso le tre del mattino si alzò, aprì il libro di poesie alla pagina quarantadue, rilesse i due versi, e tornò a letto. Il sonno gli arrivò addosso all'alba, di colpo, come se qualcuno lo avesse spento.
+Verso le tre del mattino si alzò, aprì il libro alla pagina quarantadue, rilesse i due versi, tornò a letto. Il sonno gli arrivò addosso all'alba, di colpo.
 
 ---
 
@@ -108,10 +108,10 @@ Si mise la giacca. Sentì contro il petto il leggero spessore del foglio. Sentì
 
 Stavano iniziando. Non lo sapevano.
 
-Pensavano di essere ancora in un'anticamera, di avere tempo, di avere spazio. Kate contava le gocce del profumo che le rimanevano nella boccetta della nonna. James contava i giorni che mancavano alla fine della scuola. Si sarebbero detti, più avanti, che il vero inizio era stato la prima notte, mesi dopo, nell'appartamento di Kate mentre Enrico era fuori.
+Pensavano di essere ancora in un'anticamera, di avere tempo. Kate contava le gocce del profumo che le rimanevano nella boccetta della nonna. James contava i giorni che mancavano alla fine della scuola. Si sarebbero detti, più avanti, che il vero inizio era stato la prima notte, nell'appartamento di Kate mentre Enrico era fuori.
 
-Ma il Sistema, invece, era paziente.
+Il Sistema, invece, era paziente.
 
-Aveva cominciato a guardare da tempo. Il nuovo incrocio di dati dal laboratorio di biologia, quel martedì, fu inserito in un fascicolo congiunto e ricevette una classificazione preliminare. *Correlazione comportamentale tra soggetti 2847-C e 2847-K: in aumento. Probabilità di devianza congiunta: trentaquattro per cento.* Un analista di turno, all'inizio del suo secondo caffè, vide la nota, valutò che non raggiungesse la soglia di intervento, e passò al fascicolo successivo.
+Il nuovo incrocio di dati dal laboratorio, quel martedì, fu inserito in un fascicolo congiunto e ricevette una classificazione preliminare. *Correlazione comportamentale tra soggetti 2847-C e 2847-K: in aumento. Probabilità di devianza congiunta: trentaquattro per cento.* Un analista di turno valutò che non raggiungesse la soglia di intervento, e passò al fascicolo successivo.
 
-Ma il Sistema non dimenticava. Mai. E i fascicoli, nel tempo, diventavano sempre più spessi.
+Ma il Sistema non dimenticava. I fascicoli, nel tempo, diventavano più spessi.

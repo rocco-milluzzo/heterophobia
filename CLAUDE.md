@@ -55,7 +55,7 @@ The story is told by a mysterious narrator (revealed as Alice at the end) who re
 - No emojis unless explicitly requested
 - When editing, preserve exact indentation and formatting
 - Chapter titles follow pattern: "# Capitolo N: Title" (italiano)
-- **Avoid AI writing artifacts**: never use em-dash "—" or en-dash "–" as punctuation (replace with comma, colon, parenthesis, or full stop). Exceptions: the intentional interruptions "Adesso—" and "ricor—" in Chapter 39 "Fine" (the manuscript-being-interrupted effect).
+- **Avoid AI writing artifacts**: never use em-dash "—" or en-dash "–" as punctuation (replace with comma, colon, parenthesis, or full stop). No exceptions.
 - Avoid tricolo patterns "X. Y. Z." when not motivated; avoid aphorisms in dialogue; avoid isolated one-word lines used for "impact".
 - Check Italian accents carefully: perché, però, né, sé, lì, là, dà, è.
 - Keep virgolette dritte `" "` in source markdown (the PDF renderer converts them); apostrofi ASCII `'` are acceptable in source.

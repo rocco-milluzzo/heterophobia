@@ -204,4 +204,4 @@ Nella nicchia accanto, James e Kate parlavano a voce molto bassa. Alice non sent
 
 Alice chiuse gli occhi.
 
-Si addormentò pensando a una bambina che cade in un mondo diverso, e a una ragazza di quindici anni che impara a trovare la sua strada, e non seppe più distinguere quale delle due fosse lei.
+Si addormentò pensando a una bambina che cade in un mondo diverso, e a una ragazza di quindici anni che impara a trovare la sua strada.

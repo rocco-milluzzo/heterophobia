@@ -241,13 +241,9 @@ Ma non sono riuscita a fermarmi.
 
 Ho chiuso il diario e non sono riuscita a smettere di piangere.
 
-Enrico Ferrante. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che aveva visto sua moglie tornare dalla rieducazione come un guscio vuoto. Che aveva assistito alle retate, ai pestaggi, alle sparizioni. Che aveva trascorso anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva: scomparendo.
+Enrico Ferrante. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che aveva visto sua moglie tornare dalla rieducazione come un guscio vuoto. Che aveva trascorso anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva: scomparendo.
 
-Non era un eroe. Non era un ribelle. Era un sopravvissuto, e i sopravvissuti portano cicatrici invisibili che non guariscono mai.
-
-Era solo un padre che amava sua figlia troppo per tradirla, ma troppo spezzato dall'epoca dell'eterofobia per combattere al suo fianco. Aveva già perso tutto una volta. Non poteva sopportare di perderlo di nuovo.
-
-E forse, in quel fallimento, c'era una forma di amore che non avevo mai considerato. L'amore di chi sa di non poter fare abbastanza, e sceglie di fare quel poco che può. L'amore di chi protegge non combattendo, ma semplicemente non denunciando. Non tradendo.
+Era un padre che amava sua figlia troppo per tradirla, ma troppo spezzato dall'epoca per combattere al suo fianco. Aveva già perso tutto una volta. Non poteva sopportare di perderlo di nuovo.
 
 ---
 

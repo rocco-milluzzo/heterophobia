@@ -6,9 +6,9 @@ Fu Remo ad accorgersene per primo, perché Remo aveva l'abitudine di accorgersi 
 
 Alice aveva quattordici anni. Era una ragazza lunga e scura, con gli occhi di James e i movimenti rapidi di Kate, e aveva chiesto di venire nelle spedizioni già da due anni. Kate non voleva. James aveva trattato. Alla fine la regola era diventata: Alice poteva andare solo con Remo, e Remo rispondeva di lei come di sé. Remo aveva accettato senza commentare. Alice si alzava all'alba, si legava i capelli dietro, prendeva lo zaino di tela, e andava.
 
-Quel giorno di luglio erano partiti in sei. Remo, Alice, due ragazzi della comunità satellite a nord, Vera, che nelle Zone si era dimostrata più resistente di quanto la sua camminata avesse lasciato intendere, e un uomo nuovo arrivato in primavera, Saulo, che sapeva riconoscere i funghi. Stavano andando verso le rovine di un vecchio agriturismo sulla collina, dove Remo aveva visto l'anno prima una pianta di pesche ancora viva.
+Quel giorno di luglio erano partiti in sei. Remo, Alice, due ragazzi della comunità satellite a nord, Vera, e un uomo della comunità che sapeva riconoscere i funghi. Stavano andando verso le rovine di un vecchio agriturismo sulla collina, dove Remo aveva visto l'anno prima una pianta di pesche ancora viva.
 
-Ci misero tre ore. Il sole era alto quando arrivarono. Le pesche c'erano ancora, piccole, rugose, quasi secche, ma dolci. Vera raccolse, Saulo si allontanò a cercare funghi sul versante ombroso, i due ragazzi riempivano uno zaino a turno. Remo e Alice girarono attorno alla casa crollata, per abitudine, a controllare che non ci fosse nessuno.
+Ci misero tre ore. Il sole era alto quando arrivarono. Le pesche c'erano ancora, piccole, rugose, quasi secche, ma dolci. Vera raccolse, l'altro si allontanò a cercare funghi sul versante ombroso, i due ragazzi riempivano uno zaino a turno. Remo e Alice girarono attorno alla casa crollata.
 
 Fu Alice a vederlo.
 
@@ -30,11 +30,11 @@ Alice si inginocchiò anche lei. Guardò il piccolo corpo rotto. Si accorse che 
 
 "Molto."
 
-Remo lo raccolse con un fazzoletto, lo avvolse, lo mise nello zaino. Si voltò verso Vera che stava arrivando, la mano piena di pesche.
+Remo lo raccolse con un fazzoletto, lo avvolse, lo mise nello zaino. Si voltò verso Vera che stava arrivando con la mano piena di pesche.
 
 "Torniamo," disse Remo. "Adesso."
 
-Vera capì subito. Chiamò Saulo con un fischio. Saulo arrivò di corsa. Tornarono al rifugio senza fermarsi, e il sole era ancora alto.
+Vera capì subito. Richiamò gli altri con un fischio. Tornarono al rifugio senza fermarsi, e il sole era ancora alto.
 
 ---
 
@@ -108,7 +108,7 @@ Il consiglio si fece quella sera stessa. Venti persone nella stanza comune, sedu
 
 "No."
 
-"Abbiamo otto bambini sotto i dieci anni," disse un uomo di Saulo. "Tre non camminano sei settimane."
+"Abbiamo otto bambini sotto i dieci anni," disse un uomo della comunità. "Tre non camminano sei settimane."
 
 "Lo so."
 

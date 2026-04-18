@@ -18,15 +18,13 @@ Kate trattenne un sorriso. Tipico.
 
 ---
 
-Non era la prima volta che qualcuno la guardava. A quindici anni aveva già imparato a riconoscere gli sguardi: quelli delle ragazze che la valutavano, quelli dei professori che la giudicavano, quelli delle telecamere, sempre accese, sempre puntate. Ma questo era diverso.
+Non era la prima volta che qualcuno la guardava. A quindici anni aveva già imparato a riconoscere gli sguardi: quelli delle ragazze che la valutavano, quelli dei professori, quelli delle telecamere sempre puntate. Ma questo era diverso.
 
-C'era qualcosa di affamato in quello sguardo. Qualcosa di disperato.
+C'era qualcosa di affamato in quello sguardo. Qualcosa di sbagliato.
 
-Qualcosa di sbagliato.
+Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore. Un cognome singolo, insolito. Di solito le famiglie conformi avevano cognomi doppi, uno per genitore.
 
-Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore quando lo aveva interrogato. Un cognome singolo, insolito. Di solito le famiglie conformi avevano cognomi doppi, uno per genitore. Forse i suoi genitori avevano lo stesso cognome per coincidenza, o forse c'era qualcosa di diverso in quella famiglia.
-
-Lui, però, non sembrava normale. Sembrava... tormentato.
+Lui, però, sembrava tormentato.
 
 Kate scosse la testa e cercò di concentrarsi sulla lezione. Non erano affari suoi.
 
@@ -90,11 +88,9 @@ Kate rimase in silenzio. Pensava al ragazzo della finestra, a quello sguardo aff
 
 Le settimane passarono. Il grigio del cielo non cambiava mai, ma qualcosa dentro Kate sì.
 
-Si ritrovava a cercare Valeri con lo sguardo. Non capiva perché.
+Si ritrovava a cercare Valeri. Non capiva perché. Ogni volta che lo vedeva, un calore le saliva al petto.
 
-Ma ogni volta che lo vedeva, un calore le saliva al petto.
-
-Lui non le aveva mai parlato. La guardava e basta, e quando lei ricambiava lo sguardo, distoglieva gli occhi.
+Lui non le aveva mai parlato. La guardava e basta, e quando lei ricambiava, distoglieva gli occhi.
 
 "A chi stai pensando?"
 
@@ -116,13 +112,11 @@ A chi stava pensando?
 
 La risposta arrivò un mese dopo, nel modo più inaspettato.
 
-Era tardi, quasi l'ora del coprifuoco. Kate stava tornando verso la sua Unità dopo una sessione di studio prolungata quando lo vide. Valeri, seduto su una panchina nel cortile interno del Complesso, da solo.
+Era tardi, quasi l'ora del coprifuoco. Kate stava tornando verso la sua Unità quando lo vide. Valeri, seduto su una panchina nel cortile interno del Complesso, da solo.
 
-Non stava facendo niente. Guardava il cielo, quel cielo grigio e uniforme che era tutto quello che avevano, con un'espressione che Kate non riusciva a decifrare. Tristezza? Rabbia? Rassegnazione?
+Guardava il cielo con un'espressione che Kate non riusciva a decifrare. Tristezza, rabbia, rassegnazione.
 
-Si fermò. Avrebbe dovuto proseguire.
-
-Ma stava già camminando verso la panchina.
+Si fermò. Avrebbe dovuto proseguire. Ma stava già camminando verso la panchina.
 
 "È tardi," disse. "Tra poco scatta il coprifuoco."
 

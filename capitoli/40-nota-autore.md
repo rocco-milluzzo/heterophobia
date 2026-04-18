@@ -2,13 +2,13 @@
 
 Se sei arrivato fin qui, grazie.
 
-Grazie per aver attraversato questo mondo insieme a me. Per aver creduto in James quando lui non credeva in se stesso. Per aver amato Kate nonostante la sua imprudenza. Per aver cercato di capire Alice mentre lei cercava di capire se stessa.
+Grazie per aver attraversato questo mondo insieme a me, per aver accompagnato James e Kate, e per aver ascoltato Alice mentre cercava la forma da dare alla loro storia.
 
-Questo romanzo è nato da una paura. La paura di un mondo dove l'amore diventa crimine, dove la famiglia diventa sovversione, dove esistere nel modo sbagliato è sufficiente per essere cancellati. Sembrava fantascienza quando ho iniziato a scrivere. Oggi sembra un po' meno lontano.
+Questo romanzo è nato da un'inquietudine. Quando ho cominciato a scriverlo sembrava fantascienza. Oggi mi sembra un po' meno lontano, e non è una cosa che mi fa piacere.
 
-Ma è nato anche da una speranza. Che ci sarà sempre qualcuno disposto a guardare il Sistema negli occhi e dire *no*. Non con le armi. Semplicemente vivendo, amando, esistendo.
+È nato anche dalla curiosità per ciò che, dentro un sistema ben costruito, tiene aperto uno spiraglio: una ninna nanna che sopravvive a un farmaco, una firma stilometrica che passa da una mano all'altra, una cassetta tenuta per quindici anni dietro una placca d'acciaio da un uomo che non sa perché l'ha presa.
 
-James e Kate hanno fatto una scelta, e hanno pagato il prezzo. Ma Alice è esistita. La loro storia è stata raccontata. Tu, ora, la conosci.
+Alice ha scritto il suo manoscritto. Non so, nemmeno io che l'ho accompagnata, quale delle due notti sia stata la sua, e ho scelto di non deciderlo al suo posto. Mi pareva più onesto così.
 
 ---
 

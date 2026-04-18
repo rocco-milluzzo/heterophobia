@@ -170,7 +170,7 @@ James estrasse il coltello col gesto goffo di chi non aveva mai estratto un colt
 
 Si lanciò avanti. Jensen provò ad alzare la pistola ma era ancora a mezz'altezza. Il coltello entrò obliquo, di taglio, sulla spalla destra di Jensen, nel punto dove la giacca si apriva per il movimento. Non entrò profondo. Entrò quanto basta. Jensen gridò un suono secco e cadde all'indietro, la pistola gli sfuggì dalla mano e scivolò sulla ghiaia.
 
-James inciampò sul proprio slancio. Cadde di lato, sulla mano che reggeva il coltello, e il polso gli si girò in un modo che gli fece perdere la presa sulla lama. La colluttazione durò altri due secondi. Fu goffa. Non fu gloriosa. Fu la cosa più vera che lui avesse mai fatto.
+James inciampò sul proprio slancio. Cadde di lato, sulla mano che reggeva il coltello, e il polso gli si girò perdendo la presa sulla lama. La colluttazione durò altri due secondi. Fu goffa. Non fu gloriosa.
 
 Poi si alzò. Jensen era a terra, vivo, la mano sinistra premuta contro la spalla destra. James fece due passi all'indietro, verso il muro, verso la breccia dove erano passate Kate e Alice e Mira.
 

@@ -29,11 +29,9 @@ Ma i documenti ufficiali non dicono tutto.
 
 Non dicono che il libro ha un odore. Un odore che riconosco.
 
-È difficile da descrivere. Carta vecchia, certo. Polvere. Ma sotto c'è qualcos'altro. Qualcosa di dolce e amaro insieme, come fiori secchi dimenticati tra le pagine. Ho controllato: non ci sono fiori. Eppure l'odore resta.
+Carta vecchia, polvere. Ma sotto c'è qualcosa di dolce e amaro insieme, come fiori secchi dimenticati tra le pagine. Ho controllato: non ci sono fiori. Eppure l'odore resta.
 
-Ho passato ore a chiedermi come sia possibile. I libri antichi hanno tutti più o meno lo stesso odore: cellulosa che si degrada, acidi che evaporano lentamente. Non dovrebbe esserci niente di distintivo.
-
-Ma io so che questo è diverso.
+I libri antichi hanno tutti più o meno lo stesso odore. Questo è diverso.
 
 ---
 
@@ -49,9 +47,9 @@ Eppure qualcosa in me si ribella.
 
 ---
 
-Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicologiche. Trascrizioni di interrogatori. E uno strano documento che ho trovato per caso, catalogato come "Materiale didattico storico, Era della Transizione".
+Ci sono altri documenti sulla mia scrivania. Rapporti medici, valutazioni psicologiche, trascrizioni di interrogatori. E un documento che ho trovato per caso, catalogato come "Materiale didattico storico, Era della Transizione".
 
-È un frammento di quello che una volta chiamavano "giornale", un modo primitivo di distribuire informazioni su fogli di carta. La data è 2027. Il titolo dice: "LA FINE DEL LAVORO: MILIARDI DI PERSONE SENZA SCOPO".
+È un frammento di quello che una volta chiamavano "giornale". La data è 2027. Il titolo: "LA FINE DEL LAVORO: MILIARDI DI PERSONE SENZA SCOPO".
 
 *"L'intelligenza artificiale generativa ha eliminato il 40% dei posti di lavoro globali in meno di quattro anni. Gli economisti avvertono che la tendenza è irreversibile.*
 
@@ -61,11 +59,9 @@ Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicol
 
 *Nel frattempo, i suicidi sono aumentati del 300% tra i lavoratori disoccupati. I servizi di salute mentale sono al collasso. E l'AI continua a migliorare."*
 
-Il documento si interrompe lì. Non so cosa sia successo dopo, o meglio, lo so fin troppo bene. Le guerre. La fame. I due miliardi di morti. La Fusione. Il Sistema.
+Il documento si interrompe lì. Lo so cosa è successo dopo. Le guerre. La fame. I due miliardi di morti. La Fusione. Il Sistema.
 
-Guardo questo pezzo di carta ingiallita e mi chiedo: c'era un momento in cui avremmo potuto scegliere diversamente? Un punto in cui qualcuno avrebbe potuto fermare tutto, redistribuire i benefici, costruire un mondo dove le macchine lavorassero per tutti invece che per pochi?
-
-Probabilmente sì. Ma nessuno lo fece. E ora siamo qui.
+Guardo questo pezzo di carta ingiallita e mi chiedo se ci fosse un momento in cui avremmo potuto scegliere diversamente. Probabilmente sì. Nessuno lo fece.
 
 ---
 
@@ -127,9 +123,9 @@ Ho passato settimane a cercare una risposta. Ho confrontato la grafia con tutti 
 
 Mi rendo conto che sto perdendo l'obiettività.
 
-Una storica, una ricercatrice seria, non dovrebbe passare le notti a fissare un libro di poesie cercando di capire perché abbia un odore familiare. Non dovrebbe sentire il cuore accelerare leggendo le parole che due sconosciuti si scrivevano tanti anni fa.
+Una ricercatrice seria non dovrebbe passare le notti a fissare un libro di poesie cercando di capire perché abbia un odore familiare. Non dovrebbe sentire il cuore accelerare leggendo le parole che due sconosciuti si scrivevano tanti anni fa.
 
-Ma ecco il punto: non mi sembrano sconosciuti.
+Ma non mi sembrano sconosciuti.
 
 È assurdo. Non li ho mai incontrati. James è morto, o scomparso (i documenti si contraddicono), e Kate... Kate non so dove sia. Forse conformata, forse nascosta, forse nelle Zone Abbandonate con gli altri ribelli. Le tracce si perdono nel 2122, l'anno del raid.
 
@@ -173,26 +169,18 @@ Manca il centro della storia.
 
 ---
 
-Domani continuerò a scavare. Ho ancora molto da ricostruire: gli anni della giovinezza, il primo contatto fisico, la decisione di restare insieme nonostante tutto.
+Domani continuerò a scavare. Ho ancora molto da ricostruire.
 
 Ma stanotte, prima di dormire, voglio rileggere ancora una volta quella poesia.
 
 *"Non ti chiedo di amarmi per sempre.*
 *Ti chiedo solo di amarmi adesso."*
 
-Chissà chi l'ha sottolineata per primo. James o Kate.
-
-Chissà se sapevano già, allora, che l'"adesso" sarebbe diventato venticinque anni.
-
-Chissà se ne è valsa la pena.
+Chissà chi l'ha sottolineata per primo. Chissà se sapevano, allora, che l'"adesso" sarebbe diventato venticinque anni.
 
 ---
 
-(So che ne è valsa la pena.)
-
-(Non so come faccio a saperlo.)
-
-(Ma lo so.)
+(So che ne è valsa la pena. Non so come faccio a saperlo.)
 
 ---
 

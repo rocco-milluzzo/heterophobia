@@ -2,7 +2,7 @@
 
 Arrivarono nelle Zone Orientali nel cuore dell'inverno.
 
-Marcus li condusse dal checkpoint al rifugio principale attraverso una mulattiera che Kate non riuscì a distinguere dal resto del paesaggio. Camminavano da quattro ore. La neve cadeva fina, inclinata, e si scioglieva sul bavero del cappotto di James come saliva. Kate si teneva una mano sul ventre sotto la giacca. Era al quarto mese e mezzo. Il freddo le arrivava ai polmoni come qualcosa di solido, un oggetto che bisognava inghiottire e poi tossire via a piccoli colpi.
+Marcus li condusse al rifugio principale attraverso una mulattiera che Kate non riuscì a distinguere dal resto del paesaggio. Camminavano da quattro ore. La neve cadeva fina, inclinata, e si scioglieva sul bavero del cappotto di James come saliva. Kate si teneva una mano sul ventre sotto la giacca. Era al quarto mese e mezzo. Il freddo le arrivava ai polmoni come qualcosa di solido.
 
 "Respira piano," le disse Marcus a un certo punto. "L'aria qui non è stata filtrata. Se fai respiri grandi ti brucia dentro."
 
@@ -78,11 +78,9 @@ Kate si accorse di fidarsi della voce di quella donna come non si era mai fidata
 
 ---
 
-La comunità principale era fatta di cinquanta persone.
+La comunità principale era di cinquanta persone. Altri trecento erano disseminati in rifugi più piccoli, casali, capanne, vecchie stazioni ferroviarie. Una rete allungata per oltre quaranta chilometri di foresta e rovine. Marcus li teneva insieme con messaggeri a piedi, segnali luminosi, codici scritti a mano. Non esisteva scrittura digitale nelle Zone.
 
-Altri trecento erano disseminati in rifugi più piccoli, casali, capanne, vecchie stazioni ferroviarie, grotte di cava. Una rete allungata per oltre quaranta chilometri di foresta e di rovine. Marcus li teneva insieme con un sistema di messaggeri a piedi, segnali luminosi, codici scritti a mano su pezzi di carta. Non esisteva scrittura digitale nelle Zone. Chi entrava, lasciava quella parte di sé fuori.
-
-Ognuno aveva un compito. Chi cacciava. Chi coltivava nelle serre improvvisate. Chi riparava. Chi faceva da levatrice, chi lavava, chi insegnava ai bambini nati lì a leggere su vecchi libri che Enzio aveva fatto arrivare anni prima per canali che James non aveva mai saputo esistessero.
+Ognuno aveva un compito. Chi cacciava. Chi coltivava. Chi riparava. Chi insegnava ai bambini a leggere su vecchi libri che Enzio aveva fatto arrivare anni prima.
 
 Nessun denaro. Nessun registro.
 

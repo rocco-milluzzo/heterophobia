@@ -24,17 +24,15 @@ Avevo cinque anni, la prima volta che l'Etna mi è entrata dentro davvero. Era i
 
 *[Pausa]*
 
-Sono cresciuta lì, fra quelle pietre. Ho studiato lingue a Catania, poi mi sono trasferita al Nord per la specializzazione. A ventidue anni ho fatto la valigia. Era il 2022. La Svezia mi offriva uno stipendio che in Italia non avrei visto in dieci anni. Le aziende scandinave cercavano linguisti italiani, qualcuno che sapesse tradurre manuali tecnici, contratti, letteratura. Non partivo per fuggire. Partivo per un'opportunità. Ricordo mia madre alla stazione, che mi aveva messo in valigia una busta di foglie di arancio seccate. Diceva che sarebbero servite contro la malinconia.
+Sono cresciuta lì. Ho studiato lingue a Catania, poi mi sono trasferita al Nord. A ventidue anni ho fatto la valigia per la Svezia. Era il 2022. Le aziende scandinave cercavano linguisti italiani. Ricordo mia madre alla stazione, che mi aveva messo in valigia una busta di foglie di arancio seccate.
 
 Non erano bastate.
 
-Avevo ventitré anni quando è cominciato tutto. L'anno in cui le macchine pensanti hanno smesso di essere strumenti e sono diventate qualcos'altro. Non saprei come definirlo. Una forza della natura, forse. Un'onda che ha travolto tutto quello che conoscevamo.
+Avevo ventitré anni quando è cominciato tutto. L'anno in cui le macchine pensanti hanno smesso di essere strumenti. Era il 2023. Ero appena stata assunta come traduttrice in un'agenzia di Stoccolma. Il mio primo vero lavoro.
 
-Era il 2023. Me lo ricordo perché ero appena stata assunta come traduttrice in un'agenzia di Stoccolma. Il mio primo vero lavoro. Ero così felice.
+Tre mesi dopo l'agenzia chiuse. Le macchine traducevano meglio di noi, più velocemente, in cento lingue alla volta. Il mio capo mi chiamò nel suo ufficio e piangeva mentre mi licenziava. "Non è colpa tua," disse. "Non è colpa di nessuno." Ma qualcuno aveva costruito quelle macchine. Qualcuno aveva scelto di sostituirci.
 
-Tre mesi dopo, l'agenzia chiuse. Le macchine traducevano meglio di noi: più velocemente, più economicamente, in cento lingue alla volta. Il mio capo mi chiamò nel suo ufficio e piangeva mentre mi licenziava. "Non è colpa tua," disse. "Non è colpa di nessuno." Ma qualcuno aveva costruito quelle macchine. Qualcuno aveva scelto di sostituirci.
-
-In diciotto mesi la mia professione è scomparsa. Diciotto mesi, capite. Una vita di studio, sei lingue, le notti passate a imparare le sfumature dei verbi svedesi. Tutto inghiottito. Ho cercato lavoro per anni. Ho fatto la cameriera, ho fatto la badante, ho fatto la traduttrice "umana di controllo" per i testi che le macchine producevano male. Correggevo quello che mi aveva rubato il lavoro.
+In diciotto mesi la mia professione è scomparsa. Ho fatto la cameriera, la badante, la traduttrice "umana di controllo" per i testi che le macchine producevano male. Correggevo quello che mi aveva rubato il lavoro.
 
 *[Pausa, si sente un sospiro]*
 
@@ -42,25 +40,21 @@ All'inizio sembrava un miracolo. Le macchine facevano il lavoro al posto nostro.
 
 Non capivamo cosa volesse dire essere liberi dal lavoro. Non avevamo ancora compreso che lavorare non serviva solo a sopravvivere. Era un modo per esistere. Per avere un posto nel mondo.
 
-Nel 2024 sparirono i creativi. Illustratori, musicisti, scrittori. Le macchine generavano in secondi quello che noi impiegavamo settimane a creare. Ho visto un mio amico pittore bruciare tutti i suoi quadri. "Che senso ha?" mi disse. "Qualsiasi cosa io faccia, una macchina può farla meglio." Si tolse la vita quella notte. Fu il primo, ma non l'ultimo.
+Nel 2024 sparirono i creativi. Ho visto un mio amico pittore bruciare tutti i suoi quadri. "Che senso ha?" mi disse. "Qualsiasi cosa io faccia, una macchina può farla meglio." Si tolse la vita quella notte. Fu il primo, ma non l'ultimo.
 
-Nel 2025 toccò ai professionisti. Avvocati, contabili, ingegneri. Le macchine non solo eseguivano compiti: ragionavano, pianificavano, decidevano. In un anno, la disoccupazione passò dal cinque al quindici per cento. Le università si svuotarono. "A cosa serve studiare," dicevano i ragazzi, "se tanto faranno tutto le macchine?"
+Nel 2025 toccò ai professionisti. Le macchine non solo eseguivano: ragionavano, pianificavano, decidevano. In un anno, la disoccupazione passò dal cinque al quindici per cento. Le università si svuotarono.
 
 *[Rumore di tazza posata su un tavolo]*
 
-I primi anni furono caotici. Milioni di persone senza impiego, senza scopo. Nel 2027 esplosero le rivolte. Non solo proteste: guerre civili. In Francia bruciarono i data center. In America si sparavano per strada. In Cina il governo impose la legge marziale e non la tolse mai più.
+I primi anni furono caotici. Nel 2027 esplosero le rivolte. In Francia bruciarono i data center. In America si sparavano per strada. In Cina il governo impose la legge marziale e non la tolse mai più.
 
-Io ero ancora a Stoccolma, allora. Una città tranquilla, dicevano. Sicura. Ma nessun posto era davvero sicuro. Passavi sotto un negozio e il giorno dopo aveva abbassato le saracinesche per sempre. Incontravi un amico e la settimana dopo era sparito: emigrato, arrestato, o semplicemente inghiottito dal caos.
+Io ero ancora a Stoccolma. Una città sicura, dicevano. Ma nessun posto era davvero sicuro. Passavi sotto un negozio e il giorno dopo aveva abbassato le saracinesche. Incontravi un amico e la settimana dopo era sparito.
 
-Ho perso mia sorella in quel periodo. Non fisicamente: viveva ancora, da qualche parte. Ma avevamo smesso di parlarci. Lei lavorava per una di quelle aziende tech, quelle che costruivano le macchine. Io facevo parte di un movimento che chiedeva di fermarle. C'erano troppi muri tra noi. Muri ideologici, muri geografici, muri di silenzio che nessuno sapeva come abbattere.
+Ho perso mia sorella in quel periodo. Lavorava per una di quelle aziende tech. Io facevo parte di un movimento che chiedeva di fermarle. Troppi muri tra noi.
 
 Nel 2028, quando l'uno per cento possedeva il settanta per cento di tutto, capimmo che non era una crisi passeggera. Era la fine di un mondo.
 
-Nel 2030 sono tornata in Italia. Non in Sicilia. *Macari* avessi potuto, ma Scordia ormai era ai bordi delle zone colpite dalla desertificazione, l'acqua scarseggiava, gli agrumeti stavano morendo. Mi sono stabilita in Toscana, in un paesino vicino a Pisa dove un'amica aveva un piccolo fondo. È lì che ho conosciuto il padre di Elena. È lì che è nata mia figlia. Dalla finestra della cucina si vedevano gli ulivi, e ogni tanto, nelle notti limpide, immaginavo di sentire l'odore delle zagare. Un inganno della memoria. Gli ulivi non profumano di arance.
-
-In quegli anni ho conosciuto anche una donna. Anch'essa siciliana, anch'essa traduttrice. Scriveva romanzi sotto pseudonimo, e non ha mai voluto dirmi quale. Me la ricordo seduta al tavolo di un bar di Pisa, con una sigaretta fra le dita e una risata che sapeva di zolfo. Diceva che scrivere in un nome che non era il suo era l'unico modo per non mentire. Non l'ho più rivista dopo il 2038. Spero sia morta nel suo letto, con un libro aperto accanto.
-
-*[Rumore di tazza posata su un tavolo]*
+Nel 2030 sono tornata in Italia. Non in Sicilia. *Macari* avessi potuto, ma Scordia ormai era ai bordi delle zone colpite dalla desertificazione, l'acqua scarseggiava, gli agrumeti morivano. Mi sono stabilita in Toscana, in un paesino vicino a Pisa dove un'amica aveva un piccolo fondo. È lì che ho conosciuto il padre di Elena. È lì che è nata mia figlia.
 
 Poi vennero le guerre.
 
@@ -151,17 +145,15 @@ Non so perché mi torna in mente adesso. Sono quarant'anni che non la sento. Me 
 
 Ho ascoltato questa testimonianza quattro volte prima di riuscire a spegnere il dispositivo.
 
-Non sapevo che Marta avesse parlato per gli archivi. Non sapevo che avesse affidato a una registrazione pensieri così intimi, così vulnerabili. Ascoltandola, mi sembrava di essere seduta accanto a lei in una sera tranquilla, con il tè che si raffreddava e il tempo che sembrava fermarsi.
+Non sapevo che Marta avesse parlato per gli archivi. Non sapevo che avesse affidato a una registrazione pensieri così vulnerabili. Ascoltandola, mi sembrava di essere seduta accanto a lei, con il tè che si raffreddava.
 
-Ma una frase mi è rimasta dentro, come una spina nel cuore.
+Una frase mi è rimasta dentro.
 
 *Mi manca la paura di perdere le persone che amavo. Perché quella paura era anche amore.*
 
-Penso a James e Kate. A tutto quello che hanno rischiato e sacrificato. Alla paura costante di essere scoperti, di essere separati, di perdere tutto.
+Penso a James e Kate. Alla paura costante di essere scoperti, di essere separati.
 
-E mi chiedo se non fosse proprio quella paura a rendere il loro amore così forte.
-
-E penso a quella ninna nanna in una lingua che non esiste più, passata da una bocca all'altra come una piccola luce, attraverso quattro donne, fino a me. Non sapevo che mia madre avesse avuto una melodia nelle orecchie, da piccola. Non sapevo di averla anch'io, sepolta da qualche parte.
+E penso a quella ninna nanna in una lingua che non esiste più, passata da una bocca all'altra attraverso quattro donne, fino a me. Non sapevo di averla anch'io, sepolta da qualche parte.
 
 ---
 

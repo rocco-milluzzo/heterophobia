@@ -205,6 +205,6 @@ Si riaddormentò.
 
 James non si mosse per un lungo momento. Poi fece una cosa che Kate gli aveva visto fare solo tre volte in vita sua, tutte e tre in quella stanza, tutte e tre dopo che era nata Alice. Si piegò in avanti, le mani sugli occhi, e pianse senza fare rumore. Non per molto. Qualche minuto. Il minimo che un corpo chiede per tenersi insieme.
 
-Kate non disse niente. Gli mise una mano in mezzo alla schiena e ce la tenne, aperta, calma, finché lui non respirò più piano. Ripensò a un verso che gli aveva scritto undici anni prima, su un foglio piegato in due, in un laboratorio di scuola. *Non ti chiedo di amarmi per sempre.* Allora l'aveva scritta come una promessa al ribasso, per paura di chiedere troppo. Adesso capiva che era la cosa più grande che si potesse chiedere a qualcuno: di esserci, giorno per giorno, anche quando il sempre non esisteva.
+Kate non disse niente. Gli mise una mano in mezzo alla schiena e ce la tenne finché lui non respirò più piano. Ripensò a un verso che gli aveva scritto undici anni prima, su un foglio piegato in due, in un laboratorio di scuola. *Non ti chiedo di amarmi per sempre.*
 
-Fuori era buio. Dentro, Alice dormiva con la mano sulla bambola di un bambino che non c'era più, e sua madre cantava mentalmente tre note che salivano e una che scendeva, una melodia che era passata per cinque generazioni senza che nessuna sapesse di trasmetterla.
+Fuori era buio. Dentro, Alice dormiva con la mano sulla bambola di un bambino che non c'era più, e sua madre cantava mentalmente tre note che salivano e una che scendeva.

@@ -6,11 +6,11 @@ Non alla propria: quella era diventata un concetto astratto, qualcosa che riguar
 
 "L'immortalità," stava dicendo il professore, "è il dono più grande che l'umanità si sia mai fatta. Il trionfo definitivo della ragione sulla natura."
 
-James guardava fuori dalla finestra. Il cielo era di quel grigio uniforme che significava filtrazione atmosferica attiva, nuvole artificiali che proteggevano la città. Tutto era sotto controllo. Tutto era al sicuro. Tutto era eterno.
+James guardava fuori dalla finestra. Il cielo era di quel grigio uniforme che significava filtrazione atmosferica attiva, nuvole artificiali che proteggevano la città. Tutto era sotto controllo, al sicuro, eterno.
 
 Fu in quel momento che sentì una risata.
 
-Non era una risata forte, non attirava l'attenzione di nessuno tranne la sua. Era un suono piccolo, quasi soffocato, qualcuno che cercava di trattenerlo e non ci riusciva. James si voltò verso quel suono.
+Un suono piccolo, quasi soffocato, qualcuno che cercava di trattenerlo e non ci riusciva. James si voltò.
 
 E la vide.
 
@@ -22,9 +22,9 @@ James non sapeva il suo nome. Non l'aveva mai notata prima, il che era strano pe
 
 Ma lei era lì, e lui non riusciva a smettere di guardarla.
 
-C'era qualcosa nel modo in cui rideva. Ridere era un gesto inutile. Non produceva nulla, non serviva a nessuno scopo sociale approvato. Era solo... gioia. Gioia pura, spontanea, non regolata.
+C'era qualcosa nel modo in cui rideva. Ridere era un gesto inutile. Non produceva nulla, non serviva a nessuno scopo sociale approvato. Era solo gioia pura, spontanea, non regolata.
 
-James si accorse che stava trattenendo il respiro.
+James si accorse che stava trattenendo il fiato.
 
 ---
 
@@ -56,7 +56,7 @@ Ferrante. Adesso aveva un nome.
 
 ---
 
-Per il resto dell'ora, James non riuscì a concentrarsi su nient'altro. Ogni volta che lei si muoveva, ogni volta che girava una pagina, o si scostava i capelli dal viso, o semplicemente respirava, lui lo notava. Era come se i suoi sensi si fossero sintonizzati per percepire solo lei.
+Per il resto dell'ora, James non riuscì a concentrarsi su nient'altro. Ogni volta che lei girava una pagina, o si scostava i capelli dal viso, lui lo notava. I suoi sensi si erano sintonizzati per percepire solo lei.
 
 Questo è sbagliato, si disse. Questo è pericoloso.
 
@@ -74,9 +74,7 @@ Ma non lo fece.
 
 ---
 
-Il segnale di fine lezione risuonò e tutti si alzarono. James mise via i libri lentamente, cercando di non guardare verso di lei. Se l'avesse guardata ancora, avrebbe fatto qualcosa di stupido. Avrebbe attirato l'attenzione.
-
-Si avviò verso la porta, gli occhi fissi sul pavimento.
+Il segnale di fine lezione risuonò e tutti si alzarono. James mise via i libri senza guardare verso di lei. Si avviò alla porta, gli occhi sul pavimento.
 
 "Ehi."
 
@@ -176,15 +174,13 @@ Ma oggi aveva visto una ragazza ridere, e qualcosa si era riaperto.
 
 ---
 
-Chiuse gli occhi e cercò di dormire, ma vedeva solo lei. La curva del suo collo. Il movimento delle sue labbra quando rideva. La luce nei suoi occhi quando aveva risposto al professore.
+Chiuse gli occhi e cercò di dormire, ma vedeva solo lei. La curva del collo. Il movimento delle labbra. La luce negli occhi quando aveva risposto al professore.
 
 Di solito i suoi sogni erano pieni di slogan. SomniLearn, lo chiamavano: educazione notturna, per rinforzare i valori corretti.
 
-Ma stanotte i sogni erano diversi.
-
 Non poteva cercarla nel database scolastico. Le ricerche erano monitorate. Non poteva parlarle. Le amicizie tra ragazzi e ragazze erano scoraggiate.
 
-Non poteva pensare a lei. Ma ci pensava lo stesso.
+Non poteva pensare a lei. Ci pensava lo stesso.
 
 ---
 

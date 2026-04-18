@@ -1,10 +1,10 @@
 # Capitolo 16: La Decisione
 
-Alla sesta settimana, il corpo di Kate aveva cominciato a parlarle in una lingua che solo lei sapeva leggere.
+Alla sesta settimana, il corpo di Kate parlava una lingua che solo lei sapeva leggere.
 
-Non erano segni grossi, niente che si potesse vedere dall'esterno. Era il seno che le pareva più pesante del solito quando alla mattina chiudeva la chiusura della blusa, era la stanchezza che le arrivava alle tre del pomeriggio e le abbassava le palpebre anche se aveva dormito, era una sensibilità nuova ai profumi, anche i più neutri, il disinfettante dei banchi, il solvente dei pennarelli, l'odore dell'acqua distillata appena aperta. Al quarto giorno di quella settimana, Kate si era trovata a piangere in silenzio davanti a una piastra Petri, senza una ragione, senza un preavviso, con le lacrime che le cadevano sulla superficie di agar già seminata, e aveva dovuto sostituire la piastra e rifare il campione fingendo con se stessa di essersi distratta. Il corpo, pensò, sapeva già cose che la testa non aveva ancora raccontato a nessuno.
+Non erano segni grossi, niente di visibile dall'esterno. Era il seno più pesante quando al mattino chiudeva la blusa, la stanchezza che le arrivava alle tre del pomeriggio, una sensibilità nuova ai profumi anche neutri, il disinfettante dei banchi, il solvente dei pennarelli. Al quarto giorno si era trovata a piangere in silenzio davanti a una piastra Petri, senza ragione, con le lacrime che le cadevano sulla superficie di agar seminata, e aveva dovuto rifare il campione fingendo con se stessa di essersi distratta. Il corpo sapeva cose che la testa non aveva ancora detto a nessuno.
 
-Quella mattina di fine inverno era entrata in laboratorio alle sette e ventuno. Yuki era già al proprio banco, come sempre. Kate aveva fatto il giro della Sala 2, controllato i monitor di temperatura, aperto il terminale, avviato la serie di validazioni. Per la prima mezz'ora non aveva alzato gli occhi. Quando si era concessa un respiro, si era accorta che il silenzio fra lei e Yuki non era il silenzio operativo che si scambiavano di solito, quel silenzio efficiente di due professioniste che condividono un banco di lavoro. Era un altro. Era più pieno.
+Quella mattina di fine inverno era entrata in laboratorio alle sette e ventuno. Yuki era già al proprio banco. Kate aveva fatto il giro della Sala 2, controllato i monitor di temperatura, avviato le validazioni. Per la prima mezz'ora non aveva alzato gli occhi. Quando si era concessa una pausa, si era accorta che il silenzio fra lei e Yuki non era quello operativo di tutti i giorni. Era un altro, più pieno.
 
 Alle dieci e mezza, la pausa. Yuki si alzò, attraversò la sala, riempì un bicchiere dal distributore d'acqua fredda, e invece di tornare al proprio posto venne al banco di Kate e glielo posò accanto al microscopio, senza dire niente. Kate lo guardò per un istante e poi la guardò.
 
@@ -68,8 +68,8 @@ Parlò piano, al buio.
 
 Aspettò un secondo, come se davvero ci fosse qualcuno ad aspettare la frase successiva.
 
-"Ti prometto tre cose che hanno promesso a me quando sono nata, e che non hanno mantenuto. Ti prometto che il mondo sarà giusto. Ti prometto che non dovrai avere paura. Ti prometto che non sarai sola." Si fermò, e le venne da ridere un poco, una risata corta e sottile che le uscì più come un respiro. "Non posso promettertele sul serio. Nessuna di queste tre. Il mondo non sarà giusto con te, almeno per un po'. Paura ne avrai, eccome. E sola sarai, in certi momenti, perché nessuno può stare dentro un altro corpo. Ma ci proverò."
+"Ti prometto tre cose che hanno promesso a me quando sono nata, e che non hanno mantenuto. Che il mondo sarà giusto. Che non dovrai avere paura. Che non sarai sola." Si fermò, e le venne da ridere un poco, una risata sottile che le uscì più come un respiro. "Non posso promettertele sul serio. Il mondo non sarà giusto con te, almeno per un po'. Paura ne avrai. E sola sarai, in certi momenti, perché nessuno può stare dentro un altro corpo. Ma ci proverò."
 
-Chiuse gli occhi. Sentì che, dal giorno seguente, sarebbe cominciata un'altra cosa. Non la paura, che c'era da mesi. Non la determinazione, che c'era da prima ancora. Un'altra cosa, più quieta e più dura: l'obbligo. L'obbligo di non sbagliare più niente di cruciale, per nove mesi, per il tempo che sarebbe occorso. L'obbligo di essere, da quel punto in avanti, una persona che non poteva più permettersi la distrazione.
+Chiuse gli occhi. Sentì che, dal giorno seguente, sarebbe cominciata un'altra cosa. Non la paura, non la determinazione. L'obbligo. L'obbligo di non sbagliare più niente di cruciale, per nove mesi.
 
 Si addormentò con la mano ancora appoggiata al ventre, e dormì, per la prima volta da settimane, un sonno senza sogni.

@@ -106,18 +106,14 @@ A tre isolati di distanza, nell'ufficio del supervisore notturno, un monitor lam
 
 *Anomalia rilevata: Unità 2847-K. Sensori ambientali offline per 8.3 ore. Simulazione di presenza attivata.*
 
-L'operatore aggrottò le sopracciglia. Scorse i dati, incrociò i pattern, notò la correlazione con un altro profilo.
+L'operatore scorse i dati, incrociò i pattern, notò la correlazione con un altro profilo.
 
 *Soggetto 2847-C: posizione sconosciuta durante lo stesso intervallo.*
 
-Esitò un momento. Poteva essere un malfunzionamento. Poteva essere niente.
-
-Ma il protocollo era chiaro.
+Esitò. Poteva essere un malfunzionamento. Ma il protocollo era chiaro.
 
 *Segnalazione inviata. Unità di verifica allertata. Ispezione programmata: 72 ore.*
 
-L'operatore chiuse il file e passò al successivo. Era solo una nota tra migliaia. Probabilmente non significava nulla.
+Chiuse il file e passò al successivo. Era solo una nota tra migliaia.
 
-Ma a tre isolati di distanza, ignara di tutto, Kate dormiva ancora con il sorriso sulle labbra. La mano sinistra sotto il cuscino, stretta intorno al libro. E la ninna nanna senza parole che le era rimasta in gola, pronta per qualcuno che ancora non esisteva.
-
-E il tempo che le restava, senza saperlo, aveva appena cominciato il suo conto alla rovescia.
+A tre isolati di distanza, Kate dormiva ancora. La mano sinistra sotto il cuscino, stretta intorno al libro. E la ninna nanna senza parole che le era rimasta in gola, pronta per qualcuno che ancora non esisteva.

@@ -4,9 +4,9 @@
 
 Ho camminato per tre mesi.
 
-Sono uscita dal Sistema in febbraio, con un permesso falso che Vera mi aveva preparato, e ci ho messo quattro giorni a capire che nessuno mi stava inseguendo. Quattro giorni di un'ansia sottile, che guardavo la strada alle spalle ogni cinquecento metri, e poi la consapevolezza: a venticinque anni, Alice Tanaka figlia adottiva di una dottoressa di settore, non valgo abbastanza perché qualcuno venga a riprendermi. Mi hanno lasciata andare. Il Sistema, quando conviene, dimentica.
+Sono uscita dal Sistema in febbraio, con un permesso falso che Vera mi aveva preparato. Ci ho messo quattro giorni a capire che nessuno mi stava inseguendo. Quattro giorni di un'ansia sottile, a guardarmi alle spalle ogni cinquecento metri, e poi la consapevolezza: a venticinque anni, Alice Tanaka figlia adottiva, non valgo abbastanza perché qualcuno venga a riprendermi. Il Sistema, quando conviene, dimentica.
 
-I primi abiti li ho cambiati a un posto di scambio vicino alla vecchia linea dei Carpazi. Ho consegnato la giacca tecnica, gli stivali termici, il cappotto grigio da archivista, e ho ricevuto indietro una camicia di lino che sapeva di fumo, una gonna pesante di lana scura, un paio di scarpe da uomo troppo grandi che ho imbottito di stoffa. La donna che mi ha servita aveva il viso segnato come quello di mia nonna Marta negli ultimi anni. Mi ha guardata a lungo. Non mi ha chiesto niente. Quando sono uscita, mi ha infilato tra le mani un tozzo di pane.
+I primi abiti li ho cambiati a un posto di scambio vicino alla vecchia linea dei Carpazi. Ho consegnato la giacca tecnica e il cappotto da archivista, e ho ricevuto indietro una camicia di lino, una gonna di lana scura, un paio di scarpe troppo grandi che ho imbottito di stoffa. La donna che mi ha servita aveva il viso segnato come quello di mia nonna Marta. Non mi ha chiesto niente. Quando sono uscita, mi ha infilato tra le mani un tozzo di pane.
 
 Da lì in poi ho camminato.
 
@@ -208,7 +208,7 @@ So che un giorno la cercherò di nuovo, se potrò. So che è possibile che non l
 
 E so che non mi importa quale sia la risposta. Ho avuto lei. Tre settimane. Tre settimane in un monastero diroccato sopra un mare che non avevo mai visto, con l'odore del pane e le cicale al pomeriggio, e una ninna nanna siciliana che nessuno mi aveva più cantato da quando avevo quattro anni.
 
-È molto. È abbastanza. È troppo poco.
+È molto. È troppo poco.
 
-Sono tutte e tre le cose insieme, e io non so come tenerle nella stessa frase, e scrivo questa frase apposta perché non le tenga.
+Sono tutte e due le cose insieme, e io non so come tenerle nella stessa frase, e scrivo questa frase apposta perché non le tenga.
 

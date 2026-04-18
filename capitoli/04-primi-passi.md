@@ -2,9 +2,9 @@
 
 Dopo quella sera sulla panchina, James si accorse di una cosa semplice e insieme terribile: Kate lo cercava con gli occhi.
 
-Succedeva nei momenti in cui nessuno avrebbe dovuto guardarsi. Al passaggio da un'aula all'altra, tra le file dei banchi, nelle ombre brevi dell'atrio dove tutti confluivano in fila ordinata verso la mensa. Kate non si voltava mai apertamente. Gli occhi le scivolavano un poco a destra o un poco a sinistra, come per leggere un'indicazione sulla parete, e lui che camminava dalla parte opposta si sentiva attraversato per un decimo di secondo, e poi più nulla. Gli ci vollero settimane per capire che non era un caso. Kate lo mappava nello spazio come lui mappava gli angoli ciechi delle telecamere.
+Succedeva nei momenti in cui nessuno avrebbe dovuto guardarsi. Al passaggio da un'aula all'altra, tra le file dei banchi, nell'atrio dove tutti confluivano verso la mensa. Kate non si voltava mai apertamente. Gli occhi le scivolavano un poco a destra o un poco a sinistra, come per leggere un'indicazione, e lui si sentiva attraversato per un decimo di secondo. Gli ci vollero settimane per capire che non era un caso. Kate lo mappava nello spazio come lui mappava gli angoli ciechi delle telecamere.
 
-Quando se ne accorse per la prima volta, gli si strinse lo stomaco. Pensò: *adesso ci scoprono*. Poi pensò: *adesso ci siamo*. Non seppe decidere quale dei due pensieri lo spaventasse di più.
+Quando se ne accorse, gli si strinse lo stomaco. Pensò: *adesso ci scoprono*. Poi: *adesso ci siamo*. Non seppe decidere quale dei due pensieri lo spaventasse di più.
 
 ---
 
@@ -24,11 +24,11 @@ Alla sua sinistra, tre file più avanti, Kate prendeva appunti con la stessa neu
 
 Quella sera, dal terminale della sua camera, James si iscrisse al gruppo di Kate Ferrante. Gli ci volle più tempo del dovuto: il cursore rimase a lungo sospeso sulla casella. Pensò che Luca o Marco avrebbero potuto controllare la sua attività digitale, anche se non lo facevano mai. Pensò che l'algoritmo avrebbe notato l'iscrizione congiunta e l'avrebbe appaiata alla nota già esistente sul suo fascicolo. Pensò tutte queste cose e cliccò ugualmente.
 
-Nel gruppo, oltre a lui e Kate, c'erano altri due studenti. Hiro Tanaka, il fratello minore di Yuki, un ragazzo dal volto tondo che rispondeva alle interrogazioni con la precisione di un manuale e che già allora sognava una carriera nei Comitati Etici. Anni dopo, Alice avrebbe trovato il suo nome in un elenco di cittadini modello premiati dal Distretto. E Mattia, un ragazzo con una voce bassa e morbida, che parlava poco e guardava molto il pavimento. James seppe solo più tardi che Mattia, nel 2104, sarebbe stato segnalato per sintomi depressivi persistenti e trasferito in un centro di riabilitazione motivazionale, dove sarebbe rimasto per ventidue mesi. Ne sarebbe uscito silenzioso come prima, ma con gli occhi di qualcuno a cui era stato strappato qualcosa che non sapeva più nominare.
+Nel gruppo, oltre a lui e Kate, c'erano altri due studenti: un ragazzo dal volto tondo che rispondeva con la precisione di un manuale, e uno più silenzioso, con una voce bassa e gli occhi sempre sul pavimento.
 
 Si trovarono in una sala didattica del terzo piano, con un tavolo lungo e quattro terminali. Sullo schermo centrale scorrevano i "documenti primari" autorizzati per lo studio: lettere d'amore dell'epoca pre-Divieto, catalogate con numeri di protocollo, accompagnate da una dicitura rossa in alto. *Materiale patologico. Consultazione ammessa esclusivamente in contesto accademico.*
 
-Nel 2096 le lettere d'amore fuori dal perimetro accademico erano un reato da sei mesi di terapia. Dentro il perimetro accademico, invece, diventavano oggetti da dissezionare. Era la stessa lettera, la stessa carta scannerizzata, le stesse parole. Cambiava solo la cornice. James si era sempre chiesto come facesse la cornice a rendere legale un contenuto, ma aveva imparato a non fare domande.
+Nel 2096 le lettere d'amore fuori dal perimetro accademico erano un reato da sei mesi di terapia. Dentro il perimetro accademico diventavano oggetti da dissezionare. Cambiava solo la cornice.
 
 ---
 
@@ -36,13 +36,13 @@ Fu Kate a leggere la prima lettera ad alta voce. Si schiarì la gola, adottò il
 
 "*Amore mio, ho ricevuto la tua ultima ieri sera, tardi, al rientro dal turno. L'ho letta tre volte. L'ho riletta stamattina prima di alzarmi. Pensarti è diventato il modo in cui mi organizzo la giornata. Aspetto la sera come aspettavo, da bambino, il giorno di Natale...*"
 
-Hiro annotava velocemente sul tablet, estraeva parole chiave: "attesa strutturante", "regressione affettiva", "mitologia religiosa residuale". Mattia guardava il tavolo. James guardava Kate.
+I due compagni annotavano parole chiave sul tablet. James guardava Kate.
 
-E fu allora che la vide. Non sul viso, che era calmo come sempre, ma sulle mani. Un fremito piccolissimo, appena sotto la pelle, come se un muscolo si stesse contraendo e rilassando a una frequenza troppo rapida per essere volontaria. Il foglio che Kate teneva stretto tremava impercettibilmente all'angolo in basso a destra. Kate lesse l'intera lettera senza che la voce la tradisse, ma le sue mani la tradirono per tutta la durata della lettura, e James si costrinse a non guardarle per non venderla anche con gli occhi.
+E fu allora che la vide. Non sul viso, che era calmo come sempre, ma sulle mani. Un fremito piccolissimo, appena sotto la pelle, come se un muscolo si stesse contraendo e rilassando a una frequenza troppo rapida per essere volontaria. Il foglio tremava all'angolo in basso a destra. Kate lesse l'intera lettera senza che la voce la tradisse, ma le mani la tradirono per tutta la durata della lettura, e James si costrinse a non guardarle.
 
-Quando Kate finì, Hiro annotò il suo ultimo termine e disse, con il tono di chi spunta una casella: "Prototipico. Possiamo passare al documento successivo."
+Quando Kate finì, il compagno dal volto tondo annotò il suo ultimo termine e disse, con il tono di chi spunta una casella: "Prototipico. Possiamo passare al documento successivo."
 
-"Un momento," disse James. Lo disse più forte di quanto volesse. Hiro alzò lo sguardo. "Vorrei rileggerla. Per i miei appunti."
+"Un momento," disse James, più forte di quanto volesse. "Vorrei rileggerla. Per i miei appunti."
 
 Kate spinse il foglio nella sua direzione senza guardarlo. Le loro dita si sfiorarono sul bordo della carta per meno di un istante, e James sentì che il fremito di lei adesso era nel foglio, trasferito, come una corrente elettrica depositata sull'oggetto.
 
@@ -84,9 +84,9 @@ Kate annuì. Si alzò. Raccolse il tablet.
 
 "Allora dopo," disse.
 
-Quella parola, *dopo*, rimase sospesa tra loro. Non era un appuntamento. Non era una promessa. Era una categoria temporale nuova, creata in quel momento per loro due soli. Significava: non in questo istante ma in un istante futuro non precisato, in uno spazio non precisato, quando sarà possibile. Significava anche: se sarà mai possibile.
+Quella parola, *dopo*, rimase sospesa tra loro. Non era un appuntamento, non una promessa. Era una categoria temporale nuova, creata in quel momento per loro due soli. Significava: quando sarà possibile. Significava anche: se sarà mai possibile.
 
-Nei dodici mesi successivi, *dopo* sarebbe diventata la parola più usata tra loro. La dicevano nei corridoi, sottovoce, come un segno di riconoscimento. *Dopo.* *Dopo.* *Dopo, se riesco.* Non avevano bisogno di altri codici. Bastava quella parola, e l'altro sapeva che l'altro era vivo, e che l'altro stava pensando, e che l'altro stava aspettando.
+Nei dodici mesi successivi, *dopo* sarebbe diventata la parola più usata tra loro. La dicevano nei corridoi, sottovoce, come un segno di riconoscimento. Bastava quella parola, e l'altro sapeva che l'altro era vivo, e che stava aspettando.
 
 ---
 

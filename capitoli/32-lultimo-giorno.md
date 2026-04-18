@@ -56,7 +56,7 @@ Si allontanò, e Kate la seguì con lo sguardo finché non scomparve dietro il m
 
 Nel pomeriggio andarono al fiume.
 
-Era una cosa che facevano da anni, ogni volta che il caldo diventava pesante. Un chilometro a piedi dal rifugio, attraverso un bosco di roverelle che non era stato tagliato perché troppo piccolo per valere la pena, e si arrivava a un corso d'acqua stretto, poco profondo, di acqua chiara. A monte non c'era più industria da decenni. Il fiume era una delle poche cose pulite nelle Zone, e loro lo sapevano.
+Era una cosa che facevano ogni volta che il caldo diventava pesante. Un chilometro dal rifugio, attraverso un bosco di roverelle, fino a un corso d'acqua stretto e chiaro. A monte non c'era più industria da decenni. Il fiume era una delle poche cose pulite nelle Zone.
 
 Alice si spogliò ai piedi dei pantaloni e della maglia, restò in sottoveste, entrò nell'acqua lentamente e poi si lasciò andare a nuotare contro corrente con bracciate corte e regolari. Kate si sedette sulla riva, si tolse gli scarponi, lasciò scivolare le gambe nell'acqua fino al polpaccio. James si allontanò a raccogliere legna per la cucina della sera, rami secchi caduti dopo il temporale di tre giorni prima.
 

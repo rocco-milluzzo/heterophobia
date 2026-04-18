@@ -22,7 +22,7 @@ Si alzò, disse a Yuki che andava al deposito reagenti a prendere un tampone fos
 
 ---
 
-Lo sgabuzzino dietro la Sala 4 non era esattamente un nascondiglio. Era un locale di servizio, tre metri per due, con scaffali di cartucce filtranti e un lavandino d'acciaio sempre graffiato. Non aveva telecamere perché i regolamenti di sicurezza vietavano la registrazione nelle aree di stoccaggio reagenti, per paura di incendi da microarchi elettrici. Kate ci entrava da tre mesi ogni settantadue ore, e ogni volta le sembrava la prima.
+Lo sgabuzzino dietro la Sala 4 era un locale di servizio, tre metri per due, con scaffali di cartucce filtranti e un lavandino d'acciaio graffiato. Non aveva telecamere: il regolamento vietava le riprese nelle aree di stoccaggio reagenti. Kate ci entrava ogni settantadue ore da tre mesi, e ogni volta le sembrava la prima.
 
 Chiuse la porta. Si appoggiò con la schiena al legno. Dal taschino interno del camice estrasse una fialetta di vetro scuro, sigillata con tappo a pressione, e una siringa sottile da mezzo millilitro. Il liquido, dentro la fiala, era di quell'ambra densa che i biochimici riconoscono a colpo d'occhio: un veicolante oleoso, per rallentare l'assorbimento. Il principio attivo era una molecola che aveva chiamato, nei suoi appunti, C-17. Un antagonista competitivo del recettore dell'hCG a livello tubulare renale. Il rene continuava a filtrare l'ormone, ma il sensore urinario non lo leggeva, perché il C-17 occupava i siti di legame della strip reagente prima che l'ormone potesse farlo. Settantadue ore di cecità chimica. Non di più.
 
@@ -122,11 +122,11 @@ L'anziana la guardò un istante di troppo. Poi annuì, disse che doveva andare, 
 
 Arrivò all'Unità che era quasi ora di cena. James non era ancora tornato. Andò in bagno, tenne la porta chiusa, si inginocchiò davanti al water e vomitò due volte, in silenzio, aprendo il rubinetto per coprire il rumore. Quando si tirò su, il viso allo specchio era una maschera pallida con la bocca sporca di bile, gli occhi lucidi, una chiazza di sangue ormai secco sul labbro superiore. Si lavò. Si passò il dito attorno al contorno della bocca, con cura, come si lucida un oggetto prezioso.
 
-Poi appoggiò entrambe le mani sulla pancia, aperte, dita allargate, coprendo quanto più poteva di quel piccolo rilievo che ancora non si vedeva sotto i vestiti larghi ma che lei, sotto le dita nude, sentiva chiaramente.
+Poi appoggiò entrambe le mani sulla pancia, aperte, coprendo quel rilievo che ancora non si vedeva sotto i vestiti larghi ma che lei, sotto le dita nude, sentiva chiaramente.
 
 "Siamo ancora qui," disse al proprio riflesso. "Siamo ancora qui."
 
-Le sembrò una preghiera rivolta a nessuno, e insieme un contratto che firmava con se stessa per la centesima volta.
+Le sembrò insieme una preghiera e un contratto firmato con se stessa per la centesima volta.
 
 ---
 

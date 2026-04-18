@@ -30,7 +30,7 @@ Non le dissi niente. Dirle qualcosa sarebbe stato peggio.
 
 Il ronzio arrivò dopo cinque minuti.
 
-Lo riconobbi prima di Alice. Era diverso dal ronzio dei droni di ricognizione che avevano sorvolato il rifugio un'ora prima. Era più alto, più continuo, un sibilo sopra la linea degli alberi, la frequenza inconfondibile dei droni termici di seconda classe. James mi aveva spiegato la differenza una volta. I droni di ricognizione cercavano masse radio. I droni termici cercavano calore, differenze di temperatura di frazioni di grado sopra lo sfondo. Nei boschi funzionavano meno bene perché le chiome assorbivano l'infrarosso, ma funzionavano. Soprattutto funzionavano sui corpi in movimento, che produssero più calore di quelli fermi.
+Lo riconobbi prima di Alice. Era diverso dal ronzio dei droni di ricognizione di un'ora prima. Più alto, più continuo, un sibilo sopra la linea degli alberi: la frequenza dei droni termici. James me l'aveva spiegata. I droni di ricognizione cercavano masse radio. I termici cercavano calore, differenze di temperatura di frazioni di grado sopra lo sfondo. Nei boschi funzionavano meno bene, ma funzionavano. Soprattutto sui corpi in movimento.
 
 "Mira," chiamai piano.
 

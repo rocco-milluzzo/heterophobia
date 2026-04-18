@@ -16,19 +16,17 @@ Prese una tazza dalle mani di Marcus, bevve un sorso di orzo bollente, si raschi
 
 James annuì, lentamente. Riconobbi nei suoi occhi il rispetto tecnico di un archivista davanti a un sistema ben progettato.
 
-"Funzioniamo su tre livelli," continuò Clara. "Il primo è fisico. Dead drop. Lasciamo messaggi in punti prestabiliti: un vecchio tubo idraulico dentro un edificio in rovina, una scatola elettrica divelta, un libro lasciato sulla quinta scaffalatura di una biblioteca dismessa. Il mittente deposita. Il destinatario passa ore o giorni dopo. Nessuno dei due vede l'altro. Se qualcuno intercetta il deposito, al massimo prende un messaggio, non una persona."
+"Funzioniamo su tre livelli," continuò Clara. "Il primo è fisico. Dead drop. Lasciamo messaggi in punti prestabiliti: un vecchio tubo idraulico, una scatola elettrica divelta, un libro sulla quinta scaffalatura di una biblioteca dismessa. Il mittente deposita. Il destinatario passa ore dopo. Se qualcuno intercetta il deposito, prende un messaggio, non una persona."
 
 "E il secondo?" chiesi io.
 
-"Il secondo è radio. Bassa potenza, frequenze abbandonate. Le vecchie bande amatoriali VHF che il Sistema considera obsolete perché nessuno le usa più. Le AI di sorveglianza sono addestrate a cercare traffico moderno: pacchetti cifrati, trasmissioni a spettro espanso, segnali digitali densi. Quando vedono un'onda portante analogica a cinque watt su una frequenza che nel 2090 hanno dichiarato dismessa, la classificano come rumore di fondo. Interferenza atmosferica. Un temporale lontano. Siamo sotto il loro livello di attenzione."
+"Radio. Bassa potenza, frequenze abbandonate. Le vecchie bande VHF che il Sistema considera obsolete. Le AI di sorveglianza cercano traffico moderno: pacchetti cifrati, trasmissioni a spettro espanso. Un'onda portante analogica a cinque watt la classificano come rumore di fondo."
 
 Marcus sorrise. Era un sorriso stanco, di chi aveva usato quel trucco cento volte.
 
-"I messaggi," aggiunse Clara, "sono brevi. Stringhe alfanumeriche, cinque-sei caratteri. Ogni cluster ha un proprio codice, cambia ogni settimana. Le frequenze sono sette, ruotano su uno schema noto solo a chi trasmette. Chi ascolta sa quando ascoltare."
+"E il terzo?" domandò James.
 
-"E il terzo livello?" domandò James.
-
-"Il terzo è digitale. Ma non nostro. È di chi è ancora dentro il Sistema." Clara abbassò la voce, non perché ci fosse qualcuno ad ascoltare, ma per abitudine. "Yuki è una di loro. Altri ex-Riformisti, medici, archivisti, tecnici di laboratorio. Gente che ha accesso ai terminali. Nascondono messaggi dove il Sistema guarda meno: dentro i metadati delle immagini mediche, dentro i report statistici trimestrali, dentro le intestazioni dei fascicoli amministrativi. Steganografia. La parola è vecchia quanto il mondo: scrivere nascosto. Oggi si fa modificando gli ultimi bit dei pixel di una radiografia, o cambiando un decimale irrilevante in una tabella di inventario. Nessuno nota. L'AI che valida il report lo vede conforme. L'operatore che sa cosa cercare estrae la stringa."
+"Digitale. Ma non nostro. È di chi è ancora dentro il Sistema." Clara abbassò la voce. "Yuki è una di loro. Altri ex-Riformisti, medici, archivisti. Nascondono messaggi dove il Sistema guarda meno: dentro i metadati delle immagini mediche, dentro le intestazioni dei fascicoli. Steganografia. L'AI che valida il report lo vede conforme. L'operatore che sa cosa cercare estrae la stringa."
 
 James ascoltava con la concentrazione immobile che aveva quando qualcosa lo toccava davvero. Sentii, senza bisogno di guardarlo, che nella sua testa stava rimettendo in ordine vent'anni di domande.
 
@@ -70,7 +68,7 @@ Posò sul tavolo un oggetto.
 
 Era una piccola radio, poco più grande di una mano. Aveva una manovella pieghevole per ricaricare una batteria interna, un'antenna telescopica, una cuffia monoaurale arrotolata intorno al corpo. Il guscio era di alluminio verniciato di verde scuro, scrostato in più punti. Sul retro qualcuno aveva inciso a mano una data, 1994, e una sigla che non riconobbi.
 
-"È artigianale," disse Clara. "Un tecnico della rete centrale l'ha rimessa in sesto partendo da un pezzo degli anni Novanta del secolo scorso. È robusta. È schermata. È difficile da intercettare proprio perché è troppo primitiva. Le AI di sorveglianza moderne cercano traffico digitale, pacchetti, segnali strutturati. Una radio analogica a manovella, a cinque watt, sotto copertura di un disturbo atmosferico, per loro è rumore. Si infila dentro le pieghe dell'ascolto, dove nessuno pulisce."
+"È artigianale," disse Clara. "Un tecnico della rete l'ha rimessa in sesto partendo da un pezzo degli anni Novanta. Difficile da intercettare proprio perché è troppo primitiva. Si infila dentro le pieghe dell'ascolto, dove nessuno pulisce."
 
 Infilò nella cuffia un foglietto ripiegato.
 
@@ -80,13 +78,11 @@ Marcus la prese con due mani. "Grazie."
 
 Clara alzò le spalle, come a dire che non era niente. Ma aveva portato quell'oggetto per duecento chilometri, camminando di notte, e sapeva che lo sapevamo.
 
-Fu a quel punto che sentimmo il tramestio alla porta. Marcus alzò la mano, ci fece cenno di stare fermi. Poi riconobbe il ritmo dei colpi (tre, pausa, due) e andò ad aprire.
+Fu a quel punto che sentimmo un tramestio alla porta. Marcus riconobbe il ritmo dei colpi, tre e due, e andò ad aprire.
 
-Entrò una ragazza. Sui vent'anni, forse meno. Magra, capelli scuri raccolti, una giacca di pelle troppo larga per lei, fango secco sulle scarpe. Si chiamava Mira.
+Entrò una ragazza. Sui vent'anni, forse meno. Capelli scuri raccolti, una giacca di pelle troppo larga per lei. Si chiamava Mira.
 
-Non la conoscevamo. Ma avevamo sentito parlare di lei. Marcus la presentò, a bassa voce, con la serietà di chi presenta qualcuno che gli sta affidando qualcosa di importante.
-
-"Lei è Mira. È nata qui. Sua madre era nella rete dagli anni Ottanta, una delle prime. Mira ha imparato il codice radio a sei anni, le rotte di fuga a dieci, la steganografia a dodici. Sua madre dipingeva con pigmenti che rivelavano messaggi solo sotto la luce ultravioletta. Ci sono ancora dei quadri, in giro, che nessuno sa leggere."
+"Lei è nata qui," disse Marcus a bassa voce. "Sua madre era nella rete dagli anni Ottanta, una delle prime. Mira ha imparato il codice radio a sei anni, le rotte di fuga a dieci."
 
 Mira annuì, senza sorridere. Aveva gli occhi attenti e fermi di chi ha visto abbastanza da non reagire più di pancia a quasi niente.
 
@@ -112,4 +108,4 @@ Gli posai la mano sulla sua. Non la ritirò.
 
 Lui non rispose. Ma intrecciò le dita con le mie, e rimanemmo così, a guardare la brace che diventava cenere.
 
-Fuori, lontanissimo, si sentiva un ronzio. Alto, sottile, al limite dell'udibile. Un drone di pattugliamento sulla linea del confine, forse. O solo il vento tra i pini. Non riuscivo a distinguere. Non ci riusciva più nessuno, in quelle sere, e forse era questo il punto: avevamo vissuto così a lungo sul bordo che il rumore del pericolo si era confuso con il rumore del mondo.
+Fuori, lontanissimo, si sentiva un ronzio. Alto, sottile, al limite dell'udibile. Un drone di pattugliamento sulla linea del confine, forse. O solo il vento tra i pini. Non riuscivo a distinguere. Non ci riusciva più nessuno, in quelle sere.

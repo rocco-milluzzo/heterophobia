@@ -1,10 +1,10 @@
 # Capitolo 17: L'Attesa
 
-Alla primavera del 2105, Kate era al quarto mese di gravidanza, e il suo corpo aveva cominciato a raccontare la verità anche quando lei gli chiedeva di tacere.
+Alla primavera del 2105, Kate era al quarto mese, e il suo corpo raccontava la verità anche quando lei gli chiedeva di tacere.
 
-Il ventre non era ancora un ventre da chiunque sapesse leggerlo. Era un'onda molto bassa, un addolcirsi della linea che una volta era tesa, un'abbondanza tiepida appena sotto l'ombelico che solo lei, guardandosi allo specchio al mattino, riconosceva come nuova. Ma bastava una blusa un poco aderente per farla apparire, bastava un movimento troppo deciso per farla notare. Kate aveva comprato al distributore di capi di vestiario del Settore 3 tre bluse di una taglia più larga, di quelle neutre che gli impiegati amministrativi indossavano d'estate, e aveva buttato due pantaloni che le stringevano sui fianchi. Li aveva buttati uno per volta, a distanza di una settimana, nel cestello di riciclo tessile dell'Unità, in modo che l'inventario automatico non notasse un calo improvviso del guardaroba.
+Il ventre non era ancora un ventre per chi non sapeva leggerlo. Era un'onda bassa, un addolcirsi della linea che una volta era tesa, un'abbondanza tiepida sotto l'ombelico che solo lei, allo specchio al mattino, riconosceva. Ma bastava una blusa aderente per farla apparire. Kate aveva comprato tre bluse più larghe, neutre, e aveva buttato due pantaloni che le stringevano sui fianchi. Li aveva buttati uno alla volta, a distanza di una settimana, perché l'inventario automatico non notasse un calo improvviso del guardaroba.
 
-Camminava in modo diverso. Se ne era accorta salendo le scale del laboratorio, alla fine di aprile. Il pattugliamento passava nelle gallerie principali ogni quaranta minuti, in coppie, con i sensori ottici attivi. Kate aveva calcolato i tempi. Si era imposta di non correre mai, di non affannarsi, di non saltare scalini. Saliva un gradino alla volta, con calma, con una mano appoggiata al corrimano per dare l'idea che fosse solo stanchezza ordinaria. Si era esercitata, davanti allo specchio dell'ingresso, a stare in piedi con la schiena leggermente più avanti del solito, in modo da mascherare la curva. Sono, si diceva nella testa mentre faceva questi esercizi, una donna esattamente come tutte le altre. Sono una biologa sulla trentina, leggermente sottopeso per aumento di stress lavorativo, niente di più.
+Camminava in modo diverso. Se ne era accorta salendo le scale del laboratorio, alla fine di aprile. Saliva un gradino alla volta, con una mano sul corrimano, per dare l'idea che fosse stanchezza ordinaria. Si era esercitata davanti allo specchio a stare in piedi con la schiena leggermente più avanti del solito, per mascherare la curva. *Sono una donna come tutte le altre*, si diceva. *Una biologa sulla trentina, sottopeso per stress lavorativo.*
 
 A maggio, una notte, James entrò nella stanza di lei e trovò Kate sveglia.
 
@@ -48,11 +48,11 @@ Era un fazzoletto di cotone, con un bordo giallo e un bordo verde, piegato in qu
 
 Quella sera, James prese ago e filo. Cucì il fazzoletto all'interno della propria giacca, nella fodera, all'altezza del cuore, con punti piccoli e fitti. Quando ebbe finito, chiuse la giacca e la appoggiò alla sedia, e la guardò a lungo, come si guarda un'armatura che non si è ancora imparati a indossare.
 
-A luglio, Kate e James incontrarono Sara per la prima volta.
+A luglio, Kate e James incontrarono Sara.
 
-Marcus aveva mandato un messaggio attraverso la rete scout. Una levatrice sarebbe entrata nel Complesso durante la finestra di manutenzione, la notte tra il quindici e il sedici luglio, quando i droni di sorveglianza venivano calibrati e la rete elettrica del Settore 3 restava in modalità ridotta per due ore. Sara entrò dalla finestra del laboratorio al primo piano, quella che dava sul pozzo di aerazione, e che Kate aveva lasciato aperta sei centimetri. Era una donna piccola, asciutta, sui cinquant'anni apparenti, con i capelli tagliati corti e un kit di visita nascosto in una borsa di tela scolorita. Non disse subito il proprio nome. Si strinsero la mano in silenzio.
+Marcus aveva mandato un messaggio attraverso la rete scout. Una levatrice sarebbe entrata nel Complesso durante la finestra di manutenzione, la notte tra il quindici e il sedici luglio. Sara entrò dalla finestra del laboratorio al primo piano, quella che dava sul pozzo di aerazione. Era una donna piccola, asciutta, sui cinquant'anni, con i capelli tagliati corti e un kit di visita in una borsa di tela scolorita. Si strinsero la mano in silenzio.
 
-La visita durò quaranta minuti. Sara aveva strumenti antichi, un misuratore manuale della pressione, uno stetoscopio di gomma, una sonda doppler a batteria che emetteva un suono sommesso. Fece stendere Kate su una branda improvvisata, le tastò l'addome con le dita che sembravano sapere da sole dove cercare, le misurò la pressione, ascoltò a lungo il battito del bambino attraverso il doppler. Il suono era veloce, regolare, sommerso, come cavalli che corrono lontani in una pianura.
+La visita durò quaranta minuti. Sara aveva strumenti antichi, un misuratore manuale della pressione, uno stetoscopio di gomma, una sonda doppler a batteria. Fece stendere Kate su una branda improvvisata, le tastò l'addome con dita che sembravano sapere da sole dove cercare, ascoltò a lungo il battito del bambino. Il suono era veloce, regolare, come cavalli che corrono lontani in una pianura.
 
 Quando ebbe finito, Sara si pulì le mani con un panno e si sedette sul bordo della branda.
 

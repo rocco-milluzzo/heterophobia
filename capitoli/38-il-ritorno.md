@@ -154,21 +154,21 @@ Il pannello domestico, vicino alla porta, mostrava la sua riga verde, ferma. *Tu
 
 Ho bevuto un sorso di caffè. Era amaro. Era giusto.
 
-A un certo punto, nella riga seconda o terza, ho avuto la sensazione precisa di essere guardata. Non dal pannello. Non dall'Unità. Qualcosa di diverso, un peso leggero sulla nuca, un calore umano dietro la sedia. Mi sono voltata.
-
-La stanza era vuota. La porta era chiusa. La finestra era opaca come ogni notte. Non c'era nessuno.
-
-Ho ripreso a scrivere.
-
 Ho scritto per un'ora, forse due. Non ho più guardato l'orologio. Le frasi uscivano con la cadenza che avevo riconosciuto nei fogli di mio padre, con il ritmo che mia madre aveva nella voce quando raccontava, con i silenzi che io avevo imparato a tenere fra una cosa e l'altra negli anni di copertura. Era una scrittura a tre voci, una sola mano.
 
-Alla fine della pagina, senza pensarci, ho scritto la frase che da sempre, senza saperlo, era stata la prima.
+A un certo punto, molto tardi, un veicolo passò nella via sotto la finestra. Non faceva rumore di motore. Faceva il rumore piccolo, chirurgico, che fanno gli automezzi dei Controllori, una specie di sospiro metallico sull'asfalto. Un veicolo. Poi, dopo qualche minuto, un altro. Si fermarono. Non ripartirono.
 
-*Ho passato anni a ricostruire questa storia.*
+Non mi sono alzata. Non ho spostato la tenda. Non ho spento la lampada.
 
-L'ho guardata. Era già stata detta. Era la prima cosa che avevo scritto di me, da ragazza, quando ancora credevo che raccontare i miei genitori fosse un esercizio d'archivio e non una forma di congedo. Tornava adesso al suo posto, come se avesse aspettato la fine per diventare inizio.
+Ho pensato, con una chiarezza che non avevo mai avuto, che se fossi uscita adesso forse avrei avuto la falla che Yuki teneva aperta nelle Zone, forse avrei avuto la barca, forse avrei avuto tre settimane di strada e poi di nuovo la cucina di Concetta e il telaio di mia madre. Ho pensato che esisteva ancora, quella strada. Non era chiusa. Era lì.
 
-Ho chiuso il quaderno. L'ho infilato sotto il materasso. Ho spento la lampada.
+Ho pensato a mia madre che aveva detto *la storia è tua adesso, vivila.*
 
-Fuori, da qualche parte, qualcuno firmava.
+Poi ho pensato che vivere, per me, voleva dire finirla.
+
+Ho abbassato la testa sul quaderno e ho ripreso a scrivere da dove avevo smesso. Mi sono accorta che la mano non tremava. Scriveva con la cadenza di mio padre, perché non ne avevo un'altra, e adesso non mi dispiaceva.
+
+I veicoli sotto la finestra restavano fermi.
+
+Mi chiamo Alice Valeri Ferrante. Ho ventisei anni. Sto scrivendo la storia di mia madre e di mio padre, e la sto scrivendo adesso, in questa notte, perché non ho più un'altra notte in cui poterla scrivere.
 

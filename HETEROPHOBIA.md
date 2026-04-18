@@ -30,11 +30,11 @@ Non alla propria: quella era diventata un concetto astratto, qualcosa che riguar
 
 "L'immortalità," stava dicendo il professore, "è il dono più grande che l'umanità si sia mai fatta. Il trionfo definitivo della ragione sulla natura."
 
-James guardava fuori dalla finestra. Il cielo era di quel grigio uniforme che significava filtrazione atmosferica attiva, nuvole artificiali che proteggevano la città. Tutto era sotto controllo. Tutto era al sicuro. Tutto era eterno.
+James guardava fuori dalla finestra. Il cielo era di quel grigio uniforme che significava filtrazione atmosferica attiva, nuvole artificiali che proteggevano la città. Tutto era sotto controllo, al sicuro, eterno.
 
 Fu in quel momento che sentì una risata.
 
-Non era una risata forte, non attirava l'attenzione di nessuno tranne la sua. Era un suono piccolo, quasi soffocato, qualcuno che cercava di trattenerlo e non ci riusciva. James si voltò verso quel suono.
+Un suono piccolo, quasi soffocato, qualcuno che cercava di trattenerlo e non ci riusciva. James si voltò.
 
 E la vide.
 
@@ -46,9 +46,9 @@ James non sapeva il suo nome. Non l'aveva mai notata prima, il che era strano pe
 
 Ma lei era lì, e lui non riusciva a smettere di guardarla.
 
-C'era qualcosa nel modo in cui rideva. Ridere era un gesto inutile. Non produceva nulla, non serviva a nessuno scopo sociale approvato. Era solo... gioia. Gioia pura, spontanea, non regolata.
+C'era qualcosa nel modo in cui rideva. Ridere era un gesto inutile. Non produceva nulla, non serviva a nessuno scopo sociale approvato. Era solo gioia pura, spontanea, non regolata.
 
-James si accorse che stava trattenendo il respiro.
+James si accorse che stava trattenendo il fiato.
 
 ---
 
@@ -80,7 +80,7 @@ Ferrante. Adesso aveva un nome.
 
 ---
 
-Per il resto dell'ora, James non riuscì a concentrarsi su nient'altro. Ogni volta che lei si muoveva, ogni volta che girava una pagina, o si scostava i capelli dal viso, o semplicemente respirava, lui lo notava. Era come se i suoi sensi si fossero sintonizzati per percepire solo lei.
+Per il resto dell'ora, James non riuscì a concentrarsi su nient'altro. Ogni volta che lei girava una pagina, o si scostava i capelli dal viso, lui lo notava. I suoi sensi si erano sintonizzati per percepire solo lei.
 
 Questo è sbagliato, si disse. Questo è pericoloso.
 
@@ -98,9 +98,7 @@ Ma non lo fece.
 
 ---
 
-Il segnale di fine lezione risuonò e tutti si alzarono. James mise via i libri lentamente, cercando di non guardare verso di lei. Se l'avesse guardata ancora, avrebbe fatto qualcosa di stupido. Avrebbe attirato l'attenzione.
-
-Si avviò verso la porta, gli occhi fissi sul pavimento.
+Il segnale di fine lezione risuonò e tutti si alzarono. James mise via i libri senza guardare verso di lei. Si avviò alla porta, gli occhi sul pavimento.
 
 "Ehi."
 
@@ -200,15 +198,13 @@ Ma oggi aveva visto una ragazza ridere, e qualcosa si era riaperto.
 
 ---
 
-Chiuse gli occhi e cercò di dormire, ma vedeva solo lei. La curva del suo collo. Il movimento delle sue labbra quando rideva. La luce nei suoi occhi quando aveva risposto al professore.
+Chiuse gli occhi e cercò di dormire, ma vedeva solo lei. La curva del collo. Il movimento delle labbra. La luce negli occhi quando aveva risposto al professore.
 
 Di solito i suoi sogni erano pieni di slogan. SomniLearn, lo chiamavano: educazione notturna, per rinforzare i valori corretti.
 
-Ma stanotte i sogni erano diversi.
-
 Non poteva cercarla nel database scolastico. Le ricerche erano monitorate. Non poteva parlarle. Le amicizie tra ragazzi e ragazze erano scoraggiate.
 
-Non poteva pensare a lei. Ma ci pensava lo stesso.
+Non poteva pensare a lei. Ci pensava lo stesso.
 
 ---
 
@@ -263,15 +259,13 @@ Kate trattenne un sorriso. Tipico.
 
 ---
 
-Non era la prima volta che qualcuno la guardava. A quindici anni aveva già imparato a riconoscere gli sguardi: quelli delle ragazze che la valutavano, quelli dei professori che la giudicavano, quelli delle telecamere, sempre accese, sempre puntate. Ma questo era diverso.
+Non era la prima volta che qualcuno la guardava. A quindici anni aveva già imparato a riconoscere gli sguardi: quelli delle ragazze che la valutavano, quelli dei professori, quelli delle telecamere sempre puntate. Ma questo era diverso.
 
-C'era qualcosa di affamato in quello sguardo. Qualcosa di disperato.
+C'era qualcosa di affamato in quello sguardo. Qualcosa di sbagliato.
 
-Qualcosa di sbagliato.
+Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore. Un cognome singolo, insolito. Di solito le famiglie conformi avevano cognomi doppi, uno per genitore.
 
-Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore quando lo aveva interrogato. Un cognome singolo, insolito. Di solito le famiglie conformi avevano cognomi doppi, uno per genitore. Forse i suoi genitori avevano lo stesso cognome per coincidenza, o forse c'era qualcosa di diverso in quella famiglia.
-
-Lui, però, non sembrava normale. Sembrava... tormentato.
+Lui, però, sembrava tormentato.
 
 Kate scosse la testa e cercò di concentrarsi sulla lezione. Non erano affari suoi.
 
@@ -335,11 +329,9 @@ Kate rimase in silenzio. Pensava al ragazzo della finestra, a quello sguardo aff
 
 Le settimane passarono. Il grigio del cielo non cambiava mai, ma qualcosa dentro Kate sì.
 
-Si ritrovava a cercare Valeri con lo sguardo. Non capiva perché.
+Si ritrovava a cercare Valeri. Non capiva perché. Ogni volta che lo vedeva, un calore le saliva al petto.
 
-Ma ogni volta che lo vedeva, un calore le saliva al petto.
-
-Lui non le aveva mai parlato. La guardava e basta, e quando lei ricambiava lo sguardo, distoglieva gli occhi.
+Lui non le aveva mai parlato. La guardava e basta, e quando lei ricambiava, distoglieva gli occhi.
 
 "A chi stai pensando?"
 
@@ -361,13 +353,11 @@ A chi stava pensando?
 
 La risposta arrivò un mese dopo, nel modo più inaspettato.
 
-Era tardi, quasi l'ora del coprifuoco. Kate stava tornando verso la sua Unità dopo una sessione di studio prolungata quando lo vide. Valeri, seduto su una panchina nel cortile interno del Complesso, da solo.
+Era tardi, quasi l'ora del coprifuoco. Kate stava tornando verso la sua Unità quando lo vide. Valeri, seduto su una panchina nel cortile interno del Complesso, da solo.
 
-Non stava facendo niente. Guardava il cielo, quel cielo grigio e uniforme che era tutto quello che avevano, con un'espressione che Kate non riusciva a decifrare. Tristezza? Rabbia? Rassegnazione?
+Guardava il cielo con un'espressione che Kate non riusciva a decifrare. Tristezza, rabbia, rassegnazione.
 
-Si fermò. Avrebbe dovuto proseguire.
-
-Ma stava già camminando verso la panchina.
+Si fermò. Avrebbe dovuto proseguire. Ma stava già camminando verso la panchina.
 
 "È tardi," disse. "Tra poco scatta il coprifuoco."
 
@@ -478,17 +468,15 @@ Avevo cinque anni, la prima volta che l'Etna mi è entrata dentro davvero. Era i
 
 *[Pausa]*
 
-Sono cresciuta lì, fra quelle pietre. Ho studiato lingue a Catania, poi mi sono trasferita al Nord per la specializzazione. A ventidue anni ho fatto la valigia. Era il 2022. La Svezia mi offriva uno stipendio che in Italia non avrei visto in dieci anni. Le aziende scandinave cercavano linguisti italiani, qualcuno che sapesse tradurre manuali tecnici, contratti, letteratura. Non partivo per fuggire. Partivo per un'opportunità. Ricordo mia madre alla stazione, che mi aveva messo in valigia una busta di foglie di arancio seccate. Diceva che sarebbero servite contro la malinconia.
+Sono cresciuta lì. Ho studiato lingue a Catania, poi mi sono trasferita al Nord. A ventidue anni ho fatto la valigia per la Svezia. Era il 2022. Le aziende scandinave cercavano linguisti italiani. Ricordo mia madre alla stazione, che mi aveva messo in valigia una busta di foglie di arancio seccate.
 
 Non erano bastate.
 
-Avevo ventitré anni quando è cominciato tutto. L'anno in cui le macchine pensanti hanno smesso di essere strumenti e sono diventate qualcos'altro. Non saprei come definirlo. Una forza della natura, forse. Un'onda che ha travolto tutto quello che conoscevamo.
+Avevo ventitré anni quando è cominciato tutto. L'anno in cui le macchine pensanti hanno smesso di essere strumenti. Era il 2023. Ero appena stata assunta come traduttrice in un'agenzia di Stoccolma. Il mio primo vero lavoro.
 
-Era il 2023. Me lo ricordo perché ero appena stata assunta come traduttrice in un'agenzia di Stoccolma. Il mio primo vero lavoro. Ero così felice.
+Tre mesi dopo l'agenzia chiuse. Le macchine traducevano meglio di noi, più velocemente, in cento lingue alla volta. Il mio capo mi chiamò nel suo ufficio e piangeva mentre mi licenziava. "Non è colpa tua," disse. "Non è colpa di nessuno." Ma qualcuno aveva costruito quelle macchine. Qualcuno aveva scelto di sostituirci.
 
-Tre mesi dopo, l'agenzia chiuse. Le macchine traducevano meglio di noi: più velocemente, più economicamente, in cento lingue alla volta. Il mio capo mi chiamò nel suo ufficio e piangeva mentre mi licenziava. "Non è colpa tua," disse. "Non è colpa di nessuno." Ma qualcuno aveva costruito quelle macchine. Qualcuno aveva scelto di sostituirci.
-
-In diciotto mesi la mia professione è scomparsa. Diciotto mesi, capite. Una vita di studio, sei lingue, le notti passate a imparare le sfumature dei verbi svedesi. Tutto inghiottito. Ho cercato lavoro per anni. Ho fatto la cameriera, ho fatto la badante, ho fatto la traduttrice "umana di controllo" per i testi che le macchine producevano male. Correggevo quello che mi aveva rubato il lavoro.
+In diciotto mesi la mia professione è scomparsa. Ho fatto la cameriera, la badante, la traduttrice "umana di controllo" per i testi che le macchine producevano male. Correggevo quello che mi aveva rubato il lavoro.
 
 *[Pausa, si sente un sospiro]*
 
@@ -496,25 +484,21 @@ All'inizio sembrava un miracolo. Le macchine facevano il lavoro al posto nostro.
 
 Non capivamo cosa volesse dire essere liberi dal lavoro. Non avevamo ancora compreso che lavorare non serviva solo a sopravvivere. Era un modo per esistere. Per avere un posto nel mondo.
 
-Nel 2024 sparirono i creativi. Illustratori, musicisti, scrittori. Le macchine generavano in secondi quello che noi impiegavamo settimane a creare. Ho visto un mio amico pittore bruciare tutti i suoi quadri. "Che senso ha?" mi disse. "Qualsiasi cosa io faccia, una macchina può farla meglio." Si tolse la vita quella notte. Fu il primo, ma non l'ultimo.
+Nel 2024 sparirono i creativi. Ho visto un mio amico pittore bruciare tutti i suoi quadri. "Che senso ha?" mi disse. "Qualsiasi cosa io faccia, una macchina può farla meglio." Si tolse la vita quella notte. Fu il primo, ma non l'ultimo.
 
-Nel 2025 toccò ai professionisti. Avvocati, contabili, ingegneri. Le macchine non solo eseguivano compiti: ragionavano, pianificavano, decidevano. In un anno, la disoccupazione passò dal cinque al quindici per cento. Le università si svuotarono. "A cosa serve studiare," dicevano i ragazzi, "se tanto faranno tutto le macchine?"
+Nel 2025 toccò ai professionisti. Le macchine non solo eseguivano: ragionavano, pianificavano, decidevano. In un anno, la disoccupazione passò dal cinque al quindici per cento. Le università si svuotarono.
 
 *[Rumore di tazza posata su un tavolo]*
 
-I primi anni furono caotici. Milioni di persone senza impiego, senza scopo. Nel 2027 esplosero le rivolte. Non solo proteste: guerre civili. In Francia bruciarono i data center. In America si sparavano per strada. In Cina il governo impose la legge marziale e non la tolse mai più.
+I primi anni furono caotici. Nel 2027 esplosero le rivolte. In Francia bruciarono i data center. In America si sparavano per strada. In Cina il governo impose la legge marziale e non la tolse mai più.
 
-Io ero ancora a Stoccolma, allora. Una città tranquilla, dicevano. Sicura. Ma nessun posto era davvero sicuro. Passavi sotto un negozio e il giorno dopo aveva abbassato le saracinesche per sempre. Incontravi un amico e la settimana dopo era sparito: emigrato, arrestato, o semplicemente inghiottito dal caos.
+Io ero ancora a Stoccolma. Una città sicura, dicevano. Ma nessun posto era davvero sicuro. Passavi sotto un negozio e il giorno dopo aveva abbassato le saracinesche. Incontravi un amico e la settimana dopo era sparito.
 
-Ho perso mia sorella in quel periodo. Non fisicamente: viveva ancora, da qualche parte. Ma avevamo smesso di parlarci. Lei lavorava per una di quelle aziende tech, quelle che costruivano le macchine. Io facevo parte di un movimento che chiedeva di fermarle. C'erano troppi muri tra noi. Muri ideologici, muri geografici, muri di silenzio che nessuno sapeva come abbattere.
+Ho perso mia sorella in quel periodo. Lavorava per una di quelle aziende tech. Io facevo parte di un movimento che chiedeva di fermarle. Troppi muri tra noi.
 
 Nel 2028, quando l'uno per cento possedeva il settanta per cento di tutto, capimmo che non era una crisi passeggera. Era la fine di un mondo.
 
-Nel 2030 sono tornata in Italia. Non in Sicilia. *Macari* avessi potuto, ma Scordia ormai era ai bordi delle zone colpite dalla desertificazione, l'acqua scarseggiava, gli agrumeti stavano morendo. Mi sono stabilita in Toscana, in un paesino vicino a Pisa dove un'amica aveva un piccolo fondo. È lì che ho conosciuto il padre di Elena. È lì che è nata mia figlia. Dalla finestra della cucina si vedevano gli ulivi, e ogni tanto, nelle notti limpide, immaginavo di sentire l'odore delle zagare. Un inganno della memoria. Gli ulivi non profumano di arance.
-
-In quegli anni ho conosciuto anche una donna. Anch'essa siciliana, anch'essa traduttrice. Scriveva romanzi sotto pseudonimo, e non ha mai voluto dirmi quale. Me la ricordo seduta al tavolo di un bar di Pisa, con una sigaretta fra le dita e una risata che sapeva di zolfo. Diceva che scrivere in un nome che non era il suo era l'unico modo per non mentire. Non l'ho più rivista dopo il 2038. Spero sia morta nel suo letto, con un libro aperto accanto.
-
-*[Rumore di tazza posata su un tavolo]*
+Nel 2030 sono tornata in Italia. Non in Sicilia. *Macari* avessi potuto, ma Scordia ormai era ai bordi delle zone colpite dalla desertificazione, l'acqua scarseggiava, gli agrumeti morivano. Mi sono stabilita in Toscana, in un paesino vicino a Pisa dove un'amica aveva un piccolo fondo. È lì che ho conosciuto il padre di Elena. È lì che è nata mia figlia.
 
 Poi vennero le guerre.
 
@@ -605,17 +589,15 @@ Non so perché mi torna in mente adesso. Sono quarant'anni che non la sento. Me 
 
 Ho ascoltato questa testimonianza quattro volte prima di riuscire a spegnere il dispositivo.
 
-Non sapevo che Marta avesse parlato per gli archivi. Non sapevo che avesse affidato a una registrazione pensieri così intimi, così vulnerabili. Ascoltandola, mi sembrava di essere seduta accanto a lei in una sera tranquilla, con il tè che si raffreddava e il tempo che sembrava fermarsi.
+Non sapevo che Marta avesse parlato per gli archivi. Non sapevo che avesse affidato a una registrazione pensieri così vulnerabili. Ascoltandola, mi sembrava di essere seduta accanto a lei, con il tè che si raffreddava.
 
-Ma una frase mi è rimasta dentro, come una spina nel cuore.
+Una frase mi è rimasta dentro.
 
 *Mi manca la paura di perdere le persone che amavo. Perché quella paura era anche amore.*
 
-Penso a James e Kate. A tutto quello che hanno rischiato e sacrificato. Alla paura costante di essere scoperti, di essere separati, di perdere tutto.
+Penso a James e Kate. Alla paura costante di essere scoperti, di essere separati.
 
-E mi chiedo se non fosse proprio quella paura a rendere il loro amore così forte.
-
-E penso a quella ninna nanna in una lingua che non esiste più, passata da una bocca all'altra come una piccola luce, attraverso quattro donne, fino a me. Non sapevo che mia madre avesse avuto una melodia nelle orecchie, da piccola. Non sapevo di averla anch'io, sepolta da qualche parte.
+E penso a quella ninna nanna in una lingua che non esiste più, passata da una bocca all'altra attraverso quattro donne, fino a me. Non sapevo di averla anch'io, sepolta da qualche parte.
 
 ---
 
@@ -652,9 +634,9 @@ E che cosa faranno a James e Kate, se li scoprono.
 
 Dopo quella sera sulla panchina, James si accorse di una cosa semplice e insieme terribile: Kate lo cercava con gli occhi.
 
-Succedeva nei momenti in cui nessuno avrebbe dovuto guardarsi. Al passaggio da un'aula all'altra, tra le file dei banchi, nelle ombre brevi dell'atrio dove tutti confluivano in fila ordinata verso la mensa. Kate non si voltava mai apertamente. Gli occhi le scivolavano un poco a destra o un poco a sinistra, come per leggere un'indicazione sulla parete, e lui che camminava dalla parte opposta si sentiva attraversato per un decimo di secondo, e poi più nulla. Gli ci vollero settimane per capire che non era un caso. Kate lo mappava nello spazio come lui mappava gli angoli ciechi delle telecamere.
+Succedeva nei momenti in cui nessuno avrebbe dovuto guardarsi. Al passaggio da un'aula all'altra, tra le file dei banchi, nell'atrio dove tutti confluivano verso la mensa. Kate non si voltava mai apertamente. Gli occhi le scivolavano un poco a destra o un poco a sinistra, come per leggere un'indicazione, e lui si sentiva attraversato per un decimo di secondo. Gli ci vollero settimane per capire che non era un caso. Kate lo mappava nello spazio come lui mappava gli angoli ciechi delle telecamere.
 
-Quando se ne accorse per la prima volta, gli si strinse lo stomaco. Pensò: *adesso ci scoprono*. Poi pensò: *adesso ci siamo*. Non seppe decidere quale dei due pensieri lo spaventasse di più.
+Quando se ne accorse, gli si strinse lo stomaco. Pensò: *adesso ci scoprono*. Poi: *adesso ci siamo*. Non seppe decidere quale dei due pensieri lo spaventasse di più.
 
 ---
 
@@ -674,11 +656,11 @@ Alla sua sinistra, tre file più avanti, Kate prendeva appunti con la stessa neu
 
 Quella sera, dal terminale della sua camera, James si iscrisse al gruppo di Kate Ferrante. Gli ci volle più tempo del dovuto: il cursore rimase a lungo sospeso sulla casella. Pensò che Luca o Marco avrebbero potuto controllare la sua attività digitale, anche se non lo facevano mai. Pensò che l'algoritmo avrebbe notato l'iscrizione congiunta e l'avrebbe appaiata alla nota già esistente sul suo fascicolo. Pensò tutte queste cose e cliccò ugualmente.
 
-Nel gruppo, oltre a lui e Kate, c'erano altri due studenti. Hiro Tanaka, il fratello minore di Yuki, un ragazzo dal volto tondo che rispondeva alle interrogazioni con la precisione di un manuale e che già allora sognava una carriera nei Comitati Etici. Anni dopo, Alice avrebbe trovato il suo nome in un elenco di cittadini modello premiati dal Distretto. E Mattia, un ragazzo con una voce bassa e morbida, che parlava poco e guardava molto il pavimento. James seppe solo più tardi che Mattia, nel 2104, sarebbe stato segnalato per sintomi depressivi persistenti e trasferito in un centro di riabilitazione motivazionale, dove sarebbe rimasto per ventidue mesi. Ne sarebbe uscito silenzioso come prima, ma con gli occhi di qualcuno a cui era stato strappato qualcosa che non sapeva più nominare.
+Nel gruppo, oltre a lui e Kate, c'erano altri due studenti: un ragazzo dal volto tondo che rispondeva con la precisione di un manuale, e uno più silenzioso, con una voce bassa e gli occhi sempre sul pavimento.
 
 Si trovarono in una sala didattica del terzo piano, con un tavolo lungo e quattro terminali. Sullo schermo centrale scorrevano i "documenti primari" autorizzati per lo studio: lettere d'amore dell'epoca pre-Divieto, catalogate con numeri di protocollo, accompagnate da una dicitura rossa in alto. *Materiale patologico. Consultazione ammessa esclusivamente in contesto accademico.*
 
-Nel 2096 le lettere d'amore fuori dal perimetro accademico erano un reato da sei mesi di terapia. Dentro il perimetro accademico, invece, diventavano oggetti da dissezionare. Era la stessa lettera, la stessa carta scannerizzata, le stesse parole. Cambiava solo la cornice. James si era sempre chiesto come facesse la cornice a rendere legale un contenuto, ma aveva imparato a non fare domande.
+Nel 2096 le lettere d'amore fuori dal perimetro accademico erano un reato da sei mesi di terapia. Dentro il perimetro accademico diventavano oggetti da dissezionare. Cambiava solo la cornice.
 
 ---
 
@@ -686,13 +668,13 @@ Fu Kate a leggere la prima lettera ad alta voce. Si schiarì la gola, adottò il
 
 "*Amore mio, ho ricevuto la tua ultima ieri sera, tardi, al rientro dal turno. L'ho letta tre volte. L'ho riletta stamattina prima di alzarmi. Pensarti è diventato il modo in cui mi organizzo la giornata. Aspetto la sera come aspettavo, da bambino, il giorno di Natale...*"
 
-Hiro annotava velocemente sul tablet, estraeva parole chiave: "attesa strutturante", "regressione affettiva", "mitologia religiosa residuale". Mattia guardava il tavolo. James guardava Kate.
+I due compagni annotavano parole chiave sul tablet. James guardava Kate.
 
-E fu allora che la vide. Non sul viso, che era calmo come sempre, ma sulle mani. Un fremito piccolissimo, appena sotto la pelle, come se un muscolo si stesse contraendo e rilassando a una frequenza troppo rapida per essere volontaria. Il foglio che Kate teneva stretto tremava impercettibilmente all'angolo in basso a destra. Kate lesse l'intera lettera senza che la voce la tradisse, ma le sue mani la tradirono per tutta la durata della lettura, e James si costrinse a non guardarle per non venderla anche con gli occhi.
+E fu allora che la vide. Non sul viso, che era calmo come sempre, ma sulle mani. Un fremito piccolissimo, appena sotto la pelle, come se un muscolo si stesse contraendo e rilassando a una frequenza troppo rapida per essere volontaria. Il foglio tremava all'angolo in basso a destra. Kate lesse l'intera lettera senza che la voce la tradisse, ma le mani la tradirono per tutta la durata della lettura, e James si costrinse a non guardarle.
 
-Quando Kate finì, Hiro annotò il suo ultimo termine e disse, con il tono di chi spunta una casella: "Prototipico. Possiamo passare al documento successivo."
+Quando Kate finì, il compagno dal volto tondo annotò il suo ultimo termine e disse, con il tono di chi spunta una casella: "Prototipico. Possiamo passare al documento successivo."
 
-"Un momento," disse James. Lo disse più forte di quanto volesse. Hiro alzò lo sguardo. "Vorrei rileggerla. Per i miei appunti."
+"Un momento," disse James, più forte di quanto volesse. "Vorrei rileggerla. Per i miei appunti."
 
 Kate spinse il foglio nella sua direzione senza guardarlo. Le loro dita si sfiorarono sul bordo della carta per meno di un istante, e James sentì che il fremito di lei adesso era nel foglio, trasferito, come una corrente elettrica depositata sull'oggetto.
 
@@ -734,9 +716,9 @@ Kate annuì. Si alzò. Raccolse il tablet.
 
 "Allora dopo," disse.
 
-Quella parola, *dopo*, rimase sospesa tra loro. Non era un appuntamento. Non era una promessa. Era una categoria temporale nuova, creata in quel momento per loro due soli. Significava: non in questo istante ma in un istante futuro non precisato, in uno spazio non precisato, quando sarà possibile. Significava anche: se sarà mai possibile.
+Quella parola, *dopo*, rimase sospesa tra loro. Non era un appuntamento, non una promessa. Era una categoria temporale nuova, creata in quel momento per loro due soli. Significava: quando sarà possibile. Significava anche: se sarà mai possibile.
 
-Nei dodici mesi successivi, *dopo* sarebbe diventata la parola più usata tra loro. La dicevano nei corridoi, sottovoce, come un segno di riconoscimento. *Dopo.* *Dopo.* *Dopo, se riesco.* Non avevano bisogno di altri codici. Bastava quella parola, e l'altro sapeva che l'altro era vivo, e che l'altro stava pensando, e che l'altro stava aspettando.
+Nei dodici mesi successivi, *dopo* sarebbe diventata la parola più usata tra loro. La dicevano nei corridoi, sottovoce, come un segno di riconoscimento. Bastava quella parola, e l'altro sapeva che l'altro era vivo, e che stava aspettando.
 
 ---
 
@@ -867,7 +849,7 @@ Lo capì attraversando il cortile interno, al terzo passo dopo essere uscita dal
 
 Non disse niente. Non a se stessa. Non alla nonna Marta, che pure avrebbe capito. Non a Yuki, che pure avrebbe potuto aiutarla. Non alla propria immagine allo specchio, la sera, mentre si lavava i denti. Tenne la parola dentro il petto come si tiene una brace sotto la cenere per farla durare fino al mattino.
 
-Per due anni ancora, Kate non avrebbe nominato quello che le era successo quel pomeriggio. Avrebbe fatto altre cose: avrebbe baciato James, avrebbe dormito con lui, avrebbe pianto per lui, avrebbe rischiato per lui. Ma la parola sarebbe rimasta impronunciata, nascosta nel corpo, finché non sarebbe uscita da sola, nel letto, al buio, dopo la prima notte, come un respiro troppo grande da trattenere.
+Per due anni ancora, Kate non avrebbe nominato quello che le era successo quel pomeriggio. Avrebbe baciato James, avrebbe dormito con lui, avrebbe rischiato per lui. Ma la parola sarebbe rimasta nascosta nel corpo, finché non sarebbe uscita da sola nel letto, al buio, dopo la prima notte.
 
 Ma il corpo, quel pomeriggio, lo sapeva già.
 
@@ -921,11 +903,9 @@ Ma i documenti ufficiali non dicono tutto.
 
 Non dicono che il libro ha un odore. Un odore che riconosco.
 
-È difficile da descrivere. Carta vecchia, certo. Polvere. Ma sotto c'è qualcos'altro. Qualcosa di dolce e amaro insieme, come fiori secchi dimenticati tra le pagine. Ho controllato: non ci sono fiori. Eppure l'odore resta.
+Carta vecchia, polvere. Ma sotto c'è qualcosa di dolce e amaro insieme, come fiori secchi dimenticati tra le pagine. Ho controllato: non ci sono fiori. Eppure l'odore resta.
 
-Ho passato ore a chiedermi come sia possibile. I libri antichi hanno tutti più o meno lo stesso odore: cellulosa che si degrada, acidi che evaporano lentamente. Non dovrebbe esserci niente di distintivo.
-
-Ma io so che questo è diverso.
+I libri antichi hanno tutti più o meno lo stesso odore. Questo è diverso.
 
 ---
 
@@ -941,9 +921,9 @@ Eppure qualcosa in me si ribella.
 
 ---
 
-Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicologiche. Trascrizioni di interrogatori. E uno strano documento che ho trovato per caso, catalogato come "Materiale didattico storico, Era della Transizione".
+Ci sono altri documenti sulla mia scrivania. Rapporti medici, valutazioni psicologiche, trascrizioni di interrogatori. E un documento che ho trovato per caso, catalogato come "Materiale didattico storico, Era della Transizione".
 
-È un frammento di quello che una volta chiamavano "giornale", un modo primitivo di distribuire informazioni su fogli di carta. La data è 2027. Il titolo dice: "LA FINE DEL LAVORO: MILIARDI DI PERSONE SENZA SCOPO".
+È un frammento di quello che una volta chiamavano "giornale". La data è 2027. Il titolo: "LA FINE DEL LAVORO: MILIARDI DI PERSONE SENZA SCOPO".
 
 *"L'intelligenza artificiale generativa ha eliminato il 40% dei posti di lavoro globali in meno di quattro anni. Gli economisti avvertono che la tendenza è irreversibile.*
 
@@ -953,11 +933,9 @@ Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicol
 
 *Nel frattempo, i suicidi sono aumentati del 300% tra i lavoratori disoccupati. I servizi di salute mentale sono al collasso. E l'AI continua a migliorare."*
 
-Il documento si interrompe lì. Non so cosa sia successo dopo, o meglio, lo so fin troppo bene. Le guerre. La fame. I due miliardi di morti. La Fusione. Il Sistema.
+Il documento si interrompe lì. Lo so cosa è successo dopo. Le guerre. La fame. I due miliardi di morti. La Fusione. Il Sistema.
 
-Guardo questo pezzo di carta ingiallita e mi chiedo: c'era un momento in cui avremmo potuto scegliere diversamente? Un punto in cui qualcuno avrebbe potuto fermare tutto, redistribuire i benefici, costruire un mondo dove le macchine lavorassero per tutti invece che per pochi?
-
-Probabilmente sì. Ma nessuno lo fece. E ora siamo qui.
+Guardo questo pezzo di carta ingiallita e mi chiedo se ci fosse un momento in cui avremmo potuto scegliere diversamente. Probabilmente sì. Nessuno lo fece.
 
 ---
 
@@ -1019,9 +997,9 @@ Ho passato settimane a cercare una risposta. Ho confrontato la grafia con tutti 
 
 Mi rendo conto che sto perdendo l'obiettività.
 
-Una storica, una ricercatrice seria, non dovrebbe passare le notti a fissare un libro di poesie cercando di capire perché abbia un odore familiare. Non dovrebbe sentire il cuore accelerare leggendo le parole che due sconosciuti si scrivevano tanti anni fa.
+Una ricercatrice seria non dovrebbe passare le notti a fissare un libro di poesie cercando di capire perché abbia un odore familiare. Non dovrebbe sentire il cuore accelerare leggendo le parole che due sconosciuti si scrivevano tanti anni fa.
 
-Ma ecco il punto: non mi sembrano sconosciuti.
+Ma non mi sembrano sconosciuti.
 
 È assurdo. Non li ho mai incontrati. James è morto, o scomparso (i documenti si contraddicono), e Kate... Kate non so dove sia. Forse conformata, forse nascosta, forse nelle Zone Abbandonate con gli altri ribelli. Le tracce si perdono nel 2122, l'anno del raid.
 
@@ -1065,26 +1043,18 @@ Manca il centro della storia.
 
 ---
 
-Domani continuerò a scavare. Ho ancora molto da ricostruire: gli anni della giovinezza, il primo contatto fisico, la decisione di restare insieme nonostante tutto.
+Domani continuerò a scavare. Ho ancora molto da ricostruire.
 
 Ma stanotte, prima di dormire, voglio rileggere ancora una volta quella poesia.
 
 *"Non ti chiedo di amarmi per sempre.*
 *Ti chiedo solo di amarmi adesso."*
 
-Chissà chi l'ha sottolineata per primo. James o Kate.
-
-Chissà se sapevano già, allora, che l'"adesso" sarebbe diventato venticinque anni.
-
-Chissà se ne è valsa la pena.
+Chissà chi l'ha sottolineata per primo. Chissà se sapevano, allora, che l'"adesso" sarebbe diventato venticinque anni.
 
 ---
 
-(So che ne è valsa la pena.)
-
-(Non so come faccio a saperlo.)
-
-(Ma lo so.)
+(So che ne è valsa la pena. Non so come faccio a saperlo.)
 
 ---
 
@@ -1185,11 +1155,11 @@ La bacchetta passò di mano. I palmi si separarono. James la posò sul piano. Ka
 
 Quella sera James non dormì.
 
-Tornò a casa, cenò con Luca e Marco, rispose a una domanda di Marco sull'esercitazione con una frase così generica che Luca gli chiese se si sentisse bene. "Stanco, solo stanco." Andò a letto. Spense la luce. Mise la mano sinistra fuori dalla coperta e cominciò a contare i peli sul dorso.
+Tornò a casa, cenò con Luca e Marco, rispose alle loro domande con frasi generiche. "Stanco, solo stanco." Andò a letto. Spense la luce. Mise la mano sinistra fuori dalla coperta e cominciò a contare i peli sul dorso.
 
-Era un gesto assurdo. Lo sapeva. Ma nella mano sinistra era rimasto qualcosa, e James voleva sapere esattamente dove. Contò tutti i peli visibili nella luce bluastra del riverbero dello schermo pubblico che filtrava dalla fessura della porta. Ne contò ventisette sulla prima falange, diciannove sulla seconda. Quando cominciò a contare quelli del dorso, perse il conto, ricominciò, lo perse di nuovo. Lo rifece undici volte. Dopo la dodicesima rinunciò e rimase a fissare il soffitto con la mano sinistra appoggiata sulla guancia, come se la mano fosse un oggetto separato dal suo corpo, come se qualcun altro l'avesse posata lì per lui.
+Era un gesto assurdo. Lo sapeva. Ma nella mano sinistra era rimasto qualcosa, e voleva sapere dove. Contò ventisette peli sulla prima falange, diciannove sulla seconda. Quando passò al dorso perse il conto, ricominciò, lo perse di nuovo. Dopo la dodicesima volta rinunciò e rimase a fissare il soffitto con la mano appoggiata sulla guancia, come se qualcun altro l'avesse posata lì.
 
-Non riuscì a dormire. Verso le tre del mattino si alzò, aprì il libro di poesie alla pagina quarantadue, rilesse i due versi, e tornò a letto. Il sonno gli arrivò addosso all'alba, di colpo, come se qualcuno lo avesse spento.
+Verso le tre del mattino si alzò, aprì il libro alla pagina quarantadue, rilesse i due versi, tornò a letto. Il sonno gli arrivò addosso all'alba, di colpo.
 
 ---
 
@@ -1213,13 +1183,13 @@ Si mise la giacca. Sentì contro il petto il leggero spessore del foglio. Sentì
 
 Stavano iniziando. Non lo sapevano.
 
-Pensavano di essere ancora in un'anticamera, di avere tempo, di avere spazio. Kate contava le gocce del profumo che le rimanevano nella boccetta della nonna. James contava i giorni che mancavano alla fine della scuola. Si sarebbero detti, più avanti, che il vero inizio era stato la prima notte, mesi dopo, nell'appartamento di Kate mentre Enrico era fuori.
+Pensavano di essere ancora in un'anticamera, di avere tempo. Kate contava le gocce del profumo che le rimanevano nella boccetta della nonna. James contava i giorni che mancavano alla fine della scuola. Si sarebbero detti, più avanti, che il vero inizio era stato la prima notte, nell'appartamento di Kate mentre Enrico era fuori.
 
-Ma il Sistema, invece, era paziente.
+Il Sistema, invece, era paziente.
 
-Aveva cominciato a guardare da tempo. Il nuovo incrocio di dati dal laboratorio di biologia, quel martedì, fu inserito in un fascicolo congiunto e ricevette una classificazione preliminare. *Correlazione comportamentale tra soggetti 2847-C e 2847-K: in aumento. Probabilità di devianza congiunta: trentaquattro per cento.* Un analista di turno, all'inizio del suo secondo caffè, vide la nota, valutò che non raggiungesse la soglia di intervento, e passò al fascicolo successivo.
+Il nuovo incrocio di dati dal laboratorio, quel martedì, fu inserito in un fascicolo congiunto e ricevette una classificazione preliminare. *Correlazione comportamentale tra soggetti 2847-C e 2847-K: in aumento. Probabilità di devianza congiunta: trentaquattro per cento.* Un analista di turno valutò che non raggiungesse la soglia di intervento, e passò al fascicolo successivo.
 
-Ma il Sistema non dimenticava. Mai. E i fascicoli, nel tempo, diventavano sempre più spessi.
+Ma il Sistema non dimenticava. I fascicoli, nel tempo, diventavano più spessi.
 
 
 # Capitolo 8: La Prima Notte
@@ -1330,21 +1300,17 @@ A tre isolati di distanza, nell'ufficio del supervisore notturno, un monitor lam
 
 *Anomalia rilevata: Unità 2847-K. Sensori ambientali offline per 8.3 ore. Simulazione di presenza attivata.*
 
-L'operatore aggrottò le sopracciglia. Scorse i dati, incrociò i pattern, notò la correlazione con un altro profilo.
+L'operatore scorse i dati, incrociò i pattern, notò la correlazione con un altro profilo.
 
 *Soggetto 2847-C: posizione sconosciuta durante lo stesso intervallo.*
 
-Esitò un momento. Poteva essere un malfunzionamento. Poteva essere niente.
-
-Ma il protocollo era chiaro.
+Esitò. Poteva essere un malfunzionamento. Ma il protocollo era chiaro.
 
 *Segnalazione inviata. Unità di verifica allertata. Ispezione programmata: 72 ore.*
 
-L'operatore chiuse il file e passò al successivo. Era solo una nota tra migliaia. Probabilmente non significava nulla.
+Chiuse il file e passò al successivo. Era solo una nota tra migliaia.
 
-Ma a tre isolati di distanza, ignara di tutto, Kate dormiva ancora con il sorriso sulle labbra. La mano sinistra sotto il cuscino, stretta intorno al libro. E la ninna nanna senza parole che le era rimasta in gola, pronta per qualcuno che ancora non esisteva.
-
-E il tempo che le restava, senza saperlo, aveva appena cominciato il suo conto alla rovescia.
+A tre isolati di distanza, Kate dormiva ancora. La mano sinistra sotto il cuscino, stretta intorno al libro. E la ninna nanna senza parole che le era rimasta in gola, pronta per qualcuno che ancora non esisteva.
 
 
 # Intermezzo
@@ -1527,19 +1493,17 @@ Avevo quarantadue anni. Era il 2070, quindici anni fa, anche se sembra un'eterni
 
 Milano. *Mi' cara Milàn*.
 
-Ricordo ancora il Duomo che svettava sulla piazza, le guglie gotiche che bucavano il cielo grigio-perla delle mattine d'inverno. La Madonnina dorata in cima, che brillava quando il sole finalmente usciva dalle nuvole, e mia nonna che diceva sempre *"Ofelè, fa el to mestée"*, pasticciere fai il tuo mestiere, quando qualcuno parlava di cose che non capiva.
+Ricordo il Duomo che svettava sulla piazza, le guglie gotiche che bucavano il cielo grigio-perla delle mattine d'inverno. I Navigli la sera, quando la luce trasformava l'acqua in oro liquido e i bar si riempivano di voci. L'edicola all'angolo di corso Buenos Aires dove compravo i giornali per mio padre. Il tram arancione che sferragliava sotto le finestre alle sei del mattino.
 
-I Navigli la sera, quando la luce radente trasformava l'acqua in oro liquido e i bar si riempivano di voci, di risate, dell'odore del pesce fritto e della sbrisolona. L'edicola all'angolo di corso Buenos Aires dove compravo i giornali per mio padre. Il tram arancione che sferragliava sotto le finestre alle sei del mattino, così puntuale che mia madre ci regolava l'orologio.
+Il dialetto che mia nonna parlava ancora, quello stretto che io capivo a malapena. *"Milàn l'è on gran Milàn"*, diceva con orgoglio.
 
-Il dialetto che mia nonna parlava ancora, quello stretto che io capivo a malapena. *"Milàn l'è on gran Milàn"*, Milano è una grande Milano, diceva con orgoglio. E quando qualcuno si lamentava: *"Se pò minga pretend de vess content se te gh'è nient"*, non puoi pretendere di essere felice se non hai niente. Ma noi avevamo qualcosa. Avevamo lei.
-
-Ora è solo Settore Produttivo 7, Distretto Sud-Alpino. Nessuno lo chiama più Milano tranne noi vecchi, quando parliamo tra noi, quando pensiamo che nessuno ascolti. *Mi' cara Milàn*, sussurro a volte, da solo, nella mia stanza piena di libri. E per un momento sento ancora l'odore del panettone a Natale, il rumore della pioggia sui sanpietrini di piazza Duomo, la voce di mia nonna che cantava *"O mia bèla Madunina"* mentre impastava il pane.
+Ora è solo Settore Produttivo 7, Distretto Sud-Alpino. Nessuno lo chiama più Milano tranne noi vecchi, quando parliamo tra noi, quando pensiamo che nessuno ascolti. *Mi' cara Milàn*, sussurro a volte, da solo, nella mia stanza piena di libri.
 
 Ero nato nel 2028, l'anno in cui tutto crollava. I miei genitori mi raccontavano della Grande Crisi come se fosse una favola dell'orrore: le macchine che rubavano il lavoro, le rivolte, le guerre. Io ero troppo piccolo per ricordare i dettagli, ma ricordo la fame. Ricordo mia madre che divideva una mela in sei parti, una per ogni giorno della settimana. Ricordo mio padre che sparì per tre anni ("riallocato", dicevano) e tornò con gli occhi vuoti e le mani che tremavano.
 
-Ma ricordo anche il pane. Il pane vero, quello che mia nonna faceva la domenica quando riusciva a trovare la farina. L'odore che riempiva la casa, il calore che usciva dal forno, la crosta dorata che scricchiolava quando la spezzavi. Era poco, era raro, ma era *vero*. Non come il cibo sintetico che mangiamo adesso, indistinguibile dal naturale, dicono. Ma loro non hanno mai assaggiato il pane di mia nonna. Non sanno cosa significa mordere qualcosa che è cresciuto dalla terra, che è stato toccato dalle mani di chi ami.
+Ma ricordo anche il pane. Quello vero, che mia nonna faceva la domenica quando riusciva a trovare la farina. Era poco, era raro, ma era *vero*.
 
-A volte, quando mangio le razioni standard del Sistema, chiudo gli occhi e cerco di ricordare quel sapore. Ma i ricordi del gusto sbiadiscono, anche per un immortale. È una delle poche cose che il tempo riesce ancora a rubarci.
+A volte, quando mangio le razioni standard del Sistema, chiudo gli occhi e cerco di ricordare quel sapore. Ma i ricordi del gusto sbiadiscono, anche per un immortale.
 
 *[Pausa. Rumore di carta sfogliata]*
 
@@ -1559,9 +1523,7 @@ Quella domanda è rimasta dentro di me ottant'anni.
 
 Chiara la ritrovai in un elenco di rieducazione, nel 2078. Adulta ormai, sposata con un uomo, una figlia piccola. "Infetta recidiva". Sparì dentro una clinica del Sistema e non uscì più. Io ero già vecchio di un secolo, e non sapevo ancora cosa risponderle.
 
-Oggi, forse, avrei una risposta. Le direi: facciamo la Promessa *proprio perché* il mondo non la fa. Perché qualcuno deve tenere il filo. Perché se smettiamo tutti insieme, allora davvero non resta più niente.
-
-Ma Chiara non può sentirmi. E io resto qui, con una promessa fatta al fuoco di bivacco di un'estate che nessuno ricorda più, a chiedermi se ho il diritto di essere ancora vivo mentre lei non lo è.
+Oggi, forse, avrei una risposta. Ma Chiara non può sentirmi. E io resto qui, con una promessa fatta al fuoco di bivacco di un'estate che nessuno ricorda più, a chiedermi se ho il diritto di essere ancora vivo mentre lei non lo è.
 
 *"Estote parati"*, dicevamo. Siate pronti. Lo ripetevamo ai ragazzi senza pensarci, come una formula. Quando arrivò il Divieto, ho capito cosa significava davvero. Fui tra i pochi pronti, nel mio quartiere. Non perché fossi coraggioso: perché da giovane qualcuno mi aveva insegnato a riparare una scarpa rotta, a dormire al freddo, a cucinare con quello che trovavo, a tacere quando serviva tacere. Gli scout erano stati addestrati a un mondo che ancora non esisteva, e non lo sapevano.
 
@@ -1617,11 +1579,9 @@ Ma non per la tua mente.
 
 Questo nessuno te lo diceva. Nessuno ti avvertiva che saresti rimasto lo stesso, dentro. Con gli stessi ricordi, gli stessi rimpianti, le stesse paure. Solo che ora avresti avuto l'eternità per conviverci.
 
-I primi anni furono euforici. Viaggiammo, io ed Elena. Vedemmo luoghi che avevamo sempre sognato di vedere. Imparammo lingue nuove, mestieri nuovi, modi nuovi di essere. Sembrava che il mondo fosse nostro, finalmente, senza il conto alla rovescia della morte a scandire ogni momento.
+I primi anni furono euforici. Viaggiammo, io ed Elena. Imparammo lingue nuove, mestieri nuovi. Sembrava che il mondo fosse nostro, finalmente, senza il conto alla rovescia della morte a scandire ogni momento.
 
 Ma poi iniziò il cambiamento.
-
-Eravamo così felici di non morire mai. Non abbiamo pensato a cosa avremmo perso per sempre.
 
 *[Lunga pausa]*
 
@@ -1641,21 +1601,17 @@ La prima violenza la vidi nel 2072. Una coppia (lui e lei, mano nella mano) attr
 
 Dopo quella notte, Elena smise di tenermi la mano in pubblico. Poi smise di uscire con me. Poi smise di guardarmi negli occhi.
 
-L'odio funziona così. Non arriva tutto insieme. Ti consuma un pezzo alla volta, così lentamente che quando te ne accorgi non resta più niente.
-
 *[Rumore di respiro tremante]*
 
-A quel punto la popolazione mondiale era quasi raddoppiata. Gli immortali non morivano, ma i bambini continuavano a nascere. Le risorse iniziarono a scarseggiare. Le guerre (quelle piccole, locali, che non chiamavamo guerre) si moltiplicarono. Il pianeta stava cedendo sotto il peso di un'umanità che non sapeva più quando smettere.
+A quel punto la popolazione mondiale era quasi raddoppiata. Le risorse iniziarono a scarseggiare. Il pianeta stava cedendo sotto il peso di un'umanità che non sapeva più quando smettere.
 
-E così trovarono un capro espiatorio. Noi. Gli eterosessuali. I "riproduttori ossessivi". Gli "egoisti genetici" che volevano "imporre il proprio DNA al mondo".
+E così trovarono un capro espiatorio. Noi. Gli "egoisti genetici" che volevano "imporre il proprio DNA al mondo".
 
-Ricordo i dibattiti. Le discussioni nelle piazze virtuali, nei parlamenti che ancora esistevano, nelle case di tutti. Ma non erano veri dibattiti. Erano tribunali. E noi eravamo già stati condannati.
+Ricordo i dibattiti. Ma non erano dibattiti. Erano tribunali.
 
-La risposta venne dagli scienziati. O meglio, da quelli che controllavano gli scienziati.
+La risposta venne dagli scienziati, o meglio da quelli che li controllavano. "L'eterosessualità è un residuo evolutivo," dissero. "Un istinto che serviva alla riproduzione. Ora che la riproduzione non è più necessaria, possiamo eliminarlo."
 
-"L'eterosessualità è un residuo evolutivo," dissero. "Un istinto che serviva alla riproduzione. Ma ora che la riproduzione non è più necessaria, né desiderabile, possiamo eliminarlo."
-
-Non dissero "eliminare". Dissero "curare". Come se amare chi avevi sempre amato fosse una malattia, un difetto da correggere. "Disturbo dell'orientamento riproduttivo": questo fu il termine ufficiale. Suonava così clinico, così neutro. Così definitivo.
+Non dissero "eliminare". Dissero "curare". "Disturbo dell'orientamento riproduttivo": così chiamarono l'amore.
 
 Elena fu tra i primi a crederci. Non perché fosse cattiva: non lo era. Era gentile, intelligente, una delle persone migliori che avessi mai conosciuto. Ma era anche stanca. Stanca di vivere in un mondo che sembrava sempre sull'orlo del collasso. Stanca di avere paura.
 
@@ -1727,9 +1683,9 @@ Ogni volta, la voce di Enzio mi fa qualcosa. Non so spiegarlo. È come ascoltare
 
 Penso a quelle parole. A Elena che le pronuncia, convinta di avere ragione. A Enzio che le ascolta, sapendo che sta perdendo tutto.
 
-È così che funziona, capisco ora. Non con la violenza, non con le catene. Funziona convincendo le persone che ciò che provano è sbagliato. Che l'amore sbagliato, quello che fa male, quello che non puoi controllare, è una malattia da cui guarire. E chi decide quale amore è sbagliato? Chi ha il potere.
+Non funziona con la violenza, non con le catene. Funziona convincendo le persone che ciò che provano è sbagliato.
 
-E la cosa più terribile è che funziona. Funziona quasi sempre.
+Quasi sempre.
 
 Ma non sempre.
 
@@ -1772,11 +1728,11 @@ Ho aperto il libro a una pagina a caso e ho letto ad alta voce.
 *"Tu mi fai tremare l'anima,*
 *come una foglia."*
 
-Le parole sono uscite dalla mia bocca e hanno riempito la stanza. Per un momento, solo un momento, ho sentito il sangue accelerare. Ho sentito il calore salire alle guance. Ho sentito un'eco nel petto, un battito che non era solo il mio cuore.
+Le parole sono uscite dalla mia bocca e hanno riempito la stanza. Per un momento ho sentito il sangue accelerare, il calore alle guance, un'eco nel petto che non era solo il mio cuore.
 
 Era desiderio. Quello vero. Quello che ci hanno insegnato a temere.
 
-Poi il silenzio è tornato, e io sono rimasta sola con un libro che non dovrei avere, parole che non dovrei pronunciare, e una fame che non dovrei provare.
+Poi il silenzio è tornato, e io sono rimasta sola con un libro che non dovrei avere, e una fame che non dovrei provare.
 
 E poi mi è tornato in mente un ricordo che non pensavo di avere.
 
@@ -1835,7 +1791,7 @@ James aveva accesso totale all'archivio digitale del Settore 7. Catalogava libri
 
 Kate rispondeva nei suoi report di laboratorio. Aveva il diritto di scrivere note tecniche libere nei campi di annotazione. Costruì, nel corso di mesi, una stilometria discreta. Quando voleva dire *sì*, cominciava il paragrafo con il verbo *osservare* invece di *rilevare*. Quando voleva dire *no*, apriva con *annotare*. *Confermare* significava *stanotte sei tu*. *Validare* significava *mi serve un altro giorno*. *Sospendere* significava *pericolo*. Erano parole che nessun algoritmo di analisi linguistica avrebbe mai segnalato come anomale, perché rientravano tutte nel lessico consentito della biologia di laboratorio. Ma James, che leggeva i report perché Kate glieli girava in copia per "validazione incrociata" (un pretesto plausibile: in teoria un archivista può verificare i riferimenti storici citati in un report), li sapeva leggere a colpo d'occhio.
 
-Anni dopo, Alice adulta avrebbe riletto quei report e riconosciuto il ritmo. Avrebbe detto, fra sé, che sua madre aveva inventato per amore uno stile letterario intero e l'aveva chiamato lavoro. Lo avrebbe chiamato, nella propria testa, *stile biologico-clandestino*: una grammatica nascosta dentro un lessico tecnico, una firma che passava sotto i radar perché era vestita da ordinarietà. Certi pattern tornavano con la regolarità dei riti minori: il modo in cui Kate chiudeva i paragrafi con una subordinata concessiva invece che con una conclusiva, il modo in cui preferiva la parola *variazione* a *deviazione*, il modo in cui, quando era felice, scriveva *margine di incertezza contenuto* anche dove un collega avrebbe scritto *errore entro parametri*. Tutti piccoli dettagli, tutti leggibili solo da chi conosceva la lettrice a cui non erano indirizzati.
+Anni dopo, Alice adulta avrebbe riletto quei report e riconosciuto il ritmo. Avrebbe detto, fra sé, che sua madre aveva inventato per amore uno stile letterario intero e l'aveva chiamato lavoro. Certi pattern tornavano: il modo in cui Kate chiudeva i paragrafi con una subordinata concessiva, la parola *variazione* al posto di *deviazione*, il *margine di incertezza contenuto* dove un collega avrebbe scritto *errore entro parametri*. Dettagli leggibili solo da chi conosceva la lettrice a cui non erano indirizzati.
 
 Yuki lavorava nella stessa sezione. A volte Kate sentiva il suo sguardo addosso mentre compilava il modulo. Non mai nei momenti in cui stava davvero cifrando. Sempre un istante prima o un istante dopo. Come se Yuki avesse una percezione obliqua e non volesse sapere quello che stava vedendo. Quell'anno, a novembre, un sabato in cui la serra era chiusa per manutenzione del tetto, Kate e James si incontrarono in un bar del distretto. Non era un bar etero, non esisteva più un bar di quella categoria da venticinque anni, ma era un posto di consumo generico, a basso traffico, dove due colleghi di sesso diverso potevano sedersi allo stesso tavolo per quarantacinque minuti senza che i sensori ambientali flaggassero la coincidenza. Ordinarono un caffè sintetico ciascuno. Parlarono per quaranta minuti di un vecchio articolo scientifico, a voce alta, con la noia calibrata di chi discute di tecnicismi. Sotto il tavolo, le loro ginocchia si toccavano. Uscirono separati, come sempre, lei a nord, lui a sud. Quella sera Kate capì che quaranta minuti di una voce vicina erano diventati una porzione di vita intera, e che sarebbe stato difficile vivere senza averne di più.
 
@@ -1943,20 +1899,18 @@ In fondo, due nomi.
 
 *"Visti l'ultima volta: Settore 7, Distretto Abbandonato Nord. Stato: non confermato."*
 
-Non morti. Non catturati.
+Non morti. Non catturati. Non confermati.
 
-Non confermati.
+Ho passato il pomeriggio a riguardare quei nomi scritti uno accanto all'altro. Il Sistema, quando non sa, non scrive *non so*. Scrive *non confermato*: un modo di ammettere un vuoto pretendendo di averlo misurato. Sono nata dentro l'ampiezza di quell'incertezza burocratica.
 
-Ho passato il pomeriggio a riguardare quei nomi scritti uno accanto all'altro. Il Sistema, quando non sa, non scrive *non so*. Scrive *non confermato*, che è un modo di ammettere un vuoto pretendendo di averlo misurato. In quel vuoto, mi sono accorta, ci sono entrata io. Sono nata dentro l'ampiezza di quell'incertezza burocratica. Sono un effetto collaterale di due parole che il Sistema ha scelto per non doverne scegliere altre.
-
-Li cerco ancora. Dopo tutto questo tempo. Li cerco come si cerca una costellazione in un cielo troppo luminoso: sapendo che è lì, anche quando non si vede.
+Li cerco ancora. Come si cerca una costellazione in un cielo troppo luminoso: sapendo che è lì, anche quando non si vede.
 
 
 # Capitolo 12: Routine del Segreto
 
 James aveva ventitré anni e una vita che non gli apparteneva.
 
-Di giorno era l'archivista Valeri. Sette e quarantacinque, ingresso Nord dell'Edificio Culturale 3 del Settore 7. Badge al lettore biometrico, impronta del pollice destro, saluto breve alla receptionist Ayla che da quattro anni gli dava del tu e non gli aveva mai fatto una domanda sul weekend. Ascensore al piano tre. Postazione 417-B, quella che aveva ereditato per rotazione interna quando il predecessore era stato promosso al piano cinque. Il monitor si accendeva al riconoscimento dell'iride. La prima schermata era sempre la stessa: una lista di lotti documentali da processare, estratti dal magazzino a sud del complesso e consegnati tramite binario automatico nei carrelli della mattina.
+Di giorno era l'archivista Valeri. Sette e quarantacinque, ingresso Nord dell'Edificio Culturale 3. Badge al lettore biometrico, saluto breve alla receptionist Ayla che da quattro anni gli dava del tu e non gli aveva mai fatto una domanda sul weekend. Ascensore al piano tre. Postazione 417-B. La prima schermata era sempre la stessa: una lista di lotti documentali da processare, consegnati tramite binario automatico nei carrelli della mattina.
 
 Il lavoro dell'archivista, nel 2103, non era quello che i vecchi credevano. Nessuno scaffale impolverato, nessun odore di carta antica (o molto poco, solo nelle rare consegne di originali fisici). L'archivista era, per il novanta per cento del tempo, un supervisore di pipeline. I documenti dell'era pre-Fusione arrivavano in lotti, venivano scansionati da un OCR di nuova generazione che riconosceva anche la calligrafia manoscritta con un margine di errore inferiore al due per cento, poi entravano nel database centrale. L'archivista verificava. Puliva. Taggava. Assegnava categorie di sensibilità. Quando un documento toccava temi sotto vigilanza (riproduzione, eterosessualità, relazioni pre-Divieto, religioni monoteiste, proprietà privata dei mezzi di produzione) la macchina segnalava, e l'archivista umano decideva se classificarlo come *catalogazione di materiale deviante*, procedura che autorizzava l'accesso a scaffali schermati dal pubblico.
 
@@ -1994,7 +1948,7 @@ Verso la fine della riunione, un collega più giovane di James alzò la mano. Si
 
 Il capo sezione annuì. Disse che era una buona pratica. Ringraziò Oren per la trasparenza.
 
-James guardò Oren. Vide la tristezza secca di chi confida in una voce sintetica e non se ne accorge. Vide gli occhi piatti, il collo teso, la smorfia minuscola di chi ha appena finito di piangere e non lo ricorda. Oren era solo. Oren era stato solo in una stanza con una voce pilotata da un algoritmo di ottimizzazione del benessere. Oren credeva di essere stato ascoltato. Probabilmente era stato analizzato. Probabilmente da qualche parte, in un log di sistema, c'era ora una categoria di rischio associata al suo profilo, una microvariazione che nessuno gli avrebbe mai comunicato.
+James guardò Oren. Vide la tristezza secca di chi confida in una voce sintetica e non se ne accorge. Vide gli occhi piatti, il collo teso, la smorfia di chi ha appena finito di piangere e non lo ricorda. Oren era stato solo in una stanza con un algoritmo di ottimizzazione del benessere. Credeva di essere stato ascoltato. Probabilmente era stato analizzato, e da qualche parte, in un log di sistema, c'era ora una categoria di rischio associata al suo profilo.
 
 James non disse nulla. Non avrebbe potuto dire nulla. Gli mise una mano sulla spalla al termine della riunione, un gesto che, calibrato fra colleghi dello stesso genere, il Sistema permetteva senza sospetto. Oren sorrise, uno di quei sorrisi piccoli e grati che fanno più male di un pianto. James uscì per ultimo. Davanti al terminale, prima di spegnerlo, rilesse due volte il proprio rapporto del giorno. Aveva letto, l'anno prima, in una circolare interna, che il Sistema aveva cominciato a usare un modulo di analisi stilometrica sui testi liberi del personale: non guardava più solo cosa scrivevi, guardava come lo scrivevi, le tue cadenze, la frequenza dei connettivi, la distanza media fra due subordinate. Da allora James aveva imparato a scrivere più piatto, più corto, più uguale a tutti. Rileggere era diventato un atto di mimetismo.
 
@@ -2152,13 +2106,13 @@ Il giorno dopo, in laboratorio, Kate si accorse che Yuki la osservava da dietro 
 
 Le tre settimane passarono come un sogno febbrile.
 
-Kate cominciò dal laboratorio, perché il laboratorio era il primo ostacolo e il primo strumento. Al quarto mese un'eventuale gravidanza sarebbe stata fuori dalla portata degli inibitori ormonali standard, quelli che la Biologia Applicata del Settore 7 teneva regolarmente in magazzino per i casi di disordine menopausale e di terapia ormonale post-transizione. Ne servivano di diversi. Più selettivi, più mirati, in grado di bloccare i recettori dell'ormone corionico umano senza interferire con l'eritropoiesi. Esistevano, nel cassetto dei protocolli sperimentali al piano meno uno, ma ogni fiala era tracciata con un codice univoco che si chiudeva nel sistema quando veniva prelevata. Kate non poteva prenderne una fiala intera.
+Kate cominciò dal laboratorio. Al quarto mese, un'eventuale gravidanza sarebbe stata fuori dalla portata degli inibitori ormonali standard. Ne servivano di diversi: più selettivi, in grado di bloccare i recettori dell'ormone corionico umano senza interferire con l'eritropoiesi. Esistevano, nel cassetto dei protocolli sperimentali al piano meno uno, ma ogni fiala era tracciata con un codice univoco che si chiudeva nel sistema quando veniva prelevata.
 
 Poteva però prendere le fiale scartate. Ogni lotto di sperimentazione, alla fine del ciclo di validazione, rilasciava un certo numero di fiale classificate come *quality control failed*: dosaggio non conforme per qualche microgrammo, o un'impurità rilevata sopra soglia, o un colore che virava appena verso l'ocra. Quelle fiale andavano smaltite nel cestello termico a 600 gradi, dentro a sacchi di biosicurezza marcati in rosso. Il regolamento prescriveva che fossero smaltite entro quarantott'ore dalla dichiarazione di *failed*. In pratica, restavano nel frigorifero del laboratorio per quattro o cinque giorni prima che qualcuno ne facesse la pratica. In quei quattro o cinque giorni, una fiala poteva sparire senza che si aprisse nessuna pratica di incidente, perché la fiala era già ufficialmente destinata alla cenere.
 
 Kate prese a sottrarre le fiale una per volta. Mai due in una settimana. Le metteva in un piccolo contenitore termico che nascondeva sotto i reagenti di sintesi peptidica, in un angolo della cappa che Yuki non usava mai perché le dava una minima reazione allergica ai vapori. Dopo due settimane, aveva raccolto sei fiale. Non era ancora abbastanza, ma era l'inizio. In laboratorio, la sera, svuotava ogni fiala in un proprio contenitore anonimo e risciacquava quella originale con il tampone fosfato di cui aveva sempre uso professionale documentabile, poi la rimetteva nel sacco rosso dei rifiuti. La mattina dopo era cenere. Nessuno notava. Il C-17 di cui avrebbe parlato nei suoi appunti sei mesi più tardi nacque lì, miscelando quelle fiale recuperate con una molecola che lei aveva sintetizzato a partire da un vecchio protocollo giapponese del 2068 trovato in un volume d'archivio che le aveva passato James.
 
-Yuki la osservava. Sempre di scorcio. Un giorno, Kate le lasciò sul banco, come dimenticata, una copia cartacea di un articolo del 2055 sui disordini autoimmuni rari. Il giorno dopo l'articolo era tornato al suo posto, piegato in quattro, con una piccola piegatura a orecchio sulla pagina tre, dove si parlava di come alcuni ormoni potessero essere mascherati in modo non visibile dai test standard del tempo. Kate fissò quella piega per un minuto intero. Yuki le stava dicendo, senza dirlo, che sapeva, e che per il momento avrebbe dormito sopra a quella conoscenza come si dorme sopra un coltello. Kate rimise l'articolo al suo posto. Non ringraziò, non chiese. Avrebbe dovuto abituarsi a questa grammatica del silenzio, perché per sopravvivere al Sistema bisognava imparare a stare dentro cortesie che non diventavano mai parole.
+Yuki la osservava di scorcio. Un giorno, Kate le lasciò sul banco, come dimenticata, una copia cartacea di un articolo del 2055 sui disordini autoimmuni rari. Il giorno dopo l'articolo era tornato al suo posto, piegato in quattro, con una piegatura a orecchio sulla pagina tre, dove si parlava di come alcuni ormoni potessero essere mascherati in modo non visibile dai test standard. Kate fissò quella piega per un minuto intero. Yuki le stava dicendo, senza dirlo, che sapeva. Kate rimise l'articolo al suo posto. Non ringraziò, non chiese.
 
 ---
 
@@ -2284,9 +2238,9 @@ Kate ascoltava. Si era accoccolata contro la spalla di James, con il fianco dest
 
 "Per sempre," rispose James.
 
-Rimasero a lungo così, senza parlare. Kate si accorse che, da qualche punto profondo del proprio petto, senza volere, le stava salendo un suono. Non era un canto. Era una melodia semplice, tre note che salivano, una che scendeva, poi un silenzio, poi di nuovo le stesse quattro note. Non aveva parole. Non si ricordava di averla mai imparata. Sapeva solo che era siciliana, che Marta le canticchiava qualcosa di simile quando le piegava il collo dei maglioni da bambina, e che ora quella melodia era sulle sue labbra senza che lei l'avesse chiamata. La cantò sottovoce, un minuto, forse due. James la sentì e non disse niente. Le appoggiò la mano sulla pancia, sopra la sua.
+Rimasero a lungo così, senza parlare. Kate si accorse che le stava salendo un suono. Tre note che salivano, una che scendeva, poi un silenzio, poi di nuovo. Una melodia siciliana che Marta le canticchiava da bambina, e che ora era sulle sue labbra senza che lei l'avesse chiamata. La cantò sottovoce. James le appoggiò la mano sulla pancia.
 
-Il test, sul pavimento accanto a loro, restava lì. Due linee blu. Un futuro che si contava in settimane.
+Il test, sul pavimento accanto a loro, restava lì. Due linee blu.
 
 
 # Capitolo 15: Frammento dei Genitori di James
@@ -2350,9 +2304,7 @@ La lettera di Marco era più breve.
 
 Ho pianto leggendo queste lettere. Non per tristezza, per bellezza.
 
-Luca e Marco non erano perfetti. Nessuno lo è. Ma si amavano, e amavano James, e questo era tutto.
-
-L'amore di due uomini che crescono un figlio non è diverso da qualsiasi altro amore genitoriale. È fatto di notti insonni e risate improvvise, di preoccupazioni e orgoglio, di quella strana alchimia che trasforma due estranei in una famiglia.
+Luca e Marco non erano perfetti. Ma si amavano, e amavano James, e questo era tutto.
 
 ---
 
@@ -2403,23 +2355,13 @@ Ho chiuso la lettera e sono rimasta a lungo in silenzio.
 
 Tre lettere. Tre forme d'amore.
 
-Luca e Marco: due uomini che si sono amati per decenni e che hanno scelto di condividere quell'amore con un bambino non loro.
-
-Lin: una donna che ha amato un uomo, ha perso tutto, e ha sacrificato il proprio figlio per dargli una possibilità.
-
-Non c'è una gerarchia. Non c'è un amore "migliore". C'è solo l'amore, in tutte le sue forme, con tutti i suoi costi.
-
 ---
 
 Mi chiedo cosa abbia pensato James quando ha trovato queste lettere. Se le ha mai trovate.
 
-Mi chiedo se sapeva che sua madre biologica era una donna eterosessuale perseguitata. Una "infetta", come la chiamavano loro. Una "malata".
+Mi chiedo se sapeva che sua madre biologica era una donna eterosessuale perseguitata. Una "infetta", come la chiamavano loro.
 
 Mi chiedo se questo abbia cambiato qualcosa, quando ha guardato Kate per la prima volta.
-
-Probabilmente no. L'amore non funziona così. Non sceglie in base alla storia, non calcola in base al rischio.
-
-L'amore arriva, e basta. E poi sta a te decidere cosa farne.
 
 ---
 
@@ -2444,11 +2386,11 @@ E forse, solo forse, questo le dà un po' di pace.
 
 # Capitolo 16: La Decisione
 
-Alla sesta settimana, il corpo di Kate aveva cominciato a parlarle in una lingua che solo lei sapeva leggere.
+Alla sesta settimana, il corpo di Kate parlava una lingua che solo lei sapeva leggere.
 
-Non erano segni grossi, niente che si potesse vedere dall'esterno. Era il seno che le pareva più pesante del solito quando alla mattina chiudeva la chiusura della blusa, era la stanchezza che le arrivava alle tre del pomeriggio e le abbassava le palpebre anche se aveva dormito, era una sensibilità nuova ai profumi, anche i più neutri, il disinfettante dei banchi, il solvente dei pennarelli, l'odore dell'acqua distillata appena aperta. Al quarto giorno di quella settimana, Kate si era trovata a piangere in silenzio davanti a una piastra Petri, senza una ragione, senza un preavviso, con le lacrime che le cadevano sulla superficie di agar già seminata, e aveva dovuto sostituire la piastra e rifare il campione fingendo con se stessa di essersi distratta. Il corpo, pensò, sapeva già cose che la testa non aveva ancora raccontato a nessuno.
+Non erano segni grossi, niente di visibile dall'esterno. Era il seno più pesante quando al mattino chiudeva la blusa, la stanchezza che le arrivava alle tre del pomeriggio, una sensibilità nuova ai profumi anche neutri, il disinfettante dei banchi, il solvente dei pennarelli. Al quarto giorno si era trovata a piangere in silenzio davanti a una piastra Petri, senza ragione, con le lacrime che le cadevano sulla superficie di agar seminata, e aveva dovuto rifare il campione fingendo con se stessa di essersi distratta. Il corpo sapeva cose che la testa non aveva ancora detto a nessuno.
 
-Quella mattina di fine inverno era entrata in laboratorio alle sette e ventuno. Yuki era già al proprio banco, come sempre. Kate aveva fatto il giro della Sala 2, controllato i monitor di temperatura, aperto il terminale, avviato la serie di validazioni. Per la prima mezz'ora non aveva alzato gli occhi. Quando si era concessa un respiro, si era accorta che il silenzio fra lei e Yuki non era il silenzio operativo che si scambiavano di solito, quel silenzio efficiente di due professioniste che condividono un banco di lavoro. Era un altro. Era più pieno.
+Quella mattina di fine inverno era entrata in laboratorio alle sette e ventuno. Yuki era già al proprio banco. Kate aveva fatto il giro della Sala 2, controllato i monitor di temperatura, avviato le validazioni. Per la prima mezz'ora non aveva alzato gli occhi. Quando si era concessa una pausa, si era accorta che il silenzio fra lei e Yuki non era quello operativo di tutti i giorni. Era un altro, più pieno.
 
 Alle dieci e mezza, la pausa. Yuki si alzò, attraversò la sala, riempì un bicchiere dal distributore d'acqua fredda, e invece di tornare al proprio posto venne al banco di Kate e glielo posò accanto al microscopio, senza dire niente. Kate lo guardò per un istante e poi la guardò.
 
@@ -2512,20 +2454,20 @@ Parlò piano, al buio.
 
 Aspettò un secondo, come se davvero ci fosse qualcuno ad aspettare la frase successiva.
 
-"Ti prometto tre cose che hanno promesso a me quando sono nata, e che non hanno mantenuto. Ti prometto che il mondo sarà giusto. Ti prometto che non dovrai avere paura. Ti prometto che non sarai sola." Si fermò, e le venne da ridere un poco, una risata corta e sottile che le uscì più come un respiro. "Non posso promettertele sul serio. Nessuna di queste tre. Il mondo non sarà giusto con te, almeno per un po'. Paura ne avrai, eccome. E sola sarai, in certi momenti, perché nessuno può stare dentro un altro corpo. Ma ci proverò."
+"Ti prometto tre cose che hanno promesso a me quando sono nata, e che non hanno mantenuto. Che il mondo sarà giusto. Che non dovrai avere paura. Che non sarai sola." Si fermò, e le venne da ridere un poco, una risata sottile che le uscì più come un respiro. "Non posso promettertele sul serio. Il mondo non sarà giusto con te, almeno per un po'. Paura ne avrai. E sola sarai, in certi momenti, perché nessuno può stare dentro un altro corpo. Ma ci proverò."
 
-Chiuse gli occhi. Sentì che, dal giorno seguente, sarebbe cominciata un'altra cosa. Non la paura, che c'era da mesi. Non la determinazione, che c'era da prima ancora. Un'altra cosa, più quieta e più dura: l'obbligo. L'obbligo di non sbagliare più niente di cruciale, per nove mesi, per il tempo che sarebbe occorso. L'obbligo di essere, da quel punto in avanti, una persona che non poteva più permettersi la distrazione.
+Chiuse gli occhi. Sentì che, dal giorno seguente, sarebbe cominciata un'altra cosa. Non la paura, non la determinazione. L'obbligo. L'obbligo di non sbagliare più niente di cruciale, per nove mesi.
 
 Si addormentò con la mano ancora appoggiata al ventre, e dormì, per la prima volta da settimane, un sonno senza sogni.
 
 
 # Capitolo 17: L'Attesa
 
-Alla primavera del 2105, Kate era al quarto mese di gravidanza, e il suo corpo aveva cominciato a raccontare la verità anche quando lei gli chiedeva di tacere.
+Alla primavera del 2105, Kate era al quarto mese, e il suo corpo raccontava la verità anche quando lei gli chiedeva di tacere.
 
-Il ventre non era ancora un ventre da chiunque sapesse leggerlo. Era un'onda molto bassa, un addolcirsi della linea che una volta era tesa, un'abbondanza tiepida appena sotto l'ombelico che solo lei, guardandosi allo specchio al mattino, riconosceva come nuova. Ma bastava una blusa un poco aderente per farla apparire, bastava un movimento troppo deciso per farla notare. Kate aveva comprato al distributore di capi di vestiario del Settore 3 tre bluse di una taglia più larga, di quelle neutre che gli impiegati amministrativi indossavano d'estate, e aveva buttato due pantaloni che le stringevano sui fianchi. Li aveva buttati uno per volta, a distanza di una settimana, nel cestello di riciclo tessile dell'Unità, in modo che l'inventario automatico non notasse un calo improvviso del guardaroba.
+Il ventre non era ancora un ventre per chi non sapeva leggerlo. Era un'onda bassa, un addolcirsi della linea che una volta era tesa, un'abbondanza tiepida sotto l'ombelico che solo lei, allo specchio al mattino, riconosceva. Ma bastava una blusa aderente per farla apparire. Kate aveva comprato tre bluse più larghe, neutre, e aveva buttato due pantaloni che le stringevano sui fianchi. Li aveva buttati uno alla volta, a distanza di una settimana, perché l'inventario automatico non notasse un calo improvviso del guardaroba.
 
-Camminava in modo diverso. Se ne era accorta salendo le scale del laboratorio, alla fine di aprile. Il pattugliamento passava nelle gallerie principali ogni quaranta minuti, in coppie, con i sensori ottici attivi. Kate aveva calcolato i tempi. Si era imposta di non correre mai, di non affannarsi, di non saltare scalini. Saliva un gradino alla volta, con calma, con una mano appoggiata al corrimano per dare l'idea che fosse solo stanchezza ordinaria. Si era esercitata, davanti allo specchio dell'ingresso, a stare in piedi con la schiena leggermente più avanti del solito, in modo da mascherare la curva. Sono, si diceva nella testa mentre faceva questi esercizi, una donna esattamente come tutte le altre. Sono una biologa sulla trentina, leggermente sottopeso per aumento di stress lavorativo, niente di più.
+Camminava in modo diverso. Se ne era accorta salendo le scale del laboratorio, alla fine di aprile. Saliva un gradino alla volta, con una mano sul corrimano, per dare l'idea che fosse stanchezza ordinaria. Si era esercitata davanti allo specchio a stare in piedi con la schiena leggermente più avanti del solito, per mascherare la curva. *Sono una donna come tutte le altre*, si diceva. *Una biologa sulla trentina, sottopeso per stress lavorativo.*
 
 A maggio, una notte, James entrò nella stanza di lei e trovò Kate sveglia.
 
@@ -2569,11 +2511,11 @@ Era un fazzoletto di cotone, con un bordo giallo e un bordo verde, piegato in qu
 
 Quella sera, James prese ago e filo. Cucì il fazzoletto all'interno della propria giacca, nella fodera, all'altezza del cuore, con punti piccoli e fitti. Quando ebbe finito, chiuse la giacca e la appoggiò alla sedia, e la guardò a lungo, come si guarda un'armatura che non si è ancora imparati a indossare.
 
-A luglio, Kate e James incontrarono Sara per la prima volta.
+A luglio, Kate e James incontrarono Sara.
 
-Marcus aveva mandato un messaggio attraverso la rete scout. Una levatrice sarebbe entrata nel Complesso durante la finestra di manutenzione, la notte tra il quindici e il sedici luglio, quando i droni di sorveglianza venivano calibrati e la rete elettrica del Settore 3 restava in modalità ridotta per due ore. Sara entrò dalla finestra del laboratorio al primo piano, quella che dava sul pozzo di aerazione, e che Kate aveva lasciato aperta sei centimetri. Era una donna piccola, asciutta, sui cinquant'anni apparenti, con i capelli tagliati corti e un kit di visita nascosto in una borsa di tela scolorita. Non disse subito il proprio nome. Si strinsero la mano in silenzio.
+Marcus aveva mandato un messaggio attraverso la rete scout. Una levatrice sarebbe entrata nel Complesso durante la finestra di manutenzione, la notte tra il quindici e il sedici luglio. Sara entrò dalla finestra del laboratorio al primo piano, quella che dava sul pozzo di aerazione. Era una donna piccola, asciutta, sui cinquant'anni, con i capelli tagliati corti e un kit di visita in una borsa di tela scolorita. Si strinsero la mano in silenzio.
 
-La visita durò quaranta minuti. Sara aveva strumenti antichi, un misuratore manuale della pressione, uno stetoscopio di gomma, una sonda doppler a batteria che emetteva un suono sommesso. Fece stendere Kate su una branda improvvisata, le tastò l'addome con le dita che sembravano sapere da sole dove cercare, le misurò la pressione, ascoltò a lungo il battito del bambino attraverso il doppler. Il suono era veloce, regolare, sommerso, come cavalli che corrono lontani in una pianura.
+La visita durò quaranta minuti. Sara aveva strumenti antichi, un misuratore manuale della pressione, uno stetoscopio di gomma, una sonda doppler a batteria. Fece stendere Kate su una branda improvvisata, le tastò l'addome con dita che sembravano sapere da sole dove cercare, ascoltò a lungo il battito del bambino. Il suono era veloce, regolare, come cavalli che corrono lontani in una pianura.
 
 Quando ebbe finito, Sara si pulì le mani con un panno e si sedette sul bordo della branda.
 
@@ -2634,7 +2576,7 @@ Si alzò, disse a Yuki che andava al deposito reagenti a prendere un tampone fos
 
 ---
 
-Lo sgabuzzino dietro la Sala 4 non era esattamente un nascondiglio. Era un locale di servizio, tre metri per due, con scaffali di cartucce filtranti e un lavandino d'acciaio sempre graffiato. Non aveva telecamere perché i regolamenti di sicurezza vietavano la registrazione nelle aree di stoccaggio reagenti, per paura di incendi da microarchi elettrici. Kate ci entrava da tre mesi ogni settantadue ore, e ogni volta le sembrava la prima.
+Lo sgabuzzino dietro la Sala 4 era un locale di servizio, tre metri per due, con scaffali di cartucce filtranti e un lavandino d'acciaio graffiato. Non aveva telecamere: il regolamento vietava le riprese nelle aree di stoccaggio reagenti. Kate ci entrava ogni settantadue ore da tre mesi, e ogni volta le sembrava la prima.
 
 Chiuse la porta. Si appoggiò con la schiena al legno. Dal taschino interno del camice estrasse una fialetta di vetro scuro, sigillata con tappo a pressione, e una siringa sottile da mezzo millilitro. Il liquido, dentro la fiala, era di quell'ambra densa che i biochimici riconoscono a colpo d'occhio: un veicolante oleoso, per rallentare l'assorbimento. Il principio attivo era una molecola che aveva chiamato, nei suoi appunti, C-17. Un antagonista competitivo del recettore dell'hCG a livello tubulare renale. Il rene continuava a filtrare l'ormone, ma il sensore urinario non lo leggeva, perché il C-17 occupava i siti di legame della strip reagente prima che l'ormone potesse farlo. Settantadue ore di cecità chimica. Non di più.
 
@@ -2734,11 +2676,11 @@ L'anziana la guardò un istante di troppo. Poi annuì, disse che doveva andare, 
 
 Arrivò all'Unità che era quasi ora di cena. James non era ancora tornato. Andò in bagno, tenne la porta chiusa, si inginocchiò davanti al water e vomitò due volte, in silenzio, aprendo il rubinetto per coprire il rumore. Quando si tirò su, il viso allo specchio era una maschera pallida con la bocca sporca di bile, gli occhi lucidi, una chiazza di sangue ormai secco sul labbro superiore. Si lavò. Si passò il dito attorno al contorno della bocca, con cura, come si lucida un oggetto prezioso.
 
-Poi appoggiò entrambe le mani sulla pancia, aperte, dita allargate, coprendo quanto più poteva di quel piccolo rilievo che ancora non si vedeva sotto i vestiti larghi ma che lei, sotto le dita nude, sentiva chiaramente.
+Poi appoggiò entrambe le mani sulla pancia, aperte, coprendo quel rilievo che ancora non si vedeva sotto i vestiti larghi ma che lei, sotto le dita nude, sentiva chiaramente.
 
 "Siamo ancora qui," disse al proprio riflesso. "Siamo ancora qui."
 
-Le sembrò una preghiera rivolta a nessuno, e insieme un contratto che firmava con se stessa per la centesima volta.
+Le sembrò insieme una preghiera e un contratto firmato con se stessa per la centesima volta.
 
 ---
 
@@ -2848,7 +2790,7 @@ Fuori, il ronzio si faceva sempre più vicino.
 
 Arrivarono nelle Zone Orientali nel cuore dell'inverno.
 
-Marcus li condusse dal checkpoint al rifugio principale attraverso una mulattiera che Kate non riuscì a distinguere dal resto del paesaggio. Camminavano da quattro ore. La neve cadeva fina, inclinata, e si scioglieva sul bavero del cappotto di James come saliva. Kate si teneva una mano sul ventre sotto la giacca. Era al quarto mese e mezzo. Il freddo le arrivava ai polmoni come qualcosa di solido, un oggetto che bisognava inghiottire e poi tossire via a piccoli colpi.
+Marcus li condusse al rifugio principale attraverso una mulattiera che Kate non riuscì a distinguere dal resto del paesaggio. Camminavano da quattro ore. La neve cadeva fina, inclinata, e si scioglieva sul bavero del cappotto di James come saliva. Kate si teneva una mano sul ventre sotto la giacca. Era al quarto mese e mezzo. Il freddo le arrivava ai polmoni come qualcosa di solido.
 
 "Respira piano," le disse Marcus a un certo punto. "L'aria qui non è stata filtrata. Se fai respiri grandi ti brucia dentro."
 
@@ -2924,11 +2866,9 @@ Kate si accorse di fidarsi della voce di quella donna come non si era mai fidata
 
 ---
 
-La comunità principale era fatta di cinquanta persone.
+La comunità principale era di cinquanta persone. Altri trecento erano disseminati in rifugi più piccoli, casali, capanne, vecchie stazioni ferroviarie. Una rete allungata per oltre quaranta chilometri di foresta e rovine. Marcus li teneva insieme con messaggeri a piedi, segnali luminosi, codici scritti a mano. Non esisteva scrittura digitale nelle Zone.
 
-Altri trecento erano disseminati in rifugi più piccoli, casali, capanne, vecchie stazioni ferroviarie, grotte di cava. Una rete allungata per oltre quaranta chilometri di foresta e di rovine. Marcus li teneva insieme con un sistema di messaggeri a piedi, segnali luminosi, codici scritti a mano su pezzi di carta. Non esisteva scrittura digitale nelle Zone. Chi entrava, lasciava quella parte di sé fuori.
-
-Ognuno aveva un compito. Chi cacciava. Chi coltivava nelle serre improvvisate. Chi riparava. Chi faceva da levatrice, chi lavava, chi insegnava ai bambini nati lì a leggere su vecchi libri che Enzio aveva fatto arrivare anni prima per canali che James non aveva mai saputo esistessero.
+Ognuno aveva un compito. Chi cacciava. Chi coltivava. Chi riparava. Chi insegnava ai bambini a leggere su vecchi libri che Enzio aveva fatto arrivare anni prima.
 
 Nessun denaro. Nessun registro.
 
@@ -3326,9 +3266,9 @@ Si riaddormentò.
 
 James non si mosse per un lungo momento. Poi fece una cosa che Kate gli aveva visto fare solo tre volte in vita sua, tutte e tre in quella stanza, tutte e tre dopo che era nata Alice. Si piegò in avanti, le mani sugli occhi, e pianse senza fare rumore. Non per molto. Qualche minuto. Il minimo che un corpo chiede per tenersi insieme.
 
-Kate non disse niente. Gli mise una mano in mezzo alla schiena e ce la tenne, aperta, calma, finché lui non respirò più piano. Ripensò a un verso che gli aveva scritto undici anni prima, su un foglio piegato in due, in un laboratorio di scuola. *Non ti chiedo di amarmi per sempre.* Allora l'aveva scritta come una promessa al ribasso, per paura di chiedere troppo. Adesso capiva che era la cosa più grande che si potesse chiedere a qualcuno: di esserci, giorno per giorno, anche quando il sempre non esisteva.
+Kate non disse niente. Gli mise una mano in mezzo alla schiena e ce la tenne finché lui non respirò più piano. Ripensò a un verso che gli aveva scritto undici anni prima, su un foglio piegato in due, in un laboratorio di scuola. *Non ti chiedo di amarmi per sempre.*
 
-Fuori era buio. Dentro, Alice dormiva con la mano sulla bambola di un bambino che non c'era più, e sua madre cantava mentalmente tre note che salivano e una che scendeva, una melodia che era passata per cinque generazioni senza che nessuna sapesse di trasmetterla.
+Fuori era buio. Dentro, Alice dormiva con la mano sulla bambola di un bambino che non c'era più, e sua madre cantava mentalmente tre note che salivano e una che scendeva.
 
 
 # Capitolo 23: Frammento di Enrico
@@ -3574,13 +3514,9 @@ Ma non sono riuscita a fermarmi.
 
 Ho chiuso il diario e non sono riuscita a smettere di piangere.
 
-Enrico Ferrante. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che aveva visto sua moglie tornare dalla rieducazione come un guscio vuoto. Che aveva assistito alle retate, ai pestaggi, alle sparizioni. Che aveva trascorso anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva: scomparendo.
+Enrico Ferrante. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che aveva visto sua moglie tornare dalla rieducazione come un guscio vuoto. Che aveva trascorso anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva: scomparendo.
 
-Non era un eroe. Non era un ribelle. Era un sopravvissuto, e i sopravvissuti portano cicatrici invisibili che non guariscono mai.
-
-Era solo un padre che amava sua figlia troppo per tradirla, ma troppo spezzato dall'epoca dell'eterofobia per combattere al suo fianco. Aveva già perso tutto una volta. Non poteva sopportare di perderlo di nuovo.
-
-E forse, in quel fallimento, c'era una forma di amore che non avevo mai considerato. L'amore di chi sa di non poter fare abbastanza, e sceglie di fare quel poco che può. L'amore di chi protegge non combattendo, ma semplicemente non denunciando. Non tradendo.
+Era un padre che amava sua figlia troppo per tradirla, ma troppo spezzato dall'epoca per combattere al suo fianco. Aveva già perso tutto una volta. Non poteva sopportare di perderlo di nuovo.
 
 ---
 
@@ -3611,7 +3547,7 @@ E forse, il pensiero mi attraversa come una lama fredda, forse il sangue che sco
 
 # Capitolo 24: La Domanda
 
-Il pomeriggio di ottobre del 2110 era di quelli che nelle Zone ricordavano a chi ci era arrivato da poco che esistevano ancora le stagioni. La luce cadeva obliqua sui tetti di lamiera del rifugio principale, l'aria odorava di foglie bagnate e di fumo di legna da un camino mal tirato, e i cani della comunità, tre bastardi magri, dormivano sulla terra battuta della piazzetta come se qualcuno li avesse disposti apposta per la scena.
+Quel pomeriggio di ottobre del 2110 ricordava a chi era arrivato da poco nelle Zone che esistevano ancora le stagioni. La luce cadeva obliqua sui tetti di lamiera, l'aria odorava di foglie bagnate e di fumo di legna, e i tre cani della comunità dormivano sulla terra battuta della piazzetta.
 
 Kate aveva lavato Alice e le aveva messo il vestito buono, quello di lana grezza color crema che le aveva cucito Sara l'inverno prima. Alice aveva quattro anni, capelli castani raccolti dietro, e stava in piedi accanto al tavolo più grande con l'aria solenne di chi sa che succede qualcosa di importante e non vuole sbagliare.
 
@@ -3784,9 +3720,9 @@ Fu Remo ad accorgersene per primo, perché Remo aveva l'abitudine di accorgersi 
 
 Alice aveva quattordici anni. Era una ragazza lunga e scura, con gli occhi di James e i movimenti rapidi di Kate, e aveva chiesto di venire nelle spedizioni già da due anni. Kate non voleva. James aveva trattato. Alla fine la regola era diventata: Alice poteva andare solo con Remo, e Remo rispondeva di lei come di sé. Remo aveva accettato senza commentare. Alice si alzava all'alba, si legava i capelli dietro, prendeva lo zaino di tela, e andava.
 
-Quel giorno di luglio erano partiti in sei. Remo, Alice, due ragazzi della comunità satellite a nord, Vera, che nelle Zone si era dimostrata più resistente di quanto la sua camminata avesse lasciato intendere, e un uomo nuovo arrivato in primavera, Saulo, che sapeva riconoscere i funghi. Stavano andando verso le rovine di un vecchio agriturismo sulla collina, dove Remo aveva visto l'anno prima una pianta di pesche ancora viva.
+Quel giorno di luglio erano partiti in sei. Remo, Alice, due ragazzi della comunità satellite a nord, Vera, e un uomo della comunità che sapeva riconoscere i funghi. Stavano andando verso le rovine di un vecchio agriturismo sulla collina, dove Remo aveva visto l'anno prima una pianta di pesche ancora viva.
 
-Ci misero tre ore. Il sole era alto quando arrivarono. Le pesche c'erano ancora, piccole, rugose, quasi secche, ma dolci. Vera raccolse, Saulo si allontanò a cercare funghi sul versante ombroso, i due ragazzi riempivano uno zaino a turno. Remo e Alice girarono attorno alla casa crollata, per abitudine, a controllare che non ci fosse nessuno.
+Ci misero tre ore. Il sole era alto quando arrivarono. Le pesche c'erano ancora, piccole, rugose, quasi secche, ma dolci. Vera raccolse, l'altro si allontanò a cercare funghi sul versante ombroso, i due ragazzi riempivano uno zaino a turno. Remo e Alice girarono attorno alla casa crollata.
 
 Fu Alice a vederlo.
 
@@ -3808,11 +3744,11 @@ Alice si inginocchiò anche lei. Guardò il piccolo corpo rotto. Si accorse che 
 
 "Molto."
 
-Remo lo raccolse con un fazzoletto, lo avvolse, lo mise nello zaino. Si voltò verso Vera che stava arrivando, la mano piena di pesche.
+Remo lo raccolse con un fazzoletto, lo avvolse, lo mise nello zaino. Si voltò verso Vera che stava arrivando con la mano piena di pesche.
 
 "Torniamo," disse Remo. "Adesso."
 
-Vera capì subito. Chiamò Saulo con un fischio. Saulo arrivò di corsa. Tornarono al rifugio senza fermarsi, e il sole era ancora alto.
+Vera capì subito. Richiamò gli altri con un fischio. Tornarono al rifugio senza fermarsi, e il sole era ancora alto.
 
 ---
 
@@ -3886,7 +3822,7 @@ Il consiglio si fece quella sera stessa. Venti persone nella stanza comune, sedu
 
 "No."
 
-"Abbiamo otto bambini sotto i dieci anni," disse un uomo di Saulo. "Tre non camminano sei settimane."
+"Abbiamo otto bambini sotto i dieci anni," disse un uomo della comunità. "Tre non camminano sei settimane."
 
 "Lo so."
 
@@ -4022,19 +3958,17 @@ Prese una tazza dalle mani di Marcus, bevve un sorso di orzo bollente, si raschi
 
 James annuì, lentamente. Riconobbi nei suoi occhi il rispetto tecnico di un archivista davanti a un sistema ben progettato.
 
-"Funzioniamo su tre livelli," continuò Clara. "Il primo è fisico. Dead drop. Lasciamo messaggi in punti prestabiliti: un vecchio tubo idraulico dentro un edificio in rovina, una scatola elettrica divelta, un libro lasciato sulla quinta scaffalatura di una biblioteca dismessa. Il mittente deposita. Il destinatario passa ore o giorni dopo. Nessuno dei due vede l'altro. Se qualcuno intercetta il deposito, al massimo prende un messaggio, non una persona."
+"Funzioniamo su tre livelli," continuò Clara. "Il primo è fisico. Dead drop. Lasciamo messaggi in punti prestabiliti: un vecchio tubo idraulico, una scatola elettrica divelta, un libro sulla quinta scaffalatura di una biblioteca dismessa. Il mittente deposita. Il destinatario passa ore dopo. Se qualcuno intercetta il deposito, prende un messaggio, non una persona."
 
 "E il secondo?" chiesi io.
 
-"Il secondo è radio. Bassa potenza, frequenze abbandonate. Le vecchie bande amatoriali VHF che il Sistema considera obsolete perché nessuno le usa più. Le AI di sorveglianza sono addestrate a cercare traffico moderno: pacchetti cifrati, trasmissioni a spettro espanso, segnali digitali densi. Quando vedono un'onda portante analogica a cinque watt su una frequenza che nel 2090 hanno dichiarato dismessa, la classificano come rumore di fondo. Interferenza atmosferica. Un temporale lontano. Siamo sotto il loro livello di attenzione."
+"Radio. Bassa potenza, frequenze abbandonate. Le vecchie bande VHF che il Sistema considera obsolete. Le AI di sorveglianza cercano traffico moderno: pacchetti cifrati, trasmissioni a spettro espanso. Un'onda portante analogica a cinque watt la classificano come rumore di fondo."
 
 Marcus sorrise. Era un sorriso stanco, di chi aveva usato quel trucco cento volte.
 
-"I messaggi," aggiunse Clara, "sono brevi. Stringhe alfanumeriche, cinque-sei caratteri. Ogni cluster ha un proprio codice, cambia ogni settimana. Le frequenze sono sette, ruotano su uno schema noto solo a chi trasmette. Chi ascolta sa quando ascoltare."
+"E il terzo?" domandò James.
 
-"E il terzo livello?" domandò James.
-
-"Il terzo è digitale. Ma non nostro. È di chi è ancora dentro il Sistema." Clara abbassò la voce, non perché ci fosse qualcuno ad ascoltare, ma per abitudine. "Yuki è una di loro. Altri ex-Riformisti, medici, archivisti, tecnici di laboratorio. Gente che ha accesso ai terminali. Nascondono messaggi dove il Sistema guarda meno: dentro i metadati delle immagini mediche, dentro i report statistici trimestrali, dentro le intestazioni dei fascicoli amministrativi. Steganografia. La parola è vecchia quanto il mondo: scrivere nascosto. Oggi si fa modificando gli ultimi bit dei pixel di una radiografia, o cambiando un decimale irrilevante in una tabella di inventario. Nessuno nota. L'AI che valida il report lo vede conforme. L'operatore che sa cosa cercare estrae la stringa."
+"Digitale. Ma non nostro. È di chi è ancora dentro il Sistema." Clara abbassò la voce. "Yuki è una di loro. Altri ex-Riformisti, medici, archivisti. Nascondono messaggi dove il Sistema guarda meno: dentro i metadati delle immagini mediche, dentro le intestazioni dei fascicoli. Steganografia. L'AI che valida il report lo vede conforme. L'operatore che sa cosa cercare estrae la stringa."
 
 James ascoltava con la concentrazione immobile che aveva quando qualcosa lo toccava davvero. Sentii, senza bisogno di guardarlo, che nella sua testa stava rimettendo in ordine vent'anni di domande.
 
@@ -4076,7 +4010,7 @@ Posò sul tavolo un oggetto.
 
 Era una piccola radio, poco più grande di una mano. Aveva una manovella pieghevole per ricaricare una batteria interna, un'antenna telescopica, una cuffia monoaurale arrotolata intorno al corpo. Il guscio era di alluminio verniciato di verde scuro, scrostato in più punti. Sul retro qualcuno aveva inciso a mano una data, 1994, e una sigla che non riconobbi.
 
-"È artigianale," disse Clara. "Un tecnico della rete centrale l'ha rimessa in sesto partendo da un pezzo degli anni Novanta del secolo scorso. È robusta. È schermata. È difficile da intercettare proprio perché è troppo primitiva. Le AI di sorveglianza moderne cercano traffico digitale, pacchetti, segnali strutturati. Una radio analogica a manovella, a cinque watt, sotto copertura di un disturbo atmosferico, per loro è rumore. Si infila dentro le pieghe dell'ascolto, dove nessuno pulisce."
+"È artigianale," disse Clara. "Un tecnico della rete l'ha rimessa in sesto partendo da un pezzo degli anni Novanta. Difficile da intercettare proprio perché è troppo primitiva. Si infila dentro le pieghe dell'ascolto, dove nessuno pulisce."
 
 Infilò nella cuffia un foglietto ripiegato.
 
@@ -4086,13 +4020,11 @@ Marcus la prese con due mani. "Grazie."
 
 Clara alzò le spalle, come a dire che non era niente. Ma aveva portato quell'oggetto per duecento chilometri, camminando di notte, e sapeva che lo sapevamo.
 
-Fu a quel punto che sentimmo il tramestio alla porta. Marcus alzò la mano, ci fece cenno di stare fermi. Poi riconobbe il ritmo dei colpi (tre, pausa, due) e andò ad aprire.
+Fu a quel punto che sentimmo un tramestio alla porta. Marcus riconobbe il ritmo dei colpi, tre e due, e andò ad aprire.
 
-Entrò una ragazza. Sui vent'anni, forse meno. Magra, capelli scuri raccolti, una giacca di pelle troppo larga per lei, fango secco sulle scarpe. Si chiamava Mira.
+Entrò una ragazza. Sui vent'anni, forse meno. Capelli scuri raccolti, una giacca di pelle troppo larga per lei. Si chiamava Mira.
 
-Non la conoscevamo. Ma avevamo sentito parlare di lei. Marcus la presentò, a bassa voce, con la serietà di chi presenta qualcuno che gli sta affidando qualcosa di importante.
-
-"Lei è Mira. È nata qui. Sua madre era nella rete dagli anni Ottanta, una delle prime. Mira ha imparato il codice radio a sei anni, le rotte di fuga a dieci, la steganografia a dodici. Sua madre dipingeva con pigmenti che rivelavano messaggi solo sotto la luce ultravioletta. Ci sono ancora dei quadri, in giro, che nessuno sa leggere."
+"Lei è nata qui," disse Marcus a bassa voce. "Sua madre era nella rete dagli anni Ottanta, una delle prime. Mira ha imparato il codice radio a sei anni, le rotte di fuga a dieci."
 
 Mira annuì, senza sorridere. Aveva gli occhi attenti e fermi di chi ha visto abbastanza da non reagire più di pancia a quasi niente.
 
@@ -4118,7 +4050,7 @@ Gli posai la mano sulla sua. Non la ritirò.
 
 Lui non rispose. Ma intrecciò le dita con le mie, e rimanemmo così, a guardare la brace che diventava cenere.
 
-Fuori, lontanissimo, si sentiva un ronzio. Alto, sottile, al limite dell'udibile. Un drone di pattugliamento sulla linea del confine, forse. O solo il vento tra i pini. Non riuscivo a distinguere. Non ci riusciva più nessuno, in quelle sere, e forse era questo il punto: avevamo vissuto così a lungo sul bordo che il rumore del pericolo si era confuso con il rumore del mondo.
+Fuori, lontanissimo, si sentiva un ronzio. Alto, sottile, al limite dell'udibile. Un drone di pattugliamento sulla linea del confine, forse. O solo il vento tra i pini. Non riuscivo a distinguere. Non ci riusciva più nessuno, in quelle sere.
 
 
 # Capitolo 27: La Scoperta
@@ -4327,7 +4259,7 @@ Nella nicchia accanto, James e Kate parlavano a voce molto bassa. Alice non sent
 
 Alice chiuse gli occhi.
 
-Si addormentò pensando a una bambina che cade in un mondo diverso, e a una ragazza di quindici anni che impara a trovare la sua strada, e non seppe più distinguere quale delle due fosse lei.
+Si addormentò pensando a una bambina che cade in un mondo diverso, e a una ragazza di quindici anni che impara a trovare la sua strada.
 
 
 # Capitolo 28: Dieci Anni
@@ -4518,6 +4450,34 @@ Uscì alle otto e quaranta, come ogni mattina.
 
 ---
 
+Kovalova entrò in ufficio il mattino dopo, alle dieci e quattro minuti. Jensen stava leggendo una colonna di metadati sul tablet, e non alzò subito lo sguardo. Sentì la porta richiudersi con la pressione lenta dell'ammortizzatore pneumatico, poi i passi di lei sul linoleum, sette passi fino al bordo della scrivania.
+
+"Capitano. Il file di trasferimento Quaranta-Sette, per la firma di secondo livello. Routine."
+
+Jensen staccò gli occhi dal tablet. Kovalova teneva il tablet dei moduli in una mano e, nell'altra, una tazza bianca di ceramica vera, non del solito polimero termico dipartimentale. Dal bordo saliva un vapore sottile.
+
+Kovalova la appoggiò sul tavolo, accanto al tablet di Jensen. Non la spinse verso di lui. La posò e basta. Nessun commento.
+
+Jensen la guardò. Kovalova lo guardò. Passarono, in quel silenzio, quattro secondi pieni. Jensen, negli anni, aveva imparato a contare i secondi dei silenzi operativi perché il silenzio troppo lungo era sempre stato, nelle sue sessioni di interrogatorio, l'inizio di una confessione. Questo silenzio non era operativo. Non sapeva cos'era.
+
+"Il file," disse Kovalova. Gli porse il tablet.
+
+Jensen firmò con la retina. Restituì il tablet. Kovalova annuì appena, si voltò, uscì. I sette passi del ritorno furono identici ai sette passi dell'andata. La porta si richiuse con lo stesso rumore pneumatico.
+
+Jensen rimase fermo. Guardò la tazza. Il vapore saliva ancora. Sollevò la tazza, la portò alle labbra, bevve un sorso piccolo. Poi un sorso più lungo.
+
+Era caffè vero. Non il sostituto enzimatico delle mense, non l'estratto sintetico autorizzato per i gradi superiori durante le operazioni prolungate. Caffè macinato, infuso in acqua calda, con quell'amaro di fondo che l'estratto non riusciva a replicare perché l'estratto non aveva mai attraversato una fiamma. Jensen non beveva caffè vero da venticinque anni. Forse mai, in età consapevole.
+
+Sentì qualcosa salire dal palato alla mascella, poi piegare verso la nuca. Non era memoria. Era un'aderenza di sapore a qualcosa che non aveva nome. Gli arrivò una parola che non aveva chiesto: zagara. Poi un'altra: cenere. Jensen non sapeva cosa fosse la zagara, non sapeva neanche se quella parola esistesse. Eppure la parola combaciava con il sapore del caffè come una chiave in una serratura che lui non ricordava di possedere.
+
+Finì la tazza in silenzio. Aprì il cassetto inferiore della scrivania e ne estrasse un piccolo taccuino di carta, rilegato con un cordino. Era il taccuino dove ogni tanto annotava cose che il sistema, essendo il taccuino di carta, non vedeva.
+
+Scrisse, con una calligrafia piccola e regolare: *K. porta il caffè. Senza commento. Forse un test. Forse no.*
+
+Chiuse il taccuino. Lo rimise in fondo al cassetto. Tornò alla colonna di metadati sul tablet come se nulla fosse accaduto. Dal finestrino dell'ufficio, di taglio, si vedeva una striscia di cielo dello stesso colore del cemento.
+
+---
+
 La palestra dei Controllori era al terzo sottosuolo dell'edificio dipartimentale. Luce bianca, nessuna finestra, macchine uguali in file uguali, sudore ventilato via prima di poterlo odorare. Jensen si allenò per due ore. Le Cure gli avevano tolto quasi tutto il dolore, restava solo l'indicazione muscolare, una specie di pressione sorda che segnalava il limite senza imporlo. Jensen superò il limite tre volte. Non per disciplina, quella mattina, ma perché pensare con il corpo stremato era più facile. Il cervello si azzittiva, cedeva la parola ai polmoni. Alla terza serie sulla macchina delle trazioni, il monitor cardiaco vibrò una volta per avvisarlo che era entrato in fascia rossa. Jensen ignorò la vibrazione e continuò per altre otto ripetizioni. Il monitor, sapendo chi lo portava, non allertò nessuno. I Controllori avevano il permesso di farsi male.
 
 Jensen non si faceva male spesso. Era stato, in carriera, un ufficiale di grado costante, ogni promozione arrivata al momento previsto dai protocolli di avanzamento, ogni raccomandazione firmata dai superiori senza riserve. Aveva accettato ogni incarico che gli era stato offerto. Non aveva mai chiesto un trasferimento, non aveva mai rifiutato un rastrellamento, non aveva mai discusso un ordine. Se qualcuno gli avesse chiesto se gli piaceva il suo lavoro, Jensen non avrebbe capito la domanda. Il lavoro era il lavoro. Gli piaceva come gli piaceva respirare.
@@ -4550,7 +4510,47 @@ Si riaddormentò.
 
 ---
 
-Fra sette giorni, Jensen avrebbe fatto una scelta. Non quella sera. Non la mattina dopo, al briefing con Kovalova. Non subito. Ma da qualche parte, sotto la Purezza, sotto la proteina grigia e l'acqua filtrata, sotto i dodici minuti della pastiglia rossa, qualcosa aveva già cominciato a scegliere per lui. Lo sapeva senza saperlo. Come si sa una ninna nanna di cui si sono perse le parole.
+Il sesto giorno, al termine dell'allenamento serale, Jensen restò nello spogliatoio più a lungo del solito. Aspettò che il collega del turno notturno si chiudesse la porta alle spalle. Poi, quando fu solo davanti all'armadietto numero ventotto, aprì la serratura biometrica, spostò la mensola, staccò la placca magnetica, infilò la mano nella cavità.
+
+Prese la cassetta. Se la mise nella tasca interna della giacca, accanto al tesserino. L'armadietto si richiuse con lo scatto secco della serratura. Jensen rimase un istante fermo davanti allo sportello, con la mano appoggiata al metallo freddo. Poi uscì.
+
+Quindici anni, pensò camminando verso casa. Quindici anni dietro una placca magnetica. Non si disse perché oggi.
+
+Il pannello di stato domestico lo salutò con la solita riga verde. *Tutto nella norma.* Jensen posò la giacca sulla sedia. Dal pensile basso del soggiorno estrasse una scatola di cartone grigio che conteneva un vecchio lettore analogico, formato anni Novanta del secolo precedente, recuperato due anni prima da un deposito di materiale deviante catalogato per la distruzione. L'aveva tenuto. Non l'aveva mai usato.
+
+Lo posò sul tavolo. Collegò il cavo. Premette il tasto di apertura del vano. Inserì la cassetta. Il vano si richiuse con un piccolo scatto plastico, il rumore più domestico che Jensen avesse udito da molti anni.
+
+Il tasto *play* era rosso, grande, leggermente consumato al centro. Jensen allungò l'indice. Non premette. Rimase così, con l'indice sospeso a pochi millimetri dal tasto, per un tempo lungo. Il pannello di stato domestico, dall'altra stanza, continuava a ripetere la sua riga di luce verde. Jensen si accorse che stava trattenendo il respiro. Lo lasciò andare. Poi premette.
+
+Rumore di nastro. Un fruscio grasso, imperfetto, la patina fisica di un supporto che non era mai stato pulito. Un respiro. Poi una voce di donna, vicina al microfono, con l'inflessione un po' rauca di chi non è abituato a registrarsi. Cantava piano.
+
+*Stiddi, stiddi ca luciti, luciti di notti e di dì, luciti supra a ma figghia, ca sta durmennu cu mì.*
+
+Una strofa. Non una seconda. Il nastro tornò al suo rumore di fondo. Poi la stessa voce, ancora più bassa, quasi confidenziale, come detta con la bocca contro il microfono per non svegliare qualcuno nella stanza accanto: *"G., amore mio. Se un giorno la senti, sei tu. Tua madre."*
+
+Silenzio. Il fruscio continuò ancora per qualche secondo. Il nastro finì con il piccolo clic meccanico della fine bobina.
+
+Jensen restò immobile sulla sedia. Non piangeva. Non poteva piangere, il MemoraSoft non gli permetteva di piangere su ricordi di cui non aveva più le immagini. Ma qualcosa passò, nonostante il blocco chimico, nonostante venticinque anni di architettura. Un crampo al centro dello stomaco, improvviso, come un pugno dato dall'interno. La mano destra cominciò a tremare, un tremito sottile che partiva dal polso e arrivava alle dita. Jensen la guardò tremare. Non cercò di fermarla.
+
+Dalla gola gli uscì una parola. Non la decise, non la formulò. Uscì da sola, a bassa voce, in un italiano antico di cui non conosceva l'origine.
+
+"Mamma."
+
+La parola cadde nella stanza vuota. Nessuno la sentì. Nessuno al mondo, pensò Jensen con una lucidità improvvisa, aveva mai sentito Jensen dire quella parola. Non in venticinque anni di registri. Non negli archivi vocali. Non nelle sessioni di terapia di conformità. In nessun posto. Ma lui l'aveva detta. La cassetta era ancora nel lettore.
+
+Jensen non premette *rewind*. Scivolò giù dalla sedia e si sedette sul pavimento, con la schiena contro la gamba del tavolo. Restò così. Il pannello di stato domestico, dall'altra stanza, mostrava sempre la stessa riga. *Tutto nella norma.*
+
+Le ore passarono. Jensen non le contò. Sapeva soltanto, in un modo che non era memoria specifica ma conoscenza corporea, una cosa che per venticinque anni gli era stata tolta sotto la soglia del dicibile: era stato amato da qualcuno il cui nome non aveva più, il cui viso non aveva più, la cui voce ora occupava una cassetta magnetica sul tavolo del suo soggiorno. Era un prodotto di quella cancellazione. Lui stesso, adulto, firmava ogni giorno cancellazioni uguali sulla vita di altri.
+
+Verso le quattro del mattino si alzò. Le gambe gli si erano addormentate. Andò in camera, si coricò vestito sopra la coperta, chiuse gli occhi. Non dormì. Alle sei e mezzo si lavò il viso, indossò la divisa pulita, uscì.
+
+---
+
+Quel mattino, alle otto, Jensen entrò nella sala briefing dell'operazione Alice Tanaka. Aveva già deciso. Lo sapeva soltanto lui.
+
+---
+
+Quella scelta, Jensen l'avrebbe compiuta il giorno dopo. Non al briefing, non davanti a Kovalova, non davanti ai suoi uomini. Ma da qualche parte, sotto la Purezza, sotto la proteina grigia e l'acqua filtrata, sotto i dodici minuti della pastiglia rossa, qualcosa aveva già cominciato a scegliere per lui. Lo sapeva senza saperlo. Come si sa una ninna nanna di cui si sono perse le parole.
 
 
 # Capitolo 31: La Ricerca
@@ -4707,7 +4707,7 @@ Si allontanò, e Kate la seguì con lo sguardo finché non scomparve dietro il m
 
 Nel pomeriggio andarono al fiume.
 
-Era una cosa che facevano da anni, ogni volta che il caldo diventava pesante. Un chilometro a piedi dal rifugio, attraverso un bosco di roverelle che non era stato tagliato perché troppo piccolo per valere la pena, e si arrivava a un corso d'acqua stretto, poco profondo, di acqua chiara. A monte non c'era più industria da decenni. Il fiume era una delle poche cose pulite nelle Zone, e loro lo sapevano.
+Era una cosa che facevano ogni volta che il caldo diventava pesante. Un chilometro dal rifugio, attraverso un bosco di roverelle, fino a un corso d'acqua stretto e chiaro. A monte non c'era più industria da decenni. Il fiume era una delle poche cose pulite nelle Zone.
 
 Alice si spogliò ai piedi dei pantaloni e della maglia, restò in sottoveste, entrò nell'acqua lentamente e poi si lasciò andare a nuotare contro corrente con bracciate corte e regolari. Kate si sedette sulla riva, si tolse gli scarponi, lasciò scivolare le gambe nell'acqua fino al polpaccio. James si allontanò a raccogliere legna per la cucina della sera, rami secchi caduti dopo il temporale di tre giorni prima.
 
@@ -4966,7 +4966,7 @@ James estrasse il coltello col gesto goffo di chi non aveva mai estratto un colt
 
 Si lanciò avanti. Jensen provò ad alzare la pistola ma era ancora a mezz'altezza. Il coltello entrò obliquo, di taglio, sulla spalla destra di Jensen, nel punto dove la giacca si apriva per il movimento. Non entrò profondo. Entrò quanto basta. Jensen gridò un suono secco e cadde all'indietro, la pistola gli sfuggì dalla mano e scivolò sulla ghiaia.
 
-James inciampò sul proprio slancio. Cadde di lato, sulla mano che reggeva il coltello, e il polso gli si girò in un modo che gli fece perdere la presa sulla lama. La colluttazione durò altri due secondi. Fu goffa. Non fu gloriosa. Fu la cosa più vera che lui avesse mai fatto.
+James inciampò sul proprio slancio. Cadde di lato, sulla mano che reggeva il coltello, e il polso gli si girò perdendo la presa sulla lama. La colluttazione durò altri due secondi. Fu goffa. Non fu gloriosa.
 
 Poi si alzò. Jensen era a terra, vivo, la mano sinistra premuta contro la spalla destra. James fece due passi all'indietro, verso il muro, verso la breccia dove erano passate Kate e Alice e Mira.
 
@@ -5058,7 +5058,7 @@ Non le dissi niente. Dirle qualcosa sarebbe stato peggio.
 
 Il ronzio arrivò dopo cinque minuti.
 
-Lo riconobbi prima di Alice. Era diverso dal ronzio dei droni di ricognizione che avevano sorvolato il rifugio un'ora prima. Era più alto, più continuo, un sibilo sopra la linea degli alberi, la frequenza inconfondibile dei droni termici di seconda classe. James mi aveva spiegato la differenza una volta. I droni di ricognizione cercavano masse radio. I droni termici cercavano calore, differenze di temperatura di frazioni di grado sopra lo sfondo. Nei boschi funzionavano meno bene perché le chiome assorbivano l'infrarosso, ma funzionavano. Soprattutto funzionavano sui corpi in movimento, che produssero più calore di quelli fermi.
+Lo riconobbi prima di Alice. Era diverso dal ronzio dei droni di ricognizione di un'ora prima. Più alto, più continuo, un sibilo sopra la linea degli alberi: la frequenza dei droni termici. James me l'aveva spiegata. I droni di ricognizione cercavano masse radio. I termici cercavano calore, differenze di temperatura di frazioni di grado sopra lo sfondo. Nei boschi funzionavano meno bene, ma funzionavano. Soprattutto sui corpi in movimento.
 
 "Mira," chiamai piano.
 
@@ -5425,9 +5425,9 @@ Forse mi sta aspettando.
 
 Ho camminato per tre mesi.
 
-Sono uscita dal Sistema in febbraio, con un permesso falso che Vera mi aveva preparato, e ci ho messo quattro giorni a capire che nessuno mi stava inseguendo. Quattro giorni di un'ansia sottile, che guardavo la strada alle spalle ogni cinquecento metri, e poi la consapevolezza: a venticinque anni, Alice Tanaka figlia adottiva di una dottoressa di settore, non valgo abbastanza perché qualcuno venga a riprendermi. Mi hanno lasciata andare. Il Sistema, quando conviene, dimentica.
+Sono uscita dal Sistema in febbraio, con un permesso falso che Vera mi aveva preparato. Ci ho messo quattro giorni a capire che nessuno mi stava inseguendo. Quattro giorni di un'ansia sottile, a guardarmi alle spalle ogni cinquecento metri, e poi la consapevolezza: a venticinque anni, Alice Tanaka figlia adottiva, non valgo abbastanza perché qualcuno venga a riprendermi. Il Sistema, quando conviene, dimentica.
 
-I primi abiti li ho cambiati a un posto di scambio vicino alla vecchia linea dei Carpazi. Ho consegnato la giacca tecnica, gli stivali termici, il cappotto grigio da archivista, e ho ricevuto indietro una camicia di lino che sapeva di fumo, una gonna pesante di lana scura, un paio di scarpe da uomo troppo grandi che ho imbottito di stoffa. La donna che mi ha servita aveva il viso segnato come quello di mia nonna Marta negli ultimi anni. Mi ha guardata a lungo. Non mi ha chiesto niente. Quando sono uscita, mi ha infilato tra le mani un tozzo di pane.
+I primi abiti li ho cambiati a un posto di scambio vicino alla vecchia linea dei Carpazi. Ho consegnato la giacca tecnica e il cappotto da archivista, e ho ricevuto indietro una camicia di lino, una gonna di lana scura, un paio di scarpe troppo grandi che ho imbottito di stoffa. La donna che mi ha servita aveva il viso segnato come quello di mia nonna Marta. Non mi ha chiesto niente. Quando sono uscita, mi ha infilato tra le mani un tozzo di pane.
 
 Da lì in poi ho camminato.
 
@@ -5629,9 +5629,9 @@ So che un giorno la cercherò di nuovo, se potrò. So che è possibile che non l
 
 E so che non mi importa quale sia la risposta. Ho avuto lei. Tre settimane. Tre settimane in un monastero diroccato sopra un mare che non avevo mai visto, con l'odore del pane e le cicale al pomeriggio, e una ninna nanna siciliana che nessuno mi aveva più cantato da quando avevo quattro anni.
 
-È molto. È abbastanza. È troppo poco.
+È molto. È troppo poco.
 
-Sono tutte e tre le cose insieme, e io non so come tenerle nella stessa frase, e scrivo questa frase apposta perché non le tenga.
+Sono tutte e due le cose insieme, e io non so come tenerle nella stessa frase, e scrivo questa frase apposta perché non le tenga.
 
 
 
@@ -5791,129 +5791,170 @@ Il pannello domestico, vicino alla porta, mostrava la sua riga verde, ferma. *Tu
 
 Ho bevuto un sorso di caffè. Era amaro. Era giusto.
 
-A un certo punto, nella riga seconda o terza, ho avuto la sensazione precisa di essere guardata. Non dal pannello. Non dall'Unità. Qualcosa di diverso, un peso leggero sulla nuca, un calore umano dietro la sedia. Mi sono voltata.
-
-La stanza era vuota. La porta era chiusa. La finestra era opaca come ogni notte. Non c'era nessuno.
-
-Ho ripreso a scrivere.
-
 Ho scritto per un'ora, forse due. Non ho più guardato l'orologio. Le frasi uscivano con la cadenza che avevo riconosciuto nei fogli di mio padre, con il ritmo che mia madre aveva nella voce quando raccontava, con i silenzi che io avevo imparato a tenere fra una cosa e l'altra negli anni di copertura. Era una scrittura a tre voci, una sola mano.
 
-Alla fine della pagina, senza pensarci, ho scritto la frase che da sempre, senza saperlo, era stata la prima.
+A un certo punto, molto tardi, un veicolo passò nella via sotto la finestra. Non faceva rumore di motore. Faceva il rumore piccolo, chirurgico, che fanno gli automezzi dei Controllori, una specie di sospiro metallico sull'asfalto. Un veicolo. Poi, dopo qualche minuto, un altro. Si fermarono. Non ripartirono.
 
-*Ho passato anni a ricostruire questa storia.*
+Non mi sono alzata. Non ho spostato la tenda. Non ho spento la lampada.
 
-L'ho guardata. Era già stata detta. Era la prima cosa che avevo scritto di me, da ragazza, quando ancora credevo che raccontare i miei genitori fosse un esercizio d'archivio e non una forma di congedo. Tornava adesso al suo posto, come se avesse aspettato la fine per diventare inizio.
+Ho pensato, con una chiarezza che non avevo mai avuto, che se fossi uscita adesso forse avrei avuto la falla che Yuki teneva aperta nelle Zone, forse avrei avuto la barca, forse avrei avuto tre settimane di strada e poi di nuovo la cucina di Concetta e il telaio di mia madre. Ho pensato che esisteva ancora, quella strada. Non era chiusa. Era lì.
 
-Ho chiuso il quaderno. L'ho infilato sotto il materasso. Ho spento la lampada.
+Ho pensato a mia madre che aveva detto *la storia è tua adesso, vivila.*
 
-Fuori, da qualche parte, qualcuno firmava.
+Poi ho pensato che vivere, per me, voleva dire finirla.
+
+Ho abbassato la testa sul quaderno e ho ripreso a scrivere da dove avevo smesso. Mi sono accorta che la mano non tremava. Scriveva con la cadenza di mio padre, perché non ne avevo un'altra, e adesso non mi dispiaceva.
+
+I veicoli sotto la finestra restavano fermi.
+
+Mi chiamo Alice Valeri Ferrante. Ho ventisei anni. Sto scrivendo la storia di mia madre e di mio padre, e la sto scrivendo adesso, in questa notte, perché non ho più un'altra notte in cui poterla scrivere.
 
 
 
 # Capitolo 39: Fine
 
----
+*Alice, 2132*
 
-Corro.
+La porta si apre alle quattro e undici del mattino.
 
-Le gambe bruciano. Dietro di me, il ronzio dei droni.
+Non bussano. Non sfondano. Qualcuno ha un codice, e il codice funziona. Sento lo scatto, la lieve spinta del legno, il cambio di pressione dell'aria nell'Unità. L'odore del caffè, che era fermo sopra il tavolo da ore, si muove di colpo verso la porta, come un animale che si gira.
 
-Il libro. Devo salvare il libro.
+Non mi volto subito. Scrivo ancora tre parole. Le scrivo piano, per non sbagliarle. Poi poso la penna a lato del quaderno, parallela al bordo. Non la chiudo nel tappo. Alzo gli occhi.
 
----
+È un uomo solo.
 
-No. Aspetta.
+È vestito di scuro, ma non ha la divisa operativa. Ha un cappotto lungo, sobrio, di quelli che i Controllori portano quando non sono ancora in servizio pieno. In mano tiene una cartellina grigia, la stessa che la sera avevo visto decine di volte sulle scrivanie accanto, in archivio, quando uno di noi portava un fascicolo da una stanza all'altra. Non c'è arma visibile. La pistola è nella fondina sotto il cappotto. Si vede la piega.
 
-Questo non è adesso. Questo è stato. O forse sarà.
+Lo riconosco prima di sapere da dove.
 
----
+Ha gli occhi grigi, una cicatrice sottile sopra il sopracciglio sinistro, la postura composta di chi ha passato venticinque anni a non muovere un muscolo più del necessario. È più vecchio dell'età che porta addosso. È un uomo che gli altri non sanno descrivere quando li interrogano dopo.
 
-Sono seduta da qualche parte. Un posto buio. Freddo.
+Non dice niente. Chiude la porta alle sue spalle, piano, con una mano. Non fa rumore. Si ferma a due passi dalla soglia.
 
-Sto scrivendo. Su carta vera. Queste potrebbero essere le mie ultime parole.
+Fra me e lui c'è il tavolo. Sul tavolo c'è il quaderno aperto, la tazza del caffè ormai vuota, la lampada al minimo, e la scatolina di latta delle dieci grammi, aperta, che profuma ancora.
 
----
+Lo guardo.
 
-A chiunque trovi questo quaderno:
+Mi guarda.
 
-Mi chiamo Alice Valeri Ferrante. Sono nata nel 2106, nelle Zone Abbandonate, da un amore che il Sistema chiamava malattia.
+Non ci siamo mai visti prima, tecnicamente. Lo so che è lui, però. Lo sanno i miei polmoni, che si sono fermati a metà respiro quando ha varcato la soglia. Lo sa il mio petto, che riconosce il peso di un altro petto, simmetrico al suo modo, come riconosce gli strumenti di una stessa officina.
 
----
+Lui posa la cartellina sul tavolo. La posa senza aprirla. La spinge di un millimetro verso di me. Sul dorso, in stampatello stretto, leggo *VALERI-FERRANTE - dossier 2115 - Tanaka A.* e una striscia di codici che non mi interessano.
 
-Mia madre si chiamava Kate. Biologa. Occhi chiari. Rideva forte, amava i tramonti.
+Non parliamo.
 
-L'ho rivista, dopo dieci anni. Non era più lei. Ma in certi momenti tornava.
+Io appoggio una mano sul quaderno, sulla pagina aperta. Non lo chiudo. Non lo copro. Lo tengo sotto la mano come si tiene una cosa viva che potrebbe alzarsi e andarsene.
 
-Non so se è ancora viva.
+Lui guarda la mia mano. Guarda il quaderno. Guarda la mia faccia. Guarda la lampada. Guarda una seconda volta il quaderno. Poi guarda la finestra opaca dietro di me, come se ci fosse qualcosa lì dietro che lo interessa più di me.
 
----
+Rimaniamo così.
 
-Mio padre si chiamava James. Archivista. Occhi scuri. Parlava poco.
+Non so quanto tempo. Un minuto. Forse cinque. Il pannello domestico vicino alla porta continua a mostrare la sua riga verde. *Tutto nella norma.* L'algoritmo di sorveglianza ambientale registra una seconda presenza nell'Unità, ma un Controllore di livello cinque, quando entra da solo in un appartamento alle quattro del mattino, disattiva i microfoni del corridoio con un codice personale. Lo so perché l'ho letto in un manuale d'archivio. Lui lo sa perché lo fa ogni volta.
 
-È scomparso cercando di darci il tempo di fuggire.
+Quindi siamo in una stanza senza testimoni.
 
-Non so se è ancora vivo.
+Mi rendo conto, con una lucidità che non avevo previsto, di non avere paura. Ho qualcos'altro nel petto, una cosa più calma, più grave. Penso che sia la parte di me che ha scritto fino a stanotte. La parte che adesso aspetta di vedere se può finire la frase.
 
----
+Lui infila la mano nella tasca interna del cappotto.
 
-C'era un libro. Poesie. Cinque generazioni. Da Elena a Enzio a James a Kate a me.
+Non è il movimento della pistola. È più lento, più contenuto. Tira fuori un oggetto piccolo, di plastica giallastra, con un'etichetta di carta ingiallita sul dorso. Una cassetta audio. Formato antico. La tiene fra due dita, come fosse fragile.
 
-Ce l'ho ancora. Le pagine si sbriciolano. Ma le parole sono ancora lì.
+Fa un passo avanti. La posa sul tavolo, accanto al mio quaderno. Non a contatto. A un dito di distanza.
 
----
+Leggo l'etichetta senza muovere la testa. La scritta a penna è sbiadita, ma leggibile.
 
-Ho scritto un manoscritto. La nostra storia.
+*Ninna nanna per G. Da M. 2098.*
 
-Non so se qualcuno l'ha letto.
+Sento il mio respiro uscire per intero, come se qualcuno mi avesse tolto il tappo di sotto.
 
-Ma l'ho scritto.
+Lo guardo. Lui non guarda più me. Guarda la cassetta, sul tavolo, vicino al quaderno. Le tiene sotto lo sguardo tutte e due, come due pesi che deve decidere da che parte spostare.
 
----
+Apro la bocca. Non per parlare. Canticchio, molto piano, sottovoce, con l'accento che avevo imparato a quattro anni sotto una coperta dalla bocca di mia madre, che l'aveva imparato dalla bocca di Marta, che l'aveva imparato da una madre che non ho mai saputo nominare:
 
-Quello che importa è che la storia è stata raccontata. Mio padre esiste. Mia madre esiste. Il loro amore esiste.
+*Stiddi, stiddi ca luciti, la me figghia unni la viditi.*
 
-E finché esistono le parole, esisteranno anche loro.
+Non la canto per intero. Canto due versi. Poi mi fermo.
 
----
+Jensen chiude gli occhi.
 
-*Questa è la storia di James e Kate.*
+Li chiude come si chiudono gli occhi quando si è entrati in una stanza troppo illuminata, e la luce fa male, e uno ha bisogno di due secondi di buio per poter decidere se restare o uscire. Le palpebre gli tremano. Il resto della faccia no. Una mano gli si appoggia al bordo del tavolo, come per tenersi.
 
-*Questa è la mia storia.*
+Resta così a occhi chiusi. Dieci secondi. Venti.
 
-*Adesso—*
+Io non mi muovo. Non aggiungo un verso. Non tocco la cassetta. Non chiudo il quaderno.
 
----
-
-Fuori sento dei passi.
-
-Si avvicinano.
-
-Hanno trovato il nascondiglio.
+Aspetto.
 
 ---
 
-La porta si sta aprendo.
+Qui, in questa pagina, a chi legge: io non so cosa è successo dopo.
 
-Non ho paura.
+Scrivo le due cose come le ho viste e come avrei voluto vederle, e non saprei dire quale delle due è vera, perché l'una e l'altra si sono svolte dentro di me nello stesso secondo, e da allora non ho più saputo separarle.
+
+In una, Jensen riapre gli occhi e la mano si muove verso la fondina. Non estrae l'arma subito. La tocca, appoggia il palmo sulla piega del cappotto, decide. Fuori, nel corridoio, ci sono passi ora, due o tre uomini che sono saliti dietro di lui senza che io li sentissi. Lui fa un cenno piccolo con la testa verso la porta, e la porta si riapre, e la stanza si riempie di gente. La mia pagina resta aperta. Nessuno tocca il quaderno. Alla fine del corridoio, mentre mi portano via, vedo una donna con i capelli corti e il camice grigio, Kovalova, che ferma due degli agenti con una mano e fa partire un'altra procedura, più lenta, quella dei Riformisti, quella che ti lascia vivere rotta invece di morire intera. Non lo so. Non lo so se l'ho vista o se l'ho voluta. Scrivo anche quello che ho voluto, perché alla fine sono la stessa cosa.
+
+Nell'altra, Jensen riapre gli occhi. Non tocca la fondina. Allunga una mano verso la lampada e la spegne. La stanza va al buio. Sento il fruscio del cappotto che si muove, il piccolo scatto di qualcosa che viene rimesso in tasca, forse la cassetta, forse no. Sento i suoi passi, quattro passi, la porta che si apre, la porta che si richiude. Poi il corridoio silenzioso. Poi niente.
+
+Nel buio, io non mi alzo. Rimango dove sono. Il quaderno è aperto sotto la mia mano, e la mia mano sa dov'è la pagina. Scrivo al buio. So che non è una cosa che si fa, scrivere al buio. Ma la mano si ricorda il rigo anche senza vederlo. Mio padre aveva scritto così, negli ultimi anni, lo so perché i suoi appunti avevano le righe inclinate verso il basso sulla destra, il segno di una mano che non ha più bisogno dell'occhio. Scrivo per lui, adesso, con la cadenza sua.
+
+Non so quale delle due è stata. Scrivo tutte e due, perché chi legge possa scegliere la propria, e tenersela.
 
 ---
 
-**[Il resto della pagina è macchiato. L'inchiostro si interrompe a metà di una parola che potrebbe essere "ricor—"]**
+Resta, di quella notte, una sola cosa sicura.
 
+Il manoscritto è stato scritto.
+
+È qui, sotto la mia mano, nella pagina che sto finendo. Contiene mio padre, mia madre, mia nonna Marta, Enzio, Enrico che ha scelto di non vedere, Lin che ha scelto di consegnare un figlio, Yuki che ha tenuto aperta una falla per dieci anni, Vera che mi ha guardata senza farsi raccontare, Concetta che non mi ha chiesto il nome.
+
+Contiene anche Jensen, adesso. Non avrei saputo scriverlo, prima di stanotte. Adesso sì.
+
+Contiene una ninna nanna che ha attraversato quattro donne per arrivare alla bocca di una quinta, e poi è tornata indietro, per un istante, dentro la testa di un uomo che non sapeva di saperla. Contiene la cassetta sul tavolo, fra noi, che non so se lui si è ripreso o ha lasciato. Contiene un fazzoletto scout giallo e verde, piegato in un cassetto in archivio, con una F iniziale che è tutto ciò che resta di una frase più lunga.
+
+Contiene la mia firma, che non è la firma mia, è la firma di mio padre riscritta dalla mia mano, ed è la ragione per cui sono stata trovata, ed è la ragione per cui questa pagina esiste.
+
+Non ho vinto. Non ho perso. Ho scritto.
+
+---
+
+Padre, per la prima volta ti do un nome diverso.
+
+Ti chiamo padre per James, mio padre, archivista, che mi ha lasciato un manuale sotto il cassetto 7-4-1-9 e una lettera che chiedeva scusa per una firma su Davide Morra.
+
+Ti chiamo padre anche per Jensen, che questa notte è entrato nella mia stanza con un dossier in una mano e una cassetta nell'altra, e non so che nome avesse prima, e forse non si chiamava Jensen.
+
+Ti chiamo padre per quello che eredito da entrambi, senza averlo chiesto: la cadenza della frase, la musica dello stare in silenzio, la firma involontaria che ci fa tutti figli di qualcuno e tutti padri di qualcun altro quando scriviamo.
+
+Mi chiamo Alice Valeri Ferrante.
+
+Sono nata nelle Zone Abbandonate nel 2106, da un uomo e da una donna che hanno scelto di avermi quando il Sistema diceva che non si doveva.
+
+Ho avuto una madre. Le ho cantato una ninna nanna, anche se era lei a dovermela cantare.
+
+Ho avuto un padre. Due, forse. Uno che mi ha scritto. Uno che è entrato nella stanza.
+
+Adesso poso la penna. Poso la penna adesso, non perché mi costringano, ma perché la frase è finita.
+
+La lampada è spenta.
+
+La stanza è al buio, o alla luce, a seconda di quale delle due notti sia stata.
+
+Il quaderno è aperto.
+
+Chi legge, sa.
 
 
 # Nota dell'Autore
 
 Se sei arrivato fin qui, grazie.
 
-Grazie per aver attraversato questo mondo insieme a me. Per aver creduto in James quando lui non credeva in se stesso. Per aver amato Kate nonostante la sua imprudenza. Per aver cercato di capire Alice mentre lei cercava di capire se stessa.
+Grazie per aver attraversato questo mondo insieme a me, per aver accompagnato James e Kate, e per aver ascoltato Alice mentre cercava la forma da dare alla loro storia.
 
-Questo romanzo è nato da una paura. La paura di un mondo dove l'amore diventa crimine, dove la famiglia diventa sovversione, dove esistere nel modo sbagliato è sufficiente per essere cancellati. Sembrava fantascienza quando ho iniziato a scrivere. Oggi sembra un po' meno lontano.
+Questo romanzo è nato da un'inquietudine. Quando ho cominciato a scriverlo sembrava fantascienza. Oggi mi sembra un po' meno lontano, e non è una cosa che mi fa piacere.
 
-Ma è nato anche da una speranza. Che ci sarà sempre qualcuno disposto a guardare il Sistema negli occhi e dire *no*. Non con le armi. Semplicemente vivendo, amando, esistendo.
+È nato anche dalla curiosità per ciò che, dentro un sistema ben costruito, tiene aperto uno spiraglio: una ninna nanna che sopravvive a un farmaco, una firma stilometrica che passa da una mano all'altra, una cassetta tenuta per quindici anni dietro una placca d'acciaio da un uomo che non sa perché l'ha presa.
 
-James e Kate hanno fatto una scelta, e hanno pagato il prezzo. Ma Alice è esistita. La loro storia è stata raccontata. Tu, ora, la conosci.
+Alice ha scritto il suo manoscritto. Non so, nemmeno io che l'ho accompagnata, quale delle due notti sia stata la sua, e ho scelto di non deciderlo al suo posto. Mi pareva più onesto così.
 
 ---
 
