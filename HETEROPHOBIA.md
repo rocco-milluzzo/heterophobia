@@ -2610,7 +2610,7 @@ Lui le tenne la mano un altro momento. Poi si alzarono, presero le giacche. Jame
 Il giorno dopo, cominciò la fine della prima vita.
 
 
-# Capitolo 17b: Il Test
+# Capitolo 18: Il Test
 
 Kate arrivò al laboratorio alle sette e dodici, tre minuti prima dell'orario abituale, e questo era già un errore. La prevedibilità era l'unica forma di mimetismo che il Sistema non sapeva leggere, e lei lo sapeva meglio di chiunque, eppure quella mattina le gambe l'avevano portata fin lì con una fretta che non riusciva a spiegare. Si fermò all'ingresso, contò fino a dieci, riprese fiato. Quando entrò, Yuki era già alla postazione centrale, china su una pipetta automatica che dosava un reagente ambrato in una serie di provette identiche.
 
@@ -2773,7 +2773,7 @@ La cantò di nuovo, più piano. Poi una terza volta, più piano ancora, adagiand
 Si addormentò così, con la mano sulla pancia e la canzone siciliana sulle labbra, e con la certezza, nuova di zecca, che dal giorno dopo avrebbe iniziato a convincere James che non c'erano più cinque test da superare, che non c'era più nemmeno il prossimo. Che dovevano andare. Subito. Fra tre giorni, al massimo.
 
 
-# Capitolo 18: Il Segno
+# Capitolo 19: Il Segno
 
 James attivò il jammer. Le luci tremolarono.
 
@@ -2844,7 +2844,7 @@ Tutti guardarono James e Kate.
 Fuori, il ronzio si faceva sempre più vicino.
 
 
-# Capitolo 19: La Nuova Vita
+# Capitolo 20: La Nuova Vita
 
 Arrivarono nelle Zone Orientali nel cuore dell'inverno.
 
@@ -3005,7 +3005,7 @@ Kate si era addormentata. Alice dormiva anche lei, sul petto della madre, con un
 Fuori, nevicava un'ultima volta prima della primavera vera.
 
 
-# Capitolo 20: Documenti Medici
+# Capitolo 21: Documenti Medici
 
 Ho trovato i referti medici in un fascicolo separato.
 
@@ -3119,7 +3119,7 @@ Non posso.
 Ma il documento è qui, davanti a me. La firma è chiara. E il nome di un uomo che non è mai tornato è scritto sopra.
 
 
-# Capitolo 21: I Primi Anni
+# Capitolo 22: I Primi Anni
 
 La primavera del 2107 arrivò presto.
 
@@ -3331,7 +3331,7 @@ Kate non disse niente. Gli mise una mano in mezzo alla schiena e ce la tenne, ap
 Fuori era buio. Dentro, Alice dormiva con la mano sulla bambola di un bambino che non c'era più, e sua madre cantava mentalmente tre note che salivano e una che scendeva, una melodia che era passata per cinque generazioni senza che nessuna sapesse di trasmetterla.
 
 
-# Capitolo 22: Frammento di Enrico
+# Capitolo 23: Frammento di Enrico
 
 Ho trovato il diario di Enrico Ferrante per caso.
 
@@ -3609,7 +3609,7 @@ Forse le conosco ancora.
 E forse, il pensiero mi attraversa come una lama fredda, forse il sangue che scorre nelle mie vene è lo stesso che scorreva nelle sue.
 
 
-# Capitolo 23: La Domanda
+# Capitolo 24: La Domanda
 
 Il pomeriggio di ottobre del 2110 era di quelli che nelle Zone ricordavano a chi ci era arrivato da poco che esistevano ancora le stagioni. La luce cadeva obliqua sui tetti di lamiera del rifugio principale, l'aria odorava di foglie bagnate e di fumo di legna da un camino mal tirato, e i cani della comunità, tre bastardi magri, dormivano sulla terra battuta della piazzetta come se qualcuno li avesse disposti apposta per la scena.
 
@@ -3776,7 +3776,7 @@ Stelle, pensò. *Stiddi ca luciti.*
 Si addormentò senza cantare.
 
 
-# Capitolo 24: Segnali
+# Capitolo 25: Segnali
 
 Nell'estate del 2121, le cose iniziarono a cambiare.
 
@@ -4004,7 +4004,7 @@ Alice non si mosse.
 Fuori cominciava a farsi grigio.
 
 
-# Capitolo 25: La Rete
+# Capitolo 26: La Rete
 
 Era una sera di ottobre del 2121, e nel rifugio di Marcus bruciava un fuoco piccolo, al centro della stanza. Il camino lo avevano murato anni prima, quando avevano capito che la firma termica di un focolare visibile dall'alto valeva, per un drone di ricognizione, quanto una bandiera. Adesso accendevano un braciere basso sotto una cappa di lamiera, e il fumo usciva filtrato da una serie di canne interrate che lo dispergevano a cinquanta metri di distanza, freddo e disperso, indistinguibile dall'umidità del bosco.
 
@@ -4121,7 +4121,7 @@ Lui non rispose. Ma intrecciò le dita con le mie, e rimanemmo così, a guardare
 Fuori, lontanissimo, si sentiva un ronzio. Alto, sottile, al limite dell'udibile. Un drone di pattugliamento sulla linea del confine, forse. O solo il vento tra i pini. Non riuscivo a distinguere. Non ci riusciva più nessuno, in quelle sere, e forse era questo il punto: avevamo vissuto così a lungo sul bordo che il rumore del pericolo si era confuso con il rumore del mondo.
 
 
-# Capitolo 26: La Scoperta
+# Capitolo 27: La Scoperta
 
 L'autunno del 2121 arrivò presto, come se il mondo avesse fretta.
 
@@ -4330,7 +4330,7 @@ Alice chiuse gli occhi.
 Si addormentò pensando a una bambina che cade in un mondo diverso, e a una ragazza di quindici anni che impara a trovare la sua strada, e non seppe più distinguere quale delle due fosse lei.
 
 
-# Capitolo 27: Dieci Anni
+# Capitolo 28: Dieci Anni
 
 *Alice, presente*
 
@@ -4398,7 +4398,7 @@ Lo leggo e non piango. Non ancora.
 Ma so che prima o poi lo farò, e quando accadrà non sarà per pietà di due sconosciuti.
 
 
-# Capitolo 28: La Decisione
+# Capitolo 29: La Decisione
 
 *Alice, presente*
 
@@ -4464,7 +4464,7 @@ E la speranza, a volte, è abbastanza.
 
 
 
-# Capitolo 28b: Jensen
+# Capitolo 30: Jensen
 
 *Jensen, 2132*
 
@@ -4553,7 +4553,7 @@ Si riaddormentò.
 Fra sette giorni, Jensen avrebbe fatto una scelta. Non quella sera. Non la mattina dopo, al briefing con Kovalova. Non subito. Ma da qualche parte, sotto la Purezza, sotto la proteina grigia e l'acqua filtrata, sotto i dodici minuti della pastiglia rossa, qualcosa aveva già cominciato a scegliere per lui. Lo sapeva senza saperlo. Come si sa una ninna nanna di cui si sono perse le parole.
 
 
-# Capitolo 29: La Ricerca
+# Capitolo 31: La Ricerca
 
 *Alice, presente*
 
@@ -4649,7 +4649,7 @@ Per tutto il viaggio di ritorno, un nome continua a tornarmi in mente. Davide Mo
 
 
 
-# Capitolo 30: L'Ultimo Giorno
+# Capitolo 32: L'Ultimo Giorno
 
 *Zone Orientali, estate 2122*
 
@@ -4794,7 +4794,7 @@ James le prese la mano. Poi la attirò contro di sé, le mise il braccio attorno
 *Quando ricostruisco quella sera, ho sempre gli stessi dettagli. Il pane duro della mattina, tagliato da me, senza sapere che mia madre mi osservava. Il corvo che volava strano sopra il fiume. Il ritornello di una canzone che mio padre non ricordava e che mia madre ha cantato piano mentre si asciugava i capelli sulla riva. La voce di Sara che diceva una frase che mi ha costruito dentro per anni senza che io lo sapessi. Non hanno mai saputo che era l'ultima sera. Però il corpo di mia madre, quando si è addormentata accanto a mio padre, era più stretto al suo di quanto fosse mai stato nelle sere che ricordo. Il corpo sa cose che la mente non dice.*
 
 
-# Capitolo 31: Il Raid
+# Capitolo 33: Il Raid
 
 *James, 2122*
 
@@ -5026,7 +5026,7 @@ E quella possibilità, negli anni che sono venuti dopo, è stata tutto.
 
 
 
-# Capitolo 32: La Corsa
+# Capitolo 34: La Corsa
 
 *Kate, 2122*
 
@@ -5202,7 +5202,7 @@ Davanti a noi, tra i tronchi, si intravedeva già la sagoma del faggio caduto.
 
 
 
-# Capitolo 33: La Scelta
+# Capitolo 35: La Scelta
 
 *Kate, 2122*
 
@@ -5345,7 +5345,7 @@ Mi sono seduta. Ho appoggiato le mani sul legno. Poi ho aperto il primo fascicol
 Ho cominciato a leggere.
 
 
-# Capitolo 34: Il Manoscritto
+# Capitolo 36: Il Manoscritto
 
 *Alice, presente*
 
@@ -5419,7 +5419,7 @@ Forse mi sta aspettando.
 
 
 
-# Capitolo 35: Le Zone Orientali
+# Capitolo 37: Le Zone Orientali
 
 *Alice, 2132*
 
@@ -5635,7 +5635,7 @@ Sono tutte e tre le cose insieme, e io non so come tenerle nella stessa frase, e
 
 
 
-# Capitolo 36: Il Ritorno
+# Capitolo 38: Il Ritorno
 
 *Alice, 2132*
 
@@ -5811,7 +5811,7 @@ Fuori, da qualche parte, qualcuno firmava.
 
 
 
-# Capitolo 37: Fine
+# Capitolo 39: Fine
 
 ---
 

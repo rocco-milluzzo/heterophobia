@@ -22,7 +22,7 @@
 
 ---
 
-## Atto II: Escalation (Cap. 12-26)
+## Atto II: Escalation (Cap. 12-27)
 
 - [Capitolo 12: Routine del Segreto](capitoli/12-routine-del-segreto.md)
 - [Capitolo 13: La Proposta](capitoli/13-la-proposta.md)
@@ -30,42 +30,42 @@
 - [Capitolo 15: Frammento dei Genitori di James](capitoli/15-frammento-i-genitori-di-james.md)
 - [Capitolo 16: La Decisione](capitoli/16-la-decisione.md)
 - [Capitolo 17: L'Attesa](capitoli/17-lattesa.md)
-- [Capitolo 17b: Il Test](capitoli/17b-il-test.md)
-- [Capitolo 18: Il Segno](capitoli/18-il-segno.md)
-- [Capitolo 19: La Nuova Vita](capitoli/19-la-nuova-vita.md)
-- [Capitolo 20: Documenti Medici](capitoli/20-documenti-medici.md)
-- [Capitolo 21: I Primi Anni](capitoli/21-i-primi-anni.md)
-- [Capitolo 22: Frammento di Enrico](capitoli/22-frammento-enrico.md)
-- [Capitolo 23: La Domanda](capitoli/23-la-domanda.md)
-- [Capitolo 24: Segnali](capitoli/24-segnali.md)
-- [Capitolo 25: La Rete](capitoli/25-la-rete.md)
-- [Capitolo 26: La Scoperta](capitoli/26-la-scoperta.md)
+- [Capitolo 18: Il Test](capitoli/18-il-test.md)
+- [Capitolo 19: Il Segno](capitoli/19-il-segno.md)
+- [Capitolo 20: La Nuova Vita](capitoli/20-la-nuova-vita.md)
+- [Capitolo 21: Documenti Medici](capitoli/21-documenti-medici.md)
+- [Capitolo 22: I Primi Anni](capitoli/22-i-primi-anni.md)
+- [Capitolo 23: Frammento di Enrico](capitoli/23-frammento-enrico.md)
+- [Capitolo 24: La Domanda](capitoli/24-la-domanda.md)
+- [Capitolo 25: Segnali](capitoli/25-segnali.md)
+- [Capitolo 26: La Rete](capitoli/26-la-rete.md)
+- [Capitolo 27: La Scoperta](capitoli/27-la-scoperta.md)
 
 ---
 
-## Atto III: Rivelazione (Cap. 27-36)
+## Atto III: Rivelazione (Cap. 28-38)
 
-- [Capitolo 27: Dieci Anni](capitoli/27-dieci-anni.md)
-- [Capitolo 28: La Decisione](capitoli/28-la-decisione.md)
-- [Capitolo 28b: Jensen](capitoli/28b-jensen.md)
-- [Capitolo 29: La Ricerca](capitoli/29-la-ricerca.md)
-- [Capitolo 30: L'Ultimo Giorno](capitoli/30-lultimo-giorno.md)
-- [Capitolo 31: Il Raid](capitoli/31-il-raid.md)
-- [Capitolo 32: La Corsa](capitoli/32-la-corsa.md)
-- [Capitolo 33: La Scelta](capitoli/33-la-scelta.md)
-- [Capitolo 34: Il Manoscritto](capitoli/34-il-manoscritto.md)
-- [Capitolo 35: Le Zone Orientali](capitoli/35-le-zone-orientali.md)
-- [Capitolo 36: Il Ritorno](capitoli/36-il-ritorno.md)
+- [Capitolo 28: Dieci Anni](capitoli/28-dieci-anni.md)
+- [Capitolo 29: La Decisione](capitoli/29-la-decisione.md)
+- [Capitolo 30: Jensen](capitoli/30-jensen.md)
+- [Capitolo 31: La Ricerca](capitoli/31-la-ricerca.md)
+- [Capitolo 32: L'Ultimo Giorno](capitoli/32-lultimo-giorno.md)
+- [Capitolo 33: Il Raid](capitoli/33-il-raid.md)
+- [Capitolo 34: La Corsa](capitoli/34-la-corsa.md)
+- [Capitolo 35: La Scelta](capitoli/35-la-scelta.md)
+- [Capitolo 36: Il Manoscritto](capitoli/36-il-manoscritto.md)
+- [Capitolo 37: Le Zone Orientali](capitoli/37-le-zone-orientali.md)
+- [Capitolo 38: Il Ritorno](capitoli/38-il-ritorno.md)
 
 ---
 
 ## Epilogo
 
-- [Capitolo 37: Fine](capitoli/37-fine.md)
+- [Capitolo 39: Fine](capitoli/39-fine.md)
 
 ---
 
-- [Nota dell'Autore](capitoli/38-nota-autore.md)
+- [Nota dell'Autore](capitoli/40-nota-autore.md)
 
 ---
 

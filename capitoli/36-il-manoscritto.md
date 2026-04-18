@@ -1,4 +1,4 @@
-# Capitolo 34: Il Manoscritto
+# Capitolo 36: Il Manoscritto
 
 *Alice, presente*
 

@@ -1,4 +1,4 @@
-# Capitolo 18: Il Segno
+# Capitolo 19: Il Segno
 
 James attivò il jammer. Le luci tremolarono.
 

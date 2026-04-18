@@ -1,4 +1,4 @@
-# Capitolo 29: La Ricerca
+# Capitolo 31: La Ricerca
 
 *Alice, presente*
 

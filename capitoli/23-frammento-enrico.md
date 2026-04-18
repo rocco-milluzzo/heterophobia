@@ -1,4 +1,4 @@
-# Capitolo 22: Frammento di Enrico
+# Capitolo 23: Frammento di Enrico
 
 Ho trovato il diario di Enrico Ferrante per caso.
 

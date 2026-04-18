@@ -1,4 +1,4 @@
-# Capitolo 23: La Domanda
+# Capitolo 24: La Domanda
 
 Il pomeriggio di ottobre del 2110 era di quelli che nelle Zone ricordavano a chi ci era arrivato da poco che esistevano ancora le stagioni. La luce cadeva obliqua sui tetti di lamiera del rifugio principale, l'aria odorava di foglie bagnate e di fumo di legna da un camino mal tirato, e i cani della comunità, tre bastardi magri, dormivano sulla terra battuta della piazzetta come se qualcuno li avesse disposti apposta per la scena.
 

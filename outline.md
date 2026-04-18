@@ -134,7 +134,7 @@ Montaggio di cinque anni. Incontri segreti. Scuse elaborate. Test genetici passa
 
 ---
 
-## ATTO II: ESCALATION (Cap. 12-26)
+## ATTO II: ESCALATION (Cap. 12-27)
 
 ### Capitolo 12: Routine del Segreto
 **POV:** James
@@ -209,20 +209,20 @@ Kate cerca di rassicurarlo. "Funzionerà. Deve funzionare."
 
 ---
 
-### Capitolo 17b: Il Test
+### Capitolo 18: Il Test
 **POV:** Kate
 **Tempo:** 2105 (flashback, quarto mese di gravidanza)
 **Parole:** ~2,500
 
 Kate affronta l'ultimo test trimestrale obbligatorio prima della fuga. Usa il C-17, un inibitore sperimentale che ha sintetizzato lei stessa, per mascherare l'hCG. Yuki al laboratorio la osserva in silenzio e le lascia un bicchiere d'acqua. Al Centro Diagnostico, un bip anomalo dal sensore endocrino. L'AI ricalibra. "Anomalia marginale. Approvato." Uscita dal Centro, sangue dal naso, vertigini. Un'anziana Immortale le si ferma accanto. Tornata a casa, Kate vomita, si osserva allo specchio, calcola le probabilità di detezione residue: 47% su cinque test restanti. Chiude la notte con una ninna nanna siciliana che Marta le cantava da bambina. Decide: bisogna fuggire presto.
 
-**Scena chiave:** Il bip del sensore endocrino, i quaranta secondi di ricalibrazione. Poi il calcolo notturno che spinge Kate verso la decisione del cap. 18.
+**Scena chiave:** Il bip del sensore endocrino, i quaranta secondi di ricalibrazione. Poi il calcolo notturno che spinge Kate verso la decisione della fuga nel cap. 19.
 
 **Funzione:** Payoff del Chekhov's gun dei test trimestrali. Ponte tra L'Attesa e la fuga. Semina Marta (ninna nanna siciliana) e Yuki (complice ambigua).
 
 ---
 
-### Capitolo 18: Il Segno
+### Capitolo 19: Il Segno
 **POV:** Kate
 **Tempo:** 2105 (flashback)
 **Parole:** ~2,500
@@ -233,7 +233,7 @@ Kate scopre di essere incinta. Test casalingo, non registrato.
 
 ---
 
-### Capitolo 19: La Nuova Vita
+### Capitolo 20: La Nuova Vita
 **POV:** James
 **Tempo:** 2105 (flashback)
 **Parole:** ~2,500
@@ -244,7 +244,7 @@ Dettagli tecnici: come funziona, cosa può andare storto.
 
 ---
 
-### Capitolo 20: Documenti Medici
+### Capitolo 21: Documenti Medici
 **POV:** Alice (narratrice)
 **Tempo:** Presente
 **Parole:** ~2,000
@@ -255,7 +255,7 @@ Seconda crepa: "Il battito del bambino era irregolare quella notte..."
 
 ---
 
-### Capitolo 21: I Primi Anni
+### Capitolo 22: I Primi Anni
 **POV:** Kate
 **Tempo:** 2106-2110 (flashback, montaggio)
 **Parole:** ~3,000
@@ -268,7 +268,7 @@ Poi: Alice nasce in segreto nel 2106. Marta fa da levatrice. I primi anni di una
 
 ---
 
-### Capitolo 22: Frammento di Enrico
+### Capitolo 23: Frammento di Enrico
 **POV:** Alice (narratrice) + scena con Enrico
 **Tempo:** Presente + 2108
 **Parole:** ~2,000
@@ -279,7 +279,7 @@ Il padre di Kate sa. Non ha mai detto nulla. Alice ha trovato il suo diario.
 
 ---
 
-### Capitolo 23: La Domanda
+### Capitolo 24: La Domanda
 **POV:** James
 **Tempo:** 2110 (flashback)
 **Parole:** ~2,500
@@ -292,7 +292,7 @@ Il terrore. La scusa improvvisata. La fuga.
 
 ---
 
-### Capitolo 24: Segnali
+### Capitolo 25: Segnali
 **POV:** James
 **Tempo:** 2114 (flashback)
 **Parole:** ~2,500
@@ -305,7 +305,7 @@ Yuki avverte Kate: "Stanno cercando qualcosa."
 
 ---
 
-### Capitolo 25: La Rete
+### Capitolo 26: La Rete
 **POV:** Kate
 **Tempo:** 2114 (flashback)
 **Parole:** ~2,500
@@ -317,7 +317,7 @@ Kate: "Non sopravviveremo qui dentro."
 
 ---
 
-### Capitolo 26: La Scoperta
+### Capitolo 27: La Scoperta
 **POV:** James
 **Tempo:** 2114 (flashback)
 **Parole:** ~2,500
@@ -331,7 +331,7 @@ James non sa rispondere. Kate: "Perché sei speciale. E il mondo non è pronto."
 
 ## ATTO III: RIVELAZIONE (Cap. 27-36)
 
-### Capitolo 27: Dieci Anni
+### Capitolo 28: Dieci Anni
 **POV:** Alice (narratrice)
 **Tempo:** Presente
 **Parole:** ~2,500
@@ -344,7 +344,7 @@ Poi si corregge: "Le registrazioni mostrano che cantava..."
 
 ---
 
-### Capitolo 28: La Decisione
+### Capitolo 29: La Decisione
 **POV:** Alice (narratrice)
 **Tempo:** Presente (2132)
 **Parole:** ~2,500
@@ -353,18 +353,18 @@ Alice decide di affidare il manoscritto alla rete clandestina e di partire in ce
 
 ---
 
-### Capitolo 28b: Jensen
+### Capitolo 30: Jensen
 **POV:** Jensen (Il Controllore)
 **Tempo:** Presente (2132)
 **Parole:** ~2,750
 
 Mattina ordinaria nell'appartamento di massima conformità di Jensen. La riattivazione del dossier Valeri-Ferrante gli arriva via tablet: un algoritmo stilometrico ha rilevato una corrispondenza del 94,3 percento tra uno scritto di Alice Tanaka e i testi catalogati di James Valeri. Kovalova gli viene assegnata come backup. MemoraSoft (pastiglia rossa), frammenti involontari di un'infanzia nelle Zone siciliane, ninna nanna *Stiddi ca luciti* che riaffiora senza che lui sappia nominarla. Nell'armadietto della palestra tiene da quindici anni una cassetta audio vietata etichettata *Ninna nanna per G. Da M. 2098*, che non ha mai ascoltato. SomniLearn bucato da un ricordo di sei anni. Si riaddormenta. Qualcosa, sotto la Purezza, ha già cominciato a scegliere per lui.
 
-**Funzione:** dare spessore all'antagonista prima dell'operazione su Alice. Piantare il seme stilometrico che fruttifica nel cap. 34 (Alice si riconosce nella scrittura di James). Collegare Kovalova (cap. 31) come crepa interna al Sistema.
+**Funzione:** dare spessore all'antagonista prima dell'operazione su Alice. Piantare il seme stilometrico che fruttifica nel cap. 36 (Alice si riconosce nella scrittura di James). Collegare Kovalova (cap. 33) come crepa interna al Sistema.
 
 ---
 
-### Capitolo 29: La Ricerca
+### Capitolo 31: La Ricerca
 **POV:** Alice
 **Tempo:** Presente (2132)
 **Parole:** ~2,500
@@ -373,7 +373,7 @@ Alice esce dal Sistema con un permesso falso di Yuki. Nelle Zone trova Vera, che
 
 ---
 
-### Capitolo 30: L'Ultimo Giorno
+### Capitolo 32: L'Ultimo Giorno
 **POV:** James
 **Tempo:** 2122 (flashback)
 **Parole:** ~2,500
@@ -382,7 +382,7 @@ James percepisce che qualcosa non va. Prepara la fuga d'emergenza. Ma è troppo 
 
 ---
 
-### Capitolo 31: Il Raid
+### Capitolo 33: Il Raid
 **POV:** James e Kate (alternato)
 **Tempo:** 2122 (flashback)
 **Parole:** ~3,000
@@ -395,7 +395,7 @@ Caos. James cerca di fare tempo. Kate prende Alice.
 
 ---
 
-### Capitolo 32: La Corsa
+### Capitolo 34: La Corsa
 **POV:** Kate
 **Tempo:** 2122 (flashback)
 **Parole:** ~2,500
@@ -406,7 +406,7 @@ Corrono. Alice piange. Kate la tiene stretta.
 
 ---
 
-### Capitolo 33: La Scelta
+### Capitolo 35: La Scelta
 **POV:** Alice (narratrice) + ultimo flashback
 **Tempo:** Presente + 2122
 **Parole:** ~3,000
@@ -429,7 +429,7 @@ Poi Mira la trascina via.
 
 ---
 
-### Capitolo 34: Il Manoscritto
+### Capitolo 36: Il Manoscritto
 **POV:** Alice
 **Tempo:** Presente (2132)
 **Parole:** ~2,500
@@ -444,7 +444,7 @@ La voce cambia completamente.
 
 ---
 
-### Capitolo 35: Le Zone Orientali
+### Capitolo 37: Le Zone Orientali
 **POV:** Alice
 **Tempo:** 2122-2125 (flashback)
 **Parole:** ~2,500
@@ -455,7 +455,7 @@ Non sa cosa sia successo ai suoi genitori.
 
 ---
 
-### Capitolo 36: Il Ritorno
+### Capitolo 38: Il Ritorno
 **POV:** Alice
 **Tempo:** Presente (2132)
 **Parole:** ~2,500
@@ -468,9 +468,9 @@ L'incertezza è deliberata. James potrebbe essere vivo, in rieducazione eterna. 
 
 ---
 
-## EPILOGO (Cap. 37-38)
+## EPILOGO (Cap. 39-40)
 
-### Capitolo 37: Fine
+### Capitolo 39: Fine
 **POV:** Alice
 **Tempo:** Presente (tempo indeterminato)
 **Parole:** ~2,000
@@ -485,7 +485,7 @@ Finale tragico: i passi si avvicinano, la porta si apre, l'inchiostro si interro
 
 ---
 
-### Capitolo 38: Nota dell'Autore
+### Capitolo 40: Nota dell'Autore
 Ringraziamenti e riflessioni dell'autore.
 
 ---
@@ -494,26 +494,26 @@ Ringraziamenti e riflessioni dell'autore.
 
 ### Distribuzione POV:
 - James: 11 capitoli
-- Kate: 12 capitoli (incluso cap. 17b "Il Test")
+- Kate: 12 capitoli (incluso cap. 18 "Il Test")
 - Alice narratrice: 13 capitoli
-- Jensen: 1 capitolo proprio (cap. 28b "Jensen") oltre alla presenza come antagonista nel raid del cap. 31
+- Jensen: 1 capitolo proprio (cap. 30 "Jensen") oltre alla presenza come antagonista nel raid del cap. 33
 - Flashback generazionali: integrati nei capitoli di Alice
 
 ### Parole per atto:
 - Atto I: ~26,000 (11 cap, include Intermezzo)
-- Atto II: ~40,000 (16 cap, incluso cap. 17b)
-- Atto III: ~29,750 (11 cap, incluso cap. 28b)
+- Atto II: ~40,000 (16 cap, incluso cap. 18)
+- Atto III: ~29,750 (11 cap, incluso cap. 30)
 - Epilogo: ~2,000 (1 cap + nota)
 - **Totale: ~97,750**
 
 ### Struttura complessiva:
-38 capitoli numerati piu' 2 capitoli aggiuntivi (17b "Il Test" e 28b "Jensen"), oltre a prefazione e nota dell'autore. Totale operativo: 40 unita' narrative.
+38 capitoli numerati piu' 2 capitoli aggiuntivi (18 "Il Test" e 30 "Jensen"), oltre a prefazione e nota dell'autore. Totale operativo: 40 unita' narrative.
 
 ### Capitoli chiave:
 - **Cap. 8:** Prima notte insieme (intimità)
-- **Cap. 18:** Gravidanza (midpoint)
-- **Cap. 21:** Nascita di Alice (svolta emotiva)
-- **Cap. 31:** Il raid (climax azione)
-- **Cap. 34:** Reveal di Alice (climax narrativo)
-- **Cap. 33:** Scelta di Kate (climax emotivo)
-- **Cap. 37:** Fine tragica (conclusione)
+- **Cap. 19:** Gravidanza (midpoint)
+- **Cap. 22:** Nascita di Alice (svolta emotiva)
+- **Cap. 33:** Il raid (climax azione)
+- **Cap. 36:** Reveal di Alice (climax narrativo)
+- **Cap. 35:** Scelta di Kate (climax emotivo)
+- **Cap. 39:** Fine tragica (conclusione)

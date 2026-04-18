@@ -1,4 +1,4 @@
-# Capitolo 26: La Scoperta
+# Capitolo 27: La Scoperta
 
 L'autunno del 2121 arrivò presto, come se il mondo avesse fretta.
 

@@ -4,7 +4,7 @@
 
 Gentile Redazione,
 
-Vi propongo in lettura *Heterophobia*, romanzo distopico di circa 23.000 parole: una forma breve e asciutta, pensata come prima voce di una saga intitolata *Tales from Aeternitas*.
+Vi propongo in lettura *Heterophobia*, romanzo distopico di circa 70.000 parole, prima voce di una saga intitolata *Tales from Aeternitas*.
 
 **Sinossi**
 
@@ -18,7 +18,7 @@ Narrativa distopica per lettori adulti. Il meccanismo narrativo, una voce che in
 
 **Struttura**
 
-38 capitoli e prefazione. Alternanza tra flashback (2095-2122) e presente narrativo (2132). Voce narrante a identità nascosta fino al finale.
+39 capitoli più prefazione e nota dell'autore. Alternanza tra flashback (2095-2122) e presente narrativo (2132). Voce narrante a identità nascosta fino al finale.
 
 **L'autore**
 

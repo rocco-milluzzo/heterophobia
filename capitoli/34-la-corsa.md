@@ -1,4 +1,4 @@
-# Capitolo 32: La Corsa
+# Capitolo 34: La Corsa
 
 *Kate, 2122*
 

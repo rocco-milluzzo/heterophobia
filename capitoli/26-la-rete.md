@@ -1,4 +1,4 @@
-# Capitolo 25: La Rete
+# Capitolo 26: La Rete
 
 Era una sera di ottobre del 2121, e nel rifugio di Marcus bruciava un fuoco piccolo, al centro della stanza. Il camino lo avevano murato anni prima, quando avevano capito che la firma termica di un focolare visibile dall'alto valeva, per un drone di ricognizione, quanto una bandiera. Adesso accendevano un braciere basso sotto una cappa di lamiera, e il fumo usciva filtrato da una serie di canne interrate che lo dispergevano a cinquanta metri di distanza, freddo e disperso, indistinguibile dall'umidità del bosco.
 

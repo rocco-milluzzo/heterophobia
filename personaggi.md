@@ -134,7 +134,7 @@
 - Origini siciliane: probabile discendenza da una famiglia eterosessuale delle Zone post-Etna 2048, sopravvissuta ai margini del Sistema
 - Paolo fu preso durante una retata e non tornò mai
 - Lin consegnò James alle autorità per dargli una possibilità, poi fu consegnata alla rieducazione dopo la nascita del figlio
-- James riceve un breve accenno alle sue radici siciliane nella lettera ad Alice del cap. 36
+- James riceve un breve accenno alle sue radici siciliane nella lettera ad Alice del cap. 38
 - Funzione: mostra il costo della persecuzione; parallelo con la scelta di Kate; riallaccia la linea siciliana che attraversa anche Marta
 
 ---
@@ -212,13 +212,13 @@
 - 50enne fuggita dal Settore 14, arrivata nelle Zone nel 2110
 - Conosceva James e Kate da esule
 - Figura materna alternativa per Alice dopo la separazione dai genitori
-- Consegna ad Alice una fotografia nel cap. 29
+- Consegna ad Alice una fotografia nel cap. 31
 
 **Kovalova** (Dr. Kovalova)
 - Controllrice del Sistema, Riformista segreta nella burocrazia dei Controllori
-- Compare nel cap. 28b come backup assegnata a Jensen sul dossier Valeri-Ferrante
+- Compare nel cap. 30 come backup assegnata a Jensen sul dossier Valeri-Ferrante
 - Ha risparmiato James durante il raid del 2122 (*"Vai, non ti ho visto"*): colpa o scelta morale, mai chiarito del tutto
-- Ha salvato Kate da rieducazione completa portandola a esilio nelle Zone (cap. 35)
+- Ha salvato Kate da rieducazione completa portandola a esilio nelle Zone (cap. 37)
 - Ha smesso di assumere EmpathBlock: per questo esita
 - Funzione: incarna la crepa interna al Sistema, la possibilità che i Riformisti non siano solo sotterranei
 

@@ -36,9 +36,9 @@ La storia è narrata da una voce misteriosa che ricostruisce il loro amore attra
 | Aspetto | Valore |
 |---------|--------|
 | Lingua | Italiano |
-| Lunghezza | ~23.000 parole |
-| Pagine | ~90 |
-| Capitoli | 38 più prefazione |
+| Lunghezza | ~70.700 parole |
+| Pagine | ~270 |
+| Capitoli | 39 più prefazione e nota dell'autore |
 | Saga | *Tales from Aeternitas: Volume I* |
 
 ---

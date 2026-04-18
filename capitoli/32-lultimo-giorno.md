@@ -1,4 +1,4 @@
-# Capitolo 30: L'Ultimo Giorno
+# Capitolo 32: L'Ultimo Giorno
 
 *Zone Orientali, estate 2122*
 

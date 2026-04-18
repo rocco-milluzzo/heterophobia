@@ -1,4 +1,4 @@
-# Capitolo 24: Segnali
+# Capitolo 25: Segnali
 
 Nell'estate del 2121, le cose iniziarono a cambiare.
 

@@ -1,4 +1,4 @@
-# Capitolo 17b: Il Test
+# Capitolo 18: Il Test
 
 Kate arrivò al laboratorio alle sette e dodici, tre minuti prima dell'orario abituale, e questo era già un errore. La prevedibilità era l'unica forma di mimetismo che il Sistema non sapeva leggere, e lei lo sapeva meglio di chiunque, eppure quella mattina le gambe l'avevano portata fin lì con una fretta che non riusciva a spiegare. Si fermò all'ingresso, contò fino a dieci, riprese fiato. Quando entrò, Yuki era già alla postazione centrale, china su una pipetta automatica che dosava un reagente ambrato in una serie di provette identiche.
 

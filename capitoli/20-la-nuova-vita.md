@@ -1,4 +1,4 @@
-# Capitolo 19: La Nuova Vita
+# Capitolo 20: La Nuova Vita
 
 Arrivarono nelle Zone Orientali nel cuore dell'inverno.
 

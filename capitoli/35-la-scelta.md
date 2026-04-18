@@ -1,4 +1,4 @@
-# Capitolo 33: La Scelta
+# Capitolo 35: La Scelta
 
 *Kate, 2122*
 

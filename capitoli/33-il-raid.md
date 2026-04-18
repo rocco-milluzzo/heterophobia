@@ -1,4 +1,4 @@
-# Capitolo 31: Il Raid
+# Capitolo 33: Il Raid
 
 *James, 2122*
 

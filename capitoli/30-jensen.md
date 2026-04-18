@@ -1,4 +1,4 @@
-# Capitolo 28b: Jensen
+# Capitolo 30: Jensen
 
 *Jensen, 2132*
 
