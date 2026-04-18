@@ -10,7 +10,7 @@ Un libro prestato con una pagina segnata. Un foglio piegato all'interno.
 
 Una mappa delle Zone Abbandonate. Più dettagliata di quella che aveva trovato lui. Con percorsi segnati a mano, annotazioni, avvertimenti.
 
-In fondo al percorso, una nota: *"Settore 7 — Comunità attiva. Chiedere di Marcus."*
+In fondo al percorso, una nota: *"Settore 7. Comunità attiva. Chiedere di Marcus."*
 
 ---
 

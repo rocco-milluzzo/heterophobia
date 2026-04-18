@@ -24,7 +24,7 @@ Sto scrivendo. Su carta vera. Queste potrebbero essere le mie ultime parole.
 
 A chiunque trovi questo quaderno:
 
-Mi chiamo Alice Valeri Ferrante. Sono nata nel 2107, nelle Zone Abbandonate, da un amore che il Sistema chiamava malattia.
+Mi chiamo Alice Valeri Ferrante. Sono nata nel 2106, nelle Zone Abbandonate, da un amore che il Sistema chiamava malattia.
 
 ---
 
@@ -61,14 +61,6 @@ Ma l'ho scritto.
 Quello che importa è che la storia è stata raccontata. Mio padre esiste. Mia madre esiste. Il loro amore esiste.
 
 E finché esistono le parole, esisteranno anche loro.
-
----
-
-A chi legge:
-
-Non abbiate paura di amare.
-
-Non abbiate paura di esistere.
 
 ---
 

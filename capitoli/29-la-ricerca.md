@@ -1,6 +1,6 @@
 # Capitolo 29: La Ricerca
 
-*Presente — Alice*
+*Alice, presente*
 
 Uscire dal Sistema è più facile di quanto pensassi. O forse è solo che il mio corpo ha imparato a muoversi nell'ombra prima ancora che imparassi a leggere.
 
@@ -10,7 +10,7 @@ Yuki mi ha procurato i documenti. Un permesso di transito per motivi di ricerca.
 
 "Hai tre giorni. Tre giorni prima che qualcuno inizi a fare domande."
 
-C'era un'altra cosa che non le avevo detto. Un messaggio intercettato dalla rete: *Operazione Pulizia — Settore Zone Est. Data prevista: 15 giorni.*
+C'era un'altra cosa che non le avevo detto. Un messaggio intercettato dalla rete: *Operazione Pulizia, Settore Zone Est. Data prevista: 15 giorni.*
 
 Se volevo trovare qualcosa, dovevo farlo prima che il Sistema cancellasse ogni traccia.
 
@@ -89,4 +89,6 @@ Io.
 Torno verso il Sistema con la fotografia stretta al petto.
 
 La prova che esistevamo. Che eravamo una famiglia.
+
+Per tutto il viaggio di ritorno, un nome continua a tornarmi in mente. Davide Morra. Il fascicolo correlato che avevo visto mesi fa nell'archivio, quello che sembrava un errore di classificazione. Non era un errore. Era una firma, una segnalazione, un debito. E forse, oltre a cercare i miei genitori, io sto cercando anche il modo di saldarlo.
 

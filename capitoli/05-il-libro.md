@@ -8,7 +8,7 @@ Ma non riusciva a smettere.
 
 ---
 
-*"Vorrei essere la cicatrice sulla tua spalla—*
+*"Vorrei essere la cicatrice sulla tua spalla,*
 *quello che resta quando tutto guarisce."*
 
 Kate rilesse i versi. Era questo che provava per James? Non lo sapeva.

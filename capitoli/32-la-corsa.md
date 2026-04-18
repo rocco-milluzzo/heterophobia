@@ -1,6 +1,6 @@
 # Capitolo 32: La Corsa
 
-*2122 — Kate*
+*Kate, 2122*
 
 Corsi.
 
@@ -20,7 +20,7 @@ Ma non potevano fermarci. Non ancora.
 
 ---
 
-Mira ci aspettava al punto d'incontro. Era cresciuta con Alice—più sorelle che amiche.
+Mira ci aspettava al punto d'incontro. Era cresciuta con Alice, più sorelle che amiche.
 
 "Dove è James?"
 

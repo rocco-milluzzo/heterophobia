@@ -1,6 +1,6 @@
 # Capitolo 31: Il Raid
 
-*2122 — James*
+*James, 2122*
 
 Mi svegliai con il ronzio.
 
@@ -96,7 +96,7 @@ Mi guardò come si guarda un animale malato.
 
 Jensen si accovacciò. "I miei genitori erano come te. Mi hanno cresciuto nelle Zone per otto anni."
 
-Vidi una cicatrice dietro il suo orecchio—nel punto dove impiantano i dispositivi di monitoraggio. Non una cicatrice da Controllore. Da paziente.
+Vidi una cicatrice dietro il suo orecchio, nel punto dove impiantano i dispositivi di monitoraggio. Non una cicatrice da Controllore. Da paziente.
 
 "Mia madre mi cantava una canzone. Non ricordo le parole, ma la melodia... a volte di notte la sento ancora. I tecnici dicono che è un residuo neurale. Sono passati ventidue anni e non è scomparsa."
 
@@ -106,7 +106,7 @@ Vidi una cicatrice dietro il suo orecchio—nel punto dove impiantano i disposit
 
 ---
 
-Un'altra Controllore si avvicinò. KOVALOVA. Occhi diversi—qualcosa di simile al dolore.
+Un'altra Controllore si avvicinò. KOVALOVA. Occhi diversi, qualcosa di simile al dolore.
 
 "Jensen. Forse non serve la minore. Abbiamo già il primario."
 
@@ -128,13 +128,13 @@ L'ultima cosa che pensai fu: *Correte. Non smettete di correre.*
 
 ---
 
-*Presente — Alice*
+*Alice, presente*
 
 Mio padre fu catturato quella mattina. Nei rapporti era catalogato come "Soggetto Maschio 7742-B, Categoria: Deviante Riproduttivo Recidivo."
 
 Nei margini, qualcuno aveva annotato: "Resistenza all'interrogatorio. Raccomandato protocollo intensivo."
 
-So cosa significa "protocollo intensivo." I centri di rieducazione non erano ospedali. Erano macelli dell'anima. Terapia avversiva. Scariche elettriche. E peggio—"sessioni di ricondizionamento sessuale". Un eufemismo per violenza sistematica.
+So cosa significa "protocollo intensivo." I centri di rieducazione non erano ospedali. Erano macelli dell'anima. Terapia avversiva. Scariche elettriche. E peggio ancora: "sessioni di ricondizionamento sessuale". Un eufemismo per violenza sistematica.
 
 Non so cosa abbiano fatto a mio padre.
 

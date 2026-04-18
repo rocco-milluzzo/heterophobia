@@ -1,8 +1,10 @@
 # Capitolo 21: I Primi Anni
 
-Alice imparò a camminare nella primavera del 2107.
+Alice imparò a camminare nella primavera del 2108.
 
 Barcollando, cadendo, rialzandosi. Sempre.
+
+Kate l'addormentava canticchiando sempre la stessa melodia, tre note che salivano e una che scendeva, quella che le era rimasta in gola da ragazza senza sapere da dove venisse. Alice la imparò prima delle parole.
 
 ---
 

@@ -6,13 +6,13 @@ Un quaderno dalla copertina consunta. Appunti vergati a mano.
 
 ---
 
-*Settimana 12 — Il battito del bambino è regolare, forte.*
+*Settimana 12. Il battito del bambino è regolare, forte.*
 
-*Settimana 28 — Il battito era irregolare quella notte. Abbiamo atteso. La mattina dopo era tornato normale.*
+*Settimana 28. Il battito era irregolare quella notte. Abbiamo atteso. La mattina dopo era tornato normale.*
 
-*Settimana 38 — Le contrazioni sono iniziate.*
+*Settimana 38. Le contrazioni sono iniziate.*
 
-*Ore dopo — È nata. Una bambina. L'hanno chiamata Alice.*
+*Ore dopo. È nata. Una bambina. L'hanno chiamata Alice.*
 
 ---
 
@@ -43,13 +43,13 @@ Le dita mi tremavano. Non capivo perché.
 
 C'era un altro documento nel fascicolo.
 
-Un modulo amministrativo, timbrato e protocollato. *"Archivio Centrale — Sezione Conformità. Procedura 7-B: Validazione Segnalazioni Interne."*
+Un modulo amministrativo, timbrato e protocollato. *"Archivio Centrale, Sezione Conformità. Procedura 7-B: Validazione Segnalazioni Interne."*
 
 La data: 12 marzo 2099.
 
 ---
 
-*Oggetto: Segnalazione n. 4471-D — Soggetto Davide Morra*
+*Oggetto: Segnalazione n. 4471-D, Soggetto Davide Morra*
 
 *Motivazione: Pattern comportamentali anomali. Frequentazione di zone non monitorate. Possesso sospetto di materiale non catalogato.*
 
@@ -75,7 +75,7 @@ Deportato nelle Zone Abbandonate il 15 marzo 2099. Tre giorni dopo la firma.
 
 Ho confrontato le date.
 
-Il 12 marzo 2099, James e Kate erano sotto sorveglianza intensificata. Un controllo di routine aveva rilevato anomalie nei loro pattern. Yuki aveva già scritto la sua prima segnalazione — quella mai inoltrata.
+Il 12 marzo 2099, James e Kate erano sotto sorveglianza intensificata. Un controllo di routine aveva rilevato anomalie nei loro pattern. Yuki aveva già scritto la sua prima segnalazione, quella mai inoltrata.
 
 Il Sistema cercava qualcuno. Qualsiasi cosa.
 
@@ -97,7 +97,7 @@ Non ce n'erano.
 
 ---
 
-Non so cosa pensasse James mentre firmava quel modulo. Non so se abbia esitato. Se abbia guardato il nome, il fascicolo, i sospetti inconsistenti — e poi abbia firmato comunque.
+Non so cosa pensasse James mentre firmava quel modulo. Non so se abbia esitato. Se abbia guardato il nome, il fascicolo, i sospetti inconsistenti, e poi abbia firmato comunque.
 
 So solo che Kate, quella settimana, era al suo terzo mese. Che i sensori avevano rilevato un'anomalia nel suo metabolismo. Che il Sistema cercava una risposta.
 

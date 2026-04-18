@@ -11,11 +11,11 @@
 **Primo volume:** *Tales from Aeternitas: Heterophobia*
 
 **Potenziali espansioni:**
-- *Tales from Aeternitas: Jensen* — La storia del Controllore, da bambino rubato nelle Zone a carnefice del Sistema
-- *Tales from Aeternitas: Before the Cure* — Il mondo prima dell'immortalità (2023-2070)
-- *Tales from Aeternitas: Kovalova* — Chi serve il Sistema con dubbi morali
-- *Tales from Aeternitas: The Last Generation* — Altre storie degli Ultimi
-- *Tales from Aeternitas: The Zones* — La vita nelle Zone Abbandonate
+- *Tales from Aeternitas: Jensen*: la storia del Controllore, da bambino rubato nelle Zone a carnefice del Sistema
+- *Tales from Aeternitas: Before the Cure*: il mondo prima dell'immortalità (2023-2070)
+- *Tales from Aeternitas: Kovalova*: chi serve il Sistema con dubbi morali (personaggio solo potenziale, appartenente al secondo volume)
+- *Tales from Aeternitas: The Last Generation*: altre storie degli Ultimi
+- *Tales from Aeternitas: The Zones*: la vita nelle Zone Abbandonate
 
 ---
 
@@ -32,27 +32,27 @@ La crisi che ha cambiato tutto non è arrivata con un'esplosione, ma con un clic
 
 #### Fase 1: L'Esplosione dell'AI Generativa (2023-2026)
 
-**2023 — L'Anno Zero**
-- ChatGPT e i suoi successori raggiungono capacità quasi-umane nella generazione di testo
+**2023: L'Anno Zero**
+- I primi modelli generativi di larga scala raggiungono capacità quasi-umane nella generazione di testo
 - Le prime aziende iniziano a sostituire copywriter, traduttori, assistenti clienti
-- I governi parlano di "transizione graduale" — nessuno prende misure concrete
-- Silicon Valley celebra: "La produttività aumenterà per tutti"
+- I governi parlano di "transizione graduale". Nessuno prende misure concrete
+- Le enclave tecnologiche della costa occidentale celebrano: "La produttività aumenterà per tutti"
 
-**2024 — La Prima Ondata**
+**2024: La Prima Ondata**
 - L'AI generativa diventa multimodale: testo, immagini, video, audio
 - Crollo dell'industria creativa: illustratori, fotografi, doppiatori, musicisti
-- Hollywood licenzia il 40% della forza lavoro — l'AI scrive sceneggiature, genera effetti, clona voci
+- L'industria dell'intrattenimento licenzia il 40% della forza lavoro: l'AI scrive sceneggiature, genera effetti, clona voci
 - Prime proteste organizzate. I governi promettono "regolamentazione"
 
-**2025 — Il Punto di Non Ritorno**
+**2025: Il Punto di Non Ritorno**
 - L'AI supera il test di Turing in modo consistente
 - Nascono i primi "agenti autonomi": AI che eseguono compiti complessi senza supervisione
 - Le aziende scoprono che un agente AI costa il 2% di un dipendente umano
-- Crollo del settore legale: contratti, ricerche, documenti — tutto automatizzato
-- Crollo del settore contabile e finanziario: analisi, audit, consulenza — obsoleti
+- Crollo del settore legale: contratti, ricerche, documenti, tutto automatizzato
+- Crollo del settore contabile e finanziario: analisi, audit, consulenza, ormai obsoleti
 - Disoccupazione nei paesi sviluppati: dal 5% al 15% in 18 mesi
 
-**2026 — La Cascata**
+**2026: La Cascata**
 - L'AI impara a programmare meglio degli umani. I programmatori diventano "supervisori"
 - Medicina: l'AI diagnostica con il 99.7% di accuratezza. I medici diventano "validatori"
 - Architettura, ingegneria, design: l'AI genera in secondi quello che richiedeva mesi
@@ -61,29 +61,29 @@ La crisi che ha cambiato tutto non è arrivata con un'esplosione, ma con un clic
 
 #### Fase 2: Il Crollo Occupazionale (2027-2032)
 
-**2027 — L'Anno della Rabbia**
+**2027: L'Anno della Rabbia**
 - Disoccupazione globale: 25% nei paesi sviluppati, 40% in quelli in via di sviluppo
 - I lavori "sicuri" si rivelano vulnerabili: insegnanti, infermieri, autisti
-- Movimenti neo-luddisti distruggono data center. Attentati contro le Big Tech
+- Movimenti neo-luddisti distruggono data center. Attentati contro le grandi corporazioni tecnologiche
 - I governi introducono "redditi di emergenza" finanziati stampando moneta
 - L'inflazione esplode. Il potere d'acquisto crolla
 
-**2028 — La Frattura Sociale**
+**2028: La Frattura Sociale**
 - Si forma una nuova classe: i "Proprietari di AI" vs tutti gli altri
 - L'1% possiede il 70% della ricchezza globale. Il 50% vive in povertà
 - Le città si dividono: zone sicure (private, sorvegliate) e zone abbandonate
-- Nascono le prime "comuni tecnologiche" — gruppi che rifiutano l'AI
+- Nascono le prime "comuni tecnologiche", gruppi che rifiutano l'AI
 - Suicidi in aumento del 300%. Crisi di salute mentale globale
 
-**2029 — Il Collasso dei Servizi**
+**2029: Il Collasso dei Servizi**
 - Gli stati non riescono più a mantenere i servizi pubblici
 - Sanità, istruzione, trasporti: tutto viene privatizzato o abbandonato
-- Le aziende tech offrono "pacchetti di cittadinanza" — servizi in cambio di dati totali
+- Le aziende tech offrono "pacchetti di cittadinanza": servizi in cambio di dati totali
 - Miliardi di persone cedono ogni privacy per sopravvivere
 - L'AI gestisce già la maggior parte delle infrastrutture critiche
 
-**2030-2032 — Gli Anni Bui**
-- Carestie in Africa e Asia meridionale — l'AI ottimizza le risorse, ma per chi può pagare
+**2030-2032: Gli Anni Bui**
+- Carestie in Africa e Asia meridionale. L'AI ottimizza le risorse, ma per chi può pagare
 - Migrazioni di massa. Muri ovunque. Droni armati ai confini
 - Le democrazie cedono a governi tecnocratici: "L'emergenza richiede efficienza"
 - L'AI diventa strumento di controllo sociale totale: riconoscimento facciale, punteggio sociale, previsione comportamentale
@@ -91,27 +91,27 @@ La crisi che ha cambiato tutto non è arrivata con un'esplosione, ma con un clic
 
 #### Fase 3: Le Guerre delle Risorse (2033-2038)
 
-**2033 — La Guerra dell'Acqua**
+**2033: La Guerra dell'Acqua**
 - Conflitto tra India e Pakistan per l'Indo. L'AI gestisce entrambi gli eserciti
 - Prima guerra combattuta quasi interamente da droni e robot
 - 2 milioni di morti in 6 mesi. Nessun soldato tocca il campo di battaglia
 - L'ONU è paralizzata. Le nazioni si ritirano una dopo l'altra
 
-**2034-2035 — La Frammentazione**
+**2034-2035: La Frammentazione**
 - Guerra civile negli USA: stati costieri vs stati interni
 - L'Europa si divide: Nord (ricco, automatizzato) vs Sud (povero, abbandonato)
 - La Cina impone la legge marziale permanente. L'AI controlla tutto
 - Russia, Brasile, Indonesia: governi cadono, signori della guerra emergono
 - Uso limitato di armi nucleari in Medio Oriente. 50 milioni di morti
 
-**2036 — L'Anno della Cenere**
+**2036: L'Anno della Cenere**
 - Il clima collassa: temperature record, uragani devastanti, raccolti distrutti
 - L'AI calcola: "La Terra può sostenere 4 miliardi di umani, non 10"
 - Alcuni governi iniziano "programmi di ottimizzazione demografica"
 - Sterilizzazioni forzate in alcune regioni. Proteste brutalmente represse
-- La popolazione mondiale inizia a calare — non per scelta
+- La popolazione mondiale inizia a calare, non per scelta
 
-**2037-2038 — Il Fondo**
+**2037-2038: Il Fondo**
 - Economia globale ridotta al 40% dei livelli pre-crisi
 - Miliardi vivono in condizioni pre-industriali
 - Solo le enclave tech mantengono standard di vita elevati
@@ -120,16 +120,16 @@ La crisi che ha cambiato tutto non è arrivata con un'esplosione, ma con un clic
 
 #### Fase 4: La Svolta (2039-2040)
 
-**2039 — La Proposta**
+**2039: La Proposta**
 - Un consorzio di mega-corporazioni propone "Il Grande Reset"
 - Fusione di nazioni in blocchi gestibili. Fine delle guerre. Risorse condivise
 - In cambio: controllo centralizzato, moneta unica, sorveglianza totale
 - I governi superstiti, esausti, accettano
 - Le masse, stremate, non protestano più
 
-**2040 — L'Anno della Fusione**
+**2040: L'Anno della Fusione**
 - Firma dei Trattati di Ginevra: nascono le Macro-Nazioni
-- L'AI viene "costituzionalizzata" — diventa infrastruttura di governo
+- L'AI viene "costituzionalizzata", diventa infrastruttura di governo
 - Reddito universale globale: tutti ricevono il minimo per sopravvivere
 - La pace arriva. Ma è la pace dell'esaurimento, non della giustizia
 - Il prezzo: la libertà. Ma dopo 17 anni di inferno, pochi la rimpiangono
@@ -139,16 +139,17 @@ La crisi che ha cambiato tutto non è arrivata con un'esplosione, ma con un clic
 **Costo umano della Crisi:**
 - Morti dirette (guerre, carestie, epidemie): ~800 milioni
 - Morti indirette (suicidi, mancanza di cure, violenza): ~400 milioni
+- Totale: ~1.2 miliardi di vittime
 - Popolazione mondiale nel 2040: 6.5 miliardi (da 8.5 nel 2023)
 - Nazioni sovrane rimaste: 0 (tutte assorbite nelle Macro-Nazioni)
-- Lingue attive: ~500 (da 7000 — le altre estinte o "archiviate")
+- Lingue attive: ~500 (da 7000, le altre estinte o "archiviate")
 
 **Lezione imparata (quella sbagliata):**
-Il mondo concluse che il problema era stato il *caos* — troppe persone, troppe nazioni, troppa libertà. La soluzione fu *ordine*: controllo centralizzato, popolazione gestita, libertà limitata.
+Il mondo concluse che il problema era stato il *caos*: troppe persone, troppe nazioni, troppa libertà. La soluzione fu *ordine*: controllo centralizzato, popolazione gestita, libertà limitata.
 
 Nessuno si chiese se il problema fosse stato *la disuguaglianza* nella distribuzione dei benefici dell'AI. Era più facile incolpare la natura umana.
 
-*Personaggi: I trisavoli di James e Kate vivono questo periodo da adulti. Molti muoiono. I sopravvissuti non parlano mai di quegli anni. Marta (nonna di Kate) nasce nel 2000 e ha 23 anni quando inizia la Crisi — perde il lavoro come traduttrice nell'ondata del 2023.*
+*Personaggi: i trisavoli di James e Kate vivono questo periodo da adulti. Molti muoiono. I sopravvissuti non parlano mai di quegli anni. Marta (nonna di Kate) nasce nel 2000 e ha 23 anni quando inizia la Crisi. Perde il lavoro come traduttrice nell'ondata del 2023.*
 
 ### L'Era della Fusione (2040-2060)
 
@@ -156,14 +157,14 @@ Dopo l'inferno, la ricostruzione. Ma ricostruire cosa?
 
 #### La Stabilizzazione (2040-2045)
 
-**2040-2042 — I Trattati di Ginevra**
+**2040-2042: I Trattati di Ginevra**
 - Le sei Macro-Nazioni vengono formalmente costituite
-- Ogni Macro-Nazione è governata da un "Consiglio di Efficienza" — tecnocrati e AI
+- Ogni Macro-Nazione è governata da un "Consiglio di Efficienza" (tecnocrati e AI)
 - Le vecchie bandiere vengono ritirate. Nuovi simboli: geometrici, asettici, universali
 - Le frontiere interne spariscono. Quelle esterne diventano invalicabili
 - Chi non accetta il nuovo ordine viene "ricollocato" nelle Zone Abbandonate
 
-**2043-2045 — La Pace Imposta**
+**2043-2045: La Pace Imposta**
 - L'AI gestisce la distribuzione delle risorse. Fine delle carestie (per chi è nel Sistema)
 - Reddito universale: sufficiente per sopravvivere, insufficiente per vivere
 - Lavoro: non più necessario, ma chi non "contribuisce" perde status sociale
@@ -172,21 +173,21 @@ Dopo l'inferno, la ricostruzione. Ma ricostruire cosa?
 
 #### La Normalizzazione (2045-2055)
 
-**2045-2048 — L'Oblio Programmato**
+**2045-2048: L'Oblio Programmato**
 - I libri di storia vengono "aggiornati". La Crisi diventa "Il Periodo di Transizione"
 - Le lingue nazionali vengono scoraggiate. Lo Standard (inglese semplificato) diventa obbligatorio
 - L'AI traduce in tempo reale, ma le sfumature culturali si perdono
 - I bambini crescono senza conoscere le vecchie nazioni. "Italia? Cos'è l'Italia?"
 - I vecchi piangono in silenzio. I giovani non capiscono perché
 
-**2049-2052 — La Generazione Senza Radici**
+**2049-2052: La Generazione Senza Radici**
 - Prima generazione nata interamente nel nuovo sistema
 - Non conoscono guerre, fame, libertà. Non sanno cosa manca loro
 - L'arte diventa algoritmica. La musica, generata. La letteratura, ottimizzata
 - Alcuni anziani conservano "reliquie": libri, foto, lingue morte
 - Il Sistema li tollera. "Nostalgia senile, innocua"
 
-**2053-2055 — L'Accelerazione Medica**
+**2053-2055: L'Accelerazione Medica**
 - L'AI medica risolve il cancro. Poi l'Alzheimer. Poi le malattie genetiche
 - Aspettativa di vita: 120 anni, poi 140, poi 150
 - La morte diventa "evitabile" per chi è nel Sistema
@@ -195,20 +196,20 @@ Dopo l'inferno, la ricostruzione. Ma ricostruire cosa?
 
 #### La Svolta Demografica (2055-2060)
 
-**2055-2057 — I Primi Sussurri**
+**2055-2057: I Primi Sussurri**
 - Ricercatori AI calcolano: con 150 anni di vita media, la Terra collassa in 80 anni
 - Soluzione A: limitare l'immortalità a pochi. Respinta come "disumana"
 - Soluzione B: limitare le nascite. "Più ragionevole"
 - Le discussioni sono segrete, ma trapelano. Nessuno protesta ancora
 
-**2058 — Il Rapporto Prometheus**
+**2058: Il Rapporto Prometheus**
 - Documento riservato: "Per garantire l'immortalità a tutti, la riproduzione deve cessare"
 - Il rapporto viene "leakato". Reazioni miste
 - I giovani (già senza figli per scelta) accolgono bene: "Finalmente, logica"
 - I vecchi (ancora legati all'idea di discendenza) sono inquieti
 - I religiosi protestano. Vengono ignorati
 
-**2059-2060 — La Preparazione**
+**2059-2060: La Preparazione**
 - Campagne mediatiche sottili: "I figli sono un peso". "La vera libertà è non riprodursi"
 - L'AI analizza chi ha "tendenze riproduttive". Inizia la schedatura silenziosa
 - Le coppie eterosessuali vengono monitorate con più attenzione
@@ -225,7 +226,7 @@ Dopo l'inferno, la ricostruzione. Ma ricostruire cosa?
 - Ma nessuna guerra. Nessuna fame. Nessuna malattia.
 - La maggioranza accettò lo scambio. Chi non accettò, scomparve.
 
-*Personaggi: I bisnonni di James e Kate crescono in questo periodo. Ricordano ancora il mondo di prima, ma imparano a non parlarne. Enzio (nonno di James) nasce nel 2028, vive l'infanzia nella Crisi, cresce nella Fusione. Ha 12 anni quando arriva la Fusione nel 2040. È lui che conserverà i documenti proibiti.*
+*Personaggi: i bisnonni di James e Kate crescono in questo periodo. Ricordano ancora il mondo di prima, ma imparano a non parlarne. Enzio (nonno di James) nasce nel 2028, vive l'infanzia nella Crisi, cresce nella Fusione. Ha 12 anni quando arriva la Fusione nel 2040. È lui che conserverà i documenti proibiti.*
 
 ### L'Era della Cura (2060-2075)
 - **2060-2065:** L'AI medica cura cancro, Alzheimer, malattie genetiche.
@@ -234,7 +235,7 @@ Dopo l'inferno, la ricostruzione. Ma ricostruire cosa?
 
 *Conseguenza immediata: sovrappopolazione esponenziale.*
 
-*Personaggi: Nonni di James e Kate sono giovani adulti quando arriva l'immortalità.*
+*Personaggi: nonni di James e Kate sono giovani adulti quando arriva l'immortalità.*
 
 ### L'Era dell'Heterophobia (2070-2080)
 
@@ -244,7 +245,7 @@ L'odio verso gli eterosessuali non nacque dal nulla. Fu coltivato, nutrito, norm
 - **2070:** Con l'immortalità arriva la crisi demografica. Chi continua a fare figli?
 - **2071:** I media iniziano a chiamare gli eterosessuali "egoisti riproduttivi"
 - **2072:** Primi episodi di violenza contro coppie etero con figli. Tollerati dalle autorità.
-- **2073:** Nasce il termine "heterophobia" - usato ironicamente dai progressisti per deridere chi si lamenta delle "discriminazioni" contro gli etero. "Non esiste l'heterophobia, esiste solo la responsabilità sociale."
+- **2073:** Nasce il termine "heterophobia", usato ironicamente dai progressisti per deridere chi si lamenta delle "discriminazioni" contro gli etero. "Non esiste l'heterophobia, esiste solo la responsabilità sociale."
 
 **Fase 2: La Demonizzazione (2073-2076)**
 - **2073-2074:** Campagne mediatiche: "L'amore etero è amore egoistico"
@@ -254,34 +255,37 @@ L'odio verso gli eterosessuali non nacque dal nulla. Fu coltivato, nutrito, norm
 - **2076:** Violenze sistematiche contro comunità etero. La polizia non interviene.
 
 **Fase 3: La Criminalizzazione (2076-2078)**
-- **2076:** "Terapie di conversione" per eterosessuali - volontarie, poi obbligatorie per "recidivi"
+- **2076:** "Terapie di conversione" per eterosessuali, volontarie, poi obbligatorie per "recidivi"
 - **2077:** Limite nascite ridotto a zero. Moratoria totale.
 - **2077:** L'eterosessualità viene riclassificata come "disturbo dell'orientamento riproduttivo"
 - **2078:** **IL DIVIETO.** L'eterosessualità dichiarata "comportamento anti-sociale di primo grado"
+
+**Natura giuridica del Divieto:**
+Il Divieto ufficialmente criminalizza la *riproduzione non autorizzata*, usando però una retorica che colpisce l'orientamento eterosessuale nel suo insieme, classificandolo come "disturbo riproduttivo". Sul piano formale, le coppie eterosessuali sterili verificate restano legali. Nella pratica, sono socialmente stigmatizzate, sorvegliate, spinte ai margini della vita pubblica. Questa distinzione tra norma giuridica e prassi sociale è cruciale: il Sistema non perseguita l'eterosessualità in sé, ma la piega al sospetto permanente di riproduzione illecita.
 
 **Fase 4: L'Eliminazione (2078-2080)**
 - **2078:** Retate nelle comunità etero. Campi di rieducazione.
 - **2079:** Aborto indotto obbligatorio per gravidanze non autorizzate.
 - **2079:** Primi esili di massa nelle Zone Abbandonate.
-- **2080:** Nascono gli "Ultimi" - l'ultima generazione legale. Fine della riproduzione autorizzata.
+- **2080:** Nascono gli "Ultimi", l'ultima generazione legale. Fine della riproduzione autorizzata.
 
 **Il Linguaggio dell'Odio:**
-- "Breeder" (riproduttore) - insulto comune per eterosessuali
-- "Infetti" - termine ufficiale nei documenti governativi
-- "Malati d'amore" - espressione sarcastica
-- "Dinosauri" - chi rimpiange il vecchio mondo
-- "Egoisti genetici" - chi vuole trasmettere il proprio DNA
+- "Breeder" (riproduttore): insulto comune per eterosessuali
+- "Infetti": termine ufficiale nei documenti governativi
+- "Malati d'amore": espressione sarcastica
+- "Dinosauri": chi rimpiange il vecchio mondo
+- "Egoisti genetici": chi vuole trasmettere il proprio DNA
 
 **La Propaganda:**
 - "L'amore vero non ha bisogno di figli"
 - "Fare figli è violenza verso il pianeta"
-- "L'eterosessualità è una scelta - scegli meglio"
-- "Siamo tutti uguali nell'immortalità - tranne chi vuole riprodursi"
+- "L'eterosessualità è una scelta: scegli meglio"
+- "Siamo tutti uguali nell'immortalità, tranne chi vuole riprodursi"
 
-*Personaggi: Genitori di James e Kate subiscono la transizione da cittadini normali a "infetti". James e Kate nascono come "Ultimi" - marchiati fin dalla nascita.*
+*Personaggi: genitori di James e Kate subiscono la transizione da cittadini normali a "infetti". James e Kate nascono come "Ultimi", marchiati fin dalla nascita.*
 
 ### L'Era Presente (2080-2105)
-- Società stabilizzata. Popolazione mondiale congelata a 12 miliardi.
+- Società stabilizzata. Popolazione mondiale stabilizzata intorno ai 7 miliardi (dopo il crollo della Crisi, il plateau post-Fusione e un lento riassestamento).
 - Gli Ultimi crescono sapendo di essere l'ultima generazione.
 - I ribelli vengono progressivamente emarginati nelle Zone Abbandonate.
 
@@ -407,13 +411,13 @@ Le Cure non sono magia. Hanno regole precise:
 ### Tecnologie di Condizionamento Mentale
 
 **MemoraSoft™ (Rieducazione):**
-Farmaci + stimolazione neurale che indeboliscono i ricordi legati all'attrazione eterosessuale. Non cancellano completamente—lasciano "ombre" che il soggetto non riesce a mettere a fuoco. Jensen ricorda di aver amato i suoi genitori, ma non riesce a *sentire* quell'amore.
+Farmaci e stimolazione neurale che indeboliscono i ricordi legati all'attrazione eterosessuale. Non cancellano completamente: lasciano "ombre" che il soggetto non riesce a mettere a fuoco. Jensen ricorda di aver amato i suoi genitori, ma non riesce a *sentire* quell'amore.
 
 **SomniLearn™ (Educazione notturna):**
 Durante il sonno, messaggi subliminali rinforzano la conformità. Molti cittadini sognano slogan del Sistema senza rendersene conto. James ne parla: *"A volte mi sveglio con frasi nella testa che so di non aver pensato."*
 
 **EmpathBlock™ (Controllori):**
-Iniezione che riduce temporaneamente l'empatia. Permette ai Controllori di fare il loro lavoro senza trauma psicologico. Kovalova ha smesso di prenderla—per questo esita durante il raid.
+Iniezione che riduce temporaneamente l'empatia. Permette ai Controllori di fare il loro lavoro senza trauma psicologico. Kovalova (personaggio potenziale del secondo volume) ha smesso di prenderla: per questo esita durante il raid.
 
 *Implicazione narrativa: La realtà nel mondo di Aeternitas è filtrata. Nessuno sa con certezza cosa è un proprio pensiero e cosa è stato impiantato.*
 
@@ -422,13 +426,13 @@ Iniezione che riduce temporaneamente l'empatia. Permette ai Controllori di fare 
 Il Sistema non è monolitico. Esistono correnti sotterranee:
 
 **I Pragmatici (maggioranza):**
-Credono nel Divieto come necessità matematica. Non odiano gli eterosessuali—li considerano semplicemente un problema da gestire. La maggior parte dei burocrati.
+Credono nel Divieto come necessità matematica. Non odiano gli eterosessuali, li considerano semplicemente un problema da gestire. La maggior parte dei burocrati.
 
 **I Puristi (minoranza vocale):**
 Credono che l'eterosessualità sia *moralmente* sbagliata, non solo pragmaticamente. Vogliono rieducazione più aggressiva, esilio immediato. Jensen appartiene a questa fazione.
 
 **I Riformisti (sotterranei):**
-Credono che il Divieto sia andato troppo oltre. Vorrebbero permettere relazioni eterosessuali sterili (con contraccezione obbligatoria). Non osano parlare apertamente—sarebbero accusati di "simpatia deviante". Kovalova simpatizza segretamente con loro.
+Credono che il Divieto sia andato troppo oltre. Vorrebbero permettere relazioni eterosessuali sterili (con contraccezione obbligatoria). Non osano parlare apertamente: sarebbero accusati di "simpatia deviante". Kovalova, figura del secondo volume, simpatizza segretamente con loro.
 
 **I Nostalgici (illegali):**
 Credono che l'intero sistema dell'immortalità sia stato un errore. Vorrebbero tornare alla mortalità naturale e alla riproduzione. Considerati estremisti pericolosi.

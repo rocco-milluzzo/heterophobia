@@ -1,6 +1,6 @@
 # Capitolo 34: Il Manoscritto
 
-*Presente — Alice*
+*Alice, presente*
 
 Ho finito di scrivere.
 

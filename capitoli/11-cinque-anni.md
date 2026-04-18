@@ -2,9 +2,9 @@
 
 ## I.
 
-*2098 — James*
+*James, 2098*
 
-Il primo anno fu il più difficile. Non per i rischi—ma per imparare a vivere due vite contemporaneamente.
+Il primo anno fu il più difficile. Non per i rischi, ma per imparare a vivere due vite contemporaneamente.
 
 Durante una retata vide un uomo giovane accanto al furgone. Alto, occhi grigi, una cicatrice sopra il sopracciglio sinistro. Non urlava ordini. Osservava. Il suo sguardo si posò su James per un istante che sembrò durare un'eternità.
 
@@ -14,7 +14,7 @@ Jensen. Controllore Jensen.
 
 ## II.
 
-*2099 — Kate*
+*Kate, 2099*
 
 Il secondo anno, Kate smise di avere paura.
 
@@ -24,7 +24,7 @@ Yuki lavorava nella stessa sezione. A volte Kate sentiva il suo sguardo addosso.
 
 ## III.
 
-*2100 — Kate*
+*Kate, 2100*
 
 Il terzo anno, Kate iniziò a volere di più.
 
@@ -34,7 +34,7 @@ Quello che aveva con James non era una vita. Era una serie di momenti strappati 
 
 ## IV.
 
-*2100 — James*
+*James, 2100*
 
 "James. Dobbiamo parlare del dopo."
 
@@ -52,7 +52,7 @@ Quello che aveva con James non era una vita. Era una serie di momenti strappati 
 
 ## V.
 
-*2101 — James*
+*James, 2101*
 
 James trovò la crepa per caso. Un file datato 2079. Gravidanze non autorizzate. Bambini nati in segreto.
 
@@ -64,7 +64,7 @@ La scrivania accanto alla sua era vuota da due anni. Il nome sulla targhetta era
 
 ## VI.
 
-*2102 — Kate*
+*Kate, 2102*
 
 "Ho trovato un modo," disse Kate. "Una finestra di sei ore in cui i sensori vengono resettati per manutenzione."
 
@@ -78,7 +78,7 @@ La scrivania accanto alla sua era vuota da due anni. Il nome sulla targhetta era
 
 ## VII.
 
-*Presente — Alice*
+*Alice, presente*
 
 Ho trovato un documento nascosto tra le pagine del libro di poesie. Una lista. Nomi, date, luoghi.
 

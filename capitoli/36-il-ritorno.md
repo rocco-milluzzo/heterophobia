@@ -1,10 +1,10 @@
 # Capitolo 36: Il Ritorno
 
-*Sei mesi dopo — Alice*
+*Alice, sei mesi dopo*
 
 Sono tornata nel Sistema.
 
-Il primo giorno ho vomitato. Un manifesto nuovo—una famiglia di laboratorio sotto lo slogan: *LA VERA FAMIGLIA È QUELLA CHE SCEGLI*.
+Il primo giorno ho vomitato. Un manifesto nuovo: una famiglia di laboratorio sotto lo slogan *LA VERA FAMIGLIA È QUELLA CHE SCEGLI*.
 
 Ho pensato a mia madre. Ai suoi occhi vuoti.
 

@@ -1,16 +1,16 @@
-# Capitolo 15: Frammento — I Genitori di James
+# Capitolo 15: Frammento dei Genitori di James
 
 Ho trovato tre lettere nascoste nello stesso fascicolo.
 
 La prima era di Luca, uno dei genitori adottivi di James. La seconda era di Marco, l'altro. La terza... la terza mi ha fatto piangere.
 
-Ma inizierò dalla storia di Luca e Marco. Perché è importante. Perché dimostra che l'amore — qualsiasi amore — può essere straordinario.
+Ma inizierò dalla storia di Luca e Marco. Perché è importante. Perché dimostra che l'amore, qualsiasi amore, può essere straordinario.
 
 ---
 
 *Caro James,*
 
-*Oggi compi diciotto anni. Sei un adulto, secondo la legge. Un cittadino a tutti gli effetti. Tuo padre Marco ed io siamo orgogliosi di te — del ragazzo che sei diventato, dell'uomo che diventerai.*
+*Oggi compi diciotto anni. Sei un adulto, secondo la legge. Un cittadino a tutti gli effetti. Tuo padre Marco ed io siamo orgogliosi di te: del ragazzo che sei diventato, dell'uomo che diventerai.*
 
 *C'è qualcosa che non ti abbiamo mai raccontato. Non per vergogna, ma perché aspettavamo il momento giusto.*
 
@@ -18,15 +18,15 @@ Ma inizierò dalla storia di Luca e Marco. Perché è importante. Perché dimost
 
 *Lo abbiamo scoperto insieme.*
 
-*Marco era studente di medicina, io lavoravo negli archivi — gli stessi archivi dove lavori tu adesso. Ci siamo incontrati per caso, in una biblioteca. Lui cercava un vecchio manuale di anatomia. Io cercavo di non guardarlo. Ho fallito miseramente.*
+*Marco era studente di medicina, io lavoravo negli archivi, gli stessi archivi dove lavori tu adesso. Ci siamo incontrati per caso, in una biblioteca. Lui cercava un vecchio manuale di anatomia. Io cercavo di non guardarlo. Ho fallito miseramente.*
 
 *Ci sono voluti mesi prima che osassimo parlarci. Altri mesi prima del primo bacio. A quei tempi l'amore tra due uomini era ancora guardato con sospetto da alcuni. Non illegale, ma nemmeno del tutto accettato. Dovevamo stare attenti.*
 
-*Poi sono arrivate le Cure. Poi è arrivato il Divieto. E improvvisamente eravamo noi a essere normali, e gli altri — quelli che amavano diversamente — a essere sbagliati.*
+*Poi sono arrivate le Cure. Poi è arrivato il Divieto. E improvvisamente eravamo noi a essere normali, e gli altri, quelli che amavano diversamente, a essere sbagliati.*
 
 *Non ti dico questo perché sia giusto. Te lo dico perché tu capisca: la storia cambia i suoi eroi e i suoi mostri. Quello che è proibito oggi era normale ieri, e viceversa. L'unica cosa che resta è l'amore che scegli di vivere.*
 
-*Marco e io ti abbiamo scelto quando avevi tre mesi. Una donna ti aveva affidato alle autorità — una donna che stava per essere portata via. Non sappiamo il suo nome, non sappiamo la sua storia. Sappiamo solo che ti ha amato abbastanza da lasciarti andare.*
+*Marco e io ti abbiamo scelto quando avevi tre mesi. Una donna ti aveva affidato alle autorità, una donna che stava per essere portata via. Non sappiamo il suo nome, non sappiamo la sua storia. Sappiamo solo che ti ha amato abbastanza da lasciarti andare.*
 
 *Tu sei stato il dono più grande della nostra vita.*
 
@@ -47,7 +47,7 @@ La lettera di Marco era più breve.
 
 *Poi ti ho guardato negli occhi e ho capito: non importava se fossi bravo. Importava solo amarti.*
 
-*E ti amo, figlio mio. Anche quando fai tardi la sera e non ci dici dove sei. Anche quando ti chiudi in camera e non parli. Ti amo come Luca ama me — senza condizioni, senza limiti, senza fine.*
+*E ti amo, figlio mio. Anche quando fai tardi la sera e non ci dici dove sei. Anche quando ti chiudi in camera e non parli. Ti amo come Luca ama me: senza condizioni, senza limiti, senza fine.*
 
 *Sei nostro figlio. Che tu sia nato dalla nostra carne o no, non cambia nulla.*
 
@@ -57,7 +57,7 @@ La lettera di Marco era più breve.
 
 ---
 
-Ho pianto leggendo queste lettere. Non per tristezza — per bellezza.
+Ho pianto leggendo queste lettere. Non per tristezza, per bellezza.
 
 Luca e Marco non erano perfetti. Nessuno lo è. Ma si amavano, e amavano James, e questo era tutto.
 
@@ -71,11 +71,11 @@ Era nascosta in fondo al fascicolo, in una busta sigillata che James non aveva m
 
 ---
 
-*A mio figlio — se mai leggerai queste parole.*
+*A mio figlio, se mai leggerai queste parole.*
 
 *Non so il tuo nome. Non so che faccia hai. So solo che sei vivo, da qualche parte, e che qualcuno ti sta crescendo al posto mio.*
 
-*Mi chiamo Lin. O almeno mi chiamavo così, prima che il Divieto mi portasse via tutto — anche il mio nome.*
+*Mi chiamo Lin. O almeno mi chiamavo così, prima che il Divieto mi portasse via tutto, anche il mio nome.*
 
 *Ero una donna normale. Amavo un uomo normale. Si chiamava Paolo. Era gentile, timido, aveva le mani grandi e il cuore ancora più grande. Lo amavo come non ho mai amato nessuno.*
 
@@ -85,13 +85,13 @@ Era nascosta in fondo al fascicolo, in una busta sigillata che James non aveva m
 
 *Così ho fatto la cosa più vigliacca della mia vita: ti ho portato alle autorità. Ho detto che eri figlio di donatori anonimi, che non conoscevo il padre, che volevo solo darti una possibilità.*
 
-*Mi hanno creduto. O forse no, ma non gli importava. Volevano solo i numeri — tanti bambini "recuperati", tante famiglie "conformi" che li adottassero.*
+*Mi hanno creduto. O forse no, ma non gli importava. Volevano solo i numeri: tanti bambini "recuperati", tante famiglie "conformi" che li adottassero.*
 
 *Ti hanno portato via. Non ho potuto nemmeno tenerti in braccio.*
 
 *Paolo è morto tre mesi dopo. Lo hanno preso durante una retata. Non so cosa gli abbiano fatto. So solo che non è mai tornato.*
 
-*Io sono sopravvissuta. Se sopravvivere significa continuare a respirare mentre dentro sei già morta. Mi hanno "rieducata". Mi hanno insegnato che l'amore che provavo era una malattia. Mi hanno insegnato a chiamare tuo padre — l'uomo che amavo — un "infetto".*
+*Io sono sopravvissuta. Se sopravvivere significa continuare a respirare mentre dentro sei già morta. Mi hanno "rieducata". Mi hanno insegnato che l'amore che provavo era una malattia. Mi hanno insegnato a chiamare tuo padre, l'uomo che amavo, un "infetto".*
 
 *Ma non sono riusciti a farmi dimenticare te.*
 
@@ -99,7 +99,7 @@ Era nascosta in fondo al fascicolo, in una busta sigillata che James non aveva m
 
 *Spero di sì. Spero che tu abbia una famiglia che ti ama. Spero che non saprai mai cosa ho dovuto rinunciare per darti una possibilità.*
 
-*E spero — anche se so che è egoista — spero che un giorno, quando sarai grande, sentirai qualcosa dentro di te che non saprai spiegare. Un'attrazione inspiegabile. Un desiderio proibito. E spero che quando lo sentirai, non farai come me. Spero che avrai il coraggio che io non ho avuto.*
+*E spero, anche se so che è egoista, spero che un giorno, quando sarai grande, sentirai qualcosa dentro di te che non saprai spiegare. Un'attrazione inspiegabile. Un desiderio proibito. E spero che quando lo sentirai, non farai come me. Spero che avrai il coraggio che io non ho avuto.*
 
 *Spero che sceglierai l'amore.*
 
@@ -112,11 +112,11 @@ Ho chiuso la lettera e sono rimasta a lungo in silenzio.
 
 Tre lettere. Tre forme d'amore.
 
-Luca e Marco — due uomini che si sono amati per decenni e che hanno scelto di condividere quell'amore con un bambino non loro.
+Luca e Marco: due uomini che si sono amati per decenni e che hanno scelto di condividere quell'amore con un bambino non loro.
 
-Lin — una donna che ha amato un uomo, ha perso tutto, e ha sacrificato il proprio figlio per dargli una possibilità.
+Lin: una donna che ha amato un uomo, ha perso tutto, e ha sacrificato il proprio figlio per dargli una possibilità.
 
-Non c'è una gerarchia. Non c'è un amore "migliore". C'è solo l'amore — in tutte le sue forme, con tutti i suoi costi.
+Non c'è una gerarchia. Non c'è un amore "migliore". C'è solo l'amore, in tutte le sue forme, con tutti i suoi costi.
 
 ---
 
@@ -138,7 +138,7 @@ La lettera di Lin era datata 2080. L'anno in cui James è nato. L'anno del Divie
 
 Luca e Marco hanno adottato James tre mesi dopo.
 
-Il che significa che Lin ha tenuto James con sé per tre mesi — tre mesi in cui avrebbe potuto fuggire, nascondersi, combattere. Ma non l'ha fatto. Ha scelto di consegnarlo. Ha scelto di perderlo per salvarlo.
+Il che significa che Lin ha tenuto James con se per tre mesi: tre mesi in cui avrebbe potuto fuggire, nascondersi, combattere. Ma non l'ha fatto. Ha scelto di consegnarlo. Ha scelto di perderlo per salvarlo.
 
 Non so se sia stata una scelta coraggiosa o vigliacca. Probabilmente entrambe.
 
@@ -148,4 +148,4 @@ E forse, da qualche parte, Lin lo sa.
 
 Forse, nelle sue notti insonni, sente che suo figlio ha trovato l'amore.
 
-E forse — solo forse — questo le dà un po' di pace.
+E forse, solo forse, questo le dà un po' di pace.

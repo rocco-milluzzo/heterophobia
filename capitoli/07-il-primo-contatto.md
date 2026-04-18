@@ -38,7 +38,7 @@ Il contatto durò meno di un secondo.
 
 Ritrasse la mano.
 
-"Scusa," disse Kate. "Non avrei dovuto—"
+"Scusa," disse Kate. "Non avrei dovuto..."
 
 "No. Non scusarti."
 

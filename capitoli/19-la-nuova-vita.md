@@ -10,7 +10,7 @@ I mesi seguirono il sole. Le stagioni. La vita che cresceva dentro Kate.
 
 Kate imparò a coltivare. A vivere senza le comodità del Sistema.
 
-Imparò l'economia delle Zone. Non c'era denaro—la valuta era il lavoro. Le competenze. La fiducia.
+Imparò l'economia delle Zone. Non c'era denaro: la valuta era il lavoro. Le competenze. La fiducia.
 
 ---
 
@@ -38,7 +38,7 @@ Ma alla fine, un grido riempì la stanza. Più piccolo, più acuto.
 
 ---
 
-James si avvicinò. Guardò la bambina—gli occhi chiusi, il viso raggrinzito, le manine che si agitavano.
+James si avvicinò. Guardò la bambina: gli occhi chiusi, il viso raggrinzito, le manine che si agitavano.
 
 Era reale.
 

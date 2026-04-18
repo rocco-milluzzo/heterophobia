@@ -1,71 +1,66 @@
 # Capitolo 27: Dieci Anni
 
-*Presente — Alice*
+*Alice, presente*
 
-So chi sono.
+Sto perdendo il distacco.
 
-L'ho sempre saputo.
+È una constatazione, non un'ammissione. Una ricercatrice che perde il distacco dal proprio oggetto di studio commette un errore metodologico. Dovrei fermarmi, cambiare archivio, affidare il lavoro a un collega. Invece continuo.
 
-Sono Alice Valeri Ferrante.
-
-Sono la figlia di James e Kate.
-
-Sono quella che non doveva esistere. E sono qui.
+Qualcosa in queste pagine mi appartiene, e non so cosa.
 
 ---
 
-I ricordi sono emersi lentamente. Come bolle dal fondo di un lago nero.
+Ho riletto per la decima volta il rapporto sul raid del 2122. Due fuggiaschi "neutralizzati" al confine del Settore 7. Una bambina di quindici anni mai ritrovata. Il Sistema ha smesso di cercarla dopo sei mesi.
 
-La grotta. L'odore di muschio. Il volto di Mira. Le storie di mio padre. Le canzoni di mia madre.
+Quindici anni. La stessa età che avevo io quando Yuki mi ha trovata.
 
-Non erano sogni. Erano i miei ricordi.
+Lo scrivo e cancello. Lo scrivo di nuovo. È una coincidenza. Devono esserci centinaia di casi simili, in quegli anni.
 
----
+Eppure quando chiudo gli occhi, certe immagini arrivano senza chiedere permesso. L'odore di muschio. Una grotta. Una voce di donna che canta piano una melodia antica, di quelle che il Sistema ha bandito.
 
-L'ultimo ricordo è il più doloroso.
+Mi dico che sono suggestioni. Che ho letto troppe pagine, ascoltato troppe registrazioni.
 
-Avevo quindici anni. Mio padre era ferito.
-
-"Vai," mi disse. "Prendi il libro e vai."
-
-"Non senza di voi."
-
-"Alice." Mia madre mi prese per le spalle. "Devi raccontare la nostra storia."
-
-"Ti amo," sussurrò mio padre. "Ti amo, Alice. Sempre."
-
-E poi mi spinse via.
-
-E io corsi.
-
-Corsi senza voltarmi.
+A volte mi chiedo perché queste parole risuonino dentro di me come un ricordo.
 
 ---
 
-I rapporti parlano di due fuggiaschi "neutralizzati" al confine del Settore 7.
+C'è una frase, nel manoscritto che sto ricostruendo, che mi ferma ogni volta.
 
-Non lo saprò mai con certezza.
+*"Devi raccontare la nostra storia."*
 
----
+La ripeto a voce alta, nel silenzio dello studio, e mi accorgo che la dico senza accento. Come se fosse mia. Come se qualcuno me l'avesse detta, e non letta da un foglio.
 
-Yuki mi ha creato un'identità. Sono diventata Alice Tanaka.
+Chiudo il fascicolo. Esco. Cammino per le strade grigie del Sistema fino a quando il cuore smette di battere troppo forte.
 
-Ho studiato. Ho lavorato. Ho iniziato a cercare.
-
----
-
-Sono Alice Valeri Ferrante.
-
-Sono la prova vivente che il Divieto è una menzogna.
-
-E ora racconterò la nostra storia.
-
-Finché io vivrò, loro vivranno con me.
+Quando torno, la frase è ancora lì. Ad aspettarmi.
 
 ---
 
-Il libro di poesie è ancora qui, sulla mia scrivania.
+Yuki mi ha creato un'identità quando ero ancora una bambina. Alice Tanaka. Ha sistemato i documenti, i permessi, la scuola. Non mi ha mai raccontato da dove venissi, e io non ho mai chiesto. C'è stato un accordo silenzioso tra noi: alcune domande non si fanno, perché le risposte sono pericolose per entrambe.
 
-È passato da Elena a Enzio, da Enzio a mio padre, da mio padre a mia madre, da mia madre a me.
+Ma adesso le domande premono.
 
-E forse, un giorno, passerà a qualcun altro.
+La bambina dei rapporti ha la mia età. La bambina dei rapporti si chiamava come me. La bambina dei rapporti aveva un libro di poesie che portava sempre con sé.
+
+Io ho un libro di poesie sulla mia scrivania. È passato di mano in mano, mi ha detto Yuki una volta, senza aggiungere altro. Non so chi lo abbia avuto prima di me.
+
+O forse lo so, e non voglio saperlo.
+
+---
+
+Una ricercatrice seria chiuderebbe il dossier. Consegnerebbe i materiali a qualcun altro. Riconoscerebbe il conflitto di interessi.
+
+Io non lo farò.
+
+Se queste persone sono ciò che sospetto, allora raccontare la loro storia non è un lavoro: è un debito. E i debiti si pagano, anche quando si ha paura di quello che si troverà in fondo alla pagina.
+
+---
+
+Il libro di poesie è ancora qui, aperto sulla stessa poesia di sempre.
+
+*"Due mani che si toccano
+contengono un universo."*
+
+Lo leggo e non piango. Non ancora.
+
+Ma so che prima o poi lo farò, e quando accadrà non sarà per pietà di due sconosciuti.

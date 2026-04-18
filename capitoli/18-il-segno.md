@@ -18,7 +18,7 @@ Poi seguì James nel buio.
 
 Raggiunsero il checkpoint poco prima dell'alba.
 
-James bussò—tre colpi lunghi e due corti.
+James bussò: tre colpi lunghi e due corti.
 
 La porta si aprì. Una donna anziana li guardò.
 

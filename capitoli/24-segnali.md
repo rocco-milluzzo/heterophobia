@@ -1,6 +1,6 @@
 # Capitolo 24: Segnali
 
-Nell'estate del 2115, le cose iniziarono a cambiare.
+Nell'estate del 2121, le cose iniziarono a cambiare.
 
 "Hanno trovato una comunità a sud," annunciò Marcus. "Cinquanta persone. Portate via tutte."
 

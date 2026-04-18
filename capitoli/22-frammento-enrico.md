@@ -1,8 +1,8 @@
-# Capitolo 22: Frammento — Enrico
+# Capitolo 22: Frammento di Enrico
 
 Ho trovato il diario di Enrico Ferrante per caso.
 
-Era nascosto in un doppio fondo di una scatola che conteneva vecchie fotografie—immagini sbiadite di persone che non riconosco, paesaggi che non esistono più. Il diario era sottile, le pagine ingiallite, la copertina consumata. Alcune pagine erano strappate, altre macchiate da gocce scure che potevano essere lacrime o sangue.
+Era nascosto in un doppio fondo di una scatola che conteneva vecchie fotografie: immagini sbiadite di persone che non riconosco, paesaggi che non esistono più. Il diario era sottile, le pagine ingiallite, la copertina consumata. Alcune pagine erano strappate, altre macchiate da gocce scure che potevano essere lacrime o sangue.
 
 Non avrei dovuto leggerlo. Era un documento privato, intimo.
 
@@ -88,7 +88,7 @@ Ma non sono riuscita a fermarmi.
 
 *L'ho visto.*
 
-*Non di proposito—stavo tornando a casa da una riunione che era finita prima del previsto. L'ho visto, nel cortile interno. Kate e un ragazzo. Non si toccavano, non si parlavano nemmeno. Ma il modo in cui si guardavano...*
+*Non di proposito. Stavo tornando a casa da una riunione che era finita prima del previsto. L'ho visto, nel cortile interno. Kate e un ragazzo. Non si toccavano, non si parlavano nemmeno. Ma il modo in cui si guardavano...*
 
 *Lo riconoscevo, quel modo. L'ho visto nello specchio, tanti anni fa, quando guardavo la madre di Kate.*
 
@@ -112,13 +112,13 @@ Ma non sono riuscita a fermarmi.
 
 *Dovrei segnalarli.*
 
-*È quello che farebbe un cittadino responsabile. È quello che il Sistema si aspetta. Mia figlia ha una relazione eterosessuale—una devianza, una patologia. Dovrei aiutarla a guarire.*
+*È quello che farebbe un cittadino responsabile. È quello che il Sistema si aspetta. Mia figlia ha una relazione eterosessuale, una devianza, una patologia. Dovrei aiutarla a guarire.*
 
 *Ma non ci riesco.*
 
 *Ogni volta che penso di farlo, vedo il viso di mia moglie. Quello vero, prima della rieducazione. Ricordo i suoi occhi la mattina del nostro matrimonio. Ricordo come mi toccava la sera, come se fossi la cosa più preziosa del mondo.*
 
-*Ricordo cosa provavo per lei. E so che quella non era una malattia—era la cosa più bella che mi fosse mai capitata.*
+*Ricordo cosa provavo per lei. E so che quella non era una malattia, ma la cosa più bella che mi fosse mai capitata.*
 
 *Ho già visto cosa succede a chi viene "curato". Ho visto Marta tornare come un fantasma. Ho visto i Bergman sparire nel nulla. Ho visto le fosse comuni nelle Zone Orientali, quelle di cui nessuno parla.*
 
@@ -132,7 +132,7 @@ Ma non sono riuscita a fermarmi.
 
 *Ho iniziato a stare fuori più spesso.*
 
-*Ufficialmente per lavoro—congressi, riunioni, eventi di cui non mi importa nulla. Ma la verità è che voglio dare a Kate lo spazio di cui ha bisogno. Voglio che possa vedere quel ragazzo senza doversi nascondere da me.*
+*Ufficialmente per lavoro: congressi, riunioni, eventi di cui non mi importa nulla. Ma la verità è che voglio dare a Kate lo spazio di cui ha bisogno. Voglio che possa vedere quel ragazzo senza doversi nascondere da me.*
 
 *È l'unico modo in cui posso aiutarla senza tradirla.*
 
@@ -144,7 +144,7 @@ Ma non sono riuscita a fermarmi.
 
 *Kate è cambiata.*
 
-*È più serena, più sicura di sé. Ride più spesso. C'è una luce nei suoi occhi che non vedevo da quando era bambina—quella luce che aveva prima che sua madre morisse, prima che il mondo diventasse grigio e controllato.*
+*È più serena, più sicura di sé. Ride più spesso. C'è una luce nei suoi occhi che non vedevo da quando era bambina, quella luce che aveva prima che sua madre morisse, prima che il mondo diventasse grigio e controllato.*
 
 *Quel ragazzo le fa bene. Lo vedo. Lo sento.*
 
@@ -156,7 +156,7 @@ Ma non sono riuscita a fermarmi.
 
 *Ho scelto di non vedere.*
 
-*Ogni giorno, quando torno a casa e trovo tracce di qualcuno che è stato lì—un bicchiere in più nel lavandino, un cuscino fuori posto—scelgo di non vedere. Scelgo di non chiedere. Scelgo di credere alla versione che Kate mi racconta, anche quando so che non è vera.*
+*Ogni giorno, quando torno a casa e trovo tracce di qualcuno che è stato lì (un bicchiere in più nel lavandino, un cuscino fuori posto), scelgo di non vedere. Scelgo di non chiedere. Scelgo di credere alla versione che Kate mi racconta, anche quando so che non è vera.*
 
 *Non so se questo mi rende un buon padre o un codardo.*
 
@@ -168,7 +168,7 @@ Ma non sono riuscita a fermarmi.
 
 *Qualcosa è cambiato.*
 
-*Kate è nervosa. Esce ancora, ma con più cautela. Parla meno. Mangia di più—o di meno, non riesco a capire. Mi nasconde qualcosa, qualcosa di grosso.*
+*Kate è nervosa. Esce ancora, ma con più cautela. Parla meno. Mangia di più, o di meno, non riesco a capire. Mi nasconde qualcosa, qualcosa di grosso.*
 
 *Ho paura di chiedere.*
 
@@ -180,7 +180,7 @@ Ma non sono riuscita a fermarmi.
 
 *Ho capito.*
 
-*Non perché me l'abbia detto—non l'ha fatto. Ma ho visto come si tocca la pancia quando pensa che nessuno la guardi. Ho visto il terrore nei suoi occhi quando ha pensato di aver sentito qualcuno alla porta.*
+*Non perché me l'abbia detto: non l'ha fatto. Ma ho visto come si tocca la pancia quando pensa che nessuno la guardi. Ho visto il terrore nei suoi occhi quando ha pensato di aver sentito qualcuno alla porta.*
 
 *Mia figlia è incinta.*
 
@@ -198,7 +198,7 @@ Ma non sono riuscita a fermarmi.
 
 *Se ne è andata.*
 
-*Stamattina sono tornato a casa e l'appartamento era vuoto. I suoi vestiti, le sue cose—tutto sparito. Nessun messaggio, nessuna spiegazione. Solo il silenzio.*
+*Stamattina sono tornato a casa e l'appartamento era vuoto. I suoi vestiti, le sue cose: tutto sparito. Nessun messaggio, nessuna spiegazione. Solo il silenzio.*
 
 *So dove è andata. So con chi. So perché.*
 
@@ -210,7 +210,7 @@ Ma non sono riuscita a fermarmi.
 
 *Non ho segnalato nulla.*
 
-*Quando i Controllori sono venuti a chiedere di Kate—una routine, hanno detto, niente di cui preoccuparsi—ho mentito. Ho detto che era partita per un viaggio di lavoro. Che sarebbe tornata presto.*
+*Quando i Controllori sono venuti a chiedere di Kate, una routine, hanno detto, niente di cui preoccuparsi, ho mentito. Ho detto che era partita per un viaggio di lavoro. Che sarebbe tornata presto.*
 
 *Non mi hanno creduto. Lo vedevo nei loro occhi.*
 
@@ -228,7 +228,7 @@ Ma non sono riuscita a fermarmi.
 
 *Ha scelto di vivere davvero. E io, che ho passato tutta la mia esistenza a sopravvivere, non posso che ammirarla per questo.*
 
-*Kate, se mai leggerai queste parole: non ti ho mai giudicata. Non ti ho mai condannata. Ho solo avuto paura—paura di perderti, paura di non essere abbastanza forte per proteggerti.*
+*Kate, se mai leggerai queste parole: non ti ho mai giudicata. Non ti ho mai condannata. Ho solo avuto paura: paura di perderti, paura di non essere abbastanza forte per proteggerti.*
 
 *Ma tu non avevi bisogno della mia protezione. Sei sempre stata più forte di me.*
 
@@ -241,9 +241,9 @@ Ma non sono riuscita a fermarmi.
 
 Ho chiuso il diario e non sono riuscita a smettere di piangere.
 
-Enrico Ferrante. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che aveva visto sua moglie tornare dalla rieducazione come un guscio vuoto. Che aveva assistito alle retate, ai pestaggi, alle sparizioni. Che aveva trascorso anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva—scomparendo.
+Enrico Ferrante. Il padre di Kate. Un uomo segnato dall'epoca dell'odio, che aveva visto sua moglie tornare dalla rieducazione come un guscio vuoto. Che aveva assistito alle retate, ai pestaggi, alle sparizioni. Che aveva trascorso anni a fingere di non vedere, a proteggere sua figlia nel solo modo che conosceva: scomparendo.
 
-Non era un eroe. Non era un ribelle. Era un sopravvissuto—e i sopravvissuti portano cicatrici invisibili che non guariscono mai.
+Non era un eroe. Non era un ribelle. Era un sopravvissuto, e i sopravvissuti portano cicatrici invisibili che non guariscono mai.
 
 Era solo un padre che amava sua figlia troppo per tradirla, ma troppo spezzato dall'epoca dell'eterofobia per combattere al suo fianco. Aveva già perso tutto una volta. Non poteva sopportare di perderlo di nuovo.
 
@@ -265,7 +265,7 @@ Mi chiedo se pensasse a me.
 
 Mi chiedo se, in qualche modo, sapesse che sarei esistita.
 
-Mi domando cosa avrebbe detto, se avesse potuto vedermi ora—seduta alla mia scrivania, con il suo diario tra le mani, a piangere per persone che non ho mai conosciuto.
+Mi domando cosa avrebbe detto, se avesse potuto vedermi ora: seduta alla mia scrivania, con il suo diario tra le mani, a piangere per persone che non ho mai conosciuto.
 
 O forse sì.
 
@@ -273,4 +273,4 @@ Forse le ho conosciute.
 
 Forse le conosco ancora.
 
-E forse—il pensiero mi attraversa come una lama fredda—forse il sangue che scorre nelle mie vene è lo stesso che scorreva nelle sue.
+E forse, il pensiero mi attraversa come una lama fredda, forse il sangue che scorre nelle mie vene è lo stesso che scorreva nelle sue.

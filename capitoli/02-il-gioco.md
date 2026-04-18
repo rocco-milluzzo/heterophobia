@@ -2,9 +2,9 @@
 
 Kate notò il ragazzo che la guardava.
 
-Non subito—stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Kate aveva passato la notte precedente a modificare il codice del programma, inserendo una subroutine nascosta che faceva comparire messaggi assurdi a intervalli casuali. Era il suo modo di ribellarsi—piccoli atti di sabotaggio che nessuno avrebbe mai scoperto. *Glitch casuali*, avrebbero detto i tecnici. *Errori di sistema.*
+Non subito: stava leggendo un messaggio di Yuki, una battuta stupida su un nuovo programma di simulazione che avevano trovato. Kate aveva passato la notte precedente a modificare il codice del programma, inserendo una subroutine nascosta che faceva comparire messaggi assurdi a intervalli casuali. Era il suo modo di ribellarsi, piccoli atti di sabotaggio che nessuno avrebbe mai scoperto. *Glitch casuali*, avrebbero detto i tecnici. *Errori di sistema.*
 
-Kate non era solo una studentessa. Era una mente che non sapeva stare ferma, un cervello che smontava le cose per capire come funzionavano e poi le rimontava in modo migliore. O peggiore, a seconda del punto di vista. A quindici anni aveva già hackerato tre sistemi del Complesso—niente di grave, solo per vedere se ci riusciva. Nessuno l'aveva mai scoperta.
+Kate non era solo una studentessa. Era una mente che non sapeva stare ferma, un cervello che smontava le cose per capire come funzionavano e poi le rimontava in modo migliore. O peggiore, a seconda del punto di vista. A quindici anni aveva già hackerato tre sistemi del Complesso, niente di grave, solo per vedere se ci riusciva. Nessuno l'aveva mai scoperta.
 
 Stava ridendo, cercando di soffocare il suono, quando un brivido le corse lungo la schiena.
 
@@ -18,13 +18,13 @@ Kate trattenne un sorriso. Tipico.
 
 ---
 
-Non era la prima volta che qualcuno la guardava. A quindici anni aveva già imparato a riconoscere gli sguardi—quelli delle ragazze che la valutavano, quelli dei professori che la giudicavano, quelli delle telecamere, sempre accese, sempre puntate. Ma questo era diverso.
+Non era la prima volta che qualcuno la guardava. A quindici anni aveva già imparato a riconoscere gli sguardi: quelli delle ragazze che la valutavano, quelli dei professori che la giudicavano, quelli delle telecamere, sempre accese, sempre puntate. Ma questo era diverso.
 
 C'era qualcosa di affamato in quello sguardo. Qualcosa di disperato.
 
 Qualcosa di sbagliato.
 
-Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore quando lo aveva interrogato. Un cognome singolo—insolito. Di solito le famiglie conformi avevano cognomi doppi, uno per genitore. Forse i suoi genitori avevano lo stesso cognome per coincidenza, o forse c'era qualcosa di diverso in quella famiglia.
+Kate tornò a guardare il suo tablet, ma non leggeva più. Pensava al ragazzo vicino alla finestra. Valeri, aveva detto il professore quando lo aveva interrogato. Un cognome singolo, insolito. Di solito le famiglie conformi avevano cognomi doppi, uno per genitore. Forse i suoi genitori avevano lo stesso cognome per coincidenza, o forse c'era qualcosa di diverso in quella famiglia.
 
 Lui, però, non sembrava normale. Sembrava... tormentato.
 
@@ -46,9 +46,9 @@ Il Divieto aveva senso. Ma non *quel* Divieto. Non l'eliminazione totale. C'era 
 
 Quella sera Kate andò a trovare sua nonna.
 
-L'appartamento di Marta era in un'ala diversa del Complesso Residenziale, riservata agli anziani pre-immortalità. Erano pochi, ormai—la maggior parte aveva accettato le Cure non appena erano diventate disponibili. Ma alcuni, come Marta, avevano resistito a lungo, abbastanza da ricordare un mondo diverso.
+L'appartamento di Marta era in un'ala diversa del Complesso Residenziale, riservata agli anziani pre-immortalità. Erano pochi, ormai: la maggior parte aveva accettato le Cure non appena erano diventate disponibili. Ma alcuni, come Marta, avevano resistito a lungo, abbastanza da ricordare un mondo diverso.
 
-"Sei tornata," disse la vecchia aprendo la porta. Non era davvero vecchia—le Cure l'avevano congelata biologicamente intorno ai cinquantacinque anni, quando finalmente aveva ceduto—ma c'era qualcosa nei suoi occhi che nessun trattamento poteva ringiovanire.
+"Sei tornata," disse la vecchia aprendo la porta. Non era davvero vecchia (le Cure l'avevano congelata biologicamente intorno ai cinquantacinque anni, quando finalmente aveva ceduto), ma c'era qualcosa nei suoi occhi che nessun trattamento poteva ringiovanire.
 
 "Volevo chiederti una cosa."
 
@@ -118,7 +118,7 @@ La risposta arrivò un mese dopo, nel modo più inaspettato.
 
 Era tardi, quasi l'ora del coprifuoco. Kate stava tornando verso la sua Unità dopo una sessione di studio prolungata quando lo vide. Valeri, seduto su una panchina nel cortile interno del Complesso, da solo.
 
-Non stava facendo niente. Guardava il cielo—quel cielo grigio e uniforme che era tutto quello che avevano—con un'espressione che Kate non riusciva a decifrare. Tristezza? Rabbia? Rassegnazione?
+Non stava facendo niente. Guardava il cielo, quel cielo grigio e uniforme che era tutto quello che avevano, con un'espressione che Kate non riusciva a decifrare. Tristezza? Rabbia? Rassegnazione?
 
 Si fermò. Avrebbe dovuto proseguire.
 
@@ -136,7 +136,7 @@ Lui alzò la testa di scatto, come svegliato da un sogno. Quando la vide, i suoi
 
 "Studiavo."
 
-Un silenzio. Lui la guardava — un'apparizione, qualcosa di impossibile. Kate si sentì stranamente nuda sotto quegli occhi.
+Un silenzio. Lui la guardava come un'apparizione, qualcosa di impossibile. Kate si sentì stranamente nuda sotto quegli occhi.
 
 "Sei Ferrante, vero?" disse lui. "Kate Ferrante."
 
@@ -172,7 +172,7 @@ Lui finalmente la guardò. I suoi occhi erano così scuri che sembravano neri, e
 
 "Perché voglio sapere com'era. Prima."
 
-Il coprifuoco suonò—un tono basso, penetrante, che significava cinque minuti al rientro obbligatorio.
+Il coprifuoco suonò: un tono basso, penetrante, che significava cinque minuti al rientro obbligatorio.
 
 Kate si alzò. "Devo andare."
 
@@ -186,7 +186,7 @@ Si avviarono insieme verso l'ingresso del Complesso, fianco a fianco ma senza to
 
 "Smettila di guardarmi come se fossi un fantasma. È inquietante."
 
-Le guance di lui si tinsero di rosso—lo vide chiaramente anche nella luce artificiale del corridoio.
+Le guance di lui si tinsero di rosso, lo vide chiaramente anche nella luce artificiale del corridoio.
 
 "Scusa. Non... non lo faccio apposta."
 

@@ -1,6 +1,6 @@
 # Capitolo 30: L'Ultimo Giorno
 
-*2122 — Kate*
+*Kate, 2122*
 
 Quella mattina mi svegliai con la sensazione che qualcosa fosse diverso.
 
@@ -38,7 +38,7 @@ Restammo al fiume per ore.
 
 ---
 
-Tornando, James si fermò. Tracce—impronte di stivali militari.
+Tornando, James si fermò. Tracce, impronte di stivali militari.
 
 "Pattugliamento. Recente."
 

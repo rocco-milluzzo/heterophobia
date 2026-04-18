@@ -20,7 +20,7 @@ James guardò la telecamera nell'angolo. "Non qui. Dopo."
 
 "Dopo" diventò una parola chiave tra loro.
 
-Si incontravano negli angoli ciechi del Complesso—quei rari punti che James aveva mappato negli anni. Un corridoio abbandonato. Una scala di emergenza. Il retro della serra idroponica.
+Si incontravano negli angoli ciechi del Complesso, quei rari punti che James aveva mappato negli anni. Un corridoio abbandonato. Una scala di emergenza. Il retro della serra idroponica.
 
 ---
 

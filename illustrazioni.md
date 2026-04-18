@@ -19,12 +19,12 @@
 
 ### Elementi Ricorrenti (Simbolismo)
 
-1. **Mani che si cercano/toccano** — Simbolo centrale dell'amore proibito
-2. **Occhi di telecamere** — Il Sistema che osserva, LED rossi nell'ombra
-3. **Cuore/battito cardiaco** — Linea ECG che attraversa le immagini
-4. **Stelle** — Libertà, Zone Abbandonate, speranza
-5. **Vetro/specchi** — Riflessioni, identità frammentata, sorveglianza
-6. **Ombre lunghe** — Minaccia costante, presenza invisibile del controllo
+1. **Mani che si cercano/toccano**: simbolo centrale dell'amore proibito
+2. **Occhi di telecamere**: il Sistema che osserva, LED rossi nell'ombra
+3. **Cuore/battito cardiaco**: linea ECG che attraversa le immagini
+4. **Stelle**: libertà, Zone Abbandonate, speranza
+5. **Vetro/specchi**: riflessioni, identità frammentata, sorveglianza
+6. **Ombre lunghe**: minaccia costante, presenza invisibile del controllo
 
 ### Stile Artistico
 
@@ -47,14 +47,14 @@
 **Formato**: A5 verticale (148 x 210 mm)
 
 **Immagine principale**:
-Due mani—una maschile, una femminile—si protendono l'una verso l'altra dal buio. Le dita sono quasi a contatto, separate da pochi millimetri. Lo spazio tra le dita emette una luce dorata tenue, come se l'amore stesso fosse una fonte luminosa.
+Due mani, una maschile e una femminile, si protendono l'una verso l'altra dal buio. Le dita sono quasi a contatto, separate da pochi millimetri. Lo spazio tra le dita emette una luce dorata tenue, come se l'amore stesso fosse una fonte luminosa.
 
 **Sfondo**:
 Una griglia di sorveglianza blu freddo, simile a un reticolo digitale o alle linee di un monitor cardiaco, si estende dietro le mani. La griglia si deforma leggermente intorno al punto di luce tra le dita, come se l'amore disturbasse il sistema.
 
 **Elementi aggiuntivi**:
 - Nell'angolo superiore sinistro, appena visibile, l'occhio rosso di una telecamera
-- Una linea ECG corre orizzontalmente attraverso la copertina, passando tra le mani—il battito si accelera nel punto di quasi-contatto
+- Una linea ECG corre orizzontalmente attraverso la copertina, passando tra le mani: il battito si accelera nel punto di quasi-contatto
 - Particelle di luce dorata fluttuano verso l'alto dal punto tra le dita, come braci o stelle nascenti
 
 **Tipografia**:
@@ -97,7 +97,7 @@ Cinematic book cover, A5 format. Two hands reaching toward each other in darknes
 
 **Scena**: Un'aula scolastica del futuro vista dall'alto, in prospettiva leggermente distorta. File ordinate di studenti in uniformi grigie identiche. Tutti guardano avanti verso lo schermo del professore.
 
-**Focus**: Un solo studente (James) è girato, la testa voltata di tre quarti verso sinistra. Tre file più avanti, una ragazza (Kate) sta ridendo—la sua bocca è l'unico punto di colore caldo nell'immagine.
+**Focus**: Un solo studente (James) è girato, la testa voltata di tre quarti verso sinistra. Tre file più avanti, una ragazza (Kate) sta ridendo: la sua bocca è l'unico punto di colore caldo nell'immagine.
 
 **Dettagli**:
 - Telecamere visibili negli angoli del soffitto, LED rossi accesi
@@ -105,7 +105,7 @@ Cinematic book cover, A5 format. Two hands reaching toward each other in darknes
 - La luce è artificiale, fredda, uniforme
 - La finestra mostra un cielo grigio uniforme (filtrazione atmosferica)
 
-**Atmosfera**: Controllo totale con un singolo momento di rottura—lo sguardo di James
+**Atmosfera**: Controllo totale con un singolo momento di rottura, lo sguardo di James
 
 **Prompt AI**:
 ```
@@ -135,16 +135,16 @@ Extreme close-up of young woman's face illuminated by tablet screen from below. 
 
 ---
 
-### Capitolo 3: Frammento - Marta
+### Capitolo 3: Frammento di Marta
 
-**Scena**: Una donna anziana (Marta, biologicamente congelata a ~45 anni) seduta in una poltrona consumata, circondata da oggetti del passato—fotografie in cornici vere, libri cartacei, una teiera sbeccata.
+**Scena**: Una donna anziana (Marta, biologicamente congelata a ~45 anni) seduta in una poltrona consumata, circondata da oggetti del passato: fotografie in cornici vere, libri cartacei, una teiera sbeccata.
 
-**Focus**: Le sue mani tengono una fotografia sbiadita di una coppia—uomo e donna—che si tiene per mano. Il suo sguardo è perso nei ricordi.
+**Focus**: Le sue mani tengono una fotografia sbiadita di una coppia (uomo e donna) che si tiene per mano. Il suo sguardo è perso nei ricordi.
 
 **Dettagli**:
 - La stanza è piena di colori caldi, in contrasto con il resto del mondo
 - Polvere visibile nei raggi di luce (artificiale ma morbida)
-- Sul tavolo, una tazza di tè fumante—un lusso
+- Sul tavolo, una tazza di tè fumante, un lusso
 - Sullo sfondo, una finestra mostra il grigio del mondo esterno
 
 **Atmosfera**: Nostalgia, calore del passato, custode di memorie proibite
@@ -158,7 +158,7 @@ Middle-aged woman sitting in worn armchair surrounded by old-world objects - rea
 
 ### Capitolo 4: Primi Passi
 
-**Scena**: Due figure—James e Kate—sedute su una panchina nel cortile del Complesso. Tra loro, uno spazio rispettabile. Ma le loro ombre sul pavimento si toccano.
+**Scena**: Due figure (James e Kate) sedute su una panchina nel cortile del Complesso. Tra loro, uno spazio rispettabile. Ma le loro ombre sul pavimento si toccano.
 
 **Focus**: Le ombre si fondono dove i corpi non possono. Il cortile è sterile, geometrico, ma le ombre creano un ponte invisibile.
 
@@ -166,7 +166,7 @@ Middle-aged woman sitting in worn armchair surrounded by old-world objects - rea
 - Il cielo sopra di loro è quel grigio uniforme della filtrazione
 - Telecamere visibili sui pali della luce
 - Le loro posture sono rigide, "appropriate", ma le ombre raccontano un'altra storia
-- Un orologio digitale sullo sfondo segna "21:47" — quasi coprifuoco
+- Un orologio digitale sullo sfondo segna "21:47", quasi coprifuoco
 
 **Atmosfera**: Tensione non detta, amore che trova vie sotterranee, sorveglianza onnipresente
 
@@ -200,7 +200,7 @@ Open antique book with yellowed pages illuminated by hidden light source, possib
 
 ### Capitolo 6: Documenti Interni
 
-**Scena**: Uno schermo olografico che mostra documenti classificati—grafici di popolazione, statistiche di "devianza", protocolli di rieducazione. I dati proiettano ombre sul volto di chi li legge.
+**Scena**: Uno schermo olografico che mostra documenti classificati: grafici di popolazione, statistiche di "devianza", protocolli di rieducazione. I dati proiettano ombre sul volto di chi li legge.
 
 **Focus**: Il contenuto dei documenti è parzialmente leggibile: percentuali, grafici in discesa, la parola "ERADICAZIONE" visibile.
 
@@ -221,13 +221,13 @@ Holographic screen displaying classified documents - population graphs, "devianc
 
 ### Capitolo 7: Il Primo Contatto
 
-**Scena**: Due mani che si sfiorano per la prima volta—solo le punte delle dita si toccano. L'immagine è un extreme close-up che trasforma questo piccolo gesto in qualcosa di monumentale.
+**Scena**: Due mani che si sfiorano per la prima volta: solo le punte delle dita si toccano. L'immagine è un extreme close-up che trasforma questo piccolo gesto in qualcosa di monumentale.
 
 **Focus**: Il punto di contatto tra le dita. La pelle, i pori, i microscopici dettagli. Un universo in pochi millimetri quadrati.
 
 **Dettagli**:
 - La luce è morbida, laterale, evidenzia la texture della pelle
-- Lo sfondo è completamente sfocato—potrebbe essere ovunque
+- Lo sfondo è completamente sfocato: potrebbe essere ovunque
 - Si intuisce un leggero tremito nelle dita (motion blur minimo)
 - Un alone caldo circonda il punto di contatto
 
@@ -242,14 +242,14 @@ Extreme macro close-up of two hands touching for the first time - only fingertip
 
 ### Capitolo 8: La Prima Notte
 
-**Scena**: Una stanza buia con una sola fonte di luce—la luna artificiale attraverso la finestra (o la luce urbana filtrata). Due silhouette vicine, i contorni che quasi si fondono.
+**Scena**: Una stanza buia con una sola fonte di luce: la luna artificiale attraverso la finestra (o la luce urbana filtrata). Due silhouette vicine, i contorni che quasi si fondono.
 
-**Focus**: Lo spazio negativo tra i due corpi—una forma che suggerisce senza mostrare.
+**Focus**: Lo spazio negativo tra i due corpi, una forma che suggerisce senza mostrare.
 
 **Dettagli**:
 - Le silhouette sono riconoscibili come maschile e femminile, ma senza dettagli espliciti
 - La luce crea un bordo argentato sui loro profili
-- Una telecamera nell'angolo ha il LED oscurato—coperto con qualcosa
+- Una telecamera nell'angolo ha il LED oscurato, coperto con qualcosa
 - Vestiti abbandonati suggeriti nell'ombra in basso
 
 **Atmosfera**: Intimità sacra, vulnerabilità protetta, sfida silenziosa al Sistema
@@ -269,7 +269,7 @@ Dark bedroom, single light source - artificial moonlight or filtered urban glow 
 
 **Dettagli**:
 - Fotografie di James e Kate (sfocate ma riconoscibili) sparse sulla scrivania
-- Una registrazione audio sta riproducendo—onde sonore visibili su uno schermo
+- Una registrazione audio sta riproducendo: onde sonore visibili su uno schermo
 - Il volto della figura è volutamente oscurato o tagliato fuori dall'inquadratura
 - Una finestra mostra stelle vere (è nelle Zone?)
 
@@ -282,15 +282,15 @@ Solitary figure at desk surrounded by documents, recordings, fragments of the pa
 
 ---
 
-### Capitolo 10: Frammento - Enzio
+### Capitolo 10: Frammento di Enzio
 
 **Scena**: Un uomo anziano (Enzio, nonno di James, biologicamente ~50) in un appartamento pieno di libri e oggetti del passato. Tiene una fotografia di una donna (Elena, sua moglie perduta).
 
-**Focus**: I suoi occhi—pieni di ricordi, di dolore, di sapienza. Ha visto il mondo cambiare.
+**Focus**: I suoi occhi, pieni di ricordi, di dolore, di sapienza. Ha visto il mondo cambiare.
 
 **Dettagli**:
 - La fotografia nella sua mano mostra una donna sorridente
-- Scaffali di libri veri dietro di lui—una biblioteca personale illegale
+- Scaffali di libri veri dietro di lui: una biblioteca personale illegale
 - La sua postura è stanca ma dignitosa
 - Una tazza di tè (eredità familiare del lusso) sul tavolo
 
@@ -305,7 +305,7 @@ Elderly man (biologically frozen at ~50) in apartment filled with real books and
 
 ### Capitolo 11: Cinque Anni
 
-**Scena**: Una sequenza divisa in pannelli orizzontali—come il passare del tempo. Ogni pannello mostra le stesse due figure in momenti diversi: studiare insieme, camminare separati in pubblico, toccarsi nel buio.
+**Scena**: Una sequenza divisa in pannelli orizzontali, come il passare del tempo. Ogni pannello mostra le stesse due figure in momenti diversi: studiare insieme, camminare separati in pubblico, toccarsi nel buio.
 
 **Focus**: Il contrasto tra la vita pubblica (separati, formali) e la vita segreta (vicini, intimi).
 
@@ -313,7 +313,7 @@ Elderly man (biologically frozen at ~50) in apartment filled with real books and
 - Pannello 1: Aula, distanti, sguardi che si incrociano di sfuggita
 - Pannello 2: Corridoio, lui cammina in una direzione, lei nell'altra
 - Pannello 3: Buio, mani intrecciate, volti vicini
-- Pannello 4: Test genetico—lei sola, braccio teso, siringa
+- Pannello 4: Test genetico, lei sola, braccio teso, siringa
 - Pannello 5: Ritorno nel buio, insieme
 
 **Atmosfera**: Routine del segreto, tempo che passa, ritmo di una vita doppia
@@ -327,9 +327,9 @@ Split image in horizontal panels showing passage of time. Same two figures in di
 
 ### Capitolo 12: Routine del Segreto
 
-**Scena**: Una vista a volo d'uccello di un complesso residenziale—un labirinto di corridoi identici, appartamenti identici. Una singola figura (James) si muove nell'ombra, seguendo un percorso invisibile.
+**Scena**: Una vista a volo d'uccello di un complesso residenziale: un labirinto di corridoi identici, appartamenti identici. Una singola figura (James) si muove nell'ombra, seguendo un percorso invisibile.
 
-**Focus**: Il percorso segreto—una linea luminosa che solo lui vede, che serpeggia tra i punti ciechi delle telecamere.
+**Focus**: Il percorso segreto, una linea luminosa che solo lui vede, che serpeggia tra i punti ciechi delle telecamere.
 
 **Dettagli**:
 - Le telecamere sono punti rossi distribuiti nel labirinto
@@ -348,9 +348,9 @@ Bird's eye view of residential complex - labyrinth of identical corridors, ident
 
 ### Capitolo 13: La Proposta
 
-**Scena**: Kate e James nel loro nascondiglio nella serra idroponica—circondati da piante verdi che crescono in contenitori bianchi sterili. Lei gli sta parlando di qualcosa di importante.
+**Scena**: Kate e James nel loro nascondiglio nella serra idroponica, circondati da piante verdi che crescono in contenitori bianchi sterili. Lei gli sta parlando di qualcosa di importante.
 
-**Focus**: L'espressione di Kate—determinazione mista a paura. Le sue labbra stanno formando parole che cambieranno tutto.
+**Focus**: L'espressione di Kate: determinazione mista a paura. Le sue labbra stanno formando parole che cambieranno tutto.
 
 **Dettagli**:
 - Le piante sono l'unico verde vivace nel loro mondo
@@ -371,7 +371,7 @@ Kate and James in hiding spot among hydroponic garden - surrounded by green plan
 
 **Scena**: Una mappa olografica delle Zone Abbandonate proiettata nel buio. Dita che tracciano un percorso, segnano punti, calcolano distanze.
 
-**Focus**: Il confine tra il mondo controllato (blu/grigio) e le Zone (marrone/verde)—una linea che sembra invalicabile.
+**Focus**: Il confine tra il mondo controllato (blu/grigio) e le Zone (marrone/verde), una linea che sembra invalicabile.
 
 **Dettagli**:
 - La mappa mostra chiaramente il "Sistema" come una griglia ordinata
@@ -388,15 +388,15 @@ Holographic map of Abandoned Zones projected in darkness. Fingers tracing a rout
 
 ---
 
-### Capitolo 15: Frammento - I Genitori di James
+### Capitolo 15: Frammento dei Genitori di James
 
-**Scena**: Due uomini (Luca e Marco, i genitori adottivi di James) seduti insieme, le loro mani che si sfiorano. Accanto a loro, una foto di James bambino. Una terza immagine, sbiadita, mostra una donna sola — Lin, la madre biologica.
+**Scena**: Due uomini (Luca e Marco, i genitori adottivi di James) seduti insieme, le loro mani che si sfiorano. Accanto a loro, una foto di James bambino. Una terza immagine, sbiadita, mostra una donna sola: Lin, la madre biologica.
 
-**Focus**: Tre forme d'amore che convergono su una stessa vita — quella di James.
+**Focus**: Tre forme d'amore che convergono su una stessa vita, quella di James.
 
 **Dettagli**:
-- Luca e Marco hanno un'intimità visibile — vent'anni insieme
-- La foto di Lin è più vecchia, più danneggiata — una storia interrotta
+- Luca e Marco hanno un'intimità visibile: vent'anni insieme
+- La foto di Lin è più vecchia, più danneggiata: una storia interrotta
 - Tre lettere aperte sul tavolo di Alice (la narratrice)
 - La luce cambia: calda per Luca e Marco, fredda e solitaria per Lin
 
@@ -411,7 +411,7 @@ Two men (Luca and Marco, James's adoptive parents) sitting together, their hands
 
 ### Capitolo 16: La Decisione
 
-**Scena**: James da solo, in piedi davanti a una finestra. Fuori, il grigio del mondo. Nella riflessione sul vetro, il viso di Kate—immaginata o ricordata.
+**Scena**: James da solo, in piedi davanti a una finestra. Fuori, il grigio del mondo. Nella riflessione sul vetro, il viso di Kate, immaginata o ricordata.
 
 **Focus**: La sovrapposizione tra il mondo esterno (grigio, controllato) e il mondo interno (il volto di Kate).
 
@@ -434,12 +434,12 @@ James alone, standing before window. Outside, grey world. In glass reflection, K
 
 **Scena**: Kate seduta su un letto, la mano sul ventre ancora piatto. Luce dell'alba (artificiale) che filtra dalla finestra.
 
-**Focus**: La mano sul ventre—un gesto che non ha ancora significato visibile ma che contiene tutto il futuro.
+**Focus**: La mano sul ventre, un gesto che non ha ancora significato visibile ma che contiene tutto il futuro.
 
 **Dettagli**:
 - Il suo sguardo è rivolto verso la finestra, perso in pensieri
 - Accanto a lei, un dispositivo medico portatile (test genetico casalingo?)
-- La stanza è ordinata, sterile, ma ci sono piccoli segni di vita segreta—un angolo di libro nascosto
+- La stanza è ordinata, sterile, ma ci sono piccoli segni di vita segreta: un angolo di libro nascosto
 - La luce è quella grigia del primo mattino
 
 **Atmosfera**: Sospensione temporale, speranza che non osa nominarsi, vulnerabilità assoluta
@@ -455,11 +455,11 @@ Kate sitting on bed, hand on still-flat belly. Artificial dawn light filtering t
 
 **Scena**: Un test di gravidanza (o equivalente futuristico) che mostra un risultato positivo. Le mani che lo tengono tremano visibilmente.
 
-**Focus**: Il display del test—due linee, un simbolo +, qualsiasi indicatore che significhi "sì".
+**Focus**: Il display del test: due linee, un simbolo +, qualsiasi indicatore che significhi "sì".
 
 **Dettagli**:
 - Il test è tenuto sopra un lavandino, in un bagno sterile
-- Riflesso parziale del viso di Kate nello specchio—lacrime o gioia?
+- Riflesso parziale del viso di Kate nello specchio: lacrime o gioia?
 - Sullo sfondo, la porta chiusa a chiave
 - La luce è quella fredda dei bagni del Complesso
 
@@ -476,13 +476,13 @@ Pregnancy test (or futuristic equivalent) showing positive result. Hands holding
 
 **Scena**: Kate e James insieme, lui che tiene le mani di lei sul suo ventre. Un momento di gioia pura rubato al tempo.
 
-**Focus**: Le quattro mani sul ventre—due che proteggono, due che benedicono.
+**Focus**: Le quattro mani sul ventre: due che proteggono, due che benedicono.
 
 **Dettagli**:
-- Sono in un luogo nascosto—forse la serra, forse un angolo cieco
+- Sono in un luogo nascosto: forse la serra, forse un angolo cieco
 - Le loro espressioni sono un misto di paura e felicità assoluta
 - La luce è calda, dorata, diversa dal grigio del mondo
-- Nessuna telecamera visibile—sono veramente soli
+- Nessuna telecamera visibile: sono veramente soli
 
 **Atmosfera**: Felicità proibita, nascita di una famiglia, momento fuori dal tempo
 
@@ -495,12 +495,12 @@ Kate and James together, his hands holding hers over her belly. Moment of pure j
 
 ### Capitolo 20: Documenti Medici
 
-**Scena**: Schermo olografico che mostra una scansione medica—i contorni di un feto. Dati che scorrono: settimane, sviluppo, rischi.
+**Scena**: Schermo olografico che mostra una scansione medica: i contorni di un feto. Dati che scorrono: settimane, sviluppo, rischi.
 
-**Focus**: La forma del bambino—ancora piccolo, ma inequivocabilmente umano.
+**Focus**: La forma del bambino, ancora piccolo, ma inequivocabilmente umano.
 
 **Dettagli**:
-- L'immagine è rubata, non autorizzata—forse catturata da una scansione illegale
+- L'immagine è rubata, non autorizzata: forse catturata da una scansione illegale
 - I dati sono in parte censurati o incompleti
 - Una mano femminile tocca lo schermo dove c'è il cuore del feto
 - Sullo sfondo, attrezzatura medica improvvisata
@@ -516,13 +516,13 @@ Holographic screen showing medical scan - outlines of a fetus. Scrolling data: w
 
 ### Capitolo 21: I Primi Anni
 
-**Scena**: Sequenza di immagini che mostrano la crescita di Alice—mani che tengono una neonata, poi una bambina che cammina, poi una bambina che legge.
+**Scena**: Sequenza di immagini che mostrano la crescita di Alice: mani che tengono una neonata, poi una bambina che cammina, poi una bambina che legge.
 
-**Focus**: La progressione—sempre le stesse mani (di Kate, di James) che accompagnano la crescita.
+**Focus**: La progressione, sempre le stesse mani (di Kate, di James) che accompagnano la crescita.
 
 **Dettagli**:
 - Le immagini sono come fotografie proibite, scattate in segreto
-- Ogni immagine ha lo stesso sfondo—un nascondiglio nelle Zone
+- Ogni immagine ha lo stesso sfondo: un nascondiglio nelle Zone
 - La bambina ha tratti sia di Kate che di James
 - L'ultima immagine mostra la bambina con il libro di poesie
 
@@ -535,7 +535,7 @@ Sequence of images showing Alice's growth - hands holding newborn, then walking 
 
 ---
 
-### Capitolo 22: Frammento - Enrico
+### Capitolo 22: Frammento di Enrico
 
 **Scena**: Un uomo (Enrico, padre di Kate) seduto da solo in un appartamento troppo vuoto. Guarda un ologramma di Kate bambina.
 
@@ -544,7 +544,7 @@ Sequence of images showing Alice's growth - hands holding newborn, then walking 
 **Dettagli**:
 - L'appartamento è ordinato ma privo di vita
 - L'ologramma di Kate è l'unica fonte di colore
-- Una sedia vuota di fronte a lui—dove sedeva Kate
+- Una sedia vuota di fronte a lui, dove sedeva Kate
 - Le sue mani sono strette, i nodi bianchi
 
 **Atmosfera**: Sacrificio silenzioso, amore che si esprime lasciando andare
@@ -558,13 +558,13 @@ A man (Enrico, Kate's father) sitting alone in too-empty apartment. Looking at h
 
 ### Capitolo 23: La Domanda
 
-**Scena**: Alice bambina (~7 anni) che guarda i suoi genitori con una domanda negli occhi. Loro si scambiano uno sguardo—come spiegare?
+**Scena**: Alice bambina (~7 anni) che guarda i suoi genitori con una domanda negli occhi. Loro si scambiano uno sguardo: come spiegare?
 
-**Focus**: Il triangolo di sguardi—Alice verso i genitori, loro che si consultano silenziosamente.
+**Focus**: Il triangolo di sguardi: Alice verso i genitori, loro che si consultano silenziosamente.
 
 **Dettagli**:
 - Sono in un rifugio rudimentale nelle Zone
-- Alice tiene in mano un vecchio libro illustrato—forse una fiaba con principi e principesse
+- Alice tiene in mano un vecchio libro illustrato: forse una fiaba con principi e principesse
 - La luce è quella calda di un fuoco o di una lampada a olio
 - Sullo sfondo, altri rifugiati che vivono la loro vita parallela
 
@@ -579,13 +579,13 @@ Child Alice (~7 years old) looking at her parents with a question in her eyes. T
 
 ### Capitolo 24: Segnali
 
-**Scena**: Un monitor che mostra pattern di dati—qualcosa è stato notato. Un dito del Sistema sta iniziando a puntare.
+**Scena**: Un monitor che mostra pattern di dati: qualcosa è stato notato. Un dito del Sistema sta iniziando a puntare.
 
-**Focus**: Lo schermo con l'anomalia evidenziata—pattern di movimento, correlazioni, la "firma" di una famiglia nascosta.
+**Focus**: Lo schermo con l'anomalia evidenziata: pattern di movimento, correlazioni, la "firma" di una famiglia nascosta.
 
 **Dettagli**:
 - Lo schermo è in una stazione di monitoraggio
-- L'operatore è mostrato di spalle—anonimo, parte della macchina
+- L'operatore è mostrato di spalle, anonimo, parte della macchina
 - Sul monitor: mappe, linee rosse che si incrociano, l'icona di "ALERT"
 - La luce blu dello schermo illumina una stanza altrimenti buia
 
@@ -600,15 +600,15 @@ Monitor showing data patterns - something has been noticed. A finger of the Syst
 
 ### Capitolo 25: La Rete
 
-**Scena**: Mappa olografica che mostra connessioni—persone che aiutano la famiglia, passaggi segreti, una rete di resistenza.
+**Scena**: Mappa olografica che mostra connessioni: persone che aiutano la famiglia, passaggi segreti, una rete di resistenza.
 
-**Focus**: I nodi della rete—alcuni luminosi (attivi), alcuni spenti (scoperti? morti?).
+**Focus**: I nodi della rete, alcuni luminosi (attivi), alcuni spenti (scoperti? morti?).
 
 **Dettagli**:
 - La mappa è visualizzata in un nascondiglio improvvisato
 - Linee verdi collegano i nodi sicuri, linee rosse segnano i pericoli
 - Mani di più persone indicano punti sulla mappa
-- Alcuni nodi hanno nomi visibili—Yuki? Mira? Marcus?
+- Alcuni nodi hanno nomi visibili: Yuki? Mira? Marcus?
 
 **Atmosfera**: Solidarietà nella clandestinità, speranza organizzata, vulnerabilità condivisa
 
@@ -621,13 +621,13 @@ Holographic map showing connections - people helping the family, secret passages
 
 ### Capitolo 26: La Scoperta
 
-**Scena**: Un rifugio violato—porta abbattuta, oggetti rovesciati. Ma nessuno dentro. Sono fuggiti appena in tempo.
+**Scena**: Un rifugio violato: porta abbattuta, oggetti rovesciati. Ma nessuno dentro. Sono fuggiti appena in tempo.
 
-**Focus**: Il vuoto del rifugio—tracce di vita che era lì poco prima.
+**Focus**: Il vuoto del rifugio, tracce di vita che era lì poco prima.
 
 **Dettagli**:
 - Il letto è ancora caldo (coperte gettate di lato)
-- Un disegno di bambino a terra—abbandonato nella fuga
+- Un disegno di bambino a terra, abbandonato nella fuga
 - La porta mostra i segni dell'abbattimento forzato
 - Luci di droni visibili attraverso la finestra spaccata
 
@@ -642,14 +642,14 @@ Violated shelter - door battered down, objects overturned. But no one inside. Th
 
 ### Capitolo 27: Dieci Anni
 
-**Scena**: Alice ora ha dieci anni. È seduta su una roccia, guardando un tramonto vero (arancione, rosso, viola)—colori che non esistono nel mondo del Sistema.
+**Scena**: Alice ora ha dieci anni. È seduta su una roccia, guardando un tramonto vero (arancione, rosso, viola): colori che non esistono nel mondo del Sistema.
 
-**Focus**: Il suo profilo contro il cielo—metà bambina, metà della persona che diventerà.
+**Focus**: Il suo profilo contro il cielo, metà bambina, metà della persona che diventerà.
 
 **Dettagli**:
 - È nelle Zone, libera ma esiliata
 - I suoi capelli sono spettinati dal vento vero
-- Tiene stretto il libro di poesie—l'unica cosa che ha del passato
+- Tiene stretto il libro di poesie, l'unica cosa che ha del passato
 - I suoi genitori sono silhouette sullo sfondo
 
 **Atmosfera**: Crescere ai margini del mondo, bellezza della libertà, nostalgia per qualcosa che non conosce
@@ -665,10 +665,10 @@ Alice now ten years old. Sitting on a rock, watching real sunset (orange, red, p
 
 **Scena**: James e Kate in una conversazione intensa. Lui vuole restare, lei sa che devono muoversi ancora. Alice dorme sullo sfondo.
 
-**Focus**: Le loro mani—lui tiene le sue strette, lei le tiene aperte, pronte.
+**Focus**: Le loro mani: lui tiene le sue strette, lei le tiene aperte, pronte.
 
 **Dettagli**:
-- Sono in un rifugio temporaneo—zaini pronti nell'angolo
+- Sono in un rifugio temporaneo: zaini pronti nell'angolo
 - La luce è quella fioca di una lampada a olio
 - Le loro espressioni mostrano la tensione della discussione
 - Alice dorme ignara, la coperta tirata fino al mento
@@ -691,7 +691,7 @@ James and Kate in intense conversation. He wants to stay, she knows they must mo
 **Dettagli**:
 - I droni sono geometrici, metallici, con LED rossi
 - La foresta è selvaggia, organica, piena di nascondigli
-- Un fascio di luce passa vicinissimo a una figura nascosta—si vede solo l'occhio
+- Un fascio di luce passa vicinissimo a una figura nascosta: si vede solo l'occhio
 - Foglie e rami creano pattern di ombra
 
 **Atmosfera**: Caccia in corso, tecnologia vs. natura, respiro trattenuto
@@ -705,15 +705,15 @@ Drones searching through forest. Light beams penetrating vegetation. Something (
 
 ### Capitolo 30: L'Ultimo Giorno
 
-**Scena**: Una giornata normale nel rifugio—Kate che cucina qualcosa, James che insegna qualcosa ad Alice, luce che entra da una finestra improvvisata. L'ultimo giorno prima della tempesta.
+**Scena**: Una giornata normale nel rifugio: Kate che cucina qualcosa, James che insegna qualcosa ad Alice, luce che entra da una finestra improvvisata. L'ultimo giorno prima della tempesta.
 
-**Focus**: L'ordinarietà—un momento domestico che sa di essere fragile.
+**Focus**: L'ordinarietà, un momento domestico che sa di essere fragile.
 
 **Dettagli**:
 - Il cibo è semplice, cotto su un fuoco
-- Alice sta disegnando o scrivendo—assorta
+- Alice sta disegnando o scrivendo, assorta
 - James sorride mentre la guarda
-- Attraverso la finestra, il cielo è sereno—l'ultima calma
+- Attraverso la finestra, il cielo è sereno: l'ultima calma
 
 **Atmosfera**: Felicità che non sa di essere tale, quotidianità sacra, l'ultimo prima
 
@@ -728,7 +728,7 @@ Normal day in shelter - Kate cooking something, James teaching Alice something, 
 
 **Scena**: Buio. Poi luci abbaglianti. Droni nel cielo. Veicoli che emergono dalla vegetazione. Il momento del raid.
 
-**Focus**: Il caos del risveglio—figure che corrono, luci che accecano, ordini urlati.
+**Focus**: Il caos del risveglio: figure che corrono, luci che accecano, ordini urlati.
 
 **Dettagli**:
 - Il contrasto tra buio notturno e luci bianche accecanti
@@ -749,10 +749,10 @@ Darkness. Then blinding lights. Drones in sky. Vehicles emerging from vegetation
 
 **Scena**: Kate e Alice che corrono attraverso la foresta. Dietro di loro, luci e rumore. Davanti, solo buio e speranza.
 
-**Focus**: Le loro figure che si allontanano—piccole contro l'immensità della foresta.
+**Focus**: Le loro figure che si allontanano, piccole contro l'immensità della foresta.
 
 **Dettagli**:
-- Kate tiene la mano di Alice—non la lascerà mai
+- Kate tiene la mano di Alice: non la lascerà mai
 - Il terreno è difficile, radici e sassi
 - Dietro di loro, le luci dei droni come una parete
 - Il respiro è visibile nell'aria fredda dell'alba
@@ -770,10 +770,10 @@ Kate and Alice running through forest. Behind them, lights and noise. Ahead, onl
 
 **Scena**: Un bivio nella foresta. Kate e Alice devono scegliere: una via porta alla salvezza, l'altra potrebbe riportarle a James.
 
-**Focus**: Il momento della decisione—Kate che guarda le due strade, Alice che guarda lei.
+**Focus**: Il momento della decisione: Kate che guarda le due strade, Alice che guarda lei.
 
 **Dettagli**:
-- Le due strade sono illuminate diversamente—una più chiara, una in ombra
+- Le due strade sono illuminate diversamente: una più chiara, una in ombra
 - Kate ha il viso segnato dalla stanchezza e dalle lacrime
 - Alice aspetta, fiduciosa, qualunque cosa scelga sua madre
 - In lontananza, i rumori dell'inseguimento
@@ -789,15 +789,15 @@ Fork in forest. Kate and Alice must choose: one path leads to safety, other migh
 
 ### Capitolo 34: Il Manoscritto
 
-**Scena**: Mani che scrivono su carta vera. Parole che prendono forma—la storia che stiamo leggendo sta nascendo.
+**Scena**: Mani che scrivono su carta vera. Parole che prendono forma: la storia che stiamo leggendo sta nascendo.
 
-**Focus**: L'atto della scrittura—la penna (o matita) che traccia parole, l'inchiostro che asciuga.
+**Focus**: L'atto della scrittura: la penna (o matita) che traccia parole, l'inchiostro che asciuga.
 
 **Dettagli**:
 - La scrittura è elegante ma urgente
 - La carta è ruvida, probabilmente recuperata
 - Alcune parole sono visibili: "James", "Kate", "amore"
-- Sullo sfondo, il libro di poesie—ispirazione e eredità
+- Sullo sfondo, il libro di poesie: ispirazione ed eredità
 
 **Atmosfera**: Creazione come resistenza, parole che sfidano il tempo, l'atto di ricordare
 
@@ -810,15 +810,15 @@ Hands writing on real paper. Words taking form - the story we are reading is bei
 
 ### Capitolo 35: Le Zone Orientali
 
-**Scena**: Vista panoramica di un insediamento nelle Zone—capanne, fuochi, persone che vivono libere. Colori caldi. Vita.
+**Scena**: Vista panoramica di un insediamento nelle Zone: capanne, fuochi, persone che vivono libere. Colori caldi. Vita.
 
-**Focus**: Il contrasto con il mondo del Sistema—qui tutto è imperfetto ma vivo.
+**Focus**: Il contrasto con il mondo del Sistema: qui tutto è imperfetto ma vivo.
 
 **Dettagli**:
 - Bambini giocano all'aperto (una rarità nel mondo del libro)
 - Coppie miste (uomo/donna) camminano mano nella mano senza paura
 - I vecchi raccontano storie intorno a un fuoco
-- Il cielo mostra stelle vere—l'unica luce artificiale è quella dei fuochi
+- Il cielo mostra stelle vere: l'unica luce artificiale è quella dei fuochi
 
 **Atmosfera**: Utopia imperfetta, vita autentica, speranza organizzata
 
@@ -831,14 +831,14 @@ Panoramic view of settlement in Zones - huts, fires, people living free. Warm co
 
 ### Capitolo 36: Il Ritorno
 
-**Scena**: Alice che cammina verso l'orizzonte dove inizia il territorio del Sistema—una linea visibile tra mondo libero e mondo controllato.
+**Scena**: Alice che cammina verso l'orizzonte dove inizia il territorio del Sistema: una linea visibile tra mondo libero e mondo controllato.
 
-**Focus**: La sua silhouette solitaria—sta tornando, sta compiendo una scelta impossibile.
+**Focus**: La sua silhouette solitaria: sta tornando, sta compiendo una scelta impossibile.
 
 **Dettagli**:
 - Dietro di lei, il calore delle Zone (arancione)
 - Davanti a lei, il grigio del Sistema
-- Tiene qualcosa stretto al petto—il manoscritto? il libro?
+- Tiene qualcosa stretto al petto: il manoscritto? il libro?
 - La sua postura è determinata ma trema leggermente
 
 **Atmosfera**: Missione personale, coraggio della verità, ritorno nel ventre della bestia
@@ -854,12 +854,12 @@ Alice walking toward horizon where System territory begins - visible line betwee
 
 **Scena**: Una stanza buia, umida. Una figura seduta nell'ombra scrive su carta vera. La porta si sta aprendo, la luce dei Controllori filtra attraverso la fessura.
 
-**Focus**: Il momento sospeso tra scrittura e cattura—l'inchiostro che si interrompe, la mano che trema.
+**Focus**: Il momento sospeso tra scrittura e cattura: l'inchiostro che si interrompe, la mano che trema.
 
 **Dettagli**:
-- La stanza è un nascondiglio improvvisato—muffa sui muri, umidità
+- La stanza è un nascondiglio improvvisato: muffa sui muri, umidità
 - La luce che filtra dalla porta è fredda, metallica, ostile
-- Il libro di poesie è accanto al quaderno—ultimo compagno
+- Il libro di poesie è accanto al quaderno: ultimo compagno
 - La penna è ancora in mano, ma la parola è incompiuta
 - Nell'ombra si intuisce la sagoma dei Controllori
 
@@ -887,7 +887,7 @@ Dark damp room. Figure sitting in shadow writing on real paper. Door is opening,
 ### Per AI Generative
 - Usare seed consistente se possibile
 - Specificare sempre "cinematic lighting" e "high contrast"
-- Evitare stili cartooneschi—sempre fotorealistico con elementi surreali
+- Evitare stili cartooneschi: sempre fotorealistico con elementi surreali
 
 ---
 

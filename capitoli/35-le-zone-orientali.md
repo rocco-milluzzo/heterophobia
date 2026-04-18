@@ -1,10 +1,10 @@
 # Capitolo 35: Le Zone Orientali
 
-*Tre mesi dopo — Alice*
+*Alice, tre mesi dopo*
 
 Il viaggio è stato lungo.
 
-Ho seguito le voci. Da un rifugio all'altro. Ogni persona aveva sentito qualcosa—una donna sola, capelli bianchi, che chiedeva di Alice.
+Ho seguito le voci. Da un rifugio all'altro. Ogni persona aveva sentito qualcosa: una donna sola, capelli bianchi, che chiedeva di Alice.
 
 Più mi avvicinavo, più le voci si facevano inquietanti. Una donna che a volte non rispondeva al suo nome. Che si svegliava urlando. Che fissava il vuoto per ore.
 
@@ -12,7 +12,7 @@ Più mi avvicinavo, più le voci si facevano inquietanti. Una donna che a volte 
 
 L'ho trovata in un villaggio che un tempo era stato una città.
 
-Una donna seduta contro un muro. Capelli bianchi, tagliati corti. Viso segnato da rughe profonde—aveva solo quarant'anni, ma sembrava molto più vecchia. Una cicatrice sulla tempia.
+Una donna seduta contro un muro. Capelli bianchi, tagliati corti. Viso segnato da rughe profonde: aveva solo quarant'anni, ma sembrava molto più vecchia. Una cicatrice sulla tempia.
 
 E gli occhi. Quegli occhi li avrei riconosciuti ovunque.
 
@@ -34,7 +34,7 @@ Qualcosa tremolò nel suo sguardo.
 
 ---
 
-Improvvisamente qualcosa cambiò. Mi vide—mi vide davvero.
+Improvvisamente qualcosa cambiò. Mi vide, mi vide davvero.
 
 "Alice. Alice, Alice, Alice."
 
@@ -54,7 +54,7 @@ Poi mia madre si staccò da me, e per un momento vidi la donna che era stata.
 
 "Devo raccontarti. Prima che me ne vada di nuovo."
 
-"Non devi—"
+"Non devi, mamma..."
 
 "Devo. Per il tuo libro."
 
@@ -62,7 +62,7 @@ Poi mia madre si staccò da me, e per un momento vidi la donna che era stata.
 
 Mi raccontò abbastanza.
 
-I centri di detenzione. Le celle senza finestre. Gli interrogatori. E le altre cose—quelle che la sua voce non riusciva a pronunciare.
+I centri di detenzione. Le celle senza finestre. Gli interrogatori. E le altre cose, quelle che la sua voce non riusciva a pronunciare.
 
 "Mi hanno spezzata. Non completamente. Ma abbastanza."
 
@@ -76,7 +76,7 @@ I centri di detenzione. Le celle senza finestre. Gli interrogatori. E le altre c
 
 Restai settimane.
 
-C'erano giorni buoni—quasi come la ricordavo. E giorni cattivi—non mi riconosceva, parlava con persone che non c'erano.
+C'erano giorni buoni, quasi come la ricordavo. E giorni cattivi, in cui non mi riconosceva, parlava con persone che non c'erano.
 
 ---
 
@@ -90,7 +90,7 @@ Una sera mi portò su una collina. Tramonto.
 
 "Fare cosa?"
 
-"Tu sei la storia, Alice. Finché esisti, finché respiri—loro hanno perso."
+"Tu sei la storia, Alice. Finché esisti, finché respiri, loro hanno perso."
 
 "Non sembra una vittoria."
 

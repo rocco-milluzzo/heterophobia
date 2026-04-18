@@ -1,6 +1,6 @@
 # Capitolo 28: La Decisione
 
-*Presente — Alice*
+*Alice, presente*
 
 Il manoscritto è qui, sulla mia scrivania. La carta dura più dei file digitali.
 
@@ -38,7 +38,7 @@ Che l'amore non è una malattia.
 
 C'è un'altra cosa che devo fare.
 
-Yuki mi ha passato un documento: *Operazione Pulizia — Settore Zone Est. Data prevista: 15 giorni.*
+Yuki mi ha passato un documento: *Operazione Pulizia, Settore Zone Est. Data prevista: 15 giorni.*
 
 Cancelleranno tutto.
 

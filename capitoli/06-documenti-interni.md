@@ -4,7 +4,7 @@ Il libro di poesie è qui, davanti a me.
 
 L'ho recuperato dagli archivi sequestrati tre settimane fa, insieme a una ventina di altri oggetti classificati come "materiale di interesse storico-patologico". Nessuno sa che ce l'ho. Tecnicamente dovrebbe essere in un deposito sigillato, in attesa di analisi e eventuale distruzione. Ma ho falsificato i registri, ho sostituito il codice identificativo, e ora è sulla mia scrivania.
 
-Non avrei dovuto farlo. Non per le regole—quelle le infrango continuamente—ma perché toccarlo mi fa male in un modo che non so spiegare.
+Non avrei dovuto farlo. Non per le regole (quelle le infrango continuamente), ma perché toccarlo mi fa male in un modo che non so spiegare.
 
 ---
 
@@ -31,7 +31,7 @@ Non dicono che il libro ha un odore. Un odore che riconosco.
 
 È difficile da descrivere. Carta vecchia, certo. Polvere. Ma sotto c'è qualcos'altro. Qualcosa di dolce e amaro insieme, come fiori secchi dimenticati tra le pagine. Ho controllato: non ci sono fiori. Eppure l'odore resta.
 
-Ho passato ore a chiedermi come sia possibile. I libri antichi hanno tutti più o meno lo stesso odore—cellulosa che si degrada, acidi che evaporano lentamente. Non dovrebbe esserci niente di distintivo.
+Ho passato ore a chiedermi come sia possibile. I libri antichi hanno tutti più o meno lo stesso odore: cellulosa che si degrada, acidi che evaporano lentamente. Non dovrebbe esserci niente di distintivo.
 
 Ma io so che questo è diverso.
 
@@ -41,7 +41,7 @@ C'è un documento negli archivi che non riesco a smettere di rileggere. È il ra
 
 Non è scritto da mostri. È scritto da scienziati, filosofi, pensatori. Gente che aveva visto due miliardi di persone morire in vent'anni.
 
-*"La riproduzione biologica,"* scrivono, *"è un istinto che serviva alla sopravvivenza della specie. Ma la specie ora è immortale. Continuare a riprodursi non è più adattamento—è patologia."*
+*"La riproduzione biologica,"* scrivono, *"è un istinto che serviva alla sopravvivenza della specie. Ma la specie ora è immortale. Continuare a riprodursi non è più adattamento: è patologia."*
 
 Hanno ragione. Tecnicamente, matematicamente, hanno ragione. Un pianeta che può sostenere quattro miliardi di immortali non può sostenere anche nuove nascite.
 
@@ -49,9 +49,9 @@ Eppure qualcosa in me si ribella.
 
 ---
 
-Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicologiche. Trascrizioni di interrogatori. E uno strano documento che ho trovato per caso, catalogato come "Materiale didattico storico — Era della Transizione".
+Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicologiche. Trascrizioni di interrogatori. E uno strano documento che ho trovato per caso, catalogato come "Materiale didattico storico, Era della Transizione".
 
-È un frammento di quello che una volta chiamavano "giornale" — un modo primitivo di distribuire informazioni su fogli di carta. La data è 2027. Il titolo dice: "LA FINE DEL LAVORO: MILIARDI DI PERSONE SENZA SCOPO".
+È un frammento di quello che una volta chiamavano "giornale", un modo primitivo di distribuire informazioni su fogli di carta. La data è 2027. Il titolo dice: "LA FINE DEL LAVORO: MILIARDI DI PERSONE SENZA SCOPO".
 
 *"L'intelligenza artificiale generativa ha eliminato il 40% dei posti di lavoro globali in meno di quattro anni. Gli economisti avvertono che la tendenza è irreversibile.*
 
@@ -61,7 +61,7 @@ Ci sono altri documenti sulla mia scrivania. Rapporti medici. Valutazioni psicol
 
 *Nel frattempo, i suicidi sono aumentati del 300% tra i lavoratori disoccupati. I servizi di salute mentale sono al collasso. E l'AI continua a migliorare."*
 
-Il documento si interrompe lì. Non so cosa sia successo dopo — o meglio, lo so fin troppo bene. Le guerre. La fame. I due miliardi di morti. La Fusione. Il Sistema.
+Il documento si interrompe lì. Non so cosa sia successo dopo, o meglio, lo so fin troppo bene. Le guerre. La fame. I due miliardi di morti. La Fusione. Il Sistema.
 
 Guardo questo pezzo di carta ingiallita e mi chiedo: c'era un momento in cui avremmo potuto scegliere diversamente? Un punto in cui qualcuno avrebbe potuto fermare tutto, redistribuire i benefici, costruire un mondo dove le macchine lavorassero per tutti invece che per pochi?
 
@@ -77,13 +77,13 @@ C'è anche un altro fascicolo, più sottile. Classificato come "correlato". Un n
 
 Le note più agghiaccianti sono quelle della prima fase. *Soggetto mostra segni precoci di devianza. Raccomandato monitoraggio incrementato.* Avevano quindici anni. Li osservavano già da allora.
 
-Il rapporto del 2103 è quello che mi ha colpito di più. Un'analista comportamentale—una certa Dr. Yuki Tanaka, ex compagna di scuola di Kate—aveva segnalato "anomalie nei pattern di interazione" tra i due soggetti. Frequenza degli incontri superiore alla media. Linguaggio corporeo "eccessivamente sincronizzato". Assenza di altre relazioni significative per entrambi.
+Il rapporto del 2103 è quello che mi ha colpito di più. Un'analista comportamentale (una certa Dr. Yuki Tanaka, ex compagna di scuola di Kate) aveva segnalato "anomalie nei pattern di interazione" tra i due soggetti. Frequenza degli incontri superiore alla media. Linguaggio corporeo "eccessivamente sincronizzato". Assenza di altre relazioni significative per entrambi.
 
 La segnalazione concludeva: *Si raccomanda intervento preventivo. Classificazione: potenziali breeder.*
 
 Ma fu archiviata. Yuki non insistette.
 
-Mi chiedo che cosa abbia visto, quella volta. Se abbia capito. Se abbia scelto di non capire—di proteggere un'amica, rischiando la propria posizione.
+Mi chiedo che cosa abbia visto, quella volta. Se abbia capito. Se abbia scelto di non capire, di proteggere un'amica, rischiando la propria posizione.
 
 ---
 
@@ -93,15 +93,15 @@ Le fonti concordano su questo: James e Kate erano discreti. Meticolosi, quasi os
 
 Eppure alcune persone sapevano.
 
-Il nonno di James. Enzio. Lui sapeva, fin dall'inizio. Fu lui a dare a James il libro di poesie—questo libro che ora ho tra le mani—e fu lui a coprirli per anni, a mentire per loro, a rischiare la propria posizione per proteggere qualcosa in cui credeva.
+Il nonno di James. Enzio. Lui sapeva, fin dall'inizio. Fu lui a dare a James il libro di poesie (questo libro che ora ho tra le mani) e fu lui a coprirli per anni, a mentire per loro, a rischiare la propria posizione per proteggere qualcosa in cui credeva.
 
 La nonna di Kate. Marta. Anche lei sapeva. Ho la sua registrazione, archiviata come "Testimonianza anonima #2847". Parla di Kate con una tenerezza che va oltre l'affetto normale tra nonna e nipote. Parla come qualcuno che conosce un segreto e ha scelto di custodirlo.
 
 E poi c'era il padre di Kate. Enrico.
 
-Di lui i documenti dicono poco. Un uomo conformista, vedovo—anzi, no. Non vedovo. *Separato per intervento del Sistema.* Sua moglie, la madre biologica di Kate, fu classificata come *infetta recidiva* e deportata nelle Zone Abbandonate quando Kate aveva tre anni. Enrico non oppose resistenza. Firmò i documenti di dissociazione. Accettò la custodia esclusiva della figlia.
+Di lui i documenti dicono poco. Un uomo conformista, vedovo. Anzi, no. Non vedovo. *Separato per intervento del Sistema.* Sua moglie, la madre biologica di Kate, fu classificata come *infetta recidiva* e deportata nelle Zone Abbandonate quando Kate aveva tre anni. Enrico non oppose resistenza. Firmò i documenti di dissociazione. Accettò la custodia esclusiva della figlia.
 
-Nei rapporti è descritto come "cittadino modello, pienamente riabilitato dopo esposizione a influenze devianti". Cambiò compagni spesso—sempre uomini, sempre approvati—senza mai legarsi davvero. Guardava sua figlia con un misto di amore e incomprensione, come se fosse un oggetto prezioso di cui non capiva l'uso.
+Nei rapporti è descritto come "cittadino modello, pienamente riabilitato dopo esposizione a influenze devianti". Cambiò compagni spesso (sempre uomini, sempre approvati) senza mai legarsi davvero. Guardava sua figlia con un misto di amore e incomprensione, come se fosse un oggetto prezioso di cui non capiva l'uso.
 
 Enrico non sapeva di Kate e James. O almeno, così dicono le fonti.
 
@@ -111,7 +111,7 @@ Ma io ho i miei dubbi. Un padre che ha perso la moglie per amore eterosessuale..
 
 C'è un dettaglio che continua a tormentarmi.
 
-Nel rapporto del 2108, un vicino di Unità segnalò "rumori insoliti" provenienti dall'appartamento di Kate nelle ore notturne. La segnalazione fu vaga—poteva essere qualsiasi cosa—e venne archiviata dopo un controllo di routine che non rilevò nulla.
+Nel rapporto del 2108, un vicino di Unità segnalò "rumori insoliti" provenienti dall'appartamento di Kate nelle ore notturne. La segnalazione fu vaga (poteva essere qualsiasi cosa) e venne archiviata dopo un controllo di routine che non rilevò nulla.
 
 Ma nel margine del rapporto, qualcuno ha scritto a mano due parole.
 
@@ -131,7 +131,7 @@ Una storica, una ricercatrice seria, non dovrebbe passare le notti a fissare un 
 
 Ma ecco il punto: non mi sembrano sconosciuti.
 
-È assurdo. Non li ho mai incontrati. James è morto—o scomparso, i documenti si contraddicono—e Kate... Kate non so dove sia. Forse conformata, forse nascosta, forse nelle Zone Abbandonate con gli altri ribelli. Le tracce si perdono nel 2115, l'anno della lettera.
+È assurdo. Non li ho mai incontrati. James è morto, o scomparso (i documenti si contraddicono), e Kate... Kate non so dove sia. Forse conformata, forse nascosta, forse nelle Zone Abbandonate con gli altri ribelli. Le tracce si perdono nel 2122, l'anno del raid.
 
 (A volte, quando leggo il nome di Kate, sento l'eco di una voce che mi chiamava con un altro nome. Un nome che non ricordo. Un nome che forse non ho mai avuto.)
 
@@ -141,7 +141,7 @@ Eppure quando leggo le loro parole, quando sfoglio questi documenti, sento qualc
 
 Stanotte ho sognato la serra idroponica.
 
-Non so come faccia a sapere che era una serra idroponica—non l'ho mai vista—ma nel sogno lo sapevo con certezza. File di piante sotto luci artificiali, il ronzio sommesso dei sistemi di irrigazione, l'odore verde e umido della clorofilla.
+Non so come faccia a sapere che era una serra idroponica (non l'ho mai vista), ma nel sogno lo sapevo con certezza. File di piante sotto luci artificiali, il ronzio sommesso dei sistemi di irrigazione, l'odore verde e umido della clorofilla.
 
 E due figure nell'ombra. Un ragazzo e una ragazza, seduti per terra tra i filari. Non parlano. Si tengono per mano.
 
@@ -173,7 +173,7 @@ Manca il centro della storia.
 
 ---
 
-Domani continuerò a scavare. Ho ancora molto da ricostruire—gli anni della giovinezza, il primo contatto fisico, la decisione di restare insieme nonostante tutto.
+Domani continuerò a scavare. Ho ancora molto da ricostruire: gli anni della giovinezza, il primo contatto fisico, la decisione di restare insieme nonostante tutto.
 
 Ma stanotte, prima di dormire, voglio rileggere ancora una volta quella poesia.
 
@@ -202,7 +202,7 @@ C'è un ultimo documento che non ho ancora menzionato. Un foglio piegato in quat
 
 *Zona Est, settore 7. Febbraio 2116. Cercare il mulino.*
 
-Sotto, una sola frase scritta con una grafia diversa—più tremante, più urgente.
+Sotto, una sola frase scritta con una grafia diversa, più tremante, più urgente.
 
 *Se stai leggendo questo, significa che non è finita. Significa che qualcuno sta ancora cercando.*
 

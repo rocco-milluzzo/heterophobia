@@ -30,7 +30,7 @@ Introduce il suo mondo: madre morta, padre assente, nonna Marta che le racconta 
 
 ---
 
-### Capitolo 3: Frammento - Marta
+### Capitolo 3: Frammento di Marta
 **POV:** Alice (narratrice) + flashback di Marta
 **Tempo:** Presente + 2050 (Era della Fusione)
 **Parole:** ~2,000
@@ -112,7 +112,7 @@ Una voce riflette sulla storia. Parla di "due soggetti" che ha studiato. Tono da
 
 ---
 
-### Capitolo 10: Frammento - Enzio
+### Capitolo 10: Frammento di Enzio
 **POV:** Alice (narratrice) + flashback di Enzio
 **Tempo:** Presente + 2070 (arrivo dell'Immortalità)
 **Parole:** ~2,000
@@ -172,7 +172,7 @@ Il nonno Enzio lo aiuta senza fare domande. Kate, come biologa, ha accesso a ini
 
 ---
 
-### Capitolo 15: Frammento - I Genitori di James
+### Capitolo 15: Frammento dei Genitori di James
 **POV:** Alice (narratrice)
 **Tempo:** Presente + 2080 (anno nascita James)
 **Parole:** ~3,000
@@ -244,18 +244,18 @@ Seconda crepa: "Il battito del bambino era irregolare quella notte..."
 
 ### Capitolo 21: I Primi Anni
 **POV:** Kate
-**Tempo:** 2105-2110 (flashback, montaggio)
+**Tempo:** 2106-2110 (flashback, montaggio)
 **Parole:** ~3,000
 
 La gravidanza procede. Kate vive reclusa. James porta tutto. Nonna Marta li aiuta senza chiedere.
 
 **Scena chiave:** Kate sente Alice muoversi. Piange. James, per la prima volta, sorride.
 
-Poi: Alice nasce in segreto. Marta fa da levatrice. I primi anni di una bambina che non esiste. Il "gioco del silenzio".
+Poi: Alice nasce in segreto nel 2106. Marta fa da levatrice. I primi anni di una bambina che non esiste. Il "gioco del silenzio".
 
 ---
 
-### Capitolo 22: Frammento - Enrico
+### Capitolo 22: Frammento di Enrico
 **POV:** Alice (narratrice) + scena con Enrico
 **Tempo:** Presente + 2108
 **Parole:** ~2,000
@@ -333,7 +333,7 @@ Poi si corregge: "Le registrazioni mostrano che cantava..."
 
 ### Capitolo 28: La Decisione
 **POV:** Kate
-**Tempo:** 2115 (flashback)
+**Tempo:** 2122 (flashback)
 **Parole:** ~2,500
 
 L'ultimo giorno prima che tutto cambi. Kate, James, Alice. Una colazione. Un gioco. Qualcosa di simile alla felicità.
@@ -344,7 +344,7 @@ Nessuno sa che è l'ultimo.
 
 ### Capitolo 29: La Ricerca
 **POV:** Jensen (Il Controllore)
-**Tempo:** 2115 (flashback)
+**Tempo:** 2122 (flashback)
 **Parole:** ~2,500
 
 Introduce Jensen. Il suo background: figlio di "infetti", rieducato. Riceve la segnalazione su James e Kate.
@@ -355,7 +355,7 @@ Non è un mostro. Crede di salvare le persone dalla "malattia" dell'amore eteros
 
 ### Capitolo 30: L'Ultimo Giorno
 **POV:** James
-**Tempo:** 2115 (flashback)
+**Tempo:** 2122 (flashback)
 **Parole:** ~2,500
 
 James percepisce che qualcosa non va. Prepara la fuga d'emergenza. Ma è troppo tardi.
@@ -364,7 +364,7 @@ James percepisce che qualcosa non va. Prepara la fuga d'emergenza. Ma è troppo 
 
 ### Capitolo 31: Il Raid
 **POV:** James e Kate (alternato)
-**Tempo:** 2115 (flashback)
+**Tempo:** 2122 (flashback)
 **Parole:** ~3,000
 
 Arrivano i Controllori guidati da Jensen. Qualcuno ha parlato. (Chi? Yuki? Un vicino? Mai rivelato.)
@@ -377,7 +377,7 @@ Caos. James cerca di fare tempo. Kate prende Alice.
 
 ### Capitolo 32: La Corsa
 **POV:** Kate
-**Tempo:** 2115 (flashback)
+**Tempo:** 2122 (flashback)
 **Parole:** ~2,500
 
 Kate fugge con Alice. James rimane per coprire la fuga.
@@ -388,7 +388,7 @@ Corrono. Alice piange. Kate la tiene stretta.
 
 ### Capitolo 33: La Scelta
 **POV:** Alice (narratrice) + ultimo flashback
-**Tempo:** Presente + 2115
+**Tempo:** Presente + 2122
 **Parole:** ~3,000
 
 Alice racconta cosa è successo. Non con certezza. Con frammenti.
@@ -426,7 +426,7 @@ La voce cambia completamente.
 
 ### Capitolo 35: Le Zone Orientali
 **POV:** Alice
-**Tempo:** 2115-2125 (flashback)
+**Tempo:** 2122-2125 (flashback)
 **Parole:** ~2,500
 
 Alice racconta i suoi anni nelle Zone Abbandonate con Mira. Come è cresciuta. Cosa ha imparato.
@@ -461,7 +461,7 @@ Finale tragico: i passi si avvicinano, la porta si apre, l'inchiostro si interro
 
 **Ultima riga:**
 
-**[Il resto della pagina è macchiato. L'inchiostro si interrompe a metà di una parola che potrebbe essere "ricor—"]**
+**[Il resto della pagina è macchiato. L'inchiostro si interrompe a metà di una parola che potrebbe essere "ricor..."]**
 
 ---
 

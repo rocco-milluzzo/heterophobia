@@ -2,7 +2,7 @@
 
 La prima volta che la vide, James stava pensando alla morte.
 
-Non alla propria—quella era diventata un concetto astratto, qualcosa che riguardava i ribelli e i malati di mente, non le persone normali. Pensava alla morte in generale, al fatto che un tempo esisteva e ora era scomparsa. Il professore stava spiegando l'Era della Mortalità, quel periodo buio in cui gli esseri umani vivevano settanta, ottant'anni al massimo e poi semplicemente si spegnevano. Come macchine difettose. Come errori da correggere.
+Non alla propria: quella era diventata un concetto astratto, qualcosa che riguardava i ribelli e i malati di mente, non le persone normali. Pensava alla morte in generale, al fatto che un tempo esisteva e ora era scomparsa. Il professore stava spiegando l'Era della Mortalità, quel periodo buio in cui gli esseri umani vivevano settanta, ottant'anni al massimo e poi semplicemente si spegnevano. Come macchine difettose. Come errori da correggere.
 
 "L'immortalità," stava dicendo il professore, "è il dono più grande che l'umanità si sia mai fatta. Il trionfo definitivo della ragione sulla natura."
 
@@ -10,13 +10,13 @@ James guardava fuori dalla finestra. Il cielo era di quel grigio uniforme che si
 
 Fu in quel momento che sentì una risata.
 
-Non era una risata forte, non attirava l'attenzione di nessuno tranne la sua. Era un suono piccolo, quasi soffocato — qualcuno che cercava di trattenerlo e non ci riusciva. James si voltò verso quel suono.
+Non era una risata forte, non attirava l'attenzione di nessuno tranne la sua. Era un suono piccolo, quasi soffocato, qualcuno che cercava di trattenerlo e non ci riusciva. James si voltò verso quel suono.
 
 E la vide.
 
 ---
 
-Sedeva tre file più avanti, vicino al corridoio. Capelli castani che le cadevano sulle spalle, una ciocca ribelle che continuava a spostarsi davanti agli occhi. Stava guardando qualcosa sul suo tablet—probabilmente un messaggio di qualche amica, una sciocchezza—e sorrideva. Un sorriso vero, non quello educato e vuoto che tutti imparavano a sfoggiare per le telecamere.
+Sedeva tre file più avanti, vicino al corridoio. Capelli castani che le cadevano sulle spalle, una ciocca ribelle che continuava a spostarsi davanti agli occhi. Stava guardando qualcosa sul suo tablet, probabilmente un messaggio di qualche amica, una sciocchezza, e sorrideva. Un sorriso vero, non quello educato e vuoto che tutti imparavano a sfoggiare per le telecamere.
 
 James non sapeva il suo nome. Non l'aveva mai notata prima, il che era strano perché erano nella stessa classe da anni e le classi degli Ultimi non erano grandi. Cinquantadue studenti, gli ultimi nati legalmente nel Distretto Nord. Avrebbe dovuto conoscerli tutti.
 
@@ -56,11 +56,11 @@ Ferrante. Adesso aveva un nome.
 
 ---
 
-Per il resto dell'ora, James non riuscì a concentrarsi su nient'altro. Ogni volta che lei si muoveva—ogni volta che girava una pagina, o si scostava i capelli dal viso, o semplicemente respirava—lui lo notava. Era come se i suoi sensi si fossero sintonizzati per percepire solo lei.
+Per il resto dell'ora, James non riuscì a concentrarsi su nient'altro. Ogni volta che lei si muoveva, ogni volta che girava una pagina, o si scostava i capelli dal viso, o semplicemente respirava, lui lo notava. Era come se i suoi sensi si fossero sintonizzati per percepire solo lei.
 
 Questo è sbagliato, si disse. Questo è pericoloso.
 
-*L'eterosessualità è una scelta — scegli meglio.*
+*L'eterosessualità è una scelta. Scegli meglio.*
 
 Lo slogan lampeggiava sugli schermi pubblici ogni ora. Sei mesi di terapia per la prima infrazione. Dieci anni senza le Cure per la seconda. Esilio permanente per la terza.
 
@@ -102,17 +102,17 @@ Sul muro della zona comune, lo schermo pubblico trasmetteva il notiziario serale
 
 James distolse lo sguardo. Lo schermo non si poteva spegnere.
 
-Dalla porta aperta sentiva la voce di Luca — sempre Luca a casa la sera, Marco tornava tardi. I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello che lo aveva adottato quando aveva tre mesi.
+Dalla porta aperta sentiva la voce di Luca (sempre Luca a casa la sera, Marco tornava tardi). I suoi genitori. Due uomini che si erano uniti vent'anni prima, una coppia modello che lo aveva adottato quando aveva tre mesi.
 
 Di sua madre biologica, James sapeva solo quello che aveva scoperto a dodici anni, frugando in uno scaffale che non avrebbe dovuto aprire.
 
 Era un pomeriggio come tanti. Luca era uscito a fare la spesa, Marco era al lavoro. James stava cercando un vecchio tablet per un progetto scolastico quando aveva trovato la scatola. Nascosta dietro i manuali tecnici di Marco, coperta di polvere.
 
-Dentro c'erano documenti. Fogli veri, di carta vera — cosa rara. E su uno di quei fogli c'era scritto un nome.
+Dentro c'erano documenti. Fogli veri, di carta vera. Cosa rara. E su uno di quei fogli c'era scritto un nome.
 
 *Lin.*
 
-Sotto il nome, una nota: "Donatrice biologica — consenso alla cessione del minore firmato il 12/03/2080. Motivo dichiarato: impossibilità di garantire un ambiente conforme."
+Sotto il nome, una nota: "Donatrice biologica. Consenso alla cessione del minore firmato il 12/03/2080. Motivo dichiarato: impossibilità di garantire un ambiente conforme."
 
 James aveva fissato quelle parole per minuti interi, cercando di capire.
 
@@ -140,7 +140,7 @@ Un lungo silenzio. Luca aveva posato le borse, si era seduto, aveva fatto cenno 
 
 "Perché?"
 
-Luca aveva esitato. I suoi occhi — gentili, sempre gentili — si erano fatti distanti.
+Luca aveva esitato. I suoi occhi, gentili, sempre gentili, si erano fatti distanti.
 
 "Perché amava un uomo. Un uomo che è stato portato via prima ancora che tu nascessi."
 
@@ -148,7 +148,7 @@ Luca aveva esitato. I suoi occhi — gentili, sempre gentili — si erano fatti 
 
 "Paolo. Si chiamava Paolo." Luca gli aveva preso le mani. "Non sappiamo cosa gli sia successo. Probabilmente lo stesso destino di tanti altri."
 
-James aveva sentito qualcosa spezzarsi dentro di lui. Non sapeva cosa fosse — non ancora. Sapeva solo che le mani di Luca erano calde e familiari, ma improvvisamente sembravano quelle di un estraneo.
+James aveva sentito qualcosa spezzarsi dentro di lui. Non sapeva cosa fosse, non ancora. Sapeva solo che le mani di Luca erano calde e familiari, ma improvvisamente sembravano quelle di un estraneo.
 
 "Perché mi ha dato via?"
 
@@ -160,11 +160,11 @@ La domanda era uscita più dura di quanto volesse. Luca aveva chiuso gli occhi.
 
 "Ti ha amato abbastanza da lasciarti andare."
 
-James non aveva risposto. Non c'era niente da dire. Quella notte aveva pianto — da solo, in silenzio, con la faccia nel cuscino. Non per sé stesso. Per Lin, una donna che non conosceva e non avrebbe mai conosciuto. Per Paolo, un nome su un documento. Per un amore che era esistito abbastanza a lungo da crearlo, e poi era stato cancellato.
+James non aveva risposto. Non c'era niente da dire. Quella notte aveva pianto, da solo, in silenzio, con la faccia nel cuscino. Non per se stesso. Per Lin, una donna che non conosceva e non avrebbe mai conosciuto. Per Paolo, un nome su un documento. Per un amore che era esistito abbastanza a lungo da crearlo, e poi era stato cancellato.
 
 Da quel giorno, James aveva smesso di piangere. Aveva smesso di chiedere. Aveva smesso di cercare risposte.
 
-Ma non aveva mai smesso di sentire quel vuoto dentro — quella domanda senza risposta che gli bruciava in fondo al petto ogni volta che vedeva Luca e Marco tenersi per mano, amarsi apertamente, senza paura.
+Ma non aveva mai smesso di sentire quel vuoto dentro: quella domanda senza risposta che gli bruciava in fondo al petto ogni volta che vedeva Luca e Marco tenersi per mano, amarsi apertamente, senza paura.
 
 Loro potevano. Lin e Paolo no.
 
@@ -178,7 +178,7 @@ Ma oggi aveva visto una ragazza ridere, e qualcosa si era riaperto.
 
 Chiuse gli occhi e cercò di dormire, ma vedeva solo lei. La curva del suo collo. Il movimento delle sue labbra quando rideva. La luce nei suoi occhi quando aveva risposto al professore.
 
-Di solito i suoi sogni erano pieni di slogan. SomniLearn, lo chiamavano—educazione notturna, per rinforzare i valori corretti.
+Di solito i suoi sogni erano pieni di slogan. SomniLearn, lo chiamavano: educazione notturna, per rinforzare i valori corretti.
 
 Ma stanotte i sogni erano diversi.
 
@@ -200,7 +200,7 @@ Voleva solo rivederla ridere.
 
 Il giorno dopo, James arrivò a scuola mezz'ora prima. Si sedette al suo posto abituale e attese.
 
-Quando lei entrò—capelli leggermente bagnati, forse aveva fatto la doccia prima di uscire—James stava guardando il suo tablet, fingendo di leggere. Non alzò gli occhi.
+Quando lei entrò, capelli leggermente bagnati, forse aveva fatto la doccia prima di uscire, James stava guardando il suo tablet, fingendo di leggere. Non alzò gli occhi.
 
 Ma sapeva esattamente dove lei si era seduta. Sapeva esattamente come aveva appoggiato la borsa.
 

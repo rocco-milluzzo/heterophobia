@@ -79,8 +79,8 @@
 ### Alice Valeri Ferrante
 
 **Dati base:**
-- Nata: 2107 (illegale, non registrata, nelle Zone Abbandonate)
-- Età nel presente narrativo: 15 anni quando viene separata dai genitori (2122), poi adulta quando narra (~2132)
+- Nata: fine 2106 (illegale, non registrata, nelle Zone Abbandonate)
+- Età nel presente narrativo: 15 anni quando viene separata dai genitori (inizio 2122), poi adulta quando narra (~2132)
 - Aspetto: Mix dei genitori - occhi scuri del padre, movimenti nervosi della madre
 - Status: Sconosciuto (il mistero centrale)
 
@@ -145,7 +145,7 @@
 - Ricorda il mondo "prima"
 - Unica che parla apertamente con Kate della "vecchia normalità"
 - Funzione: Flashback sull'Era della Fusione, nostalgia come resistenza
-- Vide sua figlia Elena deportata senza fare nulla — il suo più grande rimpianto
+- Vide sua figlia Elena deportata senza fare nulla: il suo più grande rimpianto
 
 **Nonno Enzio** (nonno paterno di James)
 - Nato nel 2028, durante il crollo della Crisi
@@ -201,7 +201,7 @@ GENERAZIONE NONNI (nati ~2030-2040)
 │                        Kate (2080)
 │                                  ╲
 │                                   ╲
-│                                    Alice (2107)
+│                                    Alice (2106)
 │                                   ╱
 │                                  ╱
 └── Enzio ─── Luca + Marco Valeri (adottivi)

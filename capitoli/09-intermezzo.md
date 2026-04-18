@@ -20,7 +20,7 @@ Erano Ultimi.
 
 ---
 
-Gli Ultimi. L'ultima generazione. I bambini nati subito dopo il Divieto, quando il mondo aveva già deciso che non ce ne sarebbero stati altri. Concepiti prima che la legge entrasse in vigore, partoriti quando era già troppo tardi per fermarli. Marchiati fin dalla nascita come residui di un'era barbara—*dinosauri*, li chiamava la propaganda. Figli di un mondo malato che aveva finalmente trovato la cura.
+Gli Ultimi. L'ultima generazione. I bambini nati subito dopo il Divieto, quando il mondo aveva già deciso che non ce ne sarebbero stati altri. Concepiti prima che la legge entrasse in vigore, partoriti quando era già troppo tardi per fermarli. Marchiati fin dalla nascita come residui di un'era barbara. *Dinosauri*, li chiamava la propaganda. Figli di un mondo malato che aveva finalmente trovato la cura.
 
 Cresciuti sapendo di essere tra gli ultimi della loro specie, se così si può dire. Tra gli ultimi a nascere come si nasceva una volta, da un corpo, non da una macchina. Gli ultimi a cui qualcuno avesse detto "figlio" intendendo un legame di sangue, di carne, di verità.
 
@@ -40,23 +40,23 @@ Studiare la loro storia è stato come disseppellire una tomba. Ogni documento er
 
 Alcune cose le ho trovate negli archivi. James lavorava lì, prima. Aveva accesso a documenti che non avrebbe dovuto avere, e ne ha conservati alcuni. Lettere d'amore dell'era pre-Divieto. Poesie. Storie. Tutto il materiale proibito che raccontava di un mondo dove uomini e donne potevano amarsi alla luce del sole.
 
-Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggior parte sono conformi, non vogliono parlare. Ricordare è pericoloso. Ma alcuni si sono aperti. Hanno raccontato frammenti, dettagli. Come lei cantava quando pensava che nessuno la sentisse — una ninna nanna, sempre la stessa, che ancora adesso mi ritrovo a canticchiare senza sapere dove l'ho imparata. Come lui sorrideva raramente, ma quando lo faceva era come vedere il sole dopo mesi di pioggia.
+Altre cose le ho sapute dalle persone che li conoscevano. Pochi, ormai. La maggior parte sono conformi, non vogliono parlare. Ricordare è pericoloso. Ma alcuni si sono aperti. Hanno raccontato frammenti, dettagli. Come lei cantava quando pensava che nessuno la sentisse: una ninna nanna, sempre la stessa, che ancora adesso mi ritrovo a canticchiare senza sapere dove l'ho imparata. Come lui sorrideva raramente, ma quando lo faceva era come vedere il sole dopo mesi di pioggia.
 
 ---
 
 L'amore, nel mondo di Kate e James, non era romantico. Era qualcosa di più antico, più profondo. Una forza sotterranea che spostava continenti, che faceva tremare la terra.
 
-È questa la cosa che mi terrorizza di più, quando studio quei tempi. Non la brutalità del Sistema—quella è facile da condannare. È la normalità con cui tutto è avvenuto.
+È questa la cosa che mi terrorizza di più, quando studio quei tempi. Non la brutalità del Sistema: quella è facile da condannare. È la normalità con cui tutto è avvenuto.
 
 Nessuno si considerava un mostro. Nessuno pensava di stare dalla parte sbagliata.
 
-È questo che mi tiene sveglia la notte. Non i carnefici. I carnefici sono pochi. Sono tutti gli altri—quelli che guardano, che annuiscono, che pensano *non mi riguarda*—a rendere possibile l'orrore.
+È questo che mi tiene sveglia la notte. Non i carnefici. I carnefici sono pochi. Sono tutti gli altri, quelli che guardano, che annuiscono, che pensano *non mi riguarda*, a rendere possibile l'orrore.
 
 Kate e James no. I loro corpi dicevano una cosa e il mondo ne diceva un'altra, e non riuscirono a dare retta al mondo.
 
 ---
 
-Ho deciso di scrivere questa storia perché qualcuno deve farlo. Perché tra cento anni, mille, quando saremo tutti immortali e sterili e perfetti, qualcuno dovrà sapere che una volta l'amore poteva essere proibito. Non l'amore che conosciamo oggi — asettico, regolamentato, sicuro. Ma l'amore clandestino. Quello che rischi di perdere. Quello che ti costa tutto. Quello per cui vale la pena morire — non perché sia migliore, ma perché qualcuno ha deciso che non doveva esistere.
+Ho deciso di scrivere questa storia perché qualcuno deve farlo. Perché tra cento anni, mille, quando saremo tutti immortali e sterili e perfetti, qualcuno dovrà sapere che una volta l'amore poteva essere proibito. Non l'amore che conosciamo oggi, asettico, regolamentato, sicuro. Ma l'amore clandestino. Quello che rischi di perdere. Quello che ti costa tutto. Quello per cui vale la pena morire, non perché sia migliore, ma perché qualcuno ha deciso che non doveva esistere.
 
 Kate e James lo sapevano.
 
@@ -72,7 +72,7 @@ Ma in mezzo a tutto quel rumore, una voce.
 
 La calligrafia era stretta, inclinata verso destra. Inchiostro vero su carta vera, non una stampa, non un ologramma. Qualcuno aveva scritto quelle parole a mano, tracciando ogni lettera come se il gesto stesso fosse una preghiera.
 
-La data: 2115. L'anno in cui tutto finì.
+La data: 2115. Vent'anni dopo che si erano visti per la prima volta, sette anni prima che il Sistema li raggiungesse.
 
 Non era indirizzata a nessuno, non in modo esplicito. Ma era chiaramente scritta per lei. Per Kate.
 
@@ -129,7 +129,7 @@ In un mondo che aveva bandito l'amore.
 
 ---
 
-È da quella lettera che tutto è iniziato. Ho cercato altre tracce, altri frammenti. Ho ricostruito le loro vite pezzo per pezzo, anno per anno. Ho parlato con chi li conosceva. Ho letto i rapporti ufficiali, quelli che li descrivevano come "soggetti devianti", "casi patologici", "minacce alla stabilità sociale".
+È da quella lettera che tutto è iniziato. Ho cercato altre tracce, altri frammenti, ricostruendo le loro vite pezzo per pezzo, anno per anno. Ho parlato con chi li conosceva, letto i rapporti ufficiali, quelli che li descrivevano come "soggetti devianti", "casi patologici", "minacce alla stabilità sociale".
 
 E ho trovato qualcosa di diverso.
 
@@ -155,10 +155,6 @@ Vero.
 
 C'è un'ultima cosa che devo dire, prima di cominciare.
 
-Non so chi sono. Non nel senso filosofico—so il mio nome, la mia storia, il mio ruolo. Ma c'è un vuoto, dentro di me. Un'assenza che non riesco a spiegare. E ogni volta che leggo le parole di James e Kate, quel vuoto brucia.
+Non so chi sono. Non nel senso filosofico: so il mio nome, la mia storia, il mio ruolo. Ma c'è un vuoto, dentro di me. Un'assenza che non riesco a spiegare. E ogni volta che leggo le parole di James e Kate, quel vuoto brucia.
 
-Come se stessi leggendo la mia stessa storia.
-
-Come se l'avessi dimenticata.
-
-Come se qualcuno me l'avesse fatta dimenticare.
+Come se stessi leggendo la mia stessa storia. Una storia che ho dimenticato. Una storia che qualcuno, forse, mi ha fatto dimenticare.
